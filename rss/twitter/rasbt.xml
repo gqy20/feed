@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rasbt · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>rasbt · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/rasbt.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2026 22:13:29 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>@rasbt：Also kudos to fireworks AI for admitting that they built on top of Kimi (I remember…</title>
+      <link>https://x.com/rasbt/status/2104333634329247985</link>
+      <guid isPermaLink="false">twitter:2104333634329247985</guid>
+      <pubDate>Sun, 27 Sep 2026 22:13:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Also kudos to fireworks AI for admitting that they built on top of Kimi (I remember the awkward Mistral 3 release)<br />https://t.co/mM8OaNjhVJ</p><p><a href="https://x.com/rasbt/status/2104333634329247985">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：A little Ember-1 tl;dr.</title>
+      <link>https://x.com/rasbt/status/2104326522354147793</link>
+      <guid isPermaLink="false">twitter:2104326522354147793</guid>
+      <pubDate>Sun, 27 Sep 2026 21:45:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A little Ember-1 tl;dr.<br /><br />Seems like a great model!<br /><br />(Was recently asked on a podcast, given $ xx million, what&apos;s the best way to develop a frontier LLM today? My recommendation was: start with an existing one and spend that budget on post-training. Great example here.) https://t.co/RjXWtqMxvK</p><img src="https://pbs.twimg.com/media/HTQRvZZWwAEXfS8.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2104326522354147793">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：And a link to the video on YouTube:</title>
+      <link>https://x.com/rasbt/status/2103839035596611977</link>
+      <guid isPermaLink="false">twitter:2103839035596611977</guid>
+      <pubDate>Sat, 26 Sep 2026 13:28:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>And a link to the video on YouTube:<br />https://t.co/rDDvPaABO6</p><p><a href="https://x.com/rasbt/status/2103839035596611977">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Reasoning from scratch, round number 5! This time, talking about log-probability sc…</title>
+      <link>https://x.com/rasbt/status/2103839032484442506</link>
+      <guid isPermaLink="false">twitter:2103839032484442506</guid>
+      <pubDate>Sat, 26 Sep 2026 13:28:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Reasoning from scratch, round number 5! This time, talking about log-probability scoring (also a great fundamental concept for loss functions like cross-entropy in pre-training and distillation) and self-refinement.<br /><br />00:00 Introduction and inference-time scaling recap<br />05:02 Loading the pretrained LLM<br />08:00 Comparing and scoring model answers<br />10:18 Building a rule-based scorer<br />17:53 Token probabilities and sequence likelihood<br />26:47 Computing token probabilities in PyTorch<br />30:12 Token indexing and shifted targets<br />37:27 Log probabilities and numerical stability<br />45:57 Scoring answers with average log probabilities<br />56:24 How self-refinement works<br />59:07 Generating critiques and revised answers<br />1:01:00 Implementing the self-refinement loop<br />1:05:57 MATH-500 evaluation results<br />1:07:35 Takeaways and next steps</p><img src="https://pbs.twimg.com/amplify_video_thumb/2103689144203399168/img/5o9Zw5fOlDwWn4tb.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2103839032484442506">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：RT @NoContextHumans: The golden era. https://t.co/wJwI50XsuJ</title>
+      <link>https://x.com/rasbt/status/2103675354216833136</link>
+      <guid isPermaLink="false">twitter:2103675354216833136</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @NoContextHumans: The golden era. https://t.co/wJwI50XsuJ</p><img src="https://pbs.twimg.com/media/HSslYlFWkAAnxze.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2103675354216833136">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：The main appeal of open-source agent harnesses isn&apos;t that they are free, but that w…</title>
+      <link>https://x.com/rasbt/status/2102771721086673116</link>
+      <guid isPermaLink="false">twitter:2102771721086673116</guid>
+      <pubDate>Wed, 23 Sep 2026 14:47:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The main appeal of open-source agent harnesses isn&apos;t that they are free, but that we can inspect what they are doing on our computers.</p><p><a href="https://x.com/rasbt/status/2102771721086673116">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：MiMo-V2.6 is &quot;simply&quot; the best (for now). Despite its simple architecture design it…</title>
+      <link>https://x.com/rasbt/status/2102394156731535413</link>
+      <guid isPermaLink="false">twitter:2102394156731535413</guid>
+      <pubDate>Tue, 22 Sep 2026 13:46:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>MiMo-V2.6 is &quot;simply&quot; the best (for now). Despite its simple architecture design it&apos;s currently No.1 in the open-weight benchmarks (weighted average).<br /><br />With &quot;simple,&quot; I mean a classic Grouped Query Attention (GQA) with Sliding Window Attention (SWA) at a tiny 128-token window size. <br /><br />So, that underlines one of the points I&apos;ve been trying to make in recent months: most of the progress still comes from the data and post-training recipe improvements. Fancy attention variants are just mostly efficiency tweaks.<br /><br />What are some of the training data improvements and recipe improvements? The MiMo team shared a pretty detailed technical report. Lots to carefully digest there, but in short, there are a few things that stood out:<br /><br />1. An increase in agent tasks; also training across different harnesses (the average DeepSWE pass@1 accuracy on held-out harnesses improved from approximately 50% -&gt; 66%).<br /><br />2. Better reward signals: they replaced a simple correctness verifier with an agentic grader that looks at the execution traces as well.<br /><br />3. Large RL batches (1,568 prompts × 16 rollouts = 25,088 trajectories) and 2.7–3.7 billion training tokens per update (unclear, though, what the predecessor used).</p><img src="https://pbs.twimg.com/media/HS00ESZXAAEusQE.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2102394156731535413">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：It’s easy to dismiss Jev it as “just a classifier”.</title>
+      <link>https://x.com/rasbt/status/2101672304358948992</link>
+      <guid isPermaLink="false">twitter:2101672304358948992</guid>
+      <pubDate>Sun, 20 Sep 2026 13:58:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>It’s easy to dismiss Jev it as “just a classifier”.<br /><br />But people (me included) who have been training encoder-style models for classification for many years know they were usually special-purpose and limited in some way.<br /><br />The breakthrough of Jev is that it generalizes well.<br /><br />And I’d say the secret sauce is probably more in the data than in the training algorithm. (Plus a nice API design on top of it.)</p><p><a href="https://x.com/rasbt/status/2101672304358948992">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：And a link to the video on YouTube: https://t.co/9Y5WCVELZ4</title>
+      <link>https://x.com/rasbt/status/2101315873977860446</link>
+      <guid isPermaLink="false">twitter:2101315873977860446</guid>
+      <pubDate>Sat, 19 Sep 2026 14:21:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>And a link to the video on YouTube: https://t.co/9Y5WCVELZ4</p><p><a href="https://x.com/rasbt/status/2101315873977860446">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Inference scaling part 1.</title>
+      <link>https://x.com/rasbt/status/2101313945835368684</link>
+      <guid isPermaLink="false">twitter:2101313945835368684</guid>
+      <pubDate>Sat, 19 Sep 2026 14:14:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Inference scaling part 1.<br />Starting with a modded text generation function (temperature scaling, top-p filtering, multinomial sampling) to generate diverse outputs for self-consistency and best-of-N (improving answer accuracy by&gt;2x)<br /><br />00:00 Introduction and recap<br />00:31 Training-time and inference-time scaling<br />07:52 What we&apos;ll implement<br />11:47 Notebook setup and model loading<br />17:43 Building a flexible text generation function<br />24:40 Chain-of-thought prompting<br />28:26 Sampling and output diversity<br />33:43 Next-token logits and greedy decoding<br />38:20 Temperature scaling step by step<br />42:46 Softmax and token probabilities<br />47:42 Multinomial sampling<br />54:51 Adding temperature sampling to text generation<br />59:31 Top-p filtering step by step<br />1:10:23 Adding top-p filtering to text generation<br />1:13:43 Sampling and LLM watermarking<br />1:16:01 Self-consistency and majority voting<br />1:20:36 Implementing self-consistency<br />1:29:02 MATH-500 results<br />1:35:01 Accuracy and compute tradeoffs<br />1:36:50 Next steps and self-refinement</p><img src="https://pbs.twimg.com/amplify_video_thumb/2101307925750857729/img/m0spJ0YvJzbT-3f_.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2101313945835368684">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Interesting new insights into the old AdamW vs Muon debate: Muon seems to do better…</title>
+      <link>https://x.com/rasbt/status/2101312413643473255</link>
+      <guid isPermaLink="false">twitter:2101312413643473255</guid>
+      <pubDate>Sat, 19 Sep 2026 14:08:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Interesting new insights into the old AdamW vs Muon debate: Muon seems to do better because it reduces memorization.</p><p><a href="https://x.com/rasbt/status/2101312413643473255">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Some food for thought when designing benchmarks...</title>
+      <link>https://x.com/rasbt/status/2099846949377585659</link>
+      <guid isPermaLink="false">twitter:2099846949377585659</guid>
+      <pubDate>Tue, 15 Sep 2026 13:05:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Some food for thought when designing benchmarks...<br /><br />So, here&apos;s a little computer-use (visual) comparison between GPT-5.6 Astra and Qwen3.8 Max.<br /><br />The task here was to recreate the image in the center using the Paint UI. <br /><br />Super interesting how the two different LLMs+Harnesses approached this totally differently by default.<br /><br />I.e., Astra tried to approach this by drawing and layering geometric shapes. Qwen approached this pixel by pixel. (Of course, the pixel-by-pixel result looks closer to the original, it&apos;s essentially a low-res version of that by nature.)<br /><br />So, the Qwen-generated image would surely score higher in the sense that it&apos;s closer to the original.<br /><br />But I wouldn’t conclude from this example that one LLM generalizes better than the other on other tasks. Also, I wouldn&apos;t say Qwen has better compute-use capabilities or better visual understanding than Astra.<br /><br />But it highlights an interesting point about how slippery benchmarks are when they only compare final results.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2099702058395865088/img/SajdqR_4Y5zq_h1D.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2099846949377585659">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Potentially also related to the pacing, since fewer releases = fewer expenses</title>
+      <link>https://x.com/rasbt/status/2099842037990236495</link>
+      <guid isPermaLink="false">twitter:2099842037990236495</guid>
+      <pubDate>Tue, 15 Sep 2026 12:45:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Potentially also related to the pacing, since fewer releases = fewer expenses</p><p><a href="https://x.com/rasbt/status/2099842037990236495">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Also, if mildly regulated, I think there&apos;s also a &quot;Sorry that this happened, but we…</title>
+      <link>https://x.com/rasbt/status/2099543908631884013</link>
+      <guid isPermaLink="false">twitter:2099543908631884013</guid>
+      <pubDate>Mon, 14 Sep 2026 17:00:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Also, if mildly regulated, I think there&apos;s also a &quot;Sorry that this happened, but we did everything right and followed the framework&quot; kind of incentive that makes this attractive to companies to deflect blame and cope with the anti AI sentiment.</p><p><a href="https://x.com/rasbt/status/2099543908631884013">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Since I had to discuss the &quot;pacing&quot; with a lot of people this weekend, here are my …</title>
+      <link>https://x.com/rasbt/status/2099489528994025951</link>
+      <guid isPermaLink="false">twitter:2099489528994025951</guid>
+      <pubDate>Mon, 14 Sep 2026 13:24:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Since I had to discuss the &quot;pacing&quot; with a lot of people this weekend, here are my two cents: I don&apos;t think pacing literally means that these companies will be &quot;slowing down&quot; training and development in any way.<br /><br />&quot;Pacing&quot; here means adding a framework for more checks.<br />We have seen some of that &quot;pacing&quot; already in recent months, when Mythos wasn&apos;t released as-is but instead a delayed, nerfed Fable variant was released.<br /><br />Or when Astra wasn&apos;t released right away / there is an existing Astra model that hasn&apos;t been released yet.<br /><br />These Mythos/Fable and Astra pacing decisions were ad hoc. If you are a company, you have to weigh the pros and cons of a delayed release in terms of keeping up with the competition, making money, pleasing shareholders, mitigating risks and harms, and so on.<br />I<br />f there is a formal framework that everyone has to abide by, that essentially relieves some of the pressure on a company to rush out its model just to take the top spot on the leaderboard, since it knows that the competition &quot;has to&quot; play by the same rules.<br /><br />Based on the discussions today, I think &quot;pacing&quot; primarily means just that, rather than a halt in training the models.<br /><br />TL;DR: Pacing != pacing development.</p><p><a href="https://x.com/rasbt/status/2099489528994025951">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：And the YouTube version: https://t.co/5aO1EzqjVB</title>
+      <link>https://x.com/rasbt/status/2099231453531734297</link>
+      <guid isPermaLink="false">twitter:2099231453531734297</guid>
+      <pubDate>Sun, 13 Sep 2026 20:19:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>And the YouTube version: https://t.co/5aO1EzqjVB</p><p><a href="https://x.com/rasbt/status/2099231453531734297">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Reasoning from scratch round 3: This time, I cover generating a verifier for...</title>
+      <link>https://x.com/rasbt/status/2099231450411290900</link>
+      <guid isPermaLink="false">twitter:2099231450411290900</guid>
+      <pubDate>Sun, 13 Sep 2026 20:19:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Reasoning from scratch round 3: This time, I cover generating a verifier for...<br /><br />a) ...evaluation (base model versus any future model improvement)<br />b) ...the reinforcement learning with verifiable rewards (RLVR) training later on<br /><br />00:00 Introduction<br />01:21 Four approaches to LLM evaluation<br />07:20 Verifiers and reinforcement learning with verifiable rewards<br />10:52 Notebook setup and dependencies<br />13:43 Section 3.1 Building a math verifier<br />18:57 Section 3.2 Loading a pre-trained model to generate text<br />24:34 Generating and displaying model answers<br />29:23 Section 3.3 Implementing a wrapper for easier text generation<br />34:00 Section 3.4 Extracting the final answer box<br />37:29 Handling answers without boxes<br />43:17 Section 3.5 Normalizing the extracted answer<br />46:56 Section 3.6 Verifying mathematical equivalence<br />53:32 Implementing the equality check<br />57:48 Section 3.7 Grading answers<br />59:20 Building and testing the answer grader<br />1:03:18 Section 3.8 Loading the evaluation dataset (MATH-500)<br />1:07:51 Section 3.9 Evaluating the model<br />1:08:34 Prompt templates for evaluation<br />1:10:47 Prompt sensitivity and memorization<br />1:13:55 A minimal evaluation example<br />1:15:32 Building the evaluation loop<br />1:20:27 Comparing CPU, MPS, and CUDA results<br />1:21:54 Reproducibility and floating-point math<br />1:23:37 Base model vs. reasoning model<br />1:25:30 Summary and next steps</p><img src="https://pbs.twimg.com/amplify_video_thumb/2099200754993295360/img/O9TgrxbUCayWoZzj.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2099231450411290900">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：I know, sorry, but it&apos;s hard to resist https://t.co/BPiwraXscP</title>
+      <link>https://x.com/rasbt/status/2098250553650274432</link>
+      <guid isPermaLink="false">twitter:2098250553650274432</guid>
+      <pubDate>Fri, 11 Sep 2026 03:21:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>I know, sorry, but it&apos;s hard to resist https://t.co/BPiwraXscP</p><img src="https://pbs.twimg.com/media/HR57tNLaYAAi552.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2098250553650274432">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Big overhaul on DeepSeek V4.1 using an encoder-decoder setup.</title>
+      <link>https://x.com/rasbt/status/2098142625819672603</link>
+      <guid isPermaLink="false">twitter:2098142625819672603</guid>
+      <pubDate>Thu, 10 Sep 2026 20:12:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Big overhaul on DeepSeek V4.1 using an encoder-decoder setup.<br />Tbh they should have called it DeepSeek V5!<br />Super cool and refreshing, though! https://t.co/r00s3Cl29m</p><img src="https://pbs.twimg.com/media/HR4Zh3zWAAkz9QF.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2098142625819672603">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Nice showcase that interesting LLM work can be done on single GPU!</title>
+      <link>https://x.com/rasbt/status/2098129926708707824</link>
+      <guid isPermaLink="false">twitter:2098129926708707824</guid>
+      <pubDate>Thu, 10 Sep 2026 19:22:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Nice showcase that interesting LLM work can be done on single GPU!</p><p><a href="https://x.com/rasbt/status/2098129926708707824">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Here&apos;s a link to the article: https://t.co/bz9kw9UqUR</title>
+      <link>https://x.com/rasbt/status/2097677953450561596</link>
+      <guid isPermaLink="false">twitter:2097677953450561596</guid>
+      <pubDate>Wed, 09 Sep 2026 13:26:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Here&apos;s a link to the article: https://t.co/bz9kw9UqUR</p><p><a href="https://x.com/rasbt/status/2097677953450561596">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：I put together a mega write-up on GPT-6 Astra &amp;amp; looped transformers.</title>
+      <link>https://x.com/rasbt/status/2097677950262939931</link>
+      <guid isPermaLink="false">twitter:2097677950262939931</guid>
+      <pubDate>Wed, 09 Sep 2026 13:26:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>I put together a mega write-up on GPT-6 Astra &amp;amp; looped transformers.<br /><br />How looped transformers / recurrent depth works, cost-tradeoffs, whether it hides reasoning traces, with lots of figures and a tour of recent looped transformer research. https://t.co/VR6HaPFVXH</p><img src="https://pbs.twimg.com/media/HRxy5MpbAAAPB_H.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2097677950262939931">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Btw I don&apos;t mean to imply that this is necessarily related or cause for said incide…</title>
+      <link>https://x.com/rasbt/status/2097320941818618171</link>
+      <guid isPermaLink="false">twitter:2097320941818618171</guid>
+      <pubDate>Tue, 08 Sep 2026 13:47:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Btw I don&apos;t mean to imply that this is necessarily related or cause for said incident. <br />Just a general reminder for a general data privacy hygiene.</p><p><a href="https://x.com/rasbt/status/2097320941818618171">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Re today&apos;s incident, maybe not a bad idea to check your settings (Settings → Data C…</title>
+      <link>https://x.com/rasbt/status/2097319324721557964</link>
+      <guid isPermaLink="false">twitter:2097319324721557964</guid>
+      <pubDate>Tue, 08 Sep 2026 13:41:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Re today&apos;s incident, maybe not a bad idea to check your settings (Settings → Data Controls) https://t.co/QHLPaJWoCZ</p><img src="https://pbs.twimg.com/media/HRssmb0WQAAeo0W.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2097319324721557964">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：And here&apos;s the YouTube version: https://t.co/B3TSPHY9E7</title>
+      <link>https://x.com/rasbt/status/2096596377845346381</link>
+      <guid isPermaLink="false">twitter:2096596377845346381</guid>
+      <pubDate>Sun, 06 Sep 2026 13:48:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>And here&apos;s the YouTube version: https://t.co/B3TSPHY9E7</p><p><a href="https://x.com/rasbt/status/2096596377845346381">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Reasoning from scratch round 2: In this video, I cover the text generation process …</title>
+      <link>https://x.com/rasbt/status/2096596372661113294</link>
+      <guid isPermaLink="false">twitter:2096596372661113294</guid>
+      <pubDate>Sun, 06 Sep 2026 13:48:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Reasoning from scratch round 2: In this video, I cover the text generation process in LLMs and KV caching (to prepare the base model before adding reasoning techniques in the upcoming ones).<br /><br />00:00 Introduction and reasoning model demo<br />01:55 How to work through the book<br />05:00 Chapter 2 overview<br />08:25 Checking PyTorch and hardware support<br />10:26 Apple silicon and MPS caveats<br />15:00 Cloud GPU options<br />16:08 Tokens and tokenization<br />18:20 Qwen3 and the Reasoning From Scratch package<br />23:05 Encoding and decoding text<br />26:24 Downloading weights and selecting a device<br />31:01 Loading the pretrained Qwen3 model<br />34:32 How LLMs generate text<br />36:47 Input tensors and batch dimensions<br />41:48 Running the model in inference mode<br />44:11 Logits and next-token predictions<br />49:21 Greedy decoding with argmax<br />52:28 Building a streaming text generator<br />01:01:28 Generating text and handling end-of-sequence tokens<br />01:06:00 Benchmarking text generation<br />01:14:34 How KV caching works<br />01:17:22 Adding KV caching and measuring the speedup<br />01:24:31 Model compilation with torch.compile<br />01:30:33 Combining compilation with KV caching<br />01:32:53 Comparing CPU and GPU performance<br />01:35:32 Recap and next steps</p><img src="https://pbs.twimg.com/amplify_video_thumb/2096588814533718021/img/S1JnzwK7JwONs9R2.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2096596372661113294">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Maybe the best tl;dr here is:</title>
+      <link>https://x.com/rasbt/status/2095871852711153742</link>
+      <guid isPermaLink="false">twitter:2095871852711153742</guid>
+      <pubDate>Fri, 04 Sep 2026 13:49:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Maybe the best tl;dr here is:<br /><br />The looped aspect is not explicitly hiding reasoning tokens.<br /><br />Sure, GPT 6 Astra uses fewer tokens than GPT 5.6 Sol. But that&apos;s because it&apos;s a smarter model in general (more training, bigger, etc). <br /><br />We can observe the same thing in previous generations:<br />If we compare GPT 5.6 Sol with GPT 5.6 Luna, Sol uses ~46% fewer output tokens in the intelligence index but no one is complaining the Sol hides the reasoning more than Luna.</p><p><a href="https://x.com/rasbt/status/2095871852711153742">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：The YT version of this:</title>
+      <link>https://x.com/rasbt/status/2095288516309569644</link>
+      <guid isPermaLink="false">twitter:2095288516309569644</guid>
+      <pubDate>Wed, 02 Sep 2026 23:11:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The YT version of this:<br />https://t.co/VRL5dPMTk5</p><p><a href="https://x.com/rasbt/status/2095288516309569644">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：A lot of hype around OpenAI&apos;s Astra model here on my timeline today. Apparently, th…</title>
+      <link>https://x.com/rasbt/status/2095141254958858496</link>
+      <guid isPermaLink="false">twitter:2095141254958858496</guid>
+      <pubDate>Wed, 02 Sep 2026 13:26:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A lot of hype around OpenAI&apos;s Astra model here on my timeline today. Apparently, this goes back to a new article from The Information, which said Astra is a &quot;recurrent depth or looped transformer&quot;. <br /><br />It&apos;s always interesting to read about new or different approaches (including rumors about what the closed labs may be up to), but let&apos;s debunk this a bit.<br /><br />About 2 months ago, I shared the architecture details of Nanbeige, for example, where &quot;Nanbeige4.2-3B is pretrained from scratch on 28T tokens with a Looped Transformer that reuses the layer stack to increase capacity without adding parameters.&quot;<br /> <br />Yes, that&apos;s it. The looped transformer idea is just reusing layers in the transformer block.<br /><br />In the case of Nanbeige, the main idea is to reuse the same 22-layer stack (=transformer block) twice instead of once. So, effectively it extends the 22-layer architecture to 44 layers, but without duplicating the weights. <br /><br />In simple terms, this roughly doubles the size of the model (if we ignore the embedding and output layers for a second). But instead of requiring 2x the storage and RAM to host this model, it stays at the same size since we reuse the components. However, it&apos;s almost 2x as expensive in terms of compute, because we run the embedded text through almost 2x as many layers.<br /><br />Why? In the Nanbeige 4.2 technical report, the researchers found that two passes gave the best trade-off and retained about 75% of the token efficiency of a standard architecture. (More passes gave barely any gains but made the training much slower and much more expensive.)<br /><br />While, as far as I know, Nanbeige 4.2 is the first notable open-weight model that adopted this approach, the idea goes back to the NeurIPS paper &quot;Mixture-of-recursions: Learning dynamic recursive depths for adaptive token-level computation&quot;. Actually, this paper proposes a mechanism that is a bit more sophisticated by adding a learned router that determines whether each token receives one, two, or more passes. So, easy tokens can exit early while harder tokens receive additional computation.<br /><br />In sum, Astra may be a really good model, but this shouldn&apos;t be about this &quot;looped transformer aspect,&quot; which is just a tiny architectural tweak.<br /><br />Also, the statement &quot;the new technique works in a way that obscures some or all of the AI&apos;s reasoning, otherwise known as &apos;chain-of-thought&apos;&quot; is not necessarily true with respect to the looped transformer method. It&apos;s possible that The Information journalist refers to some other technique or misunderstood the looped transformer method.<br /><br />Reusing layers does not by itself suppress visible chain of thought. It adds computation in hidden states before the next token is emitted, just as ordinary transformer layers do.<br /><br />But based on the information we have, the only plausible interpretation here is that if a model uses more of these recurrent passes, it may need to generate fewer intermediate reasoning tokens. So then more of its computation happens in latent activations that cannot be read as text. But we would get the same effect if we were scaling up the model size, like GPT 5.6 Luna -&gt; GPT 5.6 Sol.</p><img src="https://pbs.twimg.com/media/HRNvr50WIAYZml4.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2095141254958858496">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：And a link to the youtube version: https://t.co/DmfoqXx6J6</title>
+      <link>https://x.com/rasbt/status/2094058368755290516</link>
+      <guid isPermaLink="false">twitter:2094058368755290516</guid>
+      <pubDate>Sun, 30 Aug 2026 13:43:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>And a link to the youtube version: https://t.co/DmfoqXx6J6</p><p><a href="https://x.com/rasbt/status/2094058368755290516">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：A little video that</title>
+      <link>https://x.com/rasbt/status/2094057793506439492</link>
+      <guid isPermaLink="false">twitter:2094057793506439492</guid>
+      <pubDate>Sun, 30 Aug 2026 13:40:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A little video that <br />- explains the relationship between conventional LLMs and reasoning models (and agents),<br />- philosophizes a about &quot;from scratch&quot; approaches, <br />- and explains how to install Python &amp;amp; PyTorch requirements with uv. https://t.co/ahZHoyPa0Q</p><img src="https://pbs.twimg.com/amplify_video_thumb/2093758866445983744/img/JVPLSI8lAdKIiDmw.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2094057793506439492">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：And if you can&apos;t make it at 10 am, here is the second Q&amp;amp;A, hosted by Sage Ellio…</title>
+      <link>https://x.com/rasbt/status/2093747982470459720</link>
+      <guid isPermaLink="false">twitter:2093747982470459720</guid>
+      <pubDate>Sat, 29 Aug 2026 17:09:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>And if you can&apos;t make it at 10 am, here is the second Q&amp;amp;A, hosted by Sage Elliott’s AI Book Club at 2 pm CT.<br />Model (From Scratch):<br />https://t.co/HdUvkpf6OB</p><p><a href="https://x.com/rasbt/status/2093747982470459720">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Thanks everyone for all the nice feedback on Build a Reasoning Model (From Scratch)…</title>
+      <link>https://x.com/rasbt/status/2093747980490637502</link>
+      <guid isPermaLink="false">twitter:2093747980490637502</guid>
+      <pubDate>Sat, 29 Aug 2026 17:09:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Thanks everyone for all the nice feedback on Build a Reasoning Model (From Scratch) so far!<br /><br />I am also flattered that 2 book clubs are discussing it. <br />I look forward to join for live Q&amp;amp;As on Thu, Sep 3, at 10 am (and 2 pm CT). <br /><br />Please join us &amp;amp; bring your questions!</p><p><a href="https://x.com/rasbt/status/2093747980490637502">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Now we know: The popular Ox Alpha LLM was GLM-5.3-Flash...</title>
+      <link>https://x.com/rasbt/status/2092629415813365899</link>
+      <guid isPermaLink="false">twitter:2092629415813365899</guid>
+      <pubDate>Wed, 26 Aug 2026 15:05:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Now we know: The popular Ox Alpha LLM was GLM-5.3-Flash...<br /><br />Compared to GLM-5.2, this new GLM-5.3-Flash model uses:<br /><br />- a Kimi Linear-style 3:1 (super*) hybrid attention pattern with 34 Kimi Delta Attention layers (KDA) and 11 Multi-heat Latent Attention (MLA) / DeepSeek Sparse Attention (DSA) layers;<br />- a scaled-down GLM-5.2-style sparse MoE backbone, going from 744B-A40B to 320B-A18B;<br />- a DeepSeek V4-style mHC residual path with four parallel streams;<br />- plus a native vision encoder (not shown).<br /><br />* &quot;Super hybrid&quot; because both KDA and MLA/DSA are &quot;efficient&quot; components. E.g., Kimi only uses KDA + full attention GQA, DeepSeek V3.2 uses DSA + full attention MLA.<br /><br />PS: Sry for the excessive tech jargon. Explainers on all these components (MLA, DSA, KDA, mhC, etc.) in my LLM Architecture Gallery<br /><br />PPS: Haha, maybe justification for getting that pricey Mac Studio M5 Ultra 256 GB / 512 GB to run this locally...</p><img src="https://pbs.twimg.com/media/HQqC3Y7WwAAL92J.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2092629415813365899">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Here&apos;s a link to the video + slides + transcript: https://t.co/nWpIrEb21O</title>
+      <link>https://x.com/rasbt/status/2091153701155029117</link>
+      <guid isPermaLink="false">twitter:2091153701155029117</guid>
+      <pubDate>Sat, 22 Aug 2026 13:21:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Here&apos;s a link to the video + slides + transcript: https://t.co/nWpIrEb21O</p><p><a href="https://x.com/rasbt/status/2091153701155029117">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：A couple of days ago, I did a quick explainer on Claude’s new watermarking process …</title>
+      <link>https://x.com/rasbt/status/2091153697766047896</link>
+      <guid isPermaLink="false">twitter:2091153697766047896</guid>
+      <pubDate>Sat, 22 Aug 2026 13:21:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A couple of days ago, I did a quick explainer on Claude’s new watermarking process and implementation. Since it’s such a popular topic and sparked such a lively discussion, I thought it might be interesting to go into a bit more detail when explaining how it works.<br /><br />So, instead of the usual text article, I recorded a little lecture on the topic (to change it up a bit from my usual articles). <br /><br />It ended up a bit longer than intended, but I hope it clarifies a lot of things:<br /><br />- Sampling the next token in an LLM and pseudorandom number generators<br />- How watermarking relates to the regular LLM sampling process<br />- Whether watermarking makes text &quot;worse&quot;<br />- How to remove watermarks<br />- Tournament sampling<br />- How new text is checked for watermarks without rerunning the LLM<br /><br />I ended up with ~50 slides, but I hope that these explain it well, though! Happy watching!</p><img src="https://pbs.twimg.com/media/HQVFCBqXkAAthsd.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2091153697766047896">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Nice case study on using optimized functions whenever possible (except for educatio…</title>
+      <link>https://x.com/rasbt/status/2090254955676414087</link>
+      <guid isPermaLink="false">twitter:2090254955676414087</guid>
+      <pubDate>Thu, 20 Aug 2026 01:49:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Nice case study on using optimized functions whenever possible (except for educational purposes, though 😆)</p><p><a href="https://x.com/rasbt/status/2090254955676414087">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：Clarification here. Somewhere in the comments, I agreed that one might have to reru…</title>
+      <link>https://x.com/rasbt/status/2089527404138033497</link>
+      <guid isPermaLink="false">twitter:2089527404138033497</guid>
+      <pubDate>Tue, 18 Aug 2026 01:38:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Clarification here. Somewhere in the comments, I agreed that one might have to rerun the LLM for checking for watermarks. That&apos;s not correct.<br /><br />I am not 100% which exact technique they use, but they mentioned that they base their method on the SynthID-Text method from https://t.co/1YdFP3vnNQ<br /><br />So, in that method, they have so-called watermarking functions that give 1’s for certain terms and 0’s for others, and then they do a tournament-style selection. <br /><br />Those that survive have a lot of 1’s, i.e., are high-scoring.<br />So, to later check if a text is watermarked, they basically just have to (re)apply the watermarking functions to some text and if it’s above a score threshold (which you reach if you have a lot of those watermark-words that score highly), then the text is likely watermarked.<br /><br />I.e., you don’t need to rerun the LLM to check, just the “cheap” watermark functions (it’s kind of like hashing).</p><img src="https://pbs.twimg.com/media/HP9932kXQAAbjQz.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2089527404138033497">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：I am curious, when will they start doing sth like that for code?</title>
+      <link>https://x.com/rasbt/status/2088655931856888268</link>
+      <guid isPermaLink="false">twitter:2088655931856888268</guid>
+      <pubDate>Sat, 15 Aug 2026 15:55:54 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>I am curious, when will they start doing sth like that for code?</p><p><a href="https://x.com/rasbt/status/2088655931856888268">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@rasbt：A short illustration of how the Claude&apos;s watermarking is supposed to work (based on…</title>
+      <link>https://x.com/rasbt/status/2088631263737364818</link>
+      <guid isPermaLink="false">twitter:2088631263737364818</guid>
+      <pubDate>Sat, 15 Aug 2026 14:17:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A short illustration of how the Claude&apos;s watermarking is supposed to work (based on my read of their released materials).<br /><br />In general, when we are generating tokens, there can be multiple high-scoring tokens at certain next-word positions. Usually, we sample with top-k or top-p sampling so the highest-scoring token is most often selected (if we repeat the sampling many times), but other tokens may be selected as well.<br /><br />With watermarking, there is a key that says which of the (ideally equally) highest-scoring tokens to select. Or, more concretely, the secret key and previous token influence the randomness here.<br /><br />Now, if we repeat this at many token positions, this creates the watermark as it will be a pattern that is statistically unlikely to get otherwise (due to combinatorics).<br /><br />One thing I am confused about: They basically say that they HAVE to do this for everyone due to EU regulation. Why?<br /><br />Sure, but this is an inference-time technique that doesn&apos;t require retraining or training a separate model, so, if they wanted, they could only do that for EU users? 🤔</p><img src="https://pbs.twimg.com/media/HPxPB8wW0AEc5mK.jpg" loading="lazy" /><p><a href="https://x.com/rasbt/status/2088631263737364818">原文</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

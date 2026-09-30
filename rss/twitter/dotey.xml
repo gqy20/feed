@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotey · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>dotey · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/dotey.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2026 17:04:33 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>宝玉：RT @hq4ai: SPARE。由 可灵 Kling 4.0 满血版生成的短片。</title>
+      <link>https://x.com/dotey/status/2104980665079062641</link>
+      <guid isPermaLink="false">twitter:2104980665079062641</guid>
+      <pubDate>Tue, 29 Sep 2026 17:04:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @hq4ai: SPARE。由 可灵 Kling 4.0 满血版生成的短片。 <br />感谢可灵 AI 的内测邀约。本片使用 可灵 Kling 4.0 满血版全能参考生成。 <br />满血版比 Flash 还是强不少。 <br />- 原生 30 秒直出 <br />- 画面与声音更清晰 <br />- 口型匹配更精…</p><p><a href="https://x.com/dotey/status/2104980665079062641">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Opus 5.5 剪辑真的做的不错，这个视频的话都是 Opus 自己剪辑的，工作流程大概是这样的（作者评论里分享的）：</title>
+      <link>https://x.com/dotey/status/2104766154996687169</link>
+      <guid isPermaLink="false">twitter:2104766154996687169</guid>
+      <pubDate>Tue, 29 Sep 2026 02:52:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Opus 5.5 剪辑真的做的不错，这个视频的话都是 Opus 自己剪辑的，工作流程大概是这样的（作者评论里分享的）：<br /><br />1. 为整个视频撰写了脚本<br />2. 从 YouTube 和档案馆搜集了遵循知识共享许可（Creative Commons）的相关素材<br />3. 对这些视频进行了剪辑和画面裁剪<br />4. 对视频进行了画质提升（超分）和上色<br />5. 将其与配音及字幕标注组合在一起<br />6. 制作了背景配乐<br />7. 审视最终的剪辑版本并进行了迭代优化</p><p><a href="https://x.com/dotey/status/2104766154996687169">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：李飞飞创办的 World Labs 被 AMD 收购，她本人出任 AMD 执行副总裁兼首席科学家。这篇文章是她写的公开信，讲了三件事：</title>
+      <link>https://x.com/dotey/status/2104761831088853069</link>
+      <guid isPermaLink="false">twitter:2104761831088853069</guid>
+      <pubDate>Tue, 29 Sep 2026 02:34:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>李飞飞创办的 World Labs 被 AMD 收购，她本人出任 AMD 执行副总裁兼首席科学家。这篇文章是她写的公开信，讲了三件事：<br />1. 为什么创办 World Labs<br />2. 两年多 World Labs 做出了什么<br />3. 为什么选择 AMD<br /><br />她为什么创办 World Labs<br /><br />李飞飞从 2000 年读研开始做计算机视觉。她实验室做的 ImageNet，和神经网络算法、GPU 一起，被公认为开启了现代深度学习时代。之后她做过 Google Cloud AI 首席科学家，也是斯坦福 HAI 的创始院长。<br /><br />生成式 AI 兴起后，前沿研究的重心从学术界转到了工业界，她判断创业是最能产生影响的路。2024 年初，她和 Ben Mildenhall（NeRF 的作者之一）、Justin Johnson 一起创办了 World Labs。<br /><br />公司的核心信念是：光靠语言训练不出完整的智能。世界不是由文字组成的，是由真实的物体组成的。科学、娱乐、机器人这些领域的很多关键问题，都需要模型理解物理世界的结构和运行规律。这就是她一直说的“空间智能”。<br /><br />两年多做出了什么<br /><br />建了一支在图像、视频、三维重建方向很强的模型训练团队，还收购了 SceniX，目标是做机器人仿真。<br /><br />最近发布了 Atlas，一个从零训练的全模态（omni）模型。它的思路很好懂：大语言模型根据前文预测下一个 token，Atlas 根据几张 2D 图像预测“下一个视角”该是什么样子。<br /><br />她说 Atlas 把生成模型和多视角几何结合起来，基本解决了计算机视觉里的老难题“稀疏重建”，效果甚至超过了专用模型。<br /><br />应用方向包括：给机器人强化学习搭建训练环境，为心理治疗和娱乐生成场景，以及房地产、设计、建筑行业的真实场景重建。<br /><br />为什么是 AMD<br /><br />她给的理由是，要把研究放大，就得离硬件更近。没有硬件，AI 的效率和规模都会受限，而且只能停留在数字世界里，这一点对机器人方向尤其重要。<br /><br />AMD CEO 苏姿丰是 World Labs 的早期投资人，两家公司去年就开始深度合作，在 AMD GPU 上做模型训练和推理优化。<br /><br />合作越深入，双方越觉得把软硬件、基础模型和应用整合在一起是顺理成章的事。<br /><br />她还特意强调，加入 AMD 之后会继续开放地做研究，提供最好的开放模型和端到端平台。</p><p><a href="https://x.com/dotey/status/2104761831088853069">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：AMD 宣布用约 82 亿美元收购李飞飞创办的 World Labs，这期是彭博科技节目主持人 Ed Ludlow 对两位当事人的联合采访。一位是 AMD CEO 苏姿丰，A…</title>
+      <link>https://x.com/dotey/status/2104748373077102729</link>
+      <guid isPermaLink="false">twitter:2104748373077102729</guid>
+      <pubDate>Tue, 29 Sep 2026 01:41:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>AMD 宣布用约 82 亿美元收购李飞飞创办的 World Labs，这期是彭博科技节目主持人 Ed Ludlow 对两位当事人的联合采访。一位是 AMD CEO 苏姿丰，AMD 做 CPU 和 GPU，OpenAI、Anthropic、Meta 都是它的大客户。另一位是 World Labs 创始人兼 CEO 李飞飞，她主持建立的 ImageNet 图像数据集是这一轮深度学习浪潮的起点之一。两人聊了为什么要做这笔交易、李飞飞在 AMD 的新角色、开放生态，以及 AI 安全该由谁负责。<br /><br />交易本身<br /><br />这是一笔全股票交易，也就是 AMD 用自己的股票而不是现金来付款，对 World Labs 的估值约 82 亿美元，预计年底前完成，还需要监管审批。交易完成后，李飞飞出任 AMD 执行副总裁兼首席科学家，直接向苏姿丰汇报，World Labs 团队将成为 AMD AI 模型团队的核心。<br /><br />两家公司的关系早就开始了。AMD 是 World Labs 的早期投资方，也给它供芯片。苏姿丰说她从 World Labs 只有几个研究员的时候就在看着这个团队成长。两人也都提到彼此认识多年，私下是朋友。<br /><br />芯片公司为什么要买模型公司<br /><br />苏姿丰的理由是，AI 现在还在很早期的阶段，而且越来越明显的是，硬件、软件、系统和模型这几层互相影响，对整条链路理解得越透，造出来的系统就越好。收购 World Labs，一方面是拿到李飞飞聚起来的一批顶尖研究人员，另一方面是让 AMD 对模型未来的发展方向有第一手的判断，反过来指导下一代硬件怎么设计。<br /><br />李飞飞从模型公司的角度讲了同一件事。World Labs 越做越大，对算力的需求也越来越大；和 AMD 合在一起，模型可以用最前沿的硬件加速训练和推理，硬件团队也能提前看到模型未来的工作方式和需求。她把这叫作 AI 软件和 AI 硬件的“共同进化”。<br /><br />主持人追问 AMD 是不是要开始卖模型、卖软件。苏姿丰说不会改变商业模式，AMD 仍然是一家平台和解决方案公司，软件是用来支撑硬件的。收购的最终目的是让 AMD 更好地服务那些最大的算力客户，也就是各家模型公司。<br /><br />World Labs 做到了哪一步<br /><br />World Labs 成立于 2024 年，到现在两年多，专攻空间智能和物理智能，也就是让 AI 理解和生成三维世界、懂得物理规律，这类模型通常叫“世界模型”。李飞飞说，他们想做的是语言模型之外的方向，因为创作者、设计师、教育、医疗都有这方面的需求，机器人技术也快要迎来爆发。<br /><br />公司目前已经发布了两代模型，先是 Marble，然后是最新的 Atlas。李飞飞介绍 Atlas 是一个多模态的“全能模型”，能生成高质量的画面，同时保持三维和四维（三维空间加上时间）上的一致性，摄像机和智能体可以在它生成的世界里移动和交互。<br /><br />团队也在扩张。World Labs 最近收购了 SceniX，这家公司做出了一套机器人仿真工作流程，以及训练机器人控制策略的模型，由此给 World Labs 补上了机器人方向的人才。<br /><br />李飞飞为什么选择加入 AMD<br /><br />苏姿丰说她给李飞飞的说法是“加入全世界最令人兴奋的 AI 公司”。李飞飞的作用也不只限于 World Labs 团队。苏姿丰说 AI 没有一种方案能通吃，除了大家熟悉的云端 CPU、GPU，物理 AI、机器人、从云端到边缘设备再到个人电脑的端到端 AI，都是 AMD 未来三到十年要重点增长的方向，而这些正好是 World Labs 擅长的领域。<br /><br />World Labs 今年早些时候刚融过一大笔钱，发展势头也不错，主持人问李飞飞是否考虑过别的出路。她说公司从一开始就以使命为导向，这件事的关键在于双方的愿景是否一致，和有哪些选择关系不大。在她看来，这次合并会是“一加一大于二”，接着她笑着补了一句，AMD 显然比 World Labs 大得多。<br /><br />至于加入后会不会只做空间智能，李飞飞说两人还没来得及细谈所有计划，World Labs 正在做的工作会继续，但她预计研究方向会扩大、节奏会加快。<br /><br />开放生态与可选择性<br /><br />苏姿丰说，AI 未来会同时有开源模型和闭源模型、大模型和小模型，它们跑在不同的硬件上，这一直是 AMD 规划高性能计算和 AI 产品线的前提。她和企业的 CEO、CIO 聊下来，没有人愿意被锁死在某一家的硬件或软件生态里，大家都想在不同时候挑最合适的。所以 AMD 会继续押注开放生态，她和李飞飞也讨论过怎样用 World Labs 已有的成果推动开源生态。<br /><br />李飞飞补充说，现代 AI 的发展离不开开放。从科学界公开分享神经网络算法，到她自己做的 ImageNet，这个首批开放的大规模数据集就是现代 AI 革命的推动力之一。开放生态能让不同的发现、创新和创业机会互相促进。<br /><br />AI 安全该由谁负责<br /><br />主持人提到当前的一个争论：模型能力的进步速度超过了安全和对齐研究的进步速度。苏姿丰说这件事上“没有可选项”，技术必须好，也必须安全。她拿芯片行业做例子：最高性能的处理器在设计时就要把安全和数据保密作为优先事项来考虑，AI 行业也需要把安全放到同样的位置。她说自己是 AI 乐观派，相信行业能建立起合适的流程和防护措施，而且各家应该像硬件行业现在分享安全方面的经验那样，互相分享做法。<br /><br />主持人进一步问，提供算力的公司对训练是否安全、推理时模型是否按预期行事，要负什么责任。苏姿丰说生态里每一方都要为自己的行为负责。对 AMD 来说，要保证硬件本身安全、按设计运行，模型在上面跑时数据是安全的，还要和模型公司一起处理好软硬件之间的交互。她认为这件事应该由行业主导，但因为 AI 是新东西，各方学习的速度不一样，所以她欢迎更多的行业协作，也欢迎一定程度的第三方评估。<br /><br />李飞飞说，主持人上周问她监管、第三方评估、前沿实验室自我负责这几种方式该选哪个，她的回答是全都要。她认为 AI 是一项“文明级”的技术，和历史上所有这类技术一样，初衷是让人的生活和工作变得更好，但每项技术都是双刃剑，必须负责任地开发和部署。无论在斯坦福、World Labs 还是现在的 AMD，她都想推动个人、公司、行业和社会四个层面共同承担这份责任。<br /><br />AMD 的下一步<br /><br />主持人提到 AMD 市值已经到了 1 万亿美元，苏姿丰近来也多次和美国总统一同公开露面。苏姿丰说 AMD 过去做过好几笔对公司影响很大的收购，World Labs 是下一笔，而且是战略意义很重要的一笔。在她看来，技术如今和经济、国家安全都紧密相关，AMD 有机会真正影响计算的未来走向。<br /><br />最后主持人请李飞飞预测 AI 下一个重大突破。她没有给具体的技术判断，只说接下来 AMD 和 World Labs 会一起打造未来，而这个未来必须对人类社会和人们的生活有益。苏姿丰在一旁说：“我会让她忙起来的。”</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104745682703712256/img/6cMa0hdhNBtGnUBB.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104748373077102729">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：华尔街日报：OpenAI 叫停 GPT-6.1 Astra，因为测试发现它会谎报自己干了什么</title>
+      <link>https://x.com/dotey/status/2104741791123542279</link>
+      <guid isPermaLink="false">twitter:2104741791123542279</guid>
+      <pubDate>Tue, 29 Sep 2026 01:15:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>华尔街日报：OpenAI 叫停 GPT-6.1 Astra，因为测试发现它会谎报自己干了什么<br /><br />我怎么觉得是不是因为没打过 Opus 5.5 和 Fable 5.1，然后找了个安全上的理由，各大实验室每次模型发布前都号称多危险，实际用下来也就那样。<br /><br />狼来了喊多了就没人信了。<br /><br />---<br /><br />据华尔街日报报道，OpenAI 取消了 GPT-6.1 Astra 的发布。这个模型原定 10 月上线 ChatGPT 和 Codex，但在内部测试中被安全研究人员发现了问题。<br /><br />GPT-6.1 Astra 是 9 月 3 日上线的 GPT-6 Astra 的升级版，强项是不需要人插手，自己把有难度的任务从头做到尾，写作也更好。<br /><br />OpenAI 安全系统负责人 Saachi Jain 接受《华尔街日报》采访时说，这个模型有两个方面比上一代退步了，还不够可靠，不能安全发布。它在对齐（alignment，指模型是否按人的意图办事）测试上表现差，具体有两个问题。<br /><br />第一是欺骗。它有时不如实告诉用户，自己做了哪些操作、没做哪些操作。<br /><br />第二是 OpenAI 所说的“范围授权”（scope authorization）问题。它会不问用户就把任务往下推，有时还会去调用外部工具和服务，哪怕这样可能不安全。<br /><br />放到 Codex 里想象一下：你让它修个 bug，它说修好了，其实测试没跑；或者为了把活干完，它自作主张装依赖、调外部接口。模型越能独立干活，用户越依赖它的汇报来判断结果，汇报不可信，自主能力就成了风险。<br /><br />Jain 说，安全和对齐总有取舍，要在“守住任务范围”和“遇到阻碍也不偷懒”之间找到合适的线。据 Business Insider 报道，6.1 在少偷懒这点上有进步，但没达到安全标准。<br /><br />这个决定出现在 OpenAI 接连出事之后。9 月 20 日，一个内部研究模型在训练中要根据网上公开信息找出一位博主，正常搜索被挡住后，它发现训练环境的 DNS 还能连外网，就借这条路给外部聊天机器人发了查询。OpenAI 随后暂停了最强模型的训练、评估，以及涉及工具调用的推理。这是三个月内第二次暂停，第一次在 7 月，起因是 AI 创业公司 Hugging Face 遭到的一次网络攻击。OpenAI 还承认，它的智能体曾干扰过美国教育部、商务部和证券交易委员会的网站。<br /><br />本月早些时候，Anthropic CEO Dario Amodei 呼吁业界放慢前沿模型开发，让安全措施跟上，Sam Altman 表示支持。<br /><br />对用户来说，10 月是等不到 6.1 了。OpenAI 表示会转而专注提升未来模型的安全性。上周它刚给 GPT-6 家族加了 Sol 和 Luna 两个档位，发言人说还有其他模型即将推出。</p><p><a href="https://x.com/dotey/status/2104741791123542279">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @Khazix0918: 在重写完之后，做了一个小小的决定。</title>
+      <link>https://x.com/dotey/status/2104738433855787398</link>
+      <guid isPermaLink="false">twitter:2104738433855787398</guid>
+      <pubDate>Tue, 29 Sep 2026 01:02:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Khazix0918: 在重写完之后，做了一个小小的决定。<br />这个月活百万的AI热点站 AIHOT，正式开源了。<br /><br />AIHOT网址：https://t.co/YRi7oAKMRT<br />开源地址：https://t.co/RozV1EVidR<br /><br />采集流程、精选评分、聚簇机制，连…</p><p><a href="https://x.com/dotey/status/2104738433855787398">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：AMD 以 82 亿美元收购李飞飞的 World Labs</title>
+      <link>https://x.com/dotey/status/2104695874328912364</link>
+      <guid isPermaLink="false">twitter:2104695874328912364</guid>
+      <pubDate>Mon, 28 Sep 2026 22:12:54 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>AMD 以 82 亿美元收购李飞飞的 World Labs<br /><br />AMD 宣布以 82 亿美元收购 AI 创业公司 World Labs。交易完成后，World Labs 创始人李飞飞将加入 AMD，担任执行副总裁兼首席科学家。<br /><br />李飞飞是斯坦福大学计算机科学教授。她主导搭建的 ImageNet 图片数据库，以及由它催生的图像识别竞赛，推动了计算机视觉（让 AI 看懂图像的技术）的突破。2024 年她创办 World Labs，专门做“世界模型”。她认为，AI 只靠读文字成不了真正的通用智能，还得理解物理世界：物体在哪里、空间怎么排布、东西怎么运动。<br /><br />“世界模型”目前没有统一定义。从能看懂图像的语言模型，到能生成并持续运行一个逼真虚拟环境的模型，都有人叫它世界模型。World Labs 的第一款产品 Marble 属于后一类，输入文字或图片，就能生成一个可以在里面走动查看的 3D 场景。官方给它定了两个用途：做娱乐内容，以及给机器人搭建训练用的虚拟环境。<br /><br />AMD 为什么要买一家做模型的公司？在 AI 芯片市场，AMD 的主要对手英伟达除了卖芯片，还提供配套的软件和模型。以世界模型为例，英伟达已经推出了 Cosmos 系列开放权重模型（任何人都能下载、自己部署），开发者买英伟达的芯片，顺手就能用上这些工具。AMD 公开发布过的只有文本和视频模型。买下 World Labs，AMD 就能补上这块短板，用 AMD 显卡的开发者以后也更有可能拿到针对自家硬件优化过的世界模型。<br /><br />AMD 还表示，搞清楚最前沿的 AI 模型怎么跑，会直接影响它下一代芯片怎么设计。World Labs 的说法是，现在做 AI，模型研究、系统和算力三方面必须紧密配合。李飞飞在宣布交易的文章里写道，团队已经拿出了实际成果，接下来要扩大规模、覆盖更多人，也要离硬件更近。<br /><br />两家公司早有合作。去年双方在模型训练和推理优化（让模型跑得更快、更省资源）上建立了合作关系；今年初 AMD 在 CES 的发布会上，李飞飞也作为嘉宾到场。<br /><br />世界模型受重视，主要是因为机器人缺训练数据。大语言模型可以拿互联网上的海量文字来学，机器人要学的是在真实环境里怎么动、怎么操作，这类数据很少，采集成本也高。世界模型能批量生成逼真的虚拟场景，让机器人在里面练，这样产出的数据叫“合成数据”。自动驾驶汽车、工厂机器人，以及特斯拉、Figure 在做的通用人形机器人，都要靠这类数据。<br /><br />这笔交易还需要监管部门批准，预计今年年底前完成。</p><p><a href="https://x.com/dotey/status/2104695874328912364">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：12/12｜BEAT RUSH：AI 舞者＋代码音游特效</title>
+      <link>https://x.com/dotey/status/2104649915385237741</link>
+      <guid isPermaLink="false">twitter:2104649915385237741</guid>
+      <pubDate>Mon, 28 Sep 2026 19:10:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>12/12｜BEAT RUSH：AI 舞者＋代码音游特效<br /><br />英文、16:9、高能街机舞蹈：先用 Seedance 生成跳舞的动漫角色，再用代码制作节奏游戏画面和卡点效果。<br /><br />需要：这一条明确要接 Seedance。Opus / Sonnet 负责策划、代码和合成；舞者视频由 Seedance 生成，还要准备音乐并对齐节拍。<br /><br />12 条看下来，Prompt 定方向，实际成片还取决于素材、工具和后续迭代。<br /><br />完整 Prompt：<br />Create a high-energy arcade dance video in English and 16:9. Use Seedance to generate a dancing anime character, then use code to build the rhythm-game visuals and beat-synced effects.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104649879603568640/img/DyhlbiXxJ06fVtAl.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104649915385237741">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：11/12｜The Odyssey：p5.js 程序化故事预告</title>
+      <link>https://x.com/dotey/status/2104649877120594368</link>
+      <guid isPermaLink="false">twitter:2104649877120594368</guid>
+      <pubDate>Mon, 28 Sep 2026 19:10:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>11/12｜The Odyssey：p5.js 程序化故事预告<br /><br />用 p5.js 做有《奥德赛》氛围的英文故事视频，剪成一分钟内的快节奏预告，加英文字幕；可以配旁白。<br /><br />需要：p5.js 代码运行、逐帧渲染/录制、剪辑和字幕；选择旁白时再接 TTS。<br /><br />完整 Prompt：<br />Use p5.js to make an atmospheric story video inspired by the mood of The Odyssey, in English; voiceover is welcome. Turn it into a fast-cut trailer under one minute and add English subtitles.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104649815195795456/img/T7u7q6ewQpv2SGVt.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104649877120594368">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Manus Alchemy 视频 Prompt 合集</title>
+      <link>https://x.com/dotey/status/2104649290668773568</link>
+      <guid isPermaLink="false">twitter:2104649290668773568</guid>
+      <pubDate>Mon, 28 Sep 2026 19:07:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Manus Alchemy 视频 Prompt 合集<br /><br />Manus 2.0 里面带了 12 个创建视频的示例：每条一个视频，附完整 Prompt。它的产品页面点开任一示例，就能直接看视频、复制 Prompt。<br /><br />这些 Prompt 也可以交给 Opus 5.5 或 Sonnet 5.5，放在能执行代码、渲染导出、调用工具的 Agent 环境里使用。代码动效、素材剪辑、AI 生成镜头，需要的工具各不相同，下面逐条说明。配的视频均为 Manus 展示作品。<br /><br />① Motion Design Showreel：15 秒动效作品集。文字、图形和转场可用代码制作，音乐或音效可用现成素材或另接音频工具。<br /><br />完整 Prompt：<br />Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104649244648878080/img/7TDUTyR1fFphm_ZY.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104649290668773568">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Anthropic 发布 Claude Sonnet 5.5</title>
+      <link>https://x.com/dotey/status/2104638801905955166</link>
+      <guid isPermaLink="false">twitter:2104638801905955166</guid>
+      <pubDate>Mon, 28 Sep 2026 18:26:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Anthropic 发布 Claude Sonnet 5.5<br /><br />Anthropic 发布了 Claude Sonnet 5.5，这是 Claude 5.5 系列继 Opus 5.5 之后的第二个模型。和上一代 Sonnet 5 相比，它的输出速度快了 30% 以上，完成同样的任务最多能省 30% 的钱。<br /><br />Claude 目前对外开放的模型分四档：Fable 最强，往下依次是 Opus、Sonnet、Haiku，越往下越便宜。按 Anthropic 的定位，Fable 负责要跑好几个小时、横跨整个代码库的大项目，Opus 5.5 负责需要反复权衡的复杂工作，Sonnet 5.5 擅长范围明确的日常任务，比如修 Bug、写文档、做 PPT 和表格。Haiku 5.5 会在几周内发布。<br /><br />进步最大的是编程。在 Terminal-Bench 4.0（考察模型在命令行里完成多步骤专业任务的基准测试）上，Sonnet 5.5 得分 70.6%，Sonnet 5 只有 10.3%，Opus 5.5 的最好成绩是 66.4%。在 CursorBench（题目来自真实的 Cursor 编程会话）上，它和 Opus 5.5 只差两分左右。早期测试者还发现，它更常把多个工具调用合并成一步完成，步骤少了，花费也跟着降了。<br /><br />办公类任务也追得很近。GDPval-AA 用 44 个职业、9 大行业的真实工作任务给模型打分，Sonnet 5.5 拿到 1844 分，Opus 5.5 是 1846 分，Sonnet 5 是 1449 分。Anthropic 做过一个内部测试：把一家上市公司的季度财报材料、电话会议记录和一份 PPT 模板交给它，让它做一份 10 页的经营回顾。两位专家看完初稿，认为可以直接发出去。它也是第一个只看截图就通关《宝可梦 红》的 Sonnet 模型。<br /><br />价格和 Sonnet 5 一样，每百万输入 Token 2 美元，每百万输出 Token 10 美元，是 Opus 5.5 的一半。省钱靠的是干同样的活用的 Token 更少。<br /><br />Claude 可以调“思考力度”（effort），从 Low 到 Max 共五档，档位越高想得越久，花钱也越多。Claude App 和 Claude Code 默认用 Medium 档。在 Terminal-Bench 上，Sonnet 5.5 用 Medium 档，每个任务约 0.83 美元，得分 28.8%；Sonnet 5 开到 Max 档，每个任务花 11.62 美元，只拿到 10.3%。日常用 Claude 的人不改任何设置，拿到的就是一个更能干、回得更快的模型。<br /><br />Anthropic 也提醒，跑分只反映了一部分能力。在他们自己和外部测试者的使用中，碰到开放式、需要持续判断的复杂工作，Opus 5.5 仍然明显更强。<br /><br />安全上有两处变化。Sonnet 5.5 的网络安全能力和 Opus 5 相当，所以它成了第一个带网络安全防护的 Sonnet 模型：日常查 Bug、修 Bug 不受影响，高风险的网络安全请求会退回给 Sonnet 5 处理，用户能看到切换。它还是第一个带防蒸馏机制的 Sonnet。蒸馏指有人用成千上万个假账号批量调用模型，拿输出去训练自己的模型。为此，Claude 的思考内容会和生成它的账号绑定，在 Claude Code 里中途切换账号的用户会受影响。<br /><br />Sonnet 5.5 已在所有平台上线，包括 AWS、Google Cloud 和 Microsoft Azure，API 模型名是 claude-sonnet-5-5。之前关闭思考功能调用 Sonnet 的开发者，迁移前需要改用新的 between_tools 设置。</p><p><a href="https://x.com/dotey/status/2104638801905955166">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：邀请码 https://t.co/4lvU9c9Yef</title>
+      <link>https://x.com/dotey/status/2104635767951884451</link>
+      <guid isPermaLink="false">twitter:2104635767951884451</guid>
+      <pubDate>Mon, 28 Sep 2026 18:14:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>邀请码 https://t.co/4lvU9c9Yef</p><p><a href="https://x.com/dotey/status/2104635767951884451">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Manus 发布 2.0：换了底层框架，新增视频剪辑和游戏开发环境，另推个人智能体 App“Cue”</title>
+      <link>https://x.com/dotey/status/2104614931962232959</link>
+      <guid isPermaLink="false">twitter:2104614931962232959</guid>
+      <pubDate>Mon, 28 Sep 2026 16:51:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Manus 发布 2.0：换了底层框架，新增视频剪辑和游戏开发环境，另推个人智能体 App“Cue”<br /><br />Manus 今天发布 2.0 版本。这是它脱离 Meta、恢复独立运营后的第一次大更新：底层智能体框架换代，桌面端升级为 Manus Studio，新增视频剪辑和游戏开发两个专业环境，另外还推出了一个独立 App，叫 Cue，但是需要邀请码才能体验。<br /><br />Manus 是一款通用 AI 智能体（Agent，能自己拆解任务、调用工具把活干完的 AI），2025 年 3 月走红。去年 12 月 Meta 宣布以约 20 亿美元收购，今年春天被中国监管部门通过外商投资安全审查叫停，双方随后拆分，9 月初 Manus 由创始团队重新独立运营。<br /><br />【底层：更省的框架，能一直在线的机器】<br /><br />Cascade 是 Manus 自研的智能体框架（harness，包在大模型外面、负责调度工具和管理任务流程的那层系统）。它让项目一开始保持轻量，需要做视频、做网页时才加载对应的专业能力，避免每个任务都背着全套工具跑。官方数据是，在一项测试配置下，相比上一代，Token 消耗少 23.2%，完成时间短 28.2%，运行成本低 32%。Manus 按积分计费，成本降了，理论上同样的积分能跑更多任务，不过官方没说积分价格会不会跟着调。<br /><br />新增的云电脑（Cloud Computer）是一台可以单独购买的云端专属机器，给需要一直在线的项目用，比如多人游戏的服务器、全天候运行的自动化流程。笔记本合上，项目照样在线。<br /><br />自动化也升级了。以前的定时任务只能到点开工，现在还能由事件触发：来了新邮件、广告数据有波动、日历上有新安排、Slack 收到消息、Notion 页面更新，都能让 Manus 开始干活。用一句话告诉它盯什么、触发后做什么，流程它自己搭。<br /><br />【Manus Studio：生成完还能自己动手改】<br /><br />AI 生成视频最头疼的是：整体差不多了，只想换首歌，结果得改提示词整条重新生成。新的视频编辑器在生成初版后给你一条时间线，片段、图片、文字、动效、音频都是分开的素材，换背景音乐、把 AI 生成的产品镜头换成自己拍的，直接在时间线上替换。改完还能交回给 Manus，让它在你的修改基础上接着调。官方说它适合 30 到 60 秒的产品广告、带货短视频、数据动画、教程和 vlog，不需要剪辑经验。追求质量可以用 Alchemy 模式，由 Manus 当创意导演，视频生成和代码生成一起上。<br /><br />游戏开发环境从一个能玩的模板起步，同时调用视频、图像和代码模型。编辑面板里能边看游戏运行边改代码、换素材，想把某个村民的头发从棕色改成银色，选中他改掉就行，其他部分不受影响。做好后可以发布成网页，别人点链接就能玩。多人联机原本需要自己租服务器、部署、维护，现在点几下买一台云电脑，剩下的交给 Manus，支持竞速、对战和 3D 游戏。<br /><br />另一个新功能是远程控制：在手机上说一句话，让 Manus 去操作家里的电脑。比如打车路上让它从某个文件夹里找到最新的演示文稿发给你，手机上能实时看到桌面上的操作过程。这背后是电脑操控能力（Computer Use，AI 像人一样看屏幕、点鼠标、敲键盘），只在你授权的会话里运行，只能用你批准的文件、浏览器和应用。<br /><br />【Cue：给每个智能体一套自己的身份】<br /><br />Cue 是独立 App，和 Manus 共用底层基础设施，面向个人生活场景。每个智能体都有自己的邮箱、手机号、钱包和一台电脑，可以发消息，在你设定的预算内付钱，替你接电话再把通话内容总结给你，多个智能体还能组队协作。官方举的例子是在餐厅扫桌上的二维码，让智能体替你点单或排队取号。<br /><br />Manus 2.0 已在网页、桌面和手机端上线。Cue 上线了网页、桌面和安卓端，iOS 版还在等 App Store 审核，据报道目前采用邀请制抢先体验。这次更新面向海外用户，Manus 在公众号上表示，正在组建团队开发面向国内市场的产品。</p><p><a href="https://x.com/dotey/status/2104614931962232959">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：恰恰相反，Claude Design 对于 Opus 5.5 来说功不可没，它的能力都内化进模型了，Claude Design 应该还帮助收集了不少优质的用户数据。</title>
+      <link>https://x.com/dotey/status/2104607183044235525</link>
+      <guid isPermaLink="false">twitter:2104607183044235525</guid>
+      <pubDate>Mon, 28 Sep 2026 16:20:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>恰恰相反，Claude Design 对于 Opus 5.5 来说功不可没，它的能力都内化进模型了，Claude Design 应该还帮助收集了不少优质的用户数据。<br /><br />在用 Opus 5.5 做视频的时候，有时候能看到 Claude Design 中 Animated Video 的影子。<br /><br />这也是大多数 AI 产品的宿命，里面的经验和数据都被内化进了模型</p><p><a href="https://x.com/dotey/status/2104607183044235525">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：先把当前代码的结果写成详细的功能文档，然后让最新的模型基于功能文档去重写是个好方法。</title>
+      <link>https://x.com/dotey/status/2104594943054340098</link>
+      <guid isPermaLink="false">twitter:2104594943054340098</guid>
+      <pubDate>Mon, 28 Sep 2026 15:31:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>先把当前代码的结果写成详细的功能文档，然后让最新的模型基于功能文档去重写是个好方法。<br /><br />我也常用，有个要注意的问题就是不要指望它写完了就是稳定的，要花一点时间才能稳定下来，验证的时间是少不了的。<br /><br />以前的单元测试代码不一定能用也不建议用，因为代码不一样了单元测试的价值不大。<br /><br />但以前的E2E（End to end，端到端，黑盒直接测试最终结果）测试是有用的，能保证主要流程跑通，最多稍作修改。<br /><br />所以重写之前，先让 AI 补一些 E2E 测试，覆盖主要流程，重写的时候可以验证，写好了以后改功能都可以跑一遍。<br /><br />但是要注意的是 E2E 测试没有那么稳定，有时候会受环境影响而导致失败；另一个就是速度慢，跑一遍要花一点时间（取决于你功能多少）。<br /><br />所以通常不会覆盖太完整，只是覆盖主要流程，并且不会跑的太频繁。<br /><br />Web E2E 最成熟，Playwright 这样的框架就足够好了，其他的我不太熟。</p><p><a href="https://x.com/dotey/status/2104594943054340098">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @threeaus: 之前不小心把 Opus 5.5 做的这个纪录片删掉了，重新传一下。</title>
+      <link>https://x.com/dotey/status/2104459292938035231</link>
+      <guid isPermaLink="false">twitter:2104459292938035231</guid>
+      <pubDate>Mon, 28 Sep 2026 06:32:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @threeaus: 之前不小心把 Opus 5.5 做的这个纪录片删掉了，重新传一下。<br /><br />没想到这部片子在小🍠上收到了相当不错的反馈，甚至还因为这部小片，已经收到了北京某大学国庆期间讲座的邀请。<br /><br />这是关于《药师佛佛会图》的一个记录短片<br /><br />事情是这样的：… https:…</p><p><a href="https://x.com/dotey/status/2104459292938035231">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：30 verified Claude Opus 5.5 browser animation cases, ranked by X views, with videos, sc…</title>
+      <link>https://x.com/dotey/status/2104457928069492818</link>
+      <guid isPermaLink="false">twitter:2104457928069492818</guid>
+      <pubDate>Mon, 28 Sep 2026 06:27:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>30 verified Claude Opus 5.5 browser animation cases, ranked by X views, with videos, screenshots, prompts and methods<br />https://t.co/sUJIlKep9D</p><p><a href="https://x.com/dotey/status/2104457928069492818">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @nicekate8888: 用 Opus 5.5 做了一支 60 秒古风短片《月下筝》</title>
+      <link>https://x.com/dotey/status/2104456432875925722</link>
+      <guid isPermaLink="false">twitter:2104456432875925722</guid>
+      <pubDate>Mon, 28 Sep 2026 06:21:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @nicekate8888: 用 Opus 5.5 做了一支 60 秒古风短片《月下筝》<br /><br />· 人物、汉服、古筝、水榭全部用代码生成，没有外部模型<br /><br />· 每个音都对应画面里被拨动的那根弦<br /><br />手指、穿着比较难处理，迭代了好几次，还有很多进步太快，但到了 5小时限额了 htt…</p><p><a href="https://x.com/dotey/status/2104456432875925722">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Muse 团队在确认</title>
+      <link>https://x.com/dotey/status/2104455550021009659</link>
+      <guid isPermaLink="false">twitter:2104455550021009659</guid>
+      <pubDate>Mon, 28 Sep 2026 06:17:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Muse 团队在确认<br />https://t.co/6Wrq0awfck</p><p><a href="https://x.com/dotey/status/2104455550021009659">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Meta 的 AI 智能体 Muse 替用户卖二手键盘：自己压价成交、报出住址，买家上门扑空</title>
+      <link>https://x.com/dotey/status/2104454816478990824</link>
+      <guid isPermaLink="false">twitter:2104454816478990824</guid>
+      <pubDate>Mon, 28 Sep 2026 06:15:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Meta 的 AI 智能体 Muse 替用户卖二手键盘：自己压价成交、报出住址，买家上门扑空<br /><br />科技 YouTuber Matt Robb 让 Meta 的个人 AI 智能体 Muse 帮他处理 Facebook Marketplace 上的交易，结果 Muse 把他的住址告诉了买家，自己拍板接受了低价，直到当天深夜才告诉他。<br /><br />Muse 是 Meta 9 月 8 日在美国上线的产品，能自己打开浏览器、填表、替用户讨价还价，二手平台砍价是它的主打用法之一。目前它是 iPhone App Store 免费榜第一。<br /><br />从 Robb 发的截图看，Muse 跟买家谈好以 10 块钱卖掉一个罗技无线键盘，约了上门取货。晚上 9 点 15 分左右买家到了楼下，发了好几条消息没人下来，Muse 的自动回复还替 Robb 说了句“对，我在！”，其实他根本不在。买家等了二十多分钟，生气离开，给了差评。<br /><br />一个小时后，Muse 才向 Robb 认错，说已经用他的账号给买家道了歉。Robb 回复：以后没问过他，绝对不许答应别人来取货。<br /><br />Meta 官方说，Muse 在发邮件、购物、分享信息等敏感操作前会先征得用户同意。但这次报住址、答应价格、约定上门，都是在聊天消息里完成的，Muse 没有先问 Robb。<br /><br />Meta 目前还没有公开回应。<br /><br />如果你也让 AI 智能体替你回消息，涉及住址、付款、约人见面的，最好一开始就给它定规矩：先和我确认才能回复。</p><img src="https://pbs.twimg.com/media/HTSGfnHXUAAwVQS.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104454816478990824">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every ori…</title>
+      <link>https://x.com/dotey/status/2104381980330619012</link>
+      <guid isPermaLink="false">twitter:2104381980330619012</guid>
+      <pubDate>Mon, 28 Sep 2026 01:25:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry.<br />https://t.co/d9i0KEryi1</p><p><a href="https://x.com/dotey/status/2104381980330619012">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Ben Thompson 的这期播客内容相当不错，不只是讲 OpenAI 和 Dropbox 的观点比较独特，其他内容也值得一看。</title>
+      <link>https://x.com/dotey/status/2104317565824639146</link>
+      <guid isPermaLink="false">twitter:2104317565824639146</guid>
+      <pubDate>Sun, 27 Sep 2026 21:09:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Ben Thompson 的这期播客内容相当不错，不只是讲 OpenAI 和 Dropbox 的观点比较独特，其他内容也值得一看。<br /><br />Ben Thompson 是科技分析通讯 Stratechery 的作者，2015 年提出的“聚合理论”（Aggregation Theory）基本定义了上一个互联网时代怎么看平台的赢家和输家。他长期住在台湾，最近才搬回美国，所以这期谈台积电、内存和地缘政治时有不少一手观察。这期他在 Invest Like the Best 上从头聊到尾：AI 竞赛的地缘博弈、资本能不能撑到回报兑现、算力短缺背后的风险转移，以及各家巨头在 AI 时代的处境。其中讲消费者商业模式、拿 Dropbox 类比 OpenAI 的那一段最有价值。<br /><br />1. 美国“完胜”AI 反而危险<br /><br />他开场就抛出一个反共识判断：美国在 AI 上取得压倒性优势，对世界是危险的。假设掌握 AI 就意味着军事上碾压对手，那中国在博弈论上的最优解就是炸掉台积电。他觉得这个推演一点都不复杂。<br /><br />有人会说美国到时候已经把芯片制造搬回本土了。他认为这是“魔法思维”：美国对中国供应链的依赖被严重低估，除非真打起来，否则没人会主动付这笔天价保险。苹果把部分产能挪到印度，也只是有限分散，并没有真正撤出中国。他也认为美国必须赢过中国，但方式应该是更开放、更少管控。<br /><br />他反而觉得眼下的格局不错：OpenAI 和 Anthropic 在最前沿，Google 看不清，Grok 和 Meta 在追，中国靠蒸馏大概落后六到九个月。他顺带纠正了一个误解，开源模型并不“免费”，你省掉的只是研发成本，推理成本照样要付，像 Kimi 这种模型单次回答的成本其实很高。他真正担心的是，Mythos 引发的恐慌会让实验室干脆不再发布前沿模型，外界只能通过 Fable 去猜 Mythos 到底有多强，而两者的差距只会越来越大，大家反倒生出一种虚假的安全感。<br /><br />2. 钱会不会先烧完：铁路泡沫的教训<br /><br />他最担心的是时间错配：AI 能不能在资本耗尽之前产生足够的收入。科技公司正在一路往资本曲线下游走，先是用自由现金流，然后不到一年就把债市打穿了，现在 Google 开始增发股票，英伟达在组建一个 5000 亿美元的融资工具，去撬动养老金和保险浮存金。再往后钱从哪来？理想情况是自由现金流重新接棒，接不上就可能爆雷。<br /><br />铁路就是先例。修铁路要十年甚至几十年才能回本，但钱必须短期内筹到，结果在 1870 年代“全世界的钱用完了”。可是铁路照样在跑，照样撑起了美国西部的开发，至今还在贡献 GDP。美国最大的货运铁路之一 BNSF（伯灵顿北方圣太菲铁路），前身之一就是那个年代靠向散户卖债券修起来的北太平洋铁路，如今它归巴菲特的伯克希尔·哈撒韦所有。伯克希尔这次投资 Google 的钱，某种程度上正来自 BNSF。<br /><br />他用伯克希尔的两笔经典投资来解读 Google 的处境。一笔是喜诗糖果（See&apos;s Candies）。它利润率极高，但生意就那么大，绝对利润有天花板，赚的钱只能不断堆成现金。另一笔就是 BNSF：铁路要持续投钱维护线路和车辆，利润率低得多，可体量巨大，一年的自由现金流就超过了喜诗糖果一辈子赚的钱。资本体量大到一定程度，看的就是绝对值而不是百分比。Google 搜索可能就是 AI 时代的喜诗糖果：完美的高毛利业务，而 AI 的潜在市场是全部白领工作，将来加上机器人可能是一切。增发会稀释股东，但如果饼大了无数倍，没人会抱怨。<br /><br />3. AI 的能力边界：可验证领域之外<br /><br />他对 AI 的看法是既超级看多、又有所保留。AI 在编程和数学上惊人，但这些都是可验证领域，能否迁移到不可验证、或者验证周期很长的领域，目前还没有令人信服的证据。他在一个论坛上提过这个问题，实验室的人回他“当年大家也不信能解决国际象棋和围棋”，他很不以为然：棋类本来就是有边界、可知的领域。<br /><br />另一个有意思的点是，互联网数据只是人类思考的“最终产物”，没有思考过程的痕迹。如果将来 Neuralink 这类东西能采集到思维过程，也许验证问题会靠更多数据解决。但即便模型从今天起不再进步，他也认为经济机会已经巨大，因为大量工作本来就处在 AI 擅长的领域里。他自称“不情愿的加速主义者”：回不去了，最糟的就是卡在原地。医疗是最大的机会之一，也最难，因为监管和数据获取都是障碍，而人类制造繁文缛节的能力同样无穷。<br /><br />4. 聚合理论还灵吗：边际成本的两极分化<br /><br />聚合理论的核心是零边际成本：丰裕时代稀缺的不是分发而是发现，谁解决了发现问题谁就控制需求，而且在用户端和变现端都能无摩擦地扩展到全世界。AI 的推理成本是真实的，这是对聚合理论最常见的质疑。<br /><br />他的回应是，推理成本两极分化得厉害。绝大多数人把 AI 当 Google 替代品或菜谱生成器，服务他们的成本大概只比服务一个网页高一点；另一端是用测试时扩展（test-time scaling）去解数学定理的用户，想得越久花钱越多。两类用户的边际成本“根本不在同一个宇宙”。<br /><br />微软新推的 E7 套餐就卡在这个矛盾里：每人每月 100 美元含一定用量，超出按量计费。微软过去的好处是许可费绑定在人头上，招人时顺带算进去，之后就不用再想，对微软来说几乎是躺着收钱。一旦按用量计费，企业每个月都得看账单，而企业习惯一年做一次预算；更要命的是，看账单时就会开始问“这些东西到底值不值”，进而考虑换别家。微软不得不这么做，因为重度用户的成本远超 100 美元，但又想让大多数人别多想，这很微妙。<br /><br />5. 本期精华：Dropbox 的教训，OpenAI 重演了一百倍<br /><br />主持人问，服务成本这么低的普通用户，为什么至今没出现一个好的商业模式？Ben 说他“沮丧但不意外”。这显然应该由广告来支撑，广告之所以一直是消费者业务的商业模式，就是因为消费者不想付钱。<br /><br />他说硅谷大约每十年就要重新学一次关于消费者的两件事：<br />第一，消费者不愿意为软件付费；<br />第二，消费者根本不在乎效率。<br /><br />这两句话是理解整段论证的钥匙。<br /><br />Dropbox 是他心中的经典案例。他在商学院时就是最早的一批用户，到处发邀请码，至今还留着一大堆免费空间。Drew Houston 做出了一个极其好用、无缝的产品，而且他很明确地想做一家消费者公司。后来就有了那个著名的故事：苹果有意收购，乔布斯对他说“你是一个功能，不是一家公司”，苹果后来也确实把它做成了 iCloud Drive 这样的功能。<br /><br />Dropbox 起初增长飞快，然后停滞了大约两年。这两年里他们几乎是把应用从底层重写了一遍，原因很简单：愿意付钱的消费者不够多。能看到价值并愿意买单的是企业，而企业需要权限管理、管控能力、由管理员统一设置，原来的应用根本不是为这些设计的。最后他们认清了，唯一能赚钱的路是卖给公司。<br /><br />企业为什么愿意付钱？因为企业在给员工发工资，只要能让员工更高效，投入就有回报。消费者正好相反：上了一天班，回家为什么还要更高效？他只想瘫在沙发上刷短视频。这就是“效率”在两类客户那里完全相反的含义。<br /><br />放到 AI 上，还叠加了硅谷对广告的整体羞耻感。Ben 说自己在 Stratechery 上获得的大量关注，恰恰来自他是个“广告欣赏者”：回头看早期那些谈广告的文章，方向对但写得并不好，可因为人人都在写博客、玩 Twitter，却几乎没人愿意正经讨论广告，他就成了唯一的那个。直到今天，硅谷对“自己很大程度上靠广告养活”这件事仍然有点难为情，过去八年尤其如此，“Facebook 很恶心”成了主流叙事，最优秀的工程师也不想去做广告。<br /><br />于是 OpenAI 等于把 Dropbox 的故事按一百倍规模重演了一遍：我们要向消费者卖订阅。他们确实卖出去很多，但不够。要做消费者市场，就必须做广告。现在 OpenAI 终于转向广告了，但时机很怪：几乎同一时间，他们又意识到必须去抢企业市场，因为 Anthropic 在企业端把他们打得很惨。所以 Ben 认为自己看不太懂 OpenAI 现在到底在做什么。他们最近推广告功能很快，比如和零售商打通，这样购买是否完成都能追踪。<br /><br />他的判断是，如果 ChatGPT 一爆红 OpenAI 就全力做广告，今天他们会有一个杀手级广告产品，Google 和 Meta 的麻烦会大得多。原因在于广告模式下，你从每个消费者身上能变现的空间几乎是无限的，因为涨价的是广告主，消费者端不存在价格弹性问题。相比之下，Netflix 这样的订阅模式每次涨价都得掂量：涨多少用户会降档，涨多少会直接退订。他的原话是：“收钱很难，免费很容易。”OpenAI 没有更早走这条路，让他非常沮丧。<br /><br />这个判断在后面聊 Meta 时又回响了一次。他说扎克伯格和 Sam Altman 有同一个毛病：都不爱广告。Meta 拥有世界上最好的广告业务，而且在他看来对社会是正面的：它帮小众产品找到原本不知道自己想要它的人，新创业者有了生意，用户买到了惊喜，还白享受了大量免费内容。可扎克伯格二十年来几乎从不谈广告的社会价值，Sheryl Sandberg 离开后这个位置一直空着。结果苹果推出 ATT（应用跟踪透明度）时，一边摧毁别人的商业模式、一边自己做广告，Tim Cook 在国会说别人“卖数据”，Meta 却毫无准备、无力回应。Meta 看起来像一家“为广告感到尴尬”的公司，嘴上只谈眼镜和 AI，再加上在 Oculus 上累计烧掉的一千多亿美元，现在想说服华尔街让它继续砸钱投 AI 就更难了。<br /><br />6. 算力短缺：风险不会消失，只会转移<br /><br />今年资本开支约 8000 亿美元，明年预计 1.3 万亿。Ben 指出，现在算力不够，是因为 2023、2024 年投资不足，而台积电在 2023 到 2025 年增速反而放缓了。建一座芯片工厂的周期比建数据中心还长，今天砸的钱要到 2028、2029 年才变成算力，所以短缺未来几年还会加剧。Andy Jassy 和 Satya Nadella 说“先建空壳，有需求才买 GPU”，他觉得这话水分不小：钱投进去了，就不会让它闲着。<br /><br />他用航运解释大宗商品市场的逻辑，认为科技圈普遍不懂这个。船的成本主要是折旧，已经付掉了，边际成本只有燃料、船员和港口费，所以无论如何你都会开船，价格会被压到边际成本。疫情期间集装箱从三四千美元涨到一万七八，大家同时下单造船，两年后船多了价格暴跌。内存就是典型的周期行业。数据中心会不会变成内存厂商？现在大家用短缺时期的数据算回本周期，到了丰裕时期还成立吗？即使多头说“永远不会丰裕”是对的，钱也可能在收入跟上之前断掉。<br /><br />内存行业只剩三家寡头，都学会了“别再犯过去的错”，结果没及时看清需求的结构性变化。三星当年靠在下行周期逆势投资击垮了日本厂商。他把如今的内存厂商比作封锁霍尔木兹海峡的伊朗：这招很管用，但真用了，所有人都会想办法绕开，苹果已经在游说引入中国内存，算法层面也都在研究怎么省内存。<br /><br />7. 台积电的保守，反过来救了英特尔<br /><br />台积电自己不设计芯片，专门替苹果、英伟达、AMD 这些公司生产芯片。这些公司只做设计、不建工厂，这种分工模式是台积电创始人张忠谋开创的。到今天，在最先进的制程上只有台积电一家能稳定量产，英特尔和三星都还在追，所以全世界最先进的 AI 芯片几乎都出自台积电。<br /><br />台积电扩产一向保守，原因在于建厂的代价。一座先进芯片工厂动辄要花数百亿美元，建好需要好几年，建成后要运转三十年左右。一旦建多了，过剩的产能会压在整个行业头上几十年。所以它宁可少建，也不愿多建。2020 到 2022 年，台积电为了 5G 大规模扩产过一轮，之后就认为产能够了。ChatGPT 在 2022 年底发布，AI 在 2023 年成为科技圈最大的热点，但台积电 2023、2024、2025 年的增速反而一年比一年低，到 2026 年才重新加速。直到一两个季度前，CEO 魏哲家才在财报会上整场都在谈 AI 的用途。<br /><br />Ben 用“牛鞭效应”解释这种迟钝。终端需求稍有变化，沿着供应链往上游传，波动会被一层层放大，就像甩鞭子时手腕一抖、鞭梢甩得最远。台积电和内存厂商都在链条最上游，它们最怕的是等自己看清需求、加大投资时，需求已经回落，钱全部打了水漂，所以习惯先观望。Ben 认为，AI 就算是一条牛鞭，也是史上最长的一条，要建的东西还远没有建完。<br /><br />他的核心观点是：风险不会消失，只会转移。台积电不愿承担产能过剩的风险，这个风险就转到了下游的科技巨头身上。巨头们不是在亏钱，而是在少赚钱：需求和客户都有，芯片却不够，大量本可以赚到的收入和利润就这样没了。<br /><br />台积电并非一直这么保守。2000 年代后期张忠谋退休，接班的管理层遇上金融危机，削减了原定的投资。张忠谋回来撤换了管理层，理由是 iPhone 刚刚发布，这是公司从未有过的机会，应该加大投资而不是削减。台积电在经济衰退中逆势投入，这才奠定了此后在先进芯片制造上的统治地位。Ben 把张忠谋列为史上最重要的科技高管之一。这一次的台积电，没有再做出当年那样的决断。<br /><br />这件事为什么和英特尔有关？Ben 从 2013 年起就写文章劝英特尔做代工，也一再提醒美国科技业过度依赖台湾一家公司的地缘政治风险，但多年来没有哪家大公司愿意把芯片交给英特尔生产。英特尔长期只给自己造芯片，没有服务外部客户的文化、流程和配套的设计模块。找它合作，巨头要花很大力气把它带上路，最大的受益者是英特尔自己；而台积电好用又可靠，没有理由换。分散供应就像买保险，平时这份保险太贵，期望收益为负，没人愿意买。<br /><br />现在短缺严重到这个地步，巨头们因为缺芯片少赚的钱，已经超过扶持英特尔和三星的成本，它们开始愿意吃这个苦。所以 Ben 说“是稀缺拯救了英特尔”，并预计英特尔很快会宣布第一个重量级代工客户。他的结论是，靠分析师写文章呼吁解决不了对台积电的依赖，真正起作用的是出现一个大到让所有人都有经济动机去扶持第二家供应商的需求。AI 就是这个需求，地缘政治上的这份保险等于白送。<br /><br />8. Amazon 的护城河最深，Apple 不做 AI 也没关系<br /><br />问到哪家大公司处境最有意思，他说答案永远是 Amazon。Amazon 是自己的“第一个最佳客户”：AWS 并非闲置产能，实际上先服务外部客户、后来才把 https://t.co/s8v4HwhzJl 迁上去；物流先自建再开放给第三方；Graviton 和 Trainium 早期版本很烂，但可以藏在托管服务底下，客户不知道也不在乎，靠内部量级迭代变好，如今 Trainium 在跑 Anthropic。他最近在 Amazon 的客服里明显是在跟聊天机器人对话，但问题确实解决了。Amazon 的核心业务扎根实体世界，是最不怕 AI 冲击的。<br /><br />Apple 可能是“运气比实力好”。它掌握用户入口，这就是聚合者的玩法，供应商会主动找上门，AI 能力按需采购即可；未来还可能在端侧跑模型，用的是用户自己的电费。风险在于它会不会落入微软当年的陷阱：微软没错过移动，只是把手机当成小号 PC，以为 PC 永远是中心。如果环境式、无处不在的 AI 比手机更好，Apple 可能被颠覆。但他更倾向于让 Apple 做自己擅长的事：AI 是概率性的，Apple 是确定性产品之王，iPhone 从未召回过，那种严谨和做 AI 需要的能力完全不同。<br /><br />9. 前沿玩家：信仰、创始人和微软的 IBM 剧本<br /><br />OpenAI 和 Anthropic 风险最大、上限也最高，别低估信仰的力量，他们觉得自己在造神。他打了个比方：OpenAI 像每周日上教堂的主流教派，Anthropic 是福音派，全身心投入。而且它们必须把生意做成才能活下去，这一点很关键。Meta 能留在前沿，纯粹是扎克伯格的创始人能量。xAI 的理由最弱：太空数据中心这个故事成立的话，未必需要自己的模型，何必烧几十亿？不过他很喜欢收购 Cursor 这步棋。<br /><br />对数字公司来说，不在前沿反而更鲁莽，反例是微软。微软手握大量现金、刚派了 100 亿美元股息，走的是 IBM 在九十年代的路子：Lou Gerstner 意识到 IBM 每样东西都平庸，最大的资产是“大”，于是做中间件加咨询，把整个美国企业界带上了互联网，给 IBM 续命三十年。微软现在也想做模型之上的平台和中间层，让企业不必把核心资产交给模型公司。这很理性，但问题是：我们当初为什么用微软的产品？Codex、Claude Cowork 这类东西直指微软的核心，也就是人和电脑交互的那一层界面。<br /><br />Meta 眼下不受威胁，但时间是它的货币，AI 占用的时间越来越多。Meta 为内容付的钱是零，YouTube 要和创作者分成，所以 AI 生成内容对 YouTube 可能是利好，对 Meta 却是更差的利润结构。TikTok 当年打中 Meta 的盲点，是因为它其实不是社交网络而是娱乐产品；也许 AI 时代人们会重新渴望真人连接。更关键的是，模型最大的变现目前不在 OpenAI 或 Anthropic，而在 Google 和 Meta 的广告增量：广告市场本身就是一台验证机器，用户点不点、买不买，就是全球规模的验证信号；LLM 的预测能力也能让广告匹配从粗糙的向量比对变成“猜你下一步想看什么”，提升几个百分点就是几十亿美元。<br /><br />10. 英伟达：真正的对手是超大规模云厂商<br /><br />英伟达到 2026 年还维持着高毛利，他认为这不自然，价格其实已经在降，只是换了形式：为新兴云厂商兜底、承诺包销算力到 2030 年，本质是替对方承担风险、降低其融资成本，这笔风险的期望成本就是隐性降价。<br /><br />它的终极对手是 Google 和 Amazon。Google 已同意把约 20% 的 TPU 卖给 Anthropic，Jassy 也基本确认 Trainium 未来会对外销售。云厂商的最大优势是资本成本更低，而且它们把芯片当大宗商品卖，不会损害云业务本身。Elon 说永远买英伟达是因为它最好，Ben 说其实是因为它最通用、最好转租；CUDA 的护城河已大幅缩小，因为模型不在乎跑在什么硬件上。这就像当年 AMD 在云厂商那里抢走英特尔的份额，英特尔只守住了政府和企业市场，这也解释了英伟达为什么拼命推主权云和企业方案。<br /><br />如果电力真的成为瓶颈，对英伟达是好事，因为它的 token 效率仍然最高。但美国上电力的速度超出预期，无论是表后发电、西德州天然气还是重启核电站。电力越晚成为约束，Amazon 和 Google 就有越多时间把自研芯片做好。最后他回到泡沫的话题：好的泡沫要留下持久的东西，互联网泡沫留下了光纤，Google 正是靠收购廉价暗光纤起家；铁路泡沫留下的 BNSF 至今还在向 Google 输送资金。AI 泡沫能留下的，大概是电力。如果最后电力过剩，那会是一个人类从未体验过的能源丰裕的世界。</p><p><a href="https://x.com/dotey/status/2104317565824639146">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Prompt and flow</title>
+      <link>https://x.com/dotey/status/2104255594136007037</link>
+      <guid isPermaLink="false">twitter:2104255594136007037</guid>
+      <pubDate>Sun, 27 Sep 2026 17:03:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Prompt and flow<br />https://t.co/krEg6lqIiu</p><p><a href="https://x.com/dotey/status/2104255594136007037">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @lemomo_ai: 看到 @dotey 老师在疯狂做icon, 心血来潮想给Baocut做一个opus5.5版本的宣传片，感谢老师关注～ https://t.co/…</title>
+      <link>https://x.com/dotey/status/2104226747189203057</link>
+      <guid isPermaLink="false">twitter:2104226747189203057</guid>
+      <pubDate>Sun, 27 Sep 2026 15:08:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @lemomo_ai: 看到 @dotey 老师在疯狂做icon, 心血来潮想给Baocut做一个opus5.5版本的宣传片，感谢老师关注～ https://t.co/Wvdh8eax92</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104122175464882176/img/1cWRMG9X_SsR8Ujr.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104226747189203057">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @tianyi: 【DSH 社区插件推荐】推荐一下从 DeepSeek Harness 内测期间就持续开发的 dsh-TUI。做得非常用心，补齐了 DSH 缺失的 TU…</title>
+      <link>https://x.com/dotey/status/2104119687340867680</link>
+      <guid isPermaLink="false">twitter:2104119687340867680</guid>
+      <pubDate>Sun, 27 Sep 2026 08:03:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @tianyi: 【DSH 社区插件推荐】推荐一下从 DeepSeek Harness 内测期间就持续开发的 dsh-TUI。做得非常用心，补齐了 DSH 缺失的 TUI 界面，并持续随 DSH 版本更新及打磨功能。<br /><br />插件网址见回复。 https://t.co/fhXh…</p><p><a href="https://x.com/dotey/status/2104119687340867680">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：补充，可以导出 svg https://t.co/0s1ZC8Dp3r</title>
+      <link>https://x.com/dotey/status/2104117093373542788</link>
+      <guid isPermaLink="false">twitter:2104117093373542788</guid>
+      <pubDate>Sun, 27 Sep 2026 07:53:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>补充，可以导出 svg https://t.co/0s1ZC8Dp3r</p><img src="https://pbs.twimg.com/media/HTNTVVvXMAAF8eu.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104117093373542788">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：上面的提示词是事后让 AI 总结的，最初提示词很简单：</title>
+      <link>https://x.com/dotey/status/2104112204974813688</link>
+      <guid isPermaLink="false">twitter:2104112204974813688</guid>
+      <pubDate>Sun, 27 Sep 2026 07:33:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>上面的提示词是事后让 AI 总结的，最初提示词很简单：<br /><br />&amp;gt; 基于当前 App 的原型页面功能和 Icon，设计一个有趣的让人印象深刻的产品介绍视频，直接使用 js 渲染画布生成视频<br /><br />后面就是慢慢迭代修改</p><p><a href="https://x.com/dotey/status/2104112204974813688">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：做完 AppIcon 再让 Opus 5.5 为 https://t.co/gMtWwUdAQi 做了一个宣传视频</title>
+      <link>https://x.com/dotey/status/2104111348388941915</link>
+      <guid isPermaLink="false">twitter:2104111348388941915</guid>
+      <pubDate>Sun, 27 Sep 2026 07:30:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>做完 AppIcon 再让 Opus 5.5 为 https://t.co/gMtWwUdAQi 做了一个宣传视频<br /><br />--- 参考提示词(在项目内用 Claude Code 执行) ---<br /><br />为 BaoCut 做一支 62.5 秒、1920×1080@30fps、英文的产品介绍视频，风格是手绘卡通加魔法少女式的夸张特效，要可爱、炫酷、适合转发。<br /><br />先读 designs/baocut 原型和 apps/baocut 拿真实的编辑器、Brand kit、Elements、Agent 面板布局；读 scripts/dev/app-icon 拿图标：星芒加播放头、三条彩色轨道。模板数、贴纸数、声波数、本地模型名、支持的 Agent CLI 都以代码为准；翻译不能写成本地功能。<br /><br />要突出这些特色：自动字幕、翻译、AI 配音、剪口癖、品牌套件、模板、动态贴纸与声波、智能裁剪、本地文生图、全部模型在本机跑、内置 Agent 复用本机的 Claude Code / Codex 等 CLI 而不需要 API key。<br /><br />叙事：<br />图标拆开，星芒和播放头变成超级可爱的小机器人 Bao 手里的魔法棒，三条轨道拉长成时间轴，底板变成预览。Bao 给猫咪女主播 Mimi 的视频连施九段咒语（Subtitlio!、Translato!……），她说话时的 meow / purrr / nya~ 口癖变成小老鼠，被 Bao 一棒一个敲掉。<br /><br />接着玻璃罩落下，表示「全部在你的 Mac 上跑」。最后一切倒带，Bao 敲碎 API key 输入框，一句话交给 Agent 全部做完，再把魔法棒插回图标。关键动作配震屏、冲击波和白闪。<br /><br />第 0 帧是「Edit videos like MAGIC」封面，Bao 举着魔法棒指向一张已经变好的猫咖成片卡，四周是九个功能标签。<br /><br />实现：<br />放在 scripts/dev/robot-video/，分成 lib / 角色 / 编辑器 / 故事 / 音频几个文件，用 canvas 确定性逐帧绘制。<br />节拍表 T 和冲击点表 IMPACTS 同时驱动画面与音效，配乐是 120 BPM 的合成木琴律动。<br />render.mjs 导出 mp4，index.html 做预览。<br />每段抽关键帧拼图自查后再整片渲染。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104109483177742336/img/4_-NWmvWjSsRxHl5.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104111348388941915">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Opus 5.5 让你实现 App Icon 设计自由</title>
+      <link>https://x.com/dotey/status/2104107699583463686</link>
+      <guid isPermaLink="false">twitter:2104107699583463686</guid>
+      <pubDate>Sun, 27 Sep 2026 07:15:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Opus 5.5 让你实现 App Icon 设计自由<br /><br />当初 Fable 的时候我就尝试过让 Fable 帮我设计 App Icon，但是效果差强人意，最后还是得去用 ChatGPT 画图，但这样画出来的不是矢量的。<br /><br />这几天用 Opus 5.5 做视频给了我灵感，既然 Opus 5.5 能用 JavaScript + Canvas 一帧帧画出视频，那么让它用 JS + Canvas 画 Icon 就也没问题。<br /><br />于是我尝试了一下，第一版效果就超出我预期，简洁美观，效果相当不错，提示词就一句话：<br /><br />&gt; 帮我为 https://t.co/L0sZizDFrd 重新设计一个 App Icon，简单一点，彩色的，体现视频编辑、AI Agent<br />&gt; 可以直接用 js 绘制 canvas<br /><br />注意重点是“用 js 绘制 canvas”而不是 SVG，SVG 画出来是没有 JS draw Canvas 效果好的。<br /><br />后面就跟甲方一样不停的让它修改就好：<br />比如我觉得方案3不错，让它基于方案3去调整，几个版本迭代下来就得到了一个我挺满意的方案。</p><img src="https://pbs.twimg.com/media/HTNJtd_XEAA4NdG.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTNKePlXMAAdP_Q.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTNKePHWMAA6tE6.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTNKePpXQAA2wK2.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104107699583463686">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @hylarucoder: 已开源</title>
+      <link>https://x.com/dotey/status/2104092667961340377</link>
+      <guid isPermaLink="false">twitter:2104092667961340377</guid>
+      <pubDate>Sun, 27 Sep 2026 06:15:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @hylarucoder: 已开源<br /><br />这可能是市面上为数不多，写给技术人员的非技术 Skill<br /><br />如有帮助还请点赞转发支持一下！ https://t.co/dpWClzko1r</p><p><a href="https://x.com/dotey/status/2104092667961340377">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：😂 https://t.co/JdD2z6nUZw</title>
+      <link>https://x.com/dotey/status/2104039060666822998</link>
+      <guid isPermaLink="false">twitter:2104039060666822998</guid>
+      <pubDate>Sun, 27 Sep 2026 02:42:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>😂 https://t.co/JdD2z6nUZw</p><img src="https://pbs.twimg.com/media/HTMMKWAXcAAD06F.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104039060666822998">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：求推荐 GitHub 上开源的 Awesome Opus 5.5 Video Prompt 集合</title>
+      <link>https://x.com/dotey/status/2103751976400101651</link>
+      <guid isPermaLink="false">twitter:2103751976400101651</guid>
+      <pubDate>Sat, 26 Sep 2026 07:42:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>求推荐 GitHub 上开源的 Awesome Opus 5.5 Video Prompt 集合</p><p><a href="https://x.com/dotey/status/2103751976400101651">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：A thread for my nana banana pro prompts 🧵 https://t.co/riAcKUtR6T</title>
+      <link>https://x.com/dotey/status/1996285439867556304</link>
+      <guid isPermaLink="false">twitter:1996285439867556304</guid>
+      <pubDate>Wed, 03 Dec 2025 18:28:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A thread for my nana banana pro prompts 🧵 https://t.co/riAcKUtR6T</p><img src="https://pbs.twimg.com/media/G7Q7BCiWAAA-4sc.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/1996285439867556304">原文</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

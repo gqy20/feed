@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>percyliang · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>percyliang · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/percyliang.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2026 02:33:17 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>@percyliang：Given how many people have tried their hand at NanoGPT, I really didn&apos;t expect…</title>
+      <link>https://x.com/percyliang/status/2104761401701208202</link>
+      <guid isPermaLink="false">twitter:2104761401701208202</guid>
+      <pubDate>Tue, 29 Sep 2026 02:33:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Given how many people have tried their hand at NanoGPT, I really didn&apos;t expect a 40% reduction in a single go!</p><p><a href="https://x.com/percyliang/status/2104761401701208202">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：Marin believes strongly in the power of the open community. There are so many …</title>
+      <link>https://x.com/percyliang/status/2102934548787126505</link>
+      <guid isPermaLink="false">twitter:2102934548787126505</guid>
+      <pubDate>Thu, 24 Sep 2026 01:34:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Marin believes strongly in the power of the open community. There are so many datasets that have been produced, living on Hugging Face. We have built scalable infrastructure that ingests this data, performs deduplication, decontamination, mixing, producing 25T tokens.</p><p><a href="https://x.com/percyliang/status/2102934548787126505">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @MayankMish98: We pretrained a 2.3B MoE (360M active) Hybrid Mamba-2 that l…</title>
+      <link>https://x.com/percyliang/status/2102612522159505798</link>
+      <guid isPermaLink="false">twitter:2102612522159505798</guid>
+      <pubDate>Wed, 23 Sep 2026 04:14:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @MayankMish98: We pretrained a 2.3B MoE (360M active) Hybrid Mamba-2 that lands within a few points of Llama-3.2-3B using &amp;lt;1% of its pre…</p><p><a href="https://x.com/percyliang/status/2102612522159505798">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：Glad to see another live training run!  Here&apos;s how Marin 535B-A23B is doing to…</title>
+      <link>https://x.com/percyliang/status/2100456950660247662</link>
+      <guid isPermaLink="false">twitter:2100456950660247662</guid>
+      <pubDate>Thu, 17 Sep 2026 05:28:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Glad to see another live training run!  Here&apos;s how Marin 535B-A23B is doing today: https://t.co/Bc3CcV4FOm<br />Anyone else want to share? https://t.co/S71nmJ4fS3</p><img src="https://pbs.twimg.com/media/HSZR23obQAADbj9.jpg" loading="lazy" /><p><a href="https://x.com/percyliang/status/2100456950660247662">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @simile_ai: Itaú used Simile’s behavioral simulation to turn a five-week re…</title>
+      <link>https://x.com/percyliang/status/2098550578096087449</link>
+      <guid isPermaLink="false">twitter:2098550578096087449</guid>
+      <pubDate>Fri, 11 Sep 2026 23:13:41 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @simile_ai: Itaú used Simile’s behavioral simulation to turn a five-week research cycle into four days and a two-week concept exploratio…</p><p><a href="https://x.com/percyliang/status/2098550578096087449">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @wen_kaiyue: https://t.co/EamfwKDQZL</title>
+      <link>https://x.com/percyliang/status/2097319483509727530</link>
+      <guid isPermaLink="false">twitter:2097319483509727530</guid>
+      <pubDate>Tue, 08 Sep 2026 13:41:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @wen_kaiyue: https://t.co/EamfwKDQZL<br /><br />Mini idea: reuse hidden instead of KV in YOCO seems to give a small boost for pretraining while ke…</p><p><a href="https://x.com/percyliang/status/2097319483509727530">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @yanndubs: 💫 Astra is out</title>
+      <link>https://x.com/percyliang/status/2095602720824828299</link>
+      <guid isPermaLink="false">twitter:2095602720824828299</guid>
+      <pubDate>Thu, 03 Sep 2026 19:59:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @yanndubs: 💫 Astra is out<br /><br />Highlights:<br />- Much smarter (evals are really saturating...)<br />- Much more aligned &amp;amp; trustworthy<br />- Better CUA (s…</p><p><a href="https://x.com/percyliang/status/2095602720824828299">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：A year ago, David was the only FTE on Marin. Today, thanks to Open Athena, Mar…</title>
+      <link>https://x.com/percyliang/status/2095586788551335943</link>
+      <guid isPermaLink="false">twitter:2095586788551335943</guid>
+      <pubDate>Thu, 03 Sep 2026 18:56:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A year ago, David was the only FTE on Marin. Today, thanks to Open Athena, Marin has 10 FTE. Read his post to better understand the context of Marin.  And David tokens are always a pleasure to read.</p><p><a href="https://x.com/percyliang/status/2095586788551335943">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：Open models gaining momentum.  This is incentive-aligned and just makes sense.</title>
+      <link>https://x.com/percyliang/status/2095536773262934448</link>
+      <guid isPermaLink="false">twitter:2095536773262934448</guid>
+      <pubDate>Thu, 03 Sep 2026 15:37:54 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Open models gaining momentum.  This is incentive-aligned and just makes sense.</p><p><a href="https://x.com/percyliang/status/2095536773262934448">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：In addition, thanks to the Google TPU Research Cloud for providing the compute…</title>
+      <link>https://x.com/percyliang/status/2095255751560462601</link>
+      <guid isPermaLink="false">twitter:2095255751560462601</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In addition, thanks to the Google TPU Research Cloud for providing the compute for our previous models that kicked off Marin and its continued development.  And thanks to the Siegel Family Foundation, Fulcrum Science, @schmidtsciences, many others for their support.<br />https://t.co/dkHAWSUtk5</p><p><a href="https://x.com/percyliang/status/2095255751560462601">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：Marin 535B-A23B is 13% through training.  This hero run would not be possible …</title>
+      <link>https://x.com/percyliang/status/2095255747487740401</link>
+      <guid isPermaLink="false">twitter:2095255747487740401</guid>
+      <pubDate>Wed, 02 Sep 2026 21:01:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Marin 535B-A23B is 13% through training.  This hero run would not be possible without the generous support of the Jen-Hsun and Lori Huang Foundation, which provided the funding for the compute (Coreweave). Thanks @JensenHuang for supporting open models! https://t.co/1qBdgV79S8</p><img src="https://pbs.twimg.com/media/HRPSwuObIAAtGb9.jpg" loading="lazy" /><p><a href="https://x.com/percyliang/status/2095255747487740401">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：The &quot;What-If Machine&quot; is a vivid articulation of what Simile is building.  It&apos;…</title>
+      <link>https://x.com/percyliang/status/2095199439610921028</link>
+      <guid isPermaLink="false">twitter:2095199439610921028</guid>
+      <pubDate>Wed, 02 Sep 2026 17:17:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The &quot;What-If Machine&quot; is a vivid articulation of what Simile is building.  It&apos;s not just about forecasting the future passively. It&apos;s about understanding how active interventions on the world change its course. It&apos;s the classic difference between causation and correlation.</p><p><a href="https://x.com/percyliang/status/2095199439610921028">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @AlexGDimakis: 4000 GB200s just arrived in Texas for the Horizon TACC clust…</title>
+      <link>https://x.com/percyliang/status/2095025377475494072</link>
+      <guid isPermaLink="false">twitter:2095025377475494072</guid>
+      <pubDate>Wed, 02 Sep 2026 05:45:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AlexGDimakis: 4000 GB200s just arrived in Texas for the Horizon TACC cluster. I&apos;m informed this is the largest academic supercomputer.…</p><p><a href="https://x.com/percyliang/status/2095025377475494072">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：Marin 535B-A23B is ~7% done training, and so far things look on track.  Next T…</title>
+      <link>https://x.com/percyliang/status/2093139094968922440</link>
+      <guid isPermaLink="false">twitter:2093139094968922440</guid>
+      <pubDate>Fri, 28 Aug 2026 00:50:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Marin 535B-A23B is ~7% done training, and so far things look on track.  Next Tuesday (Sept 1 @ 10 PT), we will have a Zoom panel/discussion where the Marin team will talk about the design decisions that went into this run, the tradeoffs made, and our learnings. If you&apos;re interested, join the Discord for details (https://t.co/xwJSxd2IxH).</p><img src="https://pbs.twimg.com/media/HQxMW0eaIAA2P5D.jpg" loading="lazy" /><p><a href="https://x.com/percyliang/status/2093139094968922440">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @Muennighoff: new paper: Prefix Sliding for efficient test-time scaling</title>
+      <link>https://x.com/percyliang/status/2092986067230269655</link>
+      <guid isPermaLink="false">twitter:2092986067230269655</guid>
+      <pubDate>Thu, 27 Aug 2026 14:42:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Muennighoff: new paper: Prefix Sliding for efficient test-time scaling<br /><br />vanilla full attention OOMs on long tasks &amp;amp; compaction loses im…</p><p><a href="https://x.com/percyliang/status/2092986067230269655">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：The fact that Simile’s first technical blog post is about confidence is notabl…</title>
+      <link>https://x.com/percyliang/status/2092302845987225809</link>
+      <guid isPermaLink="false">twitter:2092302845987225809</guid>
+      <pubDate>Tue, 25 Aug 2026 17:27:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The fact that Simile’s first technical blog post is about confidence is notable.  Confidence  is paramount to simulation. If a coding agent messes up, you can often tell and repair. If a simulation is wrong, you might never know and make a bad consequential decision based on it. We do rigorous evals of our simulation model, but this only tells you how well your model is going to do on average over some population + use case. The confidence model tells you how well your model is performing on each query in real-time.</p><p><a href="https://x.com/percyliang/status/2092302845987225809">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：Look at our data composition:</title>
+      <link>https://x.com/percyliang/status/2090918070617624811</link>
+      <guid isPermaLink="false">twitter:2090918070617624811</guid>
+      <pubDate>Fri, 21 Aug 2026 21:44:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Look at our data composition:<br />https://t.co/5K0v960lYh<br />Watch the run live on wandb:<br />https://t.co/7fg9VEFJ62<br />See all the gory details on GitHub:<br />https://t.co/FH2w7Lx3Zm<br />Assembling this hero run really required data, architecture, infra, kernels to all come together and was a huge joint effort by the entire Marin team!</p><p><a href="https://x.com/percyliang/status/2090918070617624811">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：In addition to forecasting our final loss, we can also forecast the loss of in…</title>
+      <link>https://x.com/percyliang/status/2090918067987689486</link>
+      <guid isPermaLink="false">twitter:2090918067987689486</guid>
+      <pubDate>Fri, 21 Aug 2026 21:44:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In addition to forecasting our final loss, we can also forecast the loss of intermediate checkpoints, so we can see if we’re on track over the voyage: https://t.co/CivuJfdPtT</p><img src="https://pbs.twimg.com/media/HQRsmQua4AAb6Oy.jpg" loading="lazy" /><p><a href="https://x.com/percyliang/status/2090918067987689486">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：🚢 Marin 535B-A23B started training this week! As usual, the whole process is …</title>
+      <link>https://x.com/percyliang/status/2090918065634684997</link>
+      <guid isPermaLink="false">twitter:2090918065634684997</guid>
+      <pubDate>Fri, 21 Aug 2026 21:44:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>🚢 Marin 535B-A23B started training this week! As usual, the whole process is open.<br />Voyage plan: pretraining (80%) + midtraining (20%) on 18.75T tokens on 11 x GB200 NVL72 for ~3 months (2.7e24 FLOPs).  Post-training will follow.<br />Before kicking off the run, we trained a 4-rung scaling ladder from 1.6B-A61M (48B tokens) to 27.7B-A1.2B (926B tokens) to debug issues, and to make a forecast of our hero run.  This is by far our biggest run, so definitely expecting the unexpected.</p><img src="https://pbs.twimg.com/media/HQRrhYTaIAIH3YN.jpg" loading="lazy" /><p><a href="https://x.com/percyliang/status/2090918065634684997">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @classiclarryd: At Marin we’ve found that scaling laws let us simulate the …</title>
+      <link>https://x.com/percyliang/status/2090835663642050720</link>
+      <guid isPermaLink="false">twitter:2090835663642050720</guid>
+      <pubDate>Fri, 21 Aug 2026 16:17:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @classiclarryd: At Marin we’ve found that scaling laws let us simulate the entire training trajectory. This became clear in our last 67B…</p><p><a href="https://x.com/percyliang/status/2090835663642050720">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @gsbenegas: Excited to share MarinDNA, a 1B gLM that rivals Evo 2 40B on va…</title>
+      <link>https://x.com/percyliang/status/2087068638453055554</link>
+      <guid isPermaLink="false">twitter:2087068638453055554</guid>
+      <pubDate>Tue, 11 Aug 2026 06:48:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @gsbenegas: Excited to share MarinDNA, a 1B gLM that rivals Evo 2 40B on variant effect prediction while being 2,330x faster.<br />With @ecze…</p><p><a href="https://x.com/percyliang/status/2087068638453055554">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @wen_kaiyue: A hidden detail in the recently released Muse Glimmer model: i…</title>
+      <link>https://x.com/percyliang/status/2086886239895277827</link>
+      <guid isPermaLink="false">twitter:2086886239895277827</guid>
+      <pubDate>Mon, 10 Aug 2026 18:43:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @wen_kaiyue: A hidden detail in the recently released Muse Glimmer model: its per-matrix weight RMS norm is pinned almost exactly at ~6e…</p><p><a href="https://x.com/percyliang/status/2086886239895277827">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @JeffDean: Announcing Discovery Loop!</title>
+      <link>https://x.com/percyliang/status/2085149926695260288</link>
+      <guid isPermaLink="false">twitter:2085149926695260288</guid>
+      <pubDate>Wed, 05 Aug 2026 23:44:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JeffDean: Announcing Discovery Loop! <br /><br />I am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghe…</p><p><a href="https://x.com/percyliang/status/2085149926695260288">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @joon_s_pk: Five months ago, we launched @simile_ai with the belief that si…</title>
+      <link>https://x.com/percyliang/status/2082875681328058702</link>
+      <guid isPermaLink="false">twitter:2082875681328058702</guid>
+      <pubDate>Thu, 30 Jul 2026 17:07:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @joon_s_pk: Five months ago, we launched @simile_ai with the belief that simulation would become a new way for the world to make decisio…</p><p><a href="https://x.com/percyliang/status/2082875681328058702">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：It&apos;s time to scale that Simile.</title>
+      <link>https://x.com/percyliang/status/2082874025999745209</link>
+      <guid isPermaLink="false">twitter:2082874025999745209</guid>
+      <pubDate>Thu, 30 Jul 2026 17:00:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>It&apos;s time to scale that Simile.<br /><br />Our ambition is to build a foundation model that can predict what anyone will do in any situation.<br /><br />Research-wise, Simile in 2026 for simulation is like OpenAI in 2019 for AI assistants - signs of life, a path to scaling, yet still many open research questions.<br /><br />Commercially, Simile is already a company with many amazing enterprise partners who understand the potential of simulation and will help us grow sustainably.<br /><br />If simulation and this special combination of research and product is appealing to you, we’re hiring.</p><p><a href="https://x.com/percyliang/status/2082874025999745209">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：The most important word here is *ecosystem*.  It&apos;s not just about having an op…</title>
+      <link>https://x.com/percyliang/status/2081058856474726440</link>
+      <guid isPermaLink="false">twitter:2081058856474726440</guid>
+      <pubDate>Sat, 25 Jul 2026 16:47:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The most important word here is *ecosystem*.  It&apos;s not just about having an open-weight model.  Open-weight models are a means to an end.  To have a truly strong, open ecosystem, we need four critical frontier-level ingredients: open-weight models, open training datasets, open software stacks, and open process knowledge.  Few people realize that NVIDIA actually has been pushing beyond open weights by releasing code and datasets for their Nemotron models, which is something open-weight model developers don&apos;t do.  Marin further opens up the process knowledge - not just how to train one model, but how to iteratively improve and shape a model given particular goals, custom data, and hardware, e.g., how to design scaling laws and evals to guide architecture and data ablations.  Open weights, datasets, software, process knowledge: these are the four critical ingredients (renewable resources) that give everyone the ability to most efficiently turn their compute (consumable resources) into the best models according to their needs and values.</p><img src="https://pbs.twimg.com/media/HOFeX-AbkAA9hcA.png" loading="lazy" /><p><a href="https://x.com/percyliang/status/2081058856474726440">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：⚡! Tokenization is the first thing you do in CS336 (language models from scrat…</title>
+      <link>https://x.com/percyliang/status/2079785356694827141</link>
+      <guid isPermaLink="false">twitter:2079785356694827141</guid>
+      <pubDate>Wed, 22 Jul 2026 04:27:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>⚡! Tokenization is the first thing you do in CS336 (language models from scratch).  If Marcel can work his magic for the rest of the LM pipeline, the world will be a  better place.</p><p><a href="https://x.com/percyliang/status/2079785356694827141">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @classiclarryd: Question for the LLM Research Community: Is anyone aware of…</title>
+      <link>https://x.com/percyliang/status/2079310043749749040</link>
+      <guid isPermaLink="false">twitter:2079310043749749040</guid>
+      <pubDate>Mon, 20 Jul 2026 20:58:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @classiclarryd: Question for the LLM Research Community: Is anyone aware of fully reproducible experimental results showing that MLA bea…</p><p><a href="https://x.com/percyliang/status/2079310043749749040">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @stanfordnlp: Congratulations to @tatsu_hashimoto for making the 2026 @TauB…</title>
+      <link>https://x.com/percyliang/status/2078265637080649843</link>
+      <guid isPermaLink="false">twitter:2078265637080649843</guid>
+      <pubDate>Fri, 17 Jul 2026 23:48:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @stanfordnlp: Congratulations to @tatsu_hashimoto for making the 2026 @TauBetaPi Teaching Honor Roll!<br /><br />https://t.co/5VRnucflIQ<br /><br />CS336 ha…</p><p><a href="https://x.com/percyliang/status/2078265637080649843">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @sayashk: Thrilled to share that I am joining UC Berkeley as an Assistant P…</title>
+      <link>https://x.com/percyliang/status/2075082404679799110</link>
+      <guid isPermaLink="false">twitter:2075082404679799110</guid>
+      <pubDate>Thu, 09 Jul 2026 04:59:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sayashk: Thrilled to share that I am joining UC Berkeley as an Assistant Professor in the School of Information! <br /><br />I start in Fall 2027…</p><p><a href="https://x.com/percyliang/status/2075082404679799110">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @skairam: I’m one month into @SimileAI, and I’m even more convinced that ev…</title>
+      <link>https://x.com/percyliang/status/2074875966867005470</link>
+      <guid isPermaLink="false">twitter:2074875966867005470</guid>
+      <pubDate>Wed, 08 Jul 2026 15:19:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @skairam: I’m one month into @SimileAI, and I’m even more convinced that evals for simulating human behavior is one of the most interest…</p><p><a href="https://x.com/percyliang/status/2074875966867005470">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @patrickshafto: One year in, the @DARPA  AIQ program is moving beyond bette…</title>
+      <link>https://x.com/percyliang/status/2074340196020322714</link>
+      <guid isPermaLink="false">twitter:2074340196020322714</guid>
+      <pubDate>Tue, 07 Jul 2026 03:50:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @patrickshafto: One year in, the @DARPA  AIQ program is moving beyond better benchmarks toward a science of AI capability: measuring wha…</p><p><a href="https://x.com/percyliang/status/2074340196020322714">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @ShayneRedford: Launch FLARE-AI 🎆: Flaw &amp;amp; Incident Reporting for AI.</title>
+      <link>https://x.com/percyliang/status/2072520233219436617</link>
+      <guid isPermaLink="false">twitter:2072520233219436617</guid>
+      <pubDate>Thu, 02 Jul 2026 03:18:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ShayneRedford: Launch FLARE-AI 🎆: Flaw &amp;amp; Incident Reporting for AI.<br /><br />Reporting AI flaws is broken: forms are scattered, non-standardize…</p><p><a href="https://x.com/percyliang/status/2072520233219436617">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @vipulved: We @togethercompute believe intelligence should be abundant, not…</title>
+      <link>https://x.com/percyliang/status/2072339087688933854</link>
+      <guid isPermaLink="false">twitter:2072339087688933854</guid>
+      <pubDate>Wed, 01 Jul 2026 15:18:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vipulved: We @togethercompute believe intelligence should be abundant, not expensive. <br /><br />Today we announced our Series C funding of $800…</p><p><a href="https://x.com/percyliang/status/2072339087688933854">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @dlwh: Frontier AI models are built from thousands of small decisions: data…</title>
+      <link>https://x.com/percyliang/status/2071700544289481093</link>
+      <guid isPermaLink="false">twitter:2071700544289481093</guid>
+      <pubDate>Mon, 29 Jun 2026 21:01:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @dlwh: Frontier AI models are built from thousands of small decisions: data sourcing, filtering, mixtures, curricula, scaling experiment…</p><p><a href="https://x.com/percyliang/status/2071700544289481093">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @alexwan55: 40% of benchmarking effort targets math/coding, but the related…</title>
+      <link>https://x.com/percyliang/status/2070035912445301210</link>
+      <guid isPermaLink="false">twitter:2070035912445301210</guid>
+      <pubDate>Thu, 25 Jun 2026 06:46:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @alexwan55: 40% of benchmarking effort targets math/coding, but the related occupations are only 3.5% of US jobs.<br /><br />We introduce EconEval…</p><p><a href="https://x.com/percyliang/status/2070035912445301210">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @bneyshabur: Today, I’m excited to formally announce @mirendil with my amaz…</title>
+      <link>https://x.com/percyliang/status/2069999483300286659</link>
+      <guid isPermaLink="false">twitter:2069999483300286659</guid>
+      <pubDate>Thu, 25 Jun 2026 04:21:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @bneyshabur: Today, I’m excited to formally announce @mirendil with my amazing co-founders Harsh Mehta, Shayan Salehian, and Tara Reza…</p><p><a href="https://x.com/percyliang/status/2069999483300286659">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>@percyliang：RT @joon_s_pk: Simulation and AGI were the twin pillars of advanced civilizati…</title>
+      <link>https://x.com/percyliang/status/2069809856643805360</link>
+      <guid isPermaLink="false">twitter:2069809856643805360</guid>
+      <pubDate>Wed, 24 Jun 2026 15:48:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @joon_s_pk: Simulation and AGI were the twin pillars of advanced civilizations in all my favorite sci-fi. When we created Smallville and…</p><p><a href="https://x.com/percyliang/status/2069809856643805360">原文</a> · 转发</p>]]></description>
+    </item>
+  </channel>
+</rss>
