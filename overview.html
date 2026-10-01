@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>账号总览 · Trail Feed</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="feed-data.js" defer></script><script src="overview.js" defer></script>
+</head>
+<body class="overview-page">
+  <a class="skip" href="#overview-main">跳到账号总览</a>
+  <header class="topbar">
+    <a class="brand" id="brand-reading" href="./">Trail<span> Feed</span></a>
+    <nav aria-label="页面导航"><a id="back-reading" href="./">阅读</a><a href="overview.html" aria-current="page">账号总览</a><a href="rss/all.xml" target="_blank" rel="noreferrer">RSS ↗</a></nav>
+    <span id="update" class="update">正在读取内容…</span>
+  </header>
+  <main id="overview-main" class="overview-main">
+    <div class="overview-heading"><h1>账号总览</h1><p id="overview-note">统计仅覆盖已采集内容</p></div>
+    <div class="overview-controls">
+      <label class="search"><span aria-hidden="true">⌕</span><input id="overview-search" type="search" placeholder="搜索账号" aria-label="搜索账号" autocomplete="off"></label>
+      <select id="overview-period" aria-label="统计时间范围"><option value="all">全部时间</option><option value="1">今天</option><option value="7">近 7 天</option><option value="30">近 30 天</option></select>
+      <select id="overview-sort" aria-label="账号排序"><option value="recent">最近发布</option><option value="count">期间数量</option><option value="name">名称</option></select>
+      <span id="overview-count" class="number" aria-live="polite"></span>
+    </div>
+    <div class="table-scroll"><table><thead><tr><th>账号</th><th>最近发帖</th><th id="count-heading">期间条数</th><th>近 30 天 <small>旧 → 新</small></th></tr></thead><tbody id="overview-body"><tr><td colspan="4" class="state">正在整理账号…</td></tr></tbody></table></div>
+    <p class="legend">颜色越深，已采集帖子越多；空格表示没有采集到内容。点击账号进入对应时间流。</p>
+  </main>
+</body>
+</html>
