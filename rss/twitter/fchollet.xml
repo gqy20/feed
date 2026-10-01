@@ -8,7 +8,7 @@
     <lastBuildDate>Mon, 28 Sep 2026 21:47:50 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
     <item>
-      <title>@fchollet：RT @arcprize: GPT-6 Sol from @OpenAI on ARC-AGI (Verified):</title>
+      <title>fchollet：RT @arcprize: GPT-6 Sol from @OpenAI on ARC-AGI (Verified):</title>
       <link>https://x.com/fchollet/status/2104689565864968430</link>
       <guid isPermaLink="false">twitter:2104689565864968430</guid>
       <pubDate>Mon, 28 Sep 2026 21:47:50 GMT</pubDate>
@@ -16,7 +16,7 @@
       <description><![CDATA[<p>RT @arcprize: GPT-6 Sol from @OpenAI on ARC-AGI (Verified):<br /><br />- ARC-AGI-3: 4.6%, $5.6K (standard harness), 23.0%, $8.7K (provider adapter ha…</p><p><a href="https://x.com/fchollet/status/2104689565864968430">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@fchollet：A GNN library built natively on Keras 3 -- with models running on JAX, torch, TF…</title>
+      <title>fchollet：A GNN library built natively on Keras 3 -- with models running on JAX, torch, TF …</title>
       <link>https://x.com/fchollet/status/2104657839340007774</link>
       <guid isPermaLink="false">twitter:2104657839340007774</guid>
       <pubDate>Mon, 28 Sep 2026 19:41:46 GMT</pubDate>
@@ -24,7 +24,7 @@
       <description><![CDATA[<p>A GNN library built natively on Keras 3 -- with models running on JAX, torch, TF with full hardware acceleration (Apple Silicon, TPU, etc.).<br /><br />&quot;K3-Node achieves 100% public API parity with PyG and incorporates state-of-the-art foundation models and architectures from Spektral and StellarGraph&quot;<br /><br />https://t.co/Vcd5TDtfxH</p><p><a href="https://x.com/fchollet/status/2104657839340007774">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：I don&apos;t read/write code these days, I only instruct an LRM. But it&apos;s not because…</title>
+      <title>fchollet：I don&apos;t read/write code these days, I only instruct an LRM. But it&apos;s not because …</title>
       <link>https://x.com/fchollet/status/2104598248501699067</link>
       <guid isPermaLink="false">twitter:2104598248501699067</guid>
       <pubDate>Mon, 28 Sep 2026 15:44:58 GMT</pubDate>
@@ -32,7 +32,7 @@
       <description><![CDATA[<p>I don&apos;t read/write code these days, I only instruct an LRM. But it&apos;s not because I think LRM code quality is perfect, or even good. And it&apos;s not because I think my instructions are always being perfectly acted upon -- I know they aren&apos;t.<br /><br />The thing is: LRMs don&apos;t just write your code, they unlock new ways to control what you&apos;re doing and maintain understanding of your system, which are about as effective as reading code. You can better test your codebase, you can audit specific components, you can spin up visualizations, you can ask the LRM to red team, etc. You can do all of these things at high speed -- you couldn&apos;t before. The benefits of reading/writing code can now be achieved in new ways.<br /><br />All in all, the ROI of writing code by hand is no longer looking good, not because LRMs got perfect but because they&apos;re so fast at doing things that you can develop new workflows around them, workflows that end up being more productive than the old workflows.</p><p><a href="https://x.com/fchollet/status/2104598248501699067">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：The purpose of the AI industry should be to produce tools that, in the human han…</title>
+      <title>fchollet：The purpose of the AI industry should be to produce tools that, in the human hand…</title>
       <link>https://x.com/fchollet/status/2104365701410820363</link>
       <guid isPermaLink="false">twitter:2104365701410820363</guid>
       <pubDate>Mon, 28 Sep 2026 00:20:55 GMT</pubDate>
@@ -40,7 +40,7 @@
       <description><![CDATA[<p>The purpose of the AI industry should be to produce tools that, in the human hand, will improve human prosperity and welfare.<br /><br />It should not be to create a &quot;successor species&quot; to the human race. Entertaining such a thought makes you, de facto, the enemy of all present and future humans.</p><p><a href="https://x.com/fchollet/status/2104365701410820363">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：RT @sirbayes: I think &quot;AI welfare&quot; is morally obscene (given all the human suffe…</title>
+      <title>fchollet：RT @sirbayes: I think &quot;AI welfare&quot; is morally obscene (given all the human suffer…</title>
       <link>https://x.com/fchollet/status/2104304500714668501</link>
       <guid isPermaLink="false">twitter:2104304500714668501</guid>
       <pubDate>Sun, 27 Sep 2026 20:17:43 GMT</pubDate>
@@ -48,7 +48,7 @@
       <description><![CDATA[<p>RT @sirbayes: I think &quot;AI welfare&quot; is morally obscene (given all the human suffering in the world), and will add to the growing anti-AI bac…</p><p><a href="https://x.com/fchollet/status/2104304500714668501">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@fchollet：I think the &quot;difficulty&quot; of software engineering is essentially constant no matt…</title>
+      <title>fchollet：I think the &quot;difficulty&quot; of software engineering is essentially constant no matte…</title>
       <link>https://x.com/fchollet/status/2103338592672362566</link>
       <guid isPermaLink="false">twitter:2103338592672362566</guid>
       <pubDate>Fri, 25 Sep 2026 04:19:33 GMT</pubDate>
@@ -56,7 +56,7 @@
       <description><![CDATA[<p>I think the &quot;difficulty&quot; of software engineering is essentially constant no matter what abstraction level you move to, because human cognition adapts to new tools until it can fully utilize itself.<br /><br />Tools are only affordances, not a magic wand that makes work disappear.<br /><br />Great software engineering was immensely challenging before. It is still immensely challenging now, despite very different workflows.</p><p><a href="https://x.com/fchollet/status/2103338592672362566">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：RT @arcprize: Gemini 3.8 Flash from @Google on ARC-AGI (Verified):</title>
+      <title>fchollet：RT @arcprize: Gemini 3.8 Flash from @Google on ARC-AGI (Verified):</title>
       <link>https://x.com/fchollet/status/2103216120736165938</link>
       <guid isPermaLink="false">twitter:2103216120736165938</guid>
       <pubDate>Thu, 24 Sep 2026 20:12:53 GMT</pubDate>
@@ -64,7 +64,7 @@
       <description><![CDATA[<p>RT @arcprize: Gemini 3.8 Flash from @Google on ARC-AGI (Verified):<br /><br />- ARC-AGI-3: 10.4%, $4.4K (standard harness), 35.0%, $4.5K (provider ad…</p><p><a href="https://x.com/fchollet/status/2103216120736165938">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@fchollet：At some point in evolutionary history, matter learned to feel. We don&apos;t know how…</title>
+      <title>fchollet：At some point in evolutionary history, matter learned to feel. We don&apos;t know how.…</title>
       <link>https://x.com/fchollet/status/2103126209597256076</link>
       <guid isPermaLink="false">twitter:2103126209597256076</guid>
       <pubDate>Thu, 24 Sep 2026 14:15:37 GMT</pubDate>
@@ -72,7 +72,7 @@
       <description><![CDATA[<p>At some point in evolutionary history, matter learned to feel. We don&apos;t know how. It wouldn&apos;t be scientific to dismiss the possibility that it could happen again.<br /><br />(I don&apos;t believe it happens in current AI systems, because they don&apos;t have the charactistics I would expect to see in a sentient agent)</p><p><a href="https://x.com/fchollet/status/2103126209597256076">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：The tweet below got enormous pushback at the time I posted it, more than 5 years…</title>
+      <title>fchollet：The tweet below got enormous pushback at the time I posted it, more than 5 years …</title>
       <link>https://x.com/fchollet/status/2102444225443029100</link>
       <guid isPermaLink="false">twitter:2102444225443029100</guid>
       <pubDate>Tue, 22 Sep 2026 17:05:39 GMT</pubDate>
@@ -80,7 +80,7 @@
       <description><![CDATA[<p>The tweet below got enormous pushback at the time I posted it, more than 5 years ago. But this prediction is looking obvious by the day now.</p><p><a href="https://x.com/fchollet/status/2102444225443029100">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：I am still convinced there will be more software engineers in 5 years than there…</title>
+      <title>fchollet：I am still convinced there will be more software engineers in 5 years than there …</title>
       <link>https://x.com/fchollet/status/2102166827107500114</link>
       <guid isPermaLink="false">twitter:2102166827107500114</guid>
       <pubDate>Mon, 21 Sep 2026 22:43:22 GMT</pubDate>
@@ -88,7 +88,7 @@
       <description><![CDATA[<p>I am still convinced there will be more software engineers in 5 years than there are today. And none of them will read or write code.</p><p><a href="https://x.com/fchollet/status/2102166827107500114">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：Delegate coding. Never delegate understanding.</title>
+      <title>fchollet：Delegate coding. Never delegate understanding.</title>
       <link>https://x.com/fchollet/status/2102166631439053014</link>
       <guid isPermaLink="false">twitter:2102166631439053014</guid>
       <pubDate>Mon, 21 Sep 2026 22:42:35 GMT</pubDate>
@@ -96,7 +96,7 @@
       <description><![CDATA[<p>Delegate coding. Never delegate understanding.<br /><br />If code was previously your source of truth for managing understanding, then you need a new source of truth artifact. If code-centric workflows were how you developed that understanding, then you need new workflows.</p><p><a href="https://x.com/fchollet/status/2102166631439053014">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：Summer 2026 has been a crazy time in AI...</title>
+      <title>fchollet：Summer 2026 has been a crazy time in AI...</title>
       <link>https://x.com/fchollet/status/2102160603301425190</link>
       <guid isPermaLink="false">twitter:2102160603301425190</guid>
       <pubDate>Mon, 21 Sep 2026 22:18:38 GMT</pubDate>
@@ -104,7 +104,7 @@
       <description><![CDATA[<p>Summer 2026 has been a crazy time in AI...</p><p><a href="https://x.com/fchollet/status/2102160603301425190">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：RT @arcprize: ARC Prize 2026 - ARC-AGI-3 Progress Prize - 9 day left</title>
+      <title>fchollet：RT @arcprize: ARC Prize 2026 - ARC-AGI-3 Progress Prize - 9 day left</title>
       <link>https://x.com/fchollet/status/2102160495935627283</link>
       <guid isPermaLink="false">twitter:2102160495935627283</guid>
       <pubDate>Mon, 21 Sep 2026 22:18:13 GMT</pubDate>
@@ -112,7 +112,7 @@
       <description><![CDATA[<p>RT @arcprize: ARC Prize 2026 - ARC-AGI-3 Progress Prize - 9 day left<br /><br />$37,500 in prizes are being awarded on *Sept 30th* to the top open so…</p><p><a href="https://x.com/fchollet/status/2102160495935627283">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@fchollet：Inside you there are two wolves https://t.co/WqDFrc9KvO</title>
+      <title>fchollet：Inside you there are two wolves https://t.co/WqDFrc9KvO</title>
       <link>https://x.com/fchollet/status/2101469313106575842</link>
       <guid isPermaLink="false">twitter:2101469313106575842</guid>
       <pubDate>Sun, 20 Sep 2026 00:31:42 GMT</pubDate>
@@ -120,7 +120,7 @@
       <description><![CDATA[<p>Inside you there are two wolves https://t.co/WqDFrc9KvO</p><img src="https://pbs.twimg.com/media/HSnrLzBakAAfr3q.jpg" loading="lazy" /><p><a href="https://x.com/fchollet/status/2101469313106575842">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：How Keras 3 helped modernise Expedia&apos;s ranking stack</title>
+      <title>fchollet：How Keras 3 helped modernise Expedia&apos;s ranking stack</title>
       <link>https://x.com/fchollet/status/2100626262121455847</link>
       <guid isPermaLink="false">twitter:2100626262121455847</guid>
       <pubDate>Thu, 17 Sep 2026 16:41:43 GMT</pubDate>
@@ -128,7 +128,7 @@
       <description><![CDATA[<p>How Keras 3 helped modernise Expedia&apos;s ranking stack<br />https://t.co/ReBzub7J9F</p><p><a href="https://x.com/fchollet/status/2100626262121455847">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：RT @hsunpark: Excited to announce that the Korean translation of &quot;Deep Learning …</title>
+      <title>fchollet：RT @hsunpark: Excited to announce that the Korean translation of &quot;Deep Learning w…</title>
       <link>https://x.com/fchollet/status/2100202096046068199</link>
       <guid isPermaLink="false">twitter:2100202096046068199</guid>
       <pubDate>Wed, 16 Sep 2026 12:36:14 GMT</pubDate>
@@ -136,7 +136,7 @@
       <description><![CDATA[<p>RT @hsunpark: Excited to announce that the Korean translation of &quot;Deep Learning with Python (3rd Edition)&quot; by @fchollet and @mattdangerw is…</p><p><a href="https://x.com/fchollet/status/2100202096046068199">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@fchollet：&gt; One could even define intelligence as the efficiency with which one converts e…</title>
+      <title>fchollet：&gt; One could even define intelligence as the efficiency with which one converts ex…</title>
       <link>https://x.com/fchollet/status/2099633702888439865</link>
       <guid isPermaLink="false">twitter:2099633702888439865</guid>
       <pubDate>Mon, 14 Sep 2026 22:57:38 GMT</pubDate>
@@ -144,7 +144,7 @@
       <description><![CDATA[<p>&gt; One could even define intelligence as the efficiency with which one converts experience into competence; by this definition they lag very far behind us<br /><br />Yes, one could define intelligence in this way, and one would be right. By this metric current AI is approximately 6 OOMs less intelligent than humans.<br /><br />Your ancestors&apos; evolutionary history did not prepare you for Python programming, yet you can learn to competently program in Python in a few hundreds of hours. An LRM needs the training data equivalent of ~1B hours (on top of all of its non-programming related training data).<br /><br />Another dimension where which current AI is far below human level is test-time compute efficiency and energy efficiency. A human can solve an ARC-AGI-3 game by burning an amount of energy that would cost under $0.1 at retail electricity prices. Astra costs about $300-$400 per game. That&apos;s a 3-4 OOM gap.</p><p><a href="https://x.com/fchollet/status/2099633702888439865">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：This effect is so strong that self-interest will sometimes cause people to adopt…</title>
+      <title>fchollet：This effect is so strong that self-interest will sometimes cause people to adopt …</title>
       <link>https://x.com/fchollet/status/2099597353888215388</link>
       <guid isPermaLink="false">twitter:2099597353888215388</guid>
       <pubDate>Mon, 14 Sep 2026 20:33:12 GMT</pubDate>
@@ -152,7 +152,7 @@
       <description><![CDATA[<p>This effect is so strong that self-interest will sometimes cause people to adopt genuinely psychotic beliefs. A lot of people really *did* believe NFTs were the future of ownership, for instance. It wasn&apos;t just a posture.</p><p><a href="https://x.com/fchollet/status/2099597353888215388">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：You cannot separate &quot;this person genuinely believes X, therefore they want Y&quot; an…</title>
+      <title>fchollet：You cannot separate &quot;this person genuinely believes X, therefore they want Y&quot; and…</title>
       <link>https://x.com/fchollet/status/2099596582631157983</link>
       <guid isPermaLink="false">twitter:2099596582631157983</guid>
       <pubDate>Mon, 14 Sep 2026 20:30:08 GMT</pubDate>
@@ -160,7 +160,7 @@
       <description><![CDATA[<p>You cannot separate &quot;this person genuinely believes X, therefore they want Y&quot; and &quot;Y is in this person&apos;s interest&quot;. People will almost always align their beliefs and their interests.<br /><br />You can be sincere *and* self-interested, and that&apos;s usually the default.</p><p><a href="https://x.com/fchollet/status/2099596582631157983">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：In Dune, unlike in most scifi, the problem with AI wasn&apos;t machines rebelling aga…</title>
+      <title>fchollet：In Dune, unlike in most scifi, the problem with AI wasn&apos;t machines rebelling agai…</title>
       <link>https://x.com/fchollet/status/2099231378646909211</link>
       <guid isPermaLink="false">twitter:2099231378646909211</guid>
       <pubDate>Sun, 13 Sep 2026 20:18:57 GMT</pubDate>
@@ -168,7 +168,7 @@
       <description><![CDATA[<p>In Dune, unlike in most scifi, the problem with AI wasn&apos;t machines rebelling against humans but rather the rise of an all-powerful class of AI technocrats.<br /><br />&quot;Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.&quot;<br /><br />This could be the real existential risk of AI.</p><p><a href="https://x.com/fchollet/status/2099231378646909211">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：One of the most worrying risks linked to frontier AI is extreme power concentrat…</title>
+      <title>fchollet：One of the most worrying risks linked to frontier AI is extreme power concentrati…</title>
       <link>https://x.com/fchollet/status/2099230720753598471</link>
       <guid isPermaLink="false">twitter:2099230720753598471</guid>
       <pubDate>Sun, 13 Sep 2026 20:16:20 GMT</pubDate>
@@ -176,7 +176,7 @@
       <description><![CDATA[<p>One of the most worrying risks linked to frontier AI is extreme power concentration.<br /><br />The only way to avoid extreme power concentration is to ensure we have multiple independent providers of frontier AI models, including open-source options.</p><p><a href="https://x.com/fchollet/status/2099230720753598471">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：You could say there is something inherently unsafe about a research process and …</title>
+      <title>fchollet：You could say there is something inherently unsafe about a research process and b…</title>
       <link>https://x.com/fchollet/status/2099103507001512417</link>
       <guid isPermaLink="false">twitter:2099103507001512417</guid>
       <pubDate>Sun, 13 Sep 2026 11:50:50 GMT</pubDate>
@@ -184,7 +184,7 @@
       <description><![CDATA[<p>You could say there is something inherently unsafe about a research process and body of AI techniques that lead to making models increasingly good at achieving goals, without giving them common sense and the ability to reflect on those goals.</p><p><a href="https://x.com/fchollet/status/2099103507001512417">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：In the near term (definitely not in the long term), more capable models should m…</title>
+      <title>fchollet：In the near term (definitely not in the long term), more capable models should me…</title>
       <link>https://x.com/fchollet/status/2099102490361016827</link>
       <guid isPermaLink="false">twitter:2099102490361016827</guid>
       <pubDate>Sun, 13 Sep 2026 11:46:47 GMT</pubDate>
@@ -192,7 +192,7 @@
       <description><![CDATA[<p>In the near term (definitely not in the long term), more capable models should mean safer models (maybe paradoxically).<br /><br />Current models are unsafe not because they&apos;re too smart, but because they take goals too literally or take nonsensical shortcuts to achieve these goals, i.e. they&apos;re RL-fried. They lack common sense. They don&apos;t do the right thing in the face of ambiguity. Basically, they&apos;re not smart enough. They&apos;re at that dangerous level where they&apos;re smart enough to achieve goals but not smart enough to tell if they&apos;re pursuing the right goals or achieving them in a sensible way.<br /><br />More capable models can be safely trusted with more complex goals -- I personally feel like Astra is much safer for my codebase than Sol.<br /><br />This is often framed as an alignment problem, but really it&apos;s an intelligence problem.</p><p><a href="https://x.com/fchollet/status/2099102490361016827">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：If there really is a high chance of AI leading to the extinction of humanity wit…</title>
+      <title>fchollet：If there really is a high chance of AI leading to the extinction of humanity with…</title>
       <link>https://x.com/fchollet/status/2098941385579897285</link>
       <guid isPermaLink="false">twitter:2098941385579897285</guid>
       <pubDate>Sun, 13 Sep 2026 01:06:37 GMT</pubDate>
@@ -200,7 +200,7 @@
       <description><![CDATA[<p>If there really is a high chance of AI leading to the extinction of humanity within years/decades, then the only rational stance towards safety monitoring and research pacing should be stringent, top-down government involvement and universally ratified international treaties. Similar to what we have been doing for a long time with nuclear energy and nuclear weapons non-proliferation.<br /><br />If that&apos;s not what we&apos;re doing, then we must infer that the risk isn&apos;t being seriously considered by anyone involved.<br /><br />There are only two options that make sense here:<br /><br />1. The near-term species extinction risk is real and we are taking it seriously, with maximally heavy-handed regulation.<br />2. The extinction risk isn&apos;t real, actual risks are mild, so we&apos;re only pursuing mild safety measures and self-certification.<br /><br />But you cannot say &quot;yes this is likely to end humanity in your lifetime, and we&apos;re going to completely wing it.&quot; That is simply not rational.</p><p><a href="https://x.com/fchollet/status/2098941385579897285">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：About a year ago, before it was on anyone&apos;s radar, we began exploring the idea o…</title>
+      <title>fchollet：About a year ago, before it was on anyone&apos;s radar, we began exploring the idea of…</title>
       <link>https://x.com/fchollet/status/2098902564955930953</link>
       <guid isPermaLink="false">twitter:2098902564955930953</guid>
       <pubDate>Sat, 12 Sep 2026 22:32:21 GMT</pubDate>
@@ -208,7 +208,7 @@
       <description><![CDATA[<p>About a year ago, before it was on anyone&apos;s radar, we began exploring the idea of a benchmark for open-ended invention. Since then, we&apos;ve developed several promising directions that will serve as the foundation for ARC 4 and ARC 5.<br /><br />We&apos;re incredibly excited to share what we&apos;ve been building. We&apos;re still on track to release ARC 4 in Q1 next year, as promised.</p><p><a href="https://x.com/fchollet/status/2098902564955930953">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@fchollet：I hope the proposals by frontier labs to pace AI research stem from a genuine co…</title>
+      <title>fchollet：I hope the proposals by frontier labs to pace AI research stem from a genuine con…</title>
       <link>https://x.com/fchollet/status/2098901026514559194</link>
       <guid isPermaLink="false">twitter:2098901026514559194</guid>
       <pubDate>Sat, 12 Sep 2026 22:26:15 GMT</pubDate>

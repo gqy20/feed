@@ -8,7 +8,7 @@
     <lastBuildDate>Fri, 04 Sep 2026 02:14:07 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
     <item>
-      <title>@DrJimFan：Good old days at OpenAI in 2016: an agent stares at screen pixels, moves a mouse…</title>
+      <title>DrJimFan：Good old days at OpenAI in 2016: an agent stares at screen pixels, moves a mouse,…</title>
       <link>https://x.com/DrJimFan/status/2095696882844463382</link>
       <guid isPermaLink="false">twitter:2095696882844463382</guid>
       <pubDate>Fri, 04 Sep 2026 02:14:07 GMT</pubDate>
@@ -16,7 +16,7 @@
       <description><![CDATA[<p>Good old days at OpenAI in 2016: an agent stares at screen pixels, moves a mouse, and books a flight on United. We called it World of Bits, inside OpenAI Universe. 10 yrs later, Astra is reincarnated in the same universe. Even the naming is astronomically correct 😆<br /><br />Universe was perhaps the most ambitious AI infra project at the time, but we couldn&apos;t quite figure out how to solve it. A policy with zero prior knowledge of what a &quot;submit&quot; button does has to rediscover the entire internet visual lingua by trial and error. In retrospect, RL from scratch against hand-drawn, per-task &quot;artisan&quot; reward functions on a bunch of Pascal Titan X GPUs was completely doomed.<br /><br />To solve computer use agent, the right way turns out to be boiling the ocean first (hillclimb on every general task you can find), and then specialize back down to the screen pixels and keystrokes. Or simply, a &quot;Specialized Generalist&quot;. <br /> <br />Lessons learned: one step ahead of everyone, you&apos;re a pioneer. Three steps ahead, you&apos;re a prophet. Five steps ahead, you&apos;re a martyr.<br /><br />Congrats, GPT-6! That United flight finally gets booked, reliably this time. The 2016 intern in me has a big smile.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2095680528884408320/img/lmtYnSdiCAMXxhe1.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2095696882844463382">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：RT @NickySGJingWang: &quot;Seeing is believing, but feeling&apos;s the truth.&quot;</title>
+      <title>DrJimFan：RT @NickySGJingWang: &quot;Seeing is believing, but feeling&apos;s the truth.&quot;</title>
       <link>https://x.com/DrJimFan/status/2090841822457434165</link>
       <guid isPermaLink="false">twitter:2090841822457434165</guid>
       <pubDate>Fri, 21 Aug 2026 16:41:51 GMT</pubDate>
@@ -24,7 +24,7 @@
       <description><![CDATA[<p>RT @NickySGJingWang: &quot;Seeing is believing, but feeling&apos;s the truth.&quot;</p><p><a href="https://x.com/DrJimFan/status/2090841822457434165">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：T-Rex: Tactile-Reactive Dexterous Manipulation</title>
+      <title>DrJimFan：T-Rex: Tactile-Reactive Dexterous Manipulation</title>
       <link>https://x.com/DrJimFan/status/2090832822525403481</link>
       <guid isPermaLink="false">twitter:2090832822525403481</guid>
       <pubDate>Fri, 21 Aug 2026 16:06:05 GMT</pubDate>
@@ -32,7 +32,7 @@
       <description><![CDATA[<p>T-Rex: Tactile-Reactive Dexterous Manipulation<br />Website: https://t.co/3irVptK79y<br />Open dataset: https://t.co/iKJrMVrfGm<br />This work is led by @Dantong_Niu and co-advised by @trevordarrell. Congrats to the team! <br /><br />https://t.co/i9fpN9XkPT</p><p><a href="https://x.com/DrJimFan/status/2090832822525403481">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：The sense of touch is the most criminally under-explored modality in robotics. I…</title>
+      <title>DrJimFan：The sense of touch is the most criminally under-explored modality in robotics. Im…</title>
       <link>https://x.com/DrJimFan/status/2090832821036470626</link>
       <guid isPermaLink="false">twitter:2090832821036470626</guid>
       <pubDate>Fri, 21 Aug 2026 16:06:04 GMT</pubDate>
@@ -40,7 +40,7 @@
       <description><![CDATA[<p>The sense of touch is the most criminally under-explored modality in robotics. Imagine doing sleight of hand wearing thick oven mitts. That&apos;s exactly how a robot feels today if it were alive. A magnetic piece snapping into place, a paper cup peeling out of a stack, a USB negotiating its way into the port - all invisible to the camera.<br /><br />Learning how to feel must be a full-stack co-designed effort. We are open-sourcing a principled methodology called &quot;T-Rex&quot;:<br /><br />1. Tactile as first-class citizen of the model. Our mixture-of-transformer runs two clocks asynchronously: a slow visuomotor expert plans the motion, and a fast tactile expert refines it in real time with high-frequency corrections at 4 &quot;touch ticks&quot; per vision tick. Forces change faster than frames arrive, so the architecture had to as well.<br /><br />2. Open data. The largest tactile dataset ever released to our knowledge: a 50-hour (~5,500 episodes) high-quality, carefully synchronized robot play corpus, collected on SOTA tactile hand hardware with 22 degrees of freedom. Available today on HuggingFace!<br /><br />3. Training recipe: T-Rex extends our prior work, EgoScale. Human egocentric videos for pretraining, a diverse dose of tactile robot play for mid-training. Our experiments show this bridges contact-free pretraining to contact-rich manipulation remarkably well.<br /><br />Pixels are cheap and everywhere, but they run out of steam at the moment of contact. Tactile will carry the last mile. The next scaling curve will be measured in hours of touch.<br /><br />T-Rex is a great collaboration between NVIDIA and Berkeley: 🧵</p><img src="https://pbs.twimg.com/amplify_video_thumb/2090815358697713664/img/vis50ZiQNt9Q3B-0.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2090832821036470626">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Seeing a hype wave around GEN-1.5, and rightfully so. Lots of respect to Pete &amp; …</title>
+      <title>DrJimFan：Seeing a hype wave around GEN-1.5, and rightfully so. Lots of respect to Pete &amp; A…</title>
       <link>https://x.com/DrJimFan/status/2090465981240086992</link>
       <guid isPermaLink="false">twitter:2090465981240086992</guid>
       <pubDate>Thu, 20 Aug 2026 15:48:23 GMT</pubDate>
@@ -48,7 +48,7 @@
       <description><![CDATA[<p>Seeing a hype wave around GEN-1.5, and rightfully so. Lots of respect to Pete &amp; Andy for executing so well. The secret is in the naturally repetitive motions in human-collected data. There&apos;re 2 main sources for such repetitions: <br /><br />(1) Symmetric patterns. Sorting, tidying, and assembling almost never finish in one motion. Open any assembly manual from IKEA, and you find most objects symmetrical. You drive one bolt, then its twin, then the next pair. Every {bolt A, bolt B} pair is a natural continuation in context, and the second instance is a free training signal that imitates the first (&quot;prompt&quot;).<br /><br />(2) Recovery. Humans drop things all the time, but we pick them up so fast, we don’t even notice. That reflex to fix is half of our physical competence. The key insight is to keep the failed first half instead of trimming it away. If the model consumes the full arc, fumble, catch, continue, then recovery shows up organically at test time. It&apos;s funny that in-context improvement results from *NOT* over-sanitizing your data.<br /><br />The other critical ingredient is UMI. I&apos;ve been saying for a while that teleop will not last, and GEN-1.5 is driving the final nail in the coffin. UMI is essentially a human wearing the robot gripper to collect data directly (human → data). Teleop inserts a layer of separation: human → VR/skeletal device → robot → data, which bleeds out all the human &quot;physical intuition&quot;. The subtle sleight of hand we perform constantly with objects, the micro-adjustments, the feel of a part snapping into place, is nearly impossible to capture when you can&apos;t feel the environment directly.<br /><br />Once you have enough data, many behaviors can actually be zero-shot. For example, you don&apos;t even need finetuning to pick up a novel object. The model &quot;just knows&quot; what to do given a similar scene in the training distribution. Whether in-context learning truly works or not also depends on how far away the test is from training. Currently, the demos are still a bit too simple to conclude.<br /><br />I&apos;m cautiously optimistic. Still, it&apos;s a great day in robotics.</p><p><a href="https://x.com/DrJimFan/status/2090465981240086992">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Stay hungry, stay foolish. Absolute legend https://t.co/PMHyBdkxGT</title>
+      <title>DrJimFan：Stay hungry, stay foolish. Absolute legend https://t.co/PMHyBdkxGT</title>
       <link>https://x.com/DrJimFan/status/2080798306566045756</link>
       <guid isPermaLink="false">twitter:2080798306566045756</guid>
       <pubDate>Fri, 24 Jul 2026 23:32:30 GMT</pubDate>
@@ -56,7 +56,7 @@
       <description><![CDATA[<p>Stay hungry, stay foolish. Absolute legend https://t.co/PMHyBdkxGT</p><img src="https://pbs.twimg.com/media/HOB7CAhbMAAKNIo.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2080798306566045756">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：How it&apos;s done:</title>
+      <title>DrJimFan：How it&apos;s done:</title>
       <link>https://x.com/DrJimFan/status/2078150496683213151</link>
       <guid isPermaLink="false">twitter:2078150496683213151</guid>
       <pubDate>Fri, 17 Jul 2026 16:11:03 GMT</pubDate>
@@ -64,7 +64,7 @@
       <description><![CDATA[<p>How it&apos;s done:<br /><br />https://t.co/DanOfnw4xk</p><p><a href="https://x.com/DrJimFan/status/2078150496683213151">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：My morning ritual: coffee, then watch our robot assemble stuff. The model isn&apos;t …</title>
+      <title>DrJimFan：My morning ritual: coffee, then watch our robot assemble stuff. The model isn&apos;t f…</title>
       <link>https://x.com/DrJimFan/status/2078150032575082616</link>
       <guid isPermaLink="false">twitter:2078150032575082616</guid>
       <pubDate>Fri, 17 Jul 2026 16:09:12 GMT</pubDate>
@@ -72,7 +72,7 @@
       <description><![CDATA[<p>My morning ritual: coffee, then watch our robot assemble stuff. The model isn&apos;t fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task well done.<br /><br />Uncut, no speedup, end-to-end policy in one go.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2078145436179980288/img/KrGQN8clohG4cWlG.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2078150032575082616">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：RT @drfeifei: I’m very excited by this test time training work for robotic learn…</title>
+      <title>DrJimFan：RT @drfeifei: I’m very excited by this test time training work for robotic learni…</title>
       <link>https://x.com/DrJimFan/status/2077523211441549532</link>
       <guid isPermaLink="false">twitter:2077523211441549532</guid>
       <pubDate>Wed, 15 Jul 2026 22:38:26 GMT</pubDate>
@@ -80,7 +80,7 @@
       <description><![CDATA[<p>RT @drfeifei: I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and…</p><p><a href="https://x.com/DrJimFan/status/2077523211441549532">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Blog and paper: https://t.co/WVMB9iibeW</title>
+      <title>DrJimFan：Blog and paper: https://t.co/WVMB9iibeW</title>
       <link>https://x.com/DrJimFan/status/2077414143901188195</link>
       <guid isPermaLink="false">twitter:2077414143901188195</guid>
       <pubDate>Wed, 15 Jul 2026 15:25:03 GMT</pubDate>
@@ -88,7 +88,7 @@
       <description><![CDATA[<p>Blog and paper: https://t.co/WVMB9iibeW<br />Presented to you from NVIDIA GEAR Lab. <br /><br />Please check out Yunfan&apos;s technical deep dive! <br /><br />https://t.co/7UF1UPdhyq</p><p><a href="https://x.com/DrJimFan/status/2077414143901188195">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth …</title>
+      <title>DrJimFan：We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth o…</title>
       <link>https://x.com/DrJimFan/status/2077414142340988962</link>
       <guid isPermaLink="false">twitter:2077414142340988962</guid>
       <pubDate>Wed, 15 Jul 2026 15:25:02 GMT</pubDate>
@@ -96,7 +96,7 @@
       <description><![CDATA[<p>We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (&lt; 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. <br /><br />Introducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.<br /><br />We can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. <br /><br />Humans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.<br /><br />One more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. <br /><br />Deep dive in thread:</p><img src="https://pbs.twimg.com/amplify_video_thumb/2077412577681002496/img/BWuBs3386eV4lKWg.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2077414142340988962">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：ENPIRE -&amp;gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We ar…</title>
+      <title>DrJimFan：ENPIRE -&amp;gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are…</title>
       <link>https://x.com/DrJimFan/status/2072337488782475390</link>
       <guid isPermaLink="false">twitter:2072337488782475390</guid>
       <pubDate>Wed, 01 Jul 2026 15:12:14 GMT</pubDate>
@@ -104,7 +104,7 @@
       <description><![CDATA[<p>ENPIRE -&amp;gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are building the components for robot self-improvement, one /skill at a time.</p><p><a href="https://x.com/DrJimFan/status/2072337488782475390">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Project gallery and whitepaper: https://t.co/99bZhCeszA</title>
+      <title>DrJimFan：Project gallery and whitepaper: https://t.co/99bZhCeszA</title>
       <link>https://x.com/DrJimFan/status/2072004192294830583</link>
       <guid isPermaLink="false">twitter:2072004192294830583</guid>
       <pubDate>Tue, 30 Jun 2026 17:07:50 GMT</pubDate>
@@ -112,7 +112,7 @@
       <description><![CDATA[<p>Project gallery and whitepaper: https://t.co/99bZhCeszA<br /><br />ASPIRE is a great collaboration between NVIDIA GEAR lab, UMich, Berkeley, and CMU. Kudos to all the coauthors who pour their hearts into the project!<br /><br />Check out the deep dive thread from Guanzhi: <br />https://t.co/kSCJ5mBz89</p><p><a href="https://x.com/DrJimFan/status/2072004192294830583">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Today, we give robots a /skills library that self-evolves and compounds indefini…</title>
+      <title>DrJimFan：Today, we give robots a /skills library that self-evolves and compounds indefinit…</title>
       <link>https://x.com/DrJimFan/status/2072004190856212902</link>
       <guid isPermaLink="false">twitter:2072004190856212902</guid>
       <pubDate>Tue, 30 Jun 2026 17:07:49 GMT</pubDate>
@@ -120,7 +120,7 @@
       <description><![CDATA[<p>Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. <br /><br />ASPIRE is a new type of continual learning: &quot;training&quot; is skill refinement instead of gradient descent. <br />&quot;Trained model&quot; is a repo of sensorimotor skills instead of floating weights. <br />“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.<br /><br />Here&apos;s the beauty: ASPIRE gives the tired terms &quot;sim2real transfer&quot; and &quot;cross-embodiment transfer&quot; a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn&apos;t ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn&apos;t rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in &quot;transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)<br /><br />Check out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the &quot;learned weights&quot; as an HTML page rather than a GGUF. We&apos;ll open-source the full stack so your own robot library starts compounding from ours! <br /><br />Deep dive in thread:</p><img src="https://pbs.twimg.com/amplify_video_thumb/2072001551988920320/img/TXpocUZJtZznIQtR.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2072004190856212902">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：https://t.co/4aVgLYY50L</title>
+      <title>DrJimFan：https://t.co/4aVgLYY50L</title>
       <link>https://x.com/DrJimFan/status/2067304433843863618</link>
       <guid isPermaLink="false">twitter:2067304433843863618</guid>
       <pubDate>Wed, 17 Jun 2026 17:52:40 GMT</pubDate>
@@ -128,7 +128,7 @@
       <description><![CDATA[<p>https://t.co/4aVgLYY50L</p><p><a href="https://x.com/DrJimFan/status/2067304433843863618">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：I made Physical AutoResearch sound simple (conceptually), but it took a village …</title>
+      <title>DrJimFan：I made Physical AutoResearch sound simple (conceptually), but it took a village t…</title>
       <link>https://x.com/DrJimFan/status/2067283904986517866</link>
       <guid isPermaLink="false">twitter:2067283904986517866</guid>
       <pubDate>Wed, 17 Jun 2026 16:31:05 GMT</pubDate>
@@ -136,7 +136,7 @@
       <description><![CDATA[<p>I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The hardest part is everything we need to setup *before* pressing Enter. Here&apos;s a behind-the-scene tour:<br /><br />1. Safety harness<br /><br />Letting 8 robots run unattended overnight means safety has to be more than a hint in the system prompt. ENPIRE hardwires it in 2 layers: (1) hard kinematic limit that trips an immediate task failure and auto-resets as soon as a robot leaves its safety envelope, and (2) a torque-limited compliant gripper so a bad contact or misaligned insertion ends in a safe stall, instead of crushing the robot or the object at hand. <br /><br />We make safety more conservative than usual so humans can sleep tight. In reality, we still need a few human operators to watch over the &quot;robots of loving grace&quot;. <br /><br />2. Definition of /done<br /><br />An agent that can edit its own reward will game it for sure. ENPIRE fixes the goalposts before the fleet can move them. Here&apos;s the recipe:<br /><br />Collect a few minutes of success &amp; failure demos<br />-&gt; Ask agent to write code using computer vision tools to classify success and measure against groundtruth<br />-&gt; Agent hill-climbs on classifier until reliably good<br />-&gt; This classifier becomes the real-time reward function that directly computes on sensor streams <br />-&gt; *Freeze* the reward function before AutoResearch. It&apos;s sacred, enshrined in a Gym env that no one can touch.<br /><br />3. System telemetry design<br /><br />Robot-seconds is by far the scarcest resource, followed by GPU-seconds, and finally tokens. We instrument all three and surface them to ENPIRE for live resource awareness rather than letting it hill-climb in a vacuum. <br /><br />We define:<br />- Mean Robot Utilization (&quot;MRU&quot;): the fraction of wall-clock time when the robot is actively executing an experiment. Otherwise the hardware is sitting idle and waiting for the next code commit.<br />- Mean Token Utilization (&quot;MTU&quot;): tokens consumed per minute, our proxy for how hard the agent is actually thinking. A low MTU means the agent is stalled, waiting on a robot rollout to finish instead of doing research.<br />- GPU utilization: fraction of wall-clock time when GPU is active. <br /><br />... and evaluate on two budget-to-outcome metrics:<br /><br />1. Tokens-to-Success: token budget the fleet burns to complete /goal.<br />2. Time-to-Success: wall-clock time to /goal</p><img src="https://pbs.twimg.com/amplify_video_thumb/2067270848499851264/img/YbR2gWhtS9T_6Ebk.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2067283904986517866">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Project site: https://t.co/0j2Vo0IyJg</title>
+      <title>DrJimFan：Project site: https://t.co/0j2Vo0IyJg</title>
       <link>https://x.com/DrJimFan/status/2066921739087729043</link>
       <guid isPermaLink="false">twitter:2066921739087729043</guid>
       <pubDate>Tue, 16 Jun 2026 16:31:58 GMT</pubDate>
@@ -144,7 +144,7 @@
       <description><![CDATA[<p>Project site: https://t.co/0j2Vo0IyJg<br /><br />Wenli has written an excellent technical thread, please check it out! <br /><br />https://t.co/JOQeAoECdg</p><p><a href="https://x.com/DrJimFan/status/2066921739087729043">原文</a></p>]]></description>
     </item>
     <item>
-      <title>@DrJimFan：Today, we enable AutoResearch in the physical world for the first time! Introduc…</title>
+      <title>DrJimFan：Today, we enable AutoResearch in the physical world for the first time! Introduci…</title>
       <link>https://x.com/DrJimFan/status/2066921736369766762</link>
       <guid isPermaLink="false">twitter:2066921736369766762</guid>
       <pubDate>Tue, 16 Jun 2026 16:31:58 GMT</pubDate>
