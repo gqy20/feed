@@ -24,7 +24,7 @@
     for (const a of matched) {
       const row = el("tr"), name = el("td"), link = el("a","overview-account");
       const url = new URL("./",location.href); url.searchParams.set("account",a.key); if ($("overview-period").value !== "all") url.searchParams.set("period",$("overview-period").value); link.href = url.href;
-      if (["twitter","xhs"].includes(a.platform)) { const logo = el("img",`platform-logo platform-logo-${a.platform}`); logo.src = a.platform === "xhs" ? "assets/platform-xhs.svg" : "assets/platform-x.svg"; logo.alt = a.platform === "xhs" ? "小红书" : "X"; link.append(logo); }
+      if (a.avatar && /^https?:/.test(a.avatar)) { const av = el("img", "overview-avatar"); av.src = a.avatar; av.alt = ""; av.loading = "lazy"; av.referrerPolicy = "no-referrer"; link.append(av); } else if (["twitter","xhs"].includes(a.platform)) { const logo = el("img",`platform-logo platform-logo-${a.platform}`); logo.src = a.platform === "xhs" ? "assets/platform-xhs.svg" : "assets/platform-x.svg"; logo.alt = a.platform === "xhs" ? "小红书" : "X"; link.append(logo); }
       else link.append(el("span","",a.platform));
       link.append(el("span","",a.name)); name.append(link);
       if (!a.followed) name.append(el("span","history-label","历史"));

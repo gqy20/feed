@@ -100,3 +100,7 @@ select option{background:var(--surface);color:var(--ink)}
 @media(max-width:699px){.overview-main{padding:30px 20px 48px}.overview-heading{display:block;margin-bottom:24px}.overview-heading p{margin-top:10px;line-height:1.8}.overview-page .overview-controls{gap:12px}.overview-page .overview-controls .search{max-width:none;flex-basis:100%}.overview-page .topbar nav a{display:inline}.overview-page .topbar nav a[href="rss/all.xml"]{display:none}.overview-page .topbar nav{gap:12px}.overview-page th,.overview-page td{padding-top:14px;padding-bottom:14px}}
 
 .load-more{display:block;width:100%;padding:20px 12px;border:0;background:transparent;color:var(--soft);cursor:pointer;font:inherit;text-align:center}.load-more:hover{color:var(--ink)}
+
+.post-avatar { width: 18px; height: 18px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
+.avatar-img { object-fit: cover; }
+.overview-avatar { width: 20px; height: 20px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
