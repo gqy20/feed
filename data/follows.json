@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "updated_at": "2026-10-01T02:47:25.192Z",
+  "accounts": [
+    {
+      "platform": "twitter",
+      "handle": "dotey",
+      "name": "宝玉",
+      "priority": 3
+    },
+    {
+      "platform": "twitter",
+      "handle": "karpathy",
+      "priority": 3
+    },
+    {
+      "platform": "twitter",
+      "handle": "op7418",
+      "name": "归藏",
+      "priority": 3
+    },
+    {
+      "platform": "twitter",
+      "handle": "sama",
+      "priority": 3
+    },
+    {
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "priority": 3
+    },
+    {
+      "platform": "twitter",
+      "handle": "aakashg0",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "amasad",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "AndrewYNg",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "btibor91",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "chipro",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "danshipper",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "DarioAmodei",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "drfeifei",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "DrJimFan",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "emollick",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "eugeneyan",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "fchollet",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "gdb",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "hamzafarrukh",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "huggingface",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "ilyasut",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "JeremyHoward",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "lilianweng",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "MetaAI",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "natfriedman",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "nir_diamant",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "OfficialLoganK",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "ShunyuYao12",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "simonw",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "priority": 2
+    },
+    {
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "priority": 2
+    },
+    {
+      "platform": "xhs",
+      "handle": "5d7ece920000000001018707",
+      "name": "SinKry 的 Ai 方舟",
+      "priority": 1
+    },
+    {
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "name": "AI 异类弗兰克",
+      "priority": 1
+    },
+    {
+      "platform": "xhs",
+      "handle": "6314a2cc0000000012003173",
+      "name": "Aaron-OpenOnion",
+      "priority": 1
+    },
+    {
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "name": "AI 拯救打工人（大厂爆料版）",
+      "priority": 1
+    },
+    {
+      "platform": "xhs",
+      "handle": "68502b1a000000001b01a7ba",
+      "name": "AgentOPC",
+      "priority": 1
+    }
+  ]
+}
