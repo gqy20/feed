@@ -5,8 +5,104 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>op7418 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/op7418.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 07:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:51:25 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>归藏：最近 Agent 也像以前的一些软件一样出现了分化：</title>
+      <link>https://x.com/op7418/status/2105883326599032937</link>
+      <guid isPermaLink="false">twitter:2105883326599032937</guid>
+      <pubDate>Fri, 02 Oct 2026 04:51:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>最近 Agent 也像以前的一些软件一样出现了分化：<br /><br />1. Personal Agent（面向大众与生活类工具）：<br /><br />这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。<br /><br />它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。<br /><br />2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）：<br /><br />这部分强调极致的自定义和丰富的自我构建，类似于通过迭代式（如 RSI 方式）去构建自己的软件，让专家和拥有专业技能的人构建自己的 Agent。<br /><br />在底层 Agent 的框架上（例如 Claude Mode、DeepSeek Harness、新的 Pi 1.0 的更新，以及 Codex 的插件），用户可以通过自然语言构建自己的工具并内嵌在 Agent 里，甚至可以更改 Agent 的界面，从而更改 Agent 的体系和系统。</p><p><a href="https://x.com/op7418/status/2105883326599032937">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek ha…</title>
+      <link>https://x.com/op7418/status/2105867869749993678</link>
+      <guid isPermaLink="false">twitter:2105867869749993678</guid>
+      <pubDate>Fri, 02 Oct 2026 03:49:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。<br /><br />似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。<br /><br />但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。</p><img src="https://pbs.twimg.com/media/HTmLp45aoAAW4Ne.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2105867869749993678">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：Opus 5.5 做这种科普和人文视频也很牛批啊</title>
+      <link>https://x.com/op7418/status/2105675440409174160</link>
+      <guid isPermaLink="false">twitter:2105675440409174160</guid>
+      <pubDate>Thu, 01 Oct 2026 15:05:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Opus 5.5 做这种科普和人文视频也很牛批啊<br /><br />让他做了一个关于榫卯的科普介绍视频，质量非常好 https://t.co/YgTrH249fl</p><img src="https://pbs.twimg.com/amplify_video_thumb/2105674819899703296/img/CHGY08ejITFDONX-.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2105675440409174160">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。</title>
+      <link>https://x.com/op7418/status/2105578214970237149</link>
+      <guid isPermaLink="false">twitter:2105578214970237149</guid>
+      <pubDate>Thu, 01 Oct 2026 08:39:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。<br /><br />而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。<br /><br />之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。<br /><br />我对谷歌的希望，就是它能有一个接近于国产模型头部的 Agent 或者 coding 能力，同时依旧维持它比较长板的写作能力和多模态能力，这样就已经很能打了</p><p><a href="https://x.com/op7418/status/2105578214970237149">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：Dot 这个限制比较多，不能用 SSH 连，玩法少了不少</title>
+      <link>https://x.com/op7418/status/2105491916586631647</link>
+      <guid isPermaLink="false">twitter:2105491916586631647</guid>
+      <pubDate>Thu, 01 Oct 2026 02:56:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Dot 这个限制比较多，不能用 SSH 连，玩法少了不少</p><p><a href="https://x.com/op7418/status/2105491916586631647">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：最近 Personal Agent 很火</title>
+      <link>https://x.com/op7418/status/2105490925518815618</link>
+      <guid isPermaLink="false">twitter:2105490925518815618</guid>
+      <pubDate>Thu, 01 Oct 2026 02:52:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>最近 Personal Agent 很火<br /><br />对比了一下主流的 Personal Agent 的虚拟机配置，这么看老马是真下本啊。<br /><br />Grokbot 从 CPU、内存、硬盘都给得很够，Dot 的配置也很高。<br /><br />不过 Dot 好像不是独享虚拟机的，可能存在共用情况 https://t.co/e7sVZwjo4O</p><img src="https://pbs.twimg.com/media/HTg0eOsb0AAs6l_.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTg0eOva8AAAdIe.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTg0eOxacAAwbKZ.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTg0eO7boAAM_yW.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2105490925518815618">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面</title>
+      <link>https://x.com/op7418/status/2105339488969036268</link>
+      <guid isPermaLink="false">twitter:2105339488969036268</guid>
+      <pubDate>Wed, 30 Sep 2026 16:50:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面</p><p><a href="https://x.com/op7418/status/2105339488969036268">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货</title>
+      <link>https://x.com/op7418/status/2105322339919654948</link>
+      <guid isPermaLink="false">twitter:2105322339919654948</guid>
+      <pubDate>Wed, 30 Sep 2026 15:42:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货</p><p><a href="https://x.com/op7418/status/2105322339919654948">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频</title>
+      <link>https://x.com/op7418/status/2105320934072865260</link>
+      <guid isPermaLink="false">twitter:2105320934072865260</guid>
+      <pubDate>Wed, 30 Sep 2026 15:36:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频<br /><br />写一下实践的步骤：<br /><br />1. 基于我日常的内容渠道和喜好先整理文案来源到 Notion 和聊天里面<br /><br />2. 查找下载相关内容的图片和视频素材<br /><br />3. 在虚拟机里面通过 Pi 调用我的 K3 和 GLM 5.3 模型利用 guizang-product-video-skill 将所有的信息组装成视频<br /><br />4. 通过 Mues 聊天界面发给我</p><img src="https://pbs.twimg.com/amplify_video_thumb/2105318020075937792/img/HJt17i7gYddL4Uyj.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2105320934072865260">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：也就是之前一周的量，等于送了一次灵活重置</title>
+      <link>https://x.com/op7418/status/2105297008286392651</link>
+      <guid isPermaLink="false">twitter:2105297008286392651</guid>
+      <pubDate>Wed, 30 Sep 2026 14:01:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>也就是之前一周的量，等于送了一次灵活重置</p><p><a href="https://x.com/op7418/status/2105297008286392651">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：我算了一下，购买积分的话，2500 积分是 100 美元。</title>
+      <link>https://x.com/op7418/status/2105295158350889011</link>
+      <guid isPermaLink="false">twitter:2105295158350889011</guid>
+      <pubDate>Wed, 30 Sep 2026 13:54:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>我算了一下，购买积分的话，2500 积分是 100 美元。<br /><br />所以如果按积分的价格算，这 62500 积分等于一次性给了你 2500 美元的额度</p><p><a href="https://x.com/op7418/status/2105295158350889011">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>归藏：收到 OpenAI 发的邮件了。</title>
+      <link>https://x.com/op7418/status/2105289078971437268</link>
+      <guid isPermaLink="false">twitter:2105289078971437268</guid>
+      <pubDate>Wed, 30 Sep 2026 13:30:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>收到 OpenAI 发的邮件了。<br /><br />应该是在调整 200 美元 Pro 会员额度以后，给所有受影响的 200 美元 Pro 用户增加了 62,500 点积分。<br /><br />这个是长期的，会在今年年底过期，看起来积分挺多的。<br /><br />我觉得他们如果在宣传的时候，把这些补偿措施一下子说完，昨天大家抵触情绪可能也不会这么强烈 https://t.co/BaQRhMoUeV</p><img src="https://pbs.twimg.com/media/HTd9DI9aUAABq49.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2105289078971437268">原文</a></p>]]></description>
+    </item>
     <item>
       <title>归藏：Tibo 宣布，明天 Codex 200 美元的会员按照 API 额度算的话，会开始减半，降低一半额度。</title>
       <link>https://x.com/op7418/status/2104835134373716195</link>

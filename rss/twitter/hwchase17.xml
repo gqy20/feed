@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hwchase17 · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>hwchase17 · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2026 23:49:14 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>hwchase17：RT @LangChain_JS: @𝚕𝚊𝚗𝚐𝚌𝚑𝚊𝚒𝚗/𝚖𝚌𝚙-𝚊𝚍𝚊𝚙𝚝𝚎𝚛𝚜 2.0 is out! 🧵</title>
+      <link>https://x.com/hwchase17/status/2105807280713376079</link>
+      <guid isPermaLink="false">twitter:2105807280713376079</guid>
+      <pubDate>Thu, 01 Oct 2026 23:49:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LangChain_JS: @𝚕𝚊𝚗𝚐𝚌𝚑𝚊𝚒𝚗/𝚖𝚌𝚙-𝚊𝚍𝚊𝚙𝚝𝚎𝚛𝚜 2.0 is out! 🧵<br /><br />Using MCP with your TypeScript agents up to MCP servers just got a lot simpler: su…</p><p><a href="https://x.com/hwchase17/status/2105807280713376079">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：congrats @AravSrinivas! more entrants in the decision model class, and this one …</title>
+      <link>https://x.com/hwchase17/status/2105806366405484628</link>
+      <guid isPermaLink="false">twitter:2105806366405484628</guid>
+      <pubDate>Thu, 01 Oct 2026 23:45:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>congrats @AravSrinivas! more entrants in the decision model class, and this one is open weights<br /><br />cheap typed answers for the small calls inside a harness (routing, approvals, judging), big model for the rest<br /><br />https://t.co/GkGAUacsmV</p><p><a href="https://x.com/hwchase17/status/2105806366405484628">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：pretty clear every agent harness needs a durable runtime</title>
+      <link>https://x.com/hwchase17/status/2105791360796397954</link>
+      <guid isPermaLink="false">twitter:2105791360796397954</guid>
+      <pubDate>Thu, 01 Oct 2026 22:45:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>pretty clear every agent harness needs a durable runtime<br /><br />pi :: pi-durable<br /><br />deepagents :: langgraph</p><p><a href="https://x.com/hwchase17/status/2105791360796397954">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @EdenEmarco177: Check out jes: An open source real-time guardrails for AI age…</title>
+      <link>https://x.com/hwchase17/status/2105728467925168312</link>
+      <guid isPermaLink="false">twitter:2105728467925168312</guid>
+      <pubDate>Thu, 01 Oct 2026 18:36:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @EdenEmarco177: Check out jes: An open source real-time guardrails for AI agents, powered by decision models like Jev from<br />@typesafeai…</p><p><a href="https://x.com/hwchase17/status/2105728467925168312">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @amadaecheverria: jes, a jev open-source guardrails project LangChain Ambassa…</title>
+      <link>https://x.com/hwchase17/status/2105728445942825378</link>
+      <guid isPermaLink="false">twitter:2105728445942825378</guid>
+      <pubDate>Thu, 01 Oct 2026 18:35:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @amadaecheverria: jes, a jev open-source guardrails project LangChain Ambassador @EdenEmarco177 has been working on<br /><br />It uses LangChain’s…</p><p><a href="https://x.com/hwchase17/status/2105728445942825378">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：decision model season indeed</title>
+      <link>https://x.com/hwchase17/status/2105713773084569666</link>
+      <guid isPermaLink="false">twitter:2105713773084569666</guid>
+      <pubDate>Thu, 01 Oct 2026 17:37:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>decision model season indeed<br /><br />said there&apos;d be more entrants before long - now open weights too, nice work @ritakozlov + the cloudflare team<br /><br />your harness should be able to swap its decision model as easily as its main model<br /><br /> https://t.co/vGcHvb6RaN</p><p><a href="https://x.com/hwchase17/status/2105713773084569666">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：model routing - &quot;no one knows what it means, but its provocative, gets the peopl…</title>
+      <link>https://x.com/hwchase17/status/2105710409894547687</link>
+      <guid isPermaLink="false">twitter:2105710409894547687</guid>
+      <pubDate>Thu, 01 Oct 2026 17:24:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>model routing - &quot;no one knows what it means, but its provocative, gets the people going&quot;<br /><br />we try to shed light on how to do it properly<br /><br />1. understand tasks<br />2. understand the models<br />3. build the router **in the harness**<br />4. track outcomes<br /><br />lower costs, with no performance hit https://t.co/NDvjP6YDwu</p><img src="https://pbs.twimg.com/media/HTj8WDobAAEooV7.png" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2105710409894547687">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @sydneyrunkle: https://t.co/sGbf2IE6q0</title>
+      <link>https://x.com/hwchase17/status/2105709535986086110</link>
+      <guid isPermaLink="false">twitter:2105709535986086110</guid>
+      <pubDate>Thu, 01 Oct 2026 17:20:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: https://t.co/sGbf2IE6q0</p><p><a href="https://x.com/hwchase17/status/2105709535986086110">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @sydneyrunkle: we built a model router for our coding agent that cut median c…</title>
+      <link>https://x.com/hwchase17/status/2105709520735617474</link>
+      <guid isPermaLink="false">twitter:2105709520735617474</guid>
+      <pubDate>Thu, 01 Oct 2026 17:20:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: we built a model router for our coding agent that cut median cost per task by 64%, with no measurable drop in quality!<br /><br />m…</p><p><a href="https://x.com/hwchase17/status/2105709520735617474">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @jakebroekhuizen: We spent a lot of time streamlining the process to go from …</title>
+      <link>https://x.com/hwchase17/status/2105709493556494817</link>
+      <guid isPermaLink="false">twitter:2105709493556494817</guid>
+      <pubDate>Thu, 01 Oct 2026 17:20:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @jakebroekhuizen: We spent a lot of time streamlining the process to go from your agent&apos;s trajectories to an SFT&apos;d model on your trainin…</p><p><a href="https://x.com/hwchase17/status/2105709493556494817">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @sydneyrunkle: new in langgraph: interrupts with typed response schemas!</title>
+      <link>https://x.com/hwchase17/status/2105390305663172715</link>
+      <guid isPermaLink="false">twitter:2105390305663172715</guid>
+      <pubDate>Wed, 30 Sep 2026 20:12:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: new in langgraph: interrupts with typed response schemas!<br /><br />when your agent pauses for a human, you define what a valid re…</p><p><a href="https://x.com/hwchase17/status/2105390305663172715">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @ndrezn: I had some folks asking for the source code for this demo!</title>
+      <link>https://x.com/hwchase17/status/2105384783396417928</link>
+      <guid isPermaLink="false">twitter:2105384783396417928</guid>
+      <pubDate>Wed, 30 Sep 2026 19:50:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ndrezn: I had some folks asking for the source code for this demo!<br /><br />Link in 🧵 if you want to fork/build off of it in any direction. Our…</p><p><a href="https://x.com/hwchase17/status/2105384783396417928">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：great writeup by @pirroh</title>
+      <link>https://x.com/hwchase17/status/2105046322269315362</link>
+      <guid isPermaLink="false">twitter:2105046322269315362</guid>
+      <pubDate>Tue, 29 Sep 2026 21:25:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>great writeup by @pirroh<br /><br />harness doesn&apos;t disappear as models get smarter - it shifts from deciding to offering<br /><br />in deepagents you give each subagent its own model, tools, and permissions - the main loop picks which to spawn and when<br /><br />docs: https://t.co/c1fYCa4msO</p><p><a href="https://x.com/hwchase17/status/2105046322269315362">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：listen is a great company, alfred and florian are awesome founders</title>
+      <link>https://x.com/hwchase17/status/2105046157659717954</link>
+      <guid isPermaLink="false">twitter:2105046157659717954</guid>
+      <pubDate>Tue, 29 Sep 2026 21:24:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>listen is a great company, alfred and florian are awesome founders<br /><br />the problem space listen is tackling is also an amazing use case for AI, very bullish on what they will still build here!</p><p><a href="https://x.com/hwchase17/status/2105046157659717954">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：No</title>
+      <link>https://x.com/hwchase17/status/2104999562285035723</link>
+      <guid isPermaLink="false">twitter:2104999562285035723</guid>
+      <pubDate>Tue, 29 Sep 2026 18:19:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>No</p><p><a href="https://x.com/hwchase17/status/2104999562285035723">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @LangChain: Meet the new terminal interface in Managed Deep Agents.</title>
+      <link>https://x.com/hwchase17/status/2104969296124542991</link>
+      <guid isPermaLink="false">twitter:2104969296124542991</guid>
+      <pubDate>Tue, 29 Sep 2026 16:19:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LangChain: Meet the new terminal interface in Managed Deep Agents.<br /><br />Get started: `mda chat`</p><p><a href="https://x.com/hwchase17/status/2104969296124542991">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @ndrezn: We&apos;ve just shipped a new terminal interface 💻 for Managed Deep Agen…</title>
+      <link>https://x.com/hwchase17/status/2104964203832610842</link>
+      <guid isPermaLink="false">twitter:2104964203832610842</guid>
+      <pubDate>Tue, 29 Sep 2026 15:59:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ndrezn: We&apos;ve just shipped a new terminal interface 💻 for Managed Deep Agents. It rips.<br /><br />Use it to instantly test drive your agent loca…</p><p><a href="https://x.com/hwchase17/status/2104964203832610842">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：company OS (org harness) vs personal agent, similarities and differences:</title>
+      <link>https://x.com/hwchase17/status/2104940633018577400</link>
+      <guid isPermaLink="false">twitter:2104940633018577400</guid>
+      <pubDate>Tue, 29 Sep 2026 14:25:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>company OS (org harness) vs personal agent, similarities and differences:<br /><br />differences:<br />- Many principals (users), one actor (agent): will need to be multiplayer, handle multiple users (sometimes even in same thread), and as a result handle auth/memory correctly<br />- governance: observability, auditability, admin control plane matter way more<br />- interaction pattern: more event driven and async<br /><br />similarities:<br />- should be able to write/execute code<br />- browser use likely very important! (key difference from a coding harness)<br />- skills/MCP as standards<br />- core agent loop/logic<br /><br />what am i missing?</p><p><a href="https://x.com/hwchase17/status/2104940633018577400">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：coding harness -&amp;gt; personal harness -&amp;gt; org harness</title>
+      <link>https://x.com/hwchase17/status/2104701729120157766</link>
+      <guid isPermaLink="false">twitter:2104701729120157766</guid>
+      <pubDate>Mon, 28 Sep 2026 22:36:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>coding harness -&amp;gt; personal harness -&amp;gt; org harness<br /><br />(company harness? enterprise harness? still figuring out right name, open to suggestions)</p><p><a href="https://x.com/hwchase17/status/2104701729120157766">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：every agent will need a sandbox</title>
+      <link>https://x.com/hwchase17/status/2104696039550963757</link>
+      <guid isPermaLink="false">twitter:2104696039550963757</guid>
+      <pubDate>Mon, 28 Sep 2026 22:13:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>every agent will need a sandbox<br /><br />and the harness should live outside it - separate the brains from the hands<br /><br />great to see nvidia open sourcing tools here, agree with Andrew this is part of the harness not a bolt on<br /><br />https://t.co/VpnPZLHNM5</p><p><a href="https://x.com/hwchase17/status/2104696039550963757">原文</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

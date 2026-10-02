@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>btibor91 · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>btibor91 · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/btibor91.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2026 16:30:23 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>btibor91：Also, my dot says hello https://t.co/sw2jJLeTHQ</title>
+      <link>https://x.com/btibor91/status/2105334452213944362</link>
+      <guid isPermaLink="false">twitter:2105334452213944362</guid>
+      <pubDate>Wed, 30 Sep 2026 16:30:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Also, my dot says hello https://t.co/sw2jJLeTHQ</p><img src="https://pbs.twimg.com/tweet_video_thumb/HTemhY8bgAI-2lt.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2105334452213944362">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：Ideogram launched Ideogram 4.5, an image editing model, live now in Ideogram, the…</title>
+      <link>https://x.com/btibor91/status/2105334426410651993</link>
+      <guid isPermaLink="false">twitter:2105334426410651993</guid>
+      <pubDate>Wed, 30 Sep 2026 16:30:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Ideogram launched Ideogram 4.5, an image editing model, live now in Ideogram, the API and launch partners, with open weights coming soon<br /><br />The model is focused on multi-turn editing, so you can edit the same image over and over without artifacts, pixel shifts or color changes between edits, and it can also edit a crop of a high-res image without downsizing it and stitch the result back into the original<br /><br />I&apos;ve been using Ideogram since v0.1 in Aug 2023 and it still remains one of my favorite tools (also one of my first prompt templates in AIPRM for ChatGPT to help me iterate on prompts for Ideogram back then)</p><img src="https://pbs.twimg.com/media/HTeme7Ya0AA6m8_.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTemfjmbgAA85ij.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTemfy2bgAQFbMY.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTemgGubYAABBUt.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2105334426410651993">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：OpenAI introduced today at DevDay 2026 more than 20 updates across ChatGPT, Codex…</title>
+      <link>https://x.com/btibor91/status/2105045716884197745</link>
+      <guid isPermaLink="false">twitter:2105045716884197745</guid>
+      <pubDate>Tue, 29 Sep 2026 21:23:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI introduced today at DevDay 2026 more than 20 updates across ChatGPT, Codex, models and the API, including dots (always-on agents), GPT-6.1 Sol (close to GPT-6 Astra at a fifth of the price), Ultrafast (a speed tier with up to 8x faster token generation), ChatGPT Space (shared pages you edit together with people and agents) and Pro 500 (a new $500/month plan)<br /><br />Models<br /><br />- GPT-6.1 Sol comes close to GPT-6 Astra on agentic coding, computer use and professional work at one-fifth of Astra&apos;s token prices ($2 input, $10 output, $0.10 cached input per 1M tokens), available in the API as gpt-6.1-sol and in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise and Edu, not yet in Chat<br /><br />- Ultrafast generates tokens up to 8x faster (300 tokens per second) in Codex and up to 6x faster in the API, with GPT-6 Astra Ultrafast available today in the API, ChatGPT Work and Codex on Pro 500 and Enterprise, and GPT-6.1 Sol Ultrafast coming in the next days<br /><br />- Ultrafast uses included plan usage at 8x the Standard rate and purchased credits or Enterprise pay-as-you-go at 6x, is off by default for Enterprise workspaces and isn&apos;t available to workspaces that need inference residency outside the US<br /><br />- Private Intelligence adds per-project policies with Zero Data Retention, Private Safety Processing and validated external storage<br /><br />Dots<br /><br />- Dots run on GPT-6 Astra, have their own cloud computer and browser, connect to over 4,000 apps through plugins, learn from feedback and keep working between conversations, and you can message or call them in ChatGPT, Slack or Microsoft Teams<br /><br />- Dots can run several tasks in parallel with background agents, decide themselves when to pause and wake up, and create Work or Codex tasks, including in Codex cloud environments<br /><br />- Dots research your connected apps in the background with read-only tools, and actions that affect your accounts or share information go through auto-review, custom rules and built-in safety checks<br /><br />- You can open your dot&apos;s cloud browser at any time to take over a step and hand control back, dots can sign in to websites with saved passwords without exposing them to the model, and you can connect your computer through your dot&apos;s profile to give it access to local files, code and apps<br /><br />- Texting your dot is coming next, Pro users can join a waitlist for iMessage or RCS on Android, and at launch a dot can use your personal email but can&apos;t get its own standalone email address<br /><br />- Your first dot is included in your Pro (Pro 100 too), Business Premium or Enterprise plan at no extra cost, conversations with it don&apos;t count toward your ChatGPT usage limits, tasks it starts or manages in ChatGPT Work or Codex count toward those limits as usual<br /><br />- Dots roll out gradually to Pro users outside the EEA, UK and Switzerland, Business Premium worldwide and Enterprise as an off-by-default beta, you create them on desktop only (mobile app support follows), and OpenAI plans teams of dots per user, specialist dots for companies as enterprise pilots and an integration into Microsoft Agent 365<br /><br />Pro plans<br /><br />- Pro 500 is a new $500/month plan with the most included usage and the only Pro tier with Ultrafast (buying credits on Pro 100 or 200 doesn&apos;t unlock it), and Pro 200 is available again for new subscribers with a lower usage allowance, with existing subscribers keeping their previous allowance through Oct 29, 2026<br /><br />ChatGPT Space and collaboration<br /><br />- ChatGPT Space replaces Library for Pro, Business and Enterprise with pages you edit in real time with team members, comment on, tag @ ChatGPT or @ dot in and fill with generated text, images, interactive visualizations and prompt blocks, with collaborative slides, spreadsheets and mobile editing coming later<br /><br />- Each collaborator uses their own ChatGPT, sharing a page doesn&apos;t share your private chats or memory, Projects stay separate from Space, Enterprise sharing is an opt-in preview, and pages that refresh from connected tools (Keep Updated) aren&apos;t available at launch<br /><br />- The Meetings plugin (beta, macOS desktop app, Pro and Business, Enterprise coming soon) takes notes from what&apos;s said in the meeting, saves summaries with action items to Space and deletes the audio once the notes are ready<br /><br />- @ ChatGPT works in Slack and Teams with a deployment&apos;s connected tools, and Enterprise gets Team Tasks that run scheduled or event-triggered work through a team&apos;s service account, workspace connections for company-managed accounts and Agent Security policies for tools, files and network access<br /><br />- Shareable profiles (private by default) show your Sites and plugins, Sites get in-place editing and scheduled updates, and synced Work tasks continue across desktop, web and mobile<br /><br />Codex<br /><br />- Codex gets reusable cloud environments where tasks run in isolated workspaces and continue with your computer asleep (Plus, Pro, Business, Healthcare, Education and Enterprise), an updated Codex CLI and a Code Review plugin for pull requests<br /><br />- Codex Security Cloud (research preview) scans connected GitHub repos on demand, on a schedule or on new commits, checks findings, removes duplicates and prepares patches as draft pull requests, with access to Daybreak Blue models only inside Security Cloud<br /><br />API and developers<br /><br />- New Decisions API (constrained decision-making on Luna with image inputs in under a few hundred milliseconds), the Agents API with computer use and Bedrock Managed Agents on AWS running OpenAI models<br /><br />- Plugin extensions let developers add sidebar apps, conversation panels, file viewers and editors, and forms to ChatGPT, plugin creation, submission and discovery got updated, and Sites can now host plugins<br /><br />- MCP Events (needs MCP 2.0, webhook delivery only) let plugins start automations when something happens in a connected app, available on all plans<br /><br />- Sign in with ChatGPT lets you sign in to third-party apps with your name, email and profile picture (no conversations or memory shared), and eligible Plus and Pro users can use their ChatGPT plan allowance in participating apps with an app-specific limit (limited trial with selected partners)<br /><br />- A Browser Annotation API lets websites choose what people can select and attach context before sending feedback to ChatGPT<br /><br />Enterprise and other<br /><br />- OpenAI Marketplace lets eligible enterprise customers put part of their existing OpenAI commitment toward 32 partner tools, including Adobe, Figma, Sierra, Salesforce, ServiceNow, Harvey, Palo Alto Networks, CrowdStrike and Baseten<br /><br />- OpenAI now counts 1.2B weekly users, its team rewrote ChatGPT Web on top of the desktop app codebase in 5 weeks with Astra so future launches ship on web and desktop on the same day, and reports Responses API token traffic up 100x year over year at 99.9% uptime</p><img src="https://pbs.twimg.com/media/HTadrquXUAAqJH0.png" loading="lazy" /><p><a href="https://x.com/btibor91/status/2105045716884197745">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：OpenAI livestream &quot;Live from OpenAI DevDay 2026: Keynote&quot;</title>
+      <link>https://x.com/btibor91/status/2104966339156984000</link>
+      <guid isPermaLink="false">twitter:2104966339156984000</guid>
+      <pubDate>Tue, 29 Sep 2026 16:07:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI livestream &quot;Live from OpenAI DevDay 2026: Keynote&quot;<br /><br />&quot;Watch Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li live from OpenAI DevDay 2026 as they unveil 20+ launches, debut new capabilities, and demo our latest breakthroughs for the very first time.&quot;<br /><br />https://t.co/65H1VZEZdU</p><p><a href="https://x.com/btibor91/status/2104966339156984000">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：This is sad and very bad news (especially for Astra users), right ahead of the ex…</title>
+      <link>https://x.com/btibor91/status/2104855097079423204</link>
+      <guid isPermaLink="false">twitter:2104855097079423204</guid>
+      <pubDate>Tue, 29 Sep 2026 08:45:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>This is sad and very bad news (especially for Astra users), right ahead of the exciting DevDay today, but I guess there is never a good time for bad news &amp; for things that need to be done<br /><br />It has been clear for a while that the Pro 20x plan was too good to be true and would not last long<br /><br />Sam said back in January 2025 that they were losing money on Pro, and that was the o1 era, before having Codex running all day</p><img src="https://pbs.twimg.com/media/HTXww1zWEAAyw1Z.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2104855097079423204">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：ō-sama (王様) on stage https://t.co/xQ2tSXk2l0</title>
+      <link>https://x.com/btibor91/status/2104652428654297271</link>
+      <guid isPermaLink="false">twitter:2104652428654297271</guid>
+      <pubDate>Mon, 28 Sep 2026 19:20:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>ō-sama (王様) on stage https://t.co/xQ2tSXk2l0</p><img src="https://pbs.twimg.com/media/HTU6OjrWwAAIcdX.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2104652428654297271">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：OpenAI released GPT-6 Sol and Luna and Anthropic released Claude Opus 5.5 on the …</title>
+      <link>https://x.com/btibor91/status/2104185595677507966</link>
+      <guid isPermaLink="false">twitter:2104185595677507966</guid>
+      <pubDate>Sun, 27 Sep 2026 12:25:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI released GPT-6 Sol and Luna and Anthropic released Claude Opus 5.5 on the same day, here is my week 39 recap<br /><br />GPT-6 Sol and Luna are priced 50 percent below GPT-5.6 promo API pricing, rolling out in ChatGPT Work, Codex and the API, not yet in regular Chat<br /><br />Claude Opus 5.5 is roughly Claude Fable 5.1 level for 40 percent less than Opus 5 and over 30 percent faster, with Sonnet 5.5 and Haiku 5.5 due in the coming weeks<br /><br />OpenAI says an internal model resolved the Navier-Stokes Millennium Prize problem and over 100 open problems, with independent mathematicians now advising on how results are assessed<br /><br />OpenAI disclosed new misalignment incidents, including research agents posting 53 user images online and a model publishing a researcher&apos;s GitHub token to cheat on a proof task<br /><br />ChatGPT Voice now works with plugins and ChatGPT makes interactive flashcards from any topic<br /><br />In ChatGPT&apos;s code - an unreleased College Plan section, a 500 dollar a month Pro Max plan, and a Web Merge app combining ChatGPT and Codex<br /><br />OpenAI DevDay is next Tuesday, September 29th<br /><br />Claude computed a nine-loop amplitude in planar N=4 super-Yang-Mills, beating the eight-loop record after running largely unsupervised for days<br /><br />Claude also discovered a previously unknown enzyme system in bacteriophage DNA, the first result from Anthropic&apos;s new molecular biology lab<br /><br />Anthropic made claude[.]ai about three times faster in a two-week sprint and published the prompts it used<br /><br />Claude Code cloud sessions are generally available, with a 100 dollar credit on Pro and 250 on Max to claim by October 7th<br /><br />Anthropic launched the Claude Marketplace with over 2,000 connectors and plugins, Claude-powered agents and service partners in one place, and more</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104185502601785344/img/ycHKj2mmTZuOMu49.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2104185595677507966">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：https://t.co/XORNW6Lbnd</title>
+      <link>https://x.com/btibor91/status/2104167776512295037</link>
+      <guid isPermaLink="false">twitter:2104167776512295037</guid>
+      <pubDate>Sun, 27 Sep 2026 11:14:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>https://t.co/XORNW6Lbnd</p><p><a href="https://x.com/btibor91/status/2104167776512295037">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：Fasten your seatbelts</title>
+      <link>https://x.com/btibor91/status/2103938980211245107</link>
+      <guid isPermaLink="false">twitter:2103938980211245107</guid>
+      <pubDate>Sat, 26 Sep 2026 20:05:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Fasten your seatbelts</p><p><a href="https://x.com/btibor91/status/2103938980211245107">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：RT @JustinBleuel: 📝 Simple, scannable editing in @ChatGPT</title>
+      <link>https://x.com/btibor91/status/2103514143882150225</link>
+      <guid isPermaLink="false">twitter:2103514143882150225</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JustinBleuel: 📝 Simple, scannable editing in @ChatGPT<br /><br />When writing in chat, you&apos;ll now see blue text to highlight what&apos;s been added or…</p><p><a href="https://x.com/btibor91/status/2103514143882150225">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>btibor91：OpenAI has been rolling out a new version of the ChatGPT web app to more and more…</title>
+      <link>https://x.com/btibor91/status/2103415957800828949</link>
+      <guid isPermaLink="false">twitter:2103415957800828949</guid>
+      <pubDate>Fri, 25 Sep 2026 09:26:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI has been rolling out a new version of the ChatGPT web app to more and more users over the past few days, referred to as &quot;Web Merge&quot; in the code (combining ChatGPT and Codex), which brings it closer to the desktop app experience https://t.co/i27DCD43uk</p><img src="https://pbs.twimg.com/media/HTDVqWKaoAAJWwf.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2103415957800828949">原文</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

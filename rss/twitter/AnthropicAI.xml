@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AnthropicAI · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>AnthropicAI · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/AnthropicAI.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2026 18:57:30 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>AnthropicAI：In physics, an “impedance mismatch” occurs when two systems each work well but…</title>
+      <link>https://x.com/AnthropicAI/status/2105733864152858919</link>
+      <guid isPermaLink="false">twitter:2105733864152858919</guid>
+      <pubDate>Thu, 01 Oct 2026 18:57:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In physics, an “impedance mismatch” occurs when two systems each work well but are poorly matched.<br /><br />In this Science Blog guest post, Harvard physicist Matthew Schwartz argues that something similar is happening with AI and science. LLMs are capable at many things, but working with them as you would with a human collaborator isn’t currently the best way to elicit their scientific strengths.<br /><br />To address this mismatch, Schwartz created a toolkit for exact calculations in quantitative science. Because similar calculations often emerge in very different areas of science, Claude found connections to ecology, population genetics, and a dozen other fields, and Schwartz worked with domain experts to steer it towards interesting questions.<br /><br />Read more about these projects here: https://t.co/UpgSwMCz7h</p><p><a href="https://x.com/AnthropicAI/status/2105733864152858919">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>AnthropicAI：What do you want from AI?</title>
+      <link>https://x.com/AnthropicAI/status/2104982629884063840</link>
+      <guid isPermaLink="false">twitter:2104982629884063840</guid>
+      <pubDate>Tue, 29 Sep 2026 17:12:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>What do you want from AI?<br /><br />We’re launching a new study with Anthropic Interviewer to learn more about your experiences using AI, what role you want it to play in your life and the world, and what you want from the companies building it.<br /><br />Last December, 81,000 people told us about their hopes and fears about AI in the largest qualitative study ever done. This time, we’re giving participants the option to make their responses public so that anyone, not just Anthropic, can learn from them.<br /><br />What you tell us will shape The Anthropic Institute’s research and inform the decisions we make. If many people say companies like Anthropic should be doing something differently, that will be on the record, where anyone can point to it.<br /><br />The study runs Sept 29 to Oct 6 and is open to Free, Pro, and Max users on Claude and Claude Code.<br /><br />Take part here: https://t.co/MtdU7MZbeY</p><p><a href="https://x.com/AnthropicAI/status/2104982629884063840">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>AnthropicAI：Making your interview public is completely optional. Our blog post covers the …</title>
+      <link>https://x.com/AnthropicAI/status/2104982631037436201</link>
+      <guid isPermaLink="false">twitter:2104982631037436201</guid>
+      <pubDate>Tue, 29 Sep 2026 17:12:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Making your interview public is completely optional. Our blog post covers the benefits and possible risks of doing so.<br /><br />Read it here: https://t.co/Gh4v1u6O3n</p><p><a href="https://x.com/AnthropicAI/status/2104982631037436201">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>AnthropicAI：Claude Sonnet 5.5 is now available:</title>
+      <link>https://x.com/AnthropicAI/status/2104633259925630995</link>
+      <guid isPermaLink="false">twitter:2104633259925630995</guid>
+      <pubDate>Mon, 28 Sep 2026 18:04:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude Sonnet 5.5 is now available:</p><p><a href="https://x.com/AnthropicAI/status/2104633259925630995">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>AnthropicAI：New on the Science Blog: Yes, Claude can do Nine Loops.</title>
+      <link>https://x.com/AnthropicAI/status/2103541577083719888</link>
+      <guid isPermaLink="false">twitter:2103541577083719888</guid>
+      <pubDate>Fri, 25 Sep 2026 17:46:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>New on the Science Blog: Yes, Claude can do Nine Loops.<br /><br />Theoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each added loop makes the answer more precise but takes exponentially more computation. Most calculations stop at two or three loops. Eight loops was the previous record in a simplified model physicists use as a testing ground (planar N=4 super-Yang-Mills), set by SLAC&apos;s Lance Dixon and collaborators.<br /><br />Last month, physicist and science writer @4gravitons issued a challenge: could an AI push past eight loops in this model, using only the compute budget an academic could reasonably access?<br /><br />Given a single prompt describing the nine-loop problem, Claude ran largely unsupervised for days in Claude Science and solved it using methods developed by Dixon and his colleagues, at a total cost of a few thousand dollars. Dixon independently verified the result, and von Hippel wrote about the experience for our blog. <br /><br />Read more: https://t.co/CS2f2qoIhJ</p><p><a href="https://x.com/AnthropicAI/status/2103541577083719888">原文</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

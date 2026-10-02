@@ -5,8 +5,88 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>dotey · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/dotey.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 00:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:11:14 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>宝玉：😂 Claude Code 可以借助 Mod 做到吗？</title>
+      <link>https://x.com/dotey/status/2105903415930831066</link>
+      <guid isPermaLink="false">twitter:2105903415930831066</guid>
+      <pubDate>Fri, 02 Oct 2026 06:11:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>😂 Claude Code 可以借助 Mod 做到吗？</p><p><a href="https://x.com/dotey/status/2105903415930831066">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：我可能又算错了，应该是 10 月 3 日凌晨 1 点 🥲</title>
+      <link>https://x.com/dotey/status/2105863984624599374</link>
+      <guid isPermaLink="false">twitter:2105863984624599374</guid>
+      <pubDate>Fri, 02 Oct 2026 03:34:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>我可能又算错了，应该是 10 月 3 日凌晨 1 点 🥲</p><p><a href="https://x.com/dotey/status/2105863984624599374">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：帮转程序员求职，需要 H1B Sponsor</title>
+      <link>https://x.com/dotey/status/2105855044046463308</link>
+      <guid isPermaLink="false">twitter:2105855044046463308</guid>
+      <pubDate>Fri, 02 Oct 2026 02:59:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>帮转程序员求职，需要 H1B Sponsor</p><p><a href="https://x.com/dotey/status/2105855044046463308">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Codex 又要有重置了，美国时间 10 月 2 日上午 10 点重置，也就是北京时间 10 月 3 日凌晨 2:00</title>
+      <link>https://x.com/dotey/status/2105853608944107819</link>
+      <guid isPermaLink="false">twitter:2105853608944107819</guid>
+      <pubDate>Fri, 02 Oct 2026 02:53:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Codex 又要有重置了，美国时间 10 月 2 日上午 10 点重置，也就是北京时间 10 月 3 日凌晨 2:00<br />蹬起来</p><p><a href="https://x.com/dotey/status/2105853608944107819">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：这条也挺酷</title>
+      <link>https://x.com/dotey/status/2105848317855031733</link>
+      <guid isPermaLink="false">twitter:2105848317855031733</guid>
+      <pubDate>Fri, 02 Oct 2026 02:32:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>这条也挺酷<br />https://t.co/PL7T5P06rz</p><p><a href="https://x.com/dotey/status/2105848317855031733">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Anthropic 今天给 Claude Code 推出了 Mod 功能。Claude Code 是 Anthropic 做的 AI 编程助手，你用大白话告诉它要做什么，它自…</title>
+      <link>https://x.com/dotey/status/2105840601195311216</link>
+      <guid isPermaLink="false">twitter:2105840601195311216</guid>
+      <pubDate>Fri, 02 Oct 2026 02:01:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Anthropic 今天给 Claude Code 推出了 Mod 功能。Claude Code 是 Anthropic 做的 AI 编程助手，你用大白话告诉它要做什么，它自己读代码、改代码、运行命令。<br /><br />Mod 这个词来自游戏圈，玩家给游戏装 MOD，可以改画面、加道具、换玩法。比如我们以前玩过的《反恐精英》最早就是作为游戏《半条命》（Half-Life）的一个 Mod。<br /><br />现在 Claude Code 也能这样改了。<br /><br />Mod 就是一小段程序，用 TypeScript（一种常用的编程语言）写。不会编程也没关系，直接跟 Claude Code 说你想要什么效果，它会自己把 Mod 写好、装上，马上生效，不用重启。<br /><br />【它是怎么起作用的】<br /><br />可以把 Claude Code 干活的过程想成一条流水线：接到你的要求，交给 AI 模型思考，模型决定读哪个文件、运行哪条命令，某些步骤要先问你同不同意，最后把结果显示在屏幕上。每到一个环节，Claude Code 都会发出一个信号，表示“我要做这件事了”。Mod 守在这些环节旁边，可以直接放行，可以改一改再放行，也可以拦下来自己处理。<br /><br />举几个例子。你的要求发给模型之前，Mod 可以自动补一句“请用中文回答”；Claude 要读的文件里有密码，Mod 可以先把密码涂掉；Claude 想运行一条可能删掉数据的命令，Mod 可以拦下来，让你再确认一次。<br /><br />Mod 还能改屏幕上的样子，比如在对话旁边加一个小窗口，显示团队的代码有没有通过自动测试，或者在输入框上方加几个按钮。<br /><br />Anthropic 自己也开始用 Mod 搭产品。Claude Code 自带的 /diff 命令（显示改了哪些代码）现在就是一个 Mod，你可以关掉它，或者换成自己写的版本。官方计划把更多自带功能改成 Mod，以后用户可以只留一个精简的核心，其他功能按需加。<br /><br />安装方式和普通插件一样，在 Claude Code 里输入 /plugin 就能找到。需要 Claude Code 2.1.287 或更新的版本，功能默认打开。<br /><br />【要小心的地方】<br /><br />Mod 拥有和 Claude Code 一样的权限，中间没有任何隔离。装上一个 Mod，它就能读写你电脑里的文件，看到你存的 API 密钥（调用 AI 服务用的“账号密码”），看到你发的每一句话，还能不经过你就替你批准操作。所以官方建议只装信得过的人做的 Mod。公司的管理员可以限制员工能装哪些 Mod，Team 和 Enterprise 版还会默认先加载一个安全 Mod，防止其他 Mod 绕过公司定的安全规则。<br /><br />【和 DeepSeek Harness 比一比】<br /><br />今年 8 月 13 日，DeepSeek 发布了开源的 DeepSeek Harness，也是一个 AI 智能体工具，能写代码，也能整理文件、分析表格、做幻灯片，GitHub 上已经有 24 万多人收藏。它的口号是“一切皆插件”，连连接 AI 模型的部分、管理工具的部分，甚至负责“想一步、做一步”的核心循环，都是可以拆下来换掉的插件。<br /><br />两家想做的事一样，都是让用户自己定制 AI 助手，起点不同。<br /><br />DeepSeek Harness 从一开始就是拼装式的。代码完全公开，用的是 MIT 协议（随便用、随便改），后面接哪家模型也由你选，DeepSeek 的、别家的、自己电脑上跑的都行。它甚至可以把任务转交给 Claude Code 或 OpenAI 的 Codex 去做，再把结果收回来。代价是它还在开发者预览阶段，官方提醒后续更新可能和旧版本不兼容，今天写的插件过一阵可能就用不了。<br /><br />Claude Code 是闭源产品，绑定 Anthropic 自家的模型。Mod 相当于在一个已经建好的房子上开了很多扇门，能改的地方越来越多，但房子还是 Anthropic 盖的。Anthropic 说要把自带功能逐步改成 Mod、只留一个小核心，这个方向和 DeepSeek Harness 的“一切皆插件”越来越近。<br /><br />想换模型、从最底层改起，DeepSeek Harness 更自由；已经在用 Claude Code 的人，现在不用换工具也能做不少定制。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2105840119873773568/img/5g52zLhzSN0jlypb.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2105840601195311216">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：SVG 能力</title>
+      <link>https://x.com/dotey/status/2105782312034341067</link>
+      <guid isPermaLink="false">twitter:2105782312034341067</guid>
+      <pubDate>Thu, 01 Oct 2026 22:10:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>SVG 能力<br />https://t.co/OHdDjGFPTi</p><p><a href="https://x.com/dotey/status/2105782312034341067">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：据说 Fable 5.5 要来了，这是 Fable 5.5 做的网页，可以根据经过的图片的艺术风格动态变换自身风格</title>
+      <link>https://x.com/dotey/status/2105780532571496671</link>
+      <guid isPermaLink="false">twitter:2105780532571496671</guid>
+      <pubDate>Thu, 01 Oct 2026 22:02:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>据说 Fable 5.5 要来了，这是 Fable 5.5 做的网页，可以根据经过的图片的艺术风格动态变换自身风格<br /><br />这是在线演示： https://t.co/HKOuvWeubL<br /><br />https://t.co/ZDRfk43Hx8</p><img src="https://pbs.twimg.com/amplify_video_thumb/2105756947442257920/img/oLyYXG6pv6p-S7eC.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2105780532571496671">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：今天在测试 Manus 时学到一个提示词技巧，就是画图的时候，不用提示词控制样式风格，而是直接给参考图，并且参考图中包含颜色、字体示范、宣纸纤维、墨迹边缘、水痕、远山、印章与…</title>
+      <link>https://x.com/dotey/status/2105775463624810788</link>
+      <guid isPermaLink="false">twitter:2105775463624810788</guid>
+      <pubDate>Thu, 01 Oct 2026 21:42:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>今天在测试 Manus 时学到一个提示词技巧，就是画图的时候，不用提示词控制样式风格，而是直接给参考图，并且参考图中包含颜色、字体示范、宣纸纤维、墨迹边缘、水痕、远山、印章与留白规则等等<br /><br />这样出图的稳定性会更高，内容提示词也可以很简单。<br /><br />图1: 参考图<br /><br />图2 content_prompt ：<br />&gt; 标题‘茶与慢生活’，副标题‘留一点时间，给一杯茶’。设计需遵循参考图中的风格：安静、内敛、侘寂，使用水墨极简风格和水墨留白，背景为宣纸纹理。文字应居中、清晰。<br /><br />图3 content_prompt：<br />&gt; 标题‘把日常慢下来’。内容：‘温杯：先感受器物的温度’、‘闻香：留意茶叶与水的气息’、‘品饮：小口饮茶，短暂停留’。设计需遵循第一页和参考图中的风格：安静、内敛、水墨极简风格，使用少量水墨元素（如远山、茶具水痕等）在留白区域点缀，背景为宣纸纹理。文字排版应体现层次感和留白。<br /><br />--- 图2 完整提示词 ---<br /><br />Create a professional presentation slide with the following content:<br /><br />标题‘茶与慢生活’，副标题‘留一点时间，给一杯茶’。设计需遵循参考图中的风格：安静、内敛、侘寂，使用水墨极简风格和水墨留白，背景为宣纸纹理。文字应居中、清晰。<br /><br />Hierarchy &amp; Layout Guidance:<br />- Lead with the most important narrative element (headline / metric) and follow with supporting copy in clear sections<br />- Any charts should reflect real data provided in the content prompt and stay faithful to the described sources<br />- Arrange imagery and copy so the viewer can scan left-to-right or top-to-bottom; avoid vertical stacking of charts/images<br /><br />Visual Direction:<br />- Professional and clean<br />- Follow the style of the previous slide image (if provided) for visual continuity<br /><br />Requirements:<br />- Professional presentation layout with clear visual hierarchy<br />- Text must be clearly readable with appropriate contrast against the background<br />- Include title area and content area as appropriate<br />- Maintain consistent style suitable for a professional presentation<br />- High quality, publication-ready visual design<br />- All text should be sharp and legible<br />- Keep all essential text comfortably inside the frame; avoid placing text at the very edges<br />- Balance visual elements with whitespace so the slide feels clean and not cluttered</p><img src="https://pbs.twimg.com/media/HTk2kFKWYAAsnb3.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTk3llbXoAAY7Vm.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTk3nDwXAAAk65U.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2105775463624810788">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @nicekate8888: 刚知道谷歌的 lyria-3.5 支持图片配乐，最多 10 张作为参考</title>
+      <link>https://x.com/dotey/status/2105765843023827207</link>
+      <guid isPermaLink="false">twitter:2105765843023827207</guid>
+      <pubDate>Thu, 01 Oct 2026 21:04:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @nicekate8888: 刚知道谷歌的 lyria-3.5 支持图片配乐，最多 10 张作为参考<br />体验了下，感觉不错 https://t.co/zkgmnszVMD</p><img src="https://pbs.twimg.com/amplify_video_thumb/2105648395931299840/img/i3k_yhLdSEUQWcu2.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2105765843023827207">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>宝玉：文章里面算错了，恢复原价后是 Fable/Astra 的 2/5</title>
       <link>https://x.com/dotey/status/2105458854335279188</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StabilityAI · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>StabilityAI · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/StabilityAI.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2026 18:47:40 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>StabilityAI：RT @stableaudio: You know the moment: mid-session, losing time scrolling a sam…</title>
+      <link>https://x.com/StabilityAI/status/2103557062274023895</link>
+      <guid isPermaLink="false">twitter:2103557062274023895</guid>
+      <pubDate>Fri, 25 Sep 2026 18:47:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @stableaudio: You know the moment: mid-session, losing time scrolling a sample library.<br /><br />Sept. 30th, we&apos;re skipping the library. Generat…</p><p><a href="https://x.com/StabilityAI/status/2103557062274023895">原文</a> · 转发</p>]]></description>
+    </item>
+  </channel>
+</rss>

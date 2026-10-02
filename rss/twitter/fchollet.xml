@@ -5,8 +5,72 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 21:47:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 23:00:21 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>fchollet：RT @mayalen_etc: 1/9 Local communication in NCAs can produce a visual &quot;chain of t…</title>
+      <link>https://x.com/fchollet/status/2105794980031926558</link>
+      <guid isPermaLink="false">twitter:2105794980031926558</guid>
+      <pubDate>Thu, 01 Oct 2026 23:00:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @mayalen_etc: 1/9 Local communication in NCAs can produce a visual &quot;chain of thought&quot;.<br /><br />For example, in mazes, NCAs explore paths in par…</p><p><a href="https://x.com/fchollet/status/2105794980031926558">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：The critical distinction between base LLMs (2024 and earlier) and modern LRMs is …</title>
+      <link>https://x.com/fchollet/status/2105729206273634696</link>
+      <guid isPermaLink="false">twitter:2105729206273634696</guid>
+      <pubDate>Thu, 01 Oct 2026 18:38:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The critical distinction between base LLMs (2024 and earlier) and modern LRMs is not symbolic tool use. It&apos;s the switch from a transductive paradigm (intuit the answer to the query) to an inductive paradigm (intuit the program/instructions that produce the answer to the query).<br /><br />They&apos;re trained to be inductive, and they perform test-time induction, i.e. test-time prediction of a NL program / reasoning chain. This unlocks entirely new capabilities -- in particular fluid intelligence. Base LLMs, to this day, have ~0 fluid intelligence. LRMs have substantial levels of fluid intelligence.<br /><br />The performance of LLMs on ARC 1 (a benchmark from 2019) remains ~10-15% today. Scaling them up by a factor ~100,000x got them from 0% to 10%. Meanwhile LRMs the same size or smaller saturated ARC 1 in 2025.</p><p><a href="https://x.com/fchollet/status/2105729206273634696">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：RT @sundarpichai: Lots of discussion out there about our next model(!), so I want…</title>
+      <link>https://x.com/fchollet/status/2105393585999032669</link>
+      <guid isPermaLink="false">twitter:2105393585999032669</guid>
+      <pubDate>Wed, 30 Sep 2026 20:25:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sundarpichai: Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing…</p><p><a href="https://x.com/fchollet/status/2105393585999032669">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：RT @MTSlive: Astra scored 99.9% on ARC-AGI-3. What does that actually mean?</title>
+      <link>https://x.com/fchollet/status/2105379638390473147</link>
+      <guid isPermaLink="false">twitter:2105379638390473147</guid>
+      <pubDate>Wed, 30 Sep 2026 19:29:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @MTSlive: Astra scored 99.9% on ARC-AGI-3. What does that actually mean? <br /><br />We built an interactive way to explore @arcprize&apos;s ARC-AGI-3.…</p><p><a href="https://x.com/fchollet/status/2105379638390473147">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：Also if you&apos;re going to brag about obliterating something, maybe first check whet…</title>
+      <link>https://x.com/fchollet/status/2105067208842060207</link>
+      <guid isPermaLink="false">twitter:2105067208842060207</guid>
+      <pubDate>Tue, 29 Sep 2026 22:48:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Also if you&apos;re going to brag about obliterating something, maybe first check whether that thing is regarded by most of the population as an important source of meaning and joy. I don&apos;t know, I&apos;m not a PR person</p><p><a href="https://x.com/fchollet/status/2105067208842060207">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：A lot of messaging around AI (by its proponents) enthusiastically frames it as a …</title>
+      <link>https://x.com/fchollet/status/2105066701331300791</link>
+      <guid isPermaLink="false">twitter:2105066701331300791</guid>
+      <pubDate>Tue, 29 Sep 2026 22:46:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A lot of messaging around AI (by its proponents) enthusiastically frames it as a form of destruction, obliteration even: &quot;AI just killed XYZ&quot; - &quot;It&apos;s over for XYZ&quot; (in reality, this is practically never accurate)<br /><br />The way regular folks perceive AI is very much shaped by such takes. The backlash is inevitable.</p><p><a href="https://x.com/fchollet/status/2105066701331300791">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：RT @smn_sdt: Join the Keras community meeting this Friday, October 2, 10 AM PST w…</title>
+      <link>https://x.com/fchollet/status/2105026210279707122</link>
+      <guid isPermaLink="false">twitter:2105026210279707122</guid>
+      <pubDate>Tue, 29 Sep 2026 20:05:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @smn_sdt: Join the Keras community meeting this Friday, October 2, 10 AM PST where we present latest developments in the Keras ecosystem…</p><p><a href="https://x.com/fchollet/status/2105026210279707122">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：What is a way to test human-level generality in artificial intelligence?</title>
+      <link>https://x.com/fchollet/status/2104993851903815978</link>
+      <guid isPermaLink="false">twitter:2104993851903815978</guid>
+      <pubDate>Tue, 29 Sep 2026 17:56:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>What is a way to test human-level generality in artificial intelligence?<br /><br />&quot;The meta-benchmark of being able to pass ARC-AGI-(n+1) immediately upon release&quot;</p><p><a href="https://x.com/fchollet/status/2104993851903815978">原文</a></p>]]></description>
+    </item>
     <item>
       <title>fchollet：RT @arcprize: GPT-6 Sol from @OpenAI on ARC-AGI (Verified):</title>
       <link>https://x.com/fchollet/status/2104689565864968430</link>
