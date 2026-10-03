@@ -5,8 +5,32 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 23:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:35:27 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>fchollet：Summary of the Keras community call --</title>
+      <link>https://x.com/fchollet/status/2106075605494268394</link>
+      <guid isPermaLink="false">twitter:2106075605494268394</guid>
+      <pubDate>Fri, 02 Oct 2026 17:35:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Summary of the Keras community call --<br /><br />1. New pluggable backend plan, upcoming MLX and PaddlePaddle backends; new backends are installed as add-on libraries<br /><br />2. Reducing number of ops needed to ship new backends; adding backend-agnostic implementations of all secondary ops<br /><br />3. Streamlining unit testing for new ops; a single harness can now test all ops functionality like casting consistency, etc.<br /><br />4. Lots of new models available in KerasHub<br /><br />5. Moving KerasHub away from tf-text preprocessing and adopting PyGrain instead</p><p><a href="https://x.com/fchollet/status/2106075605494268394">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：Starting now!</title>
+      <link>https://x.com/fchollet/status/2106067801119379898</link>
+      <guid isPermaLink="false">twitter:2106067801119379898</guid>
+      <pubDate>Fri, 02 Oct 2026 17:04:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Starting now!</p><p><a href="https://x.com/fchollet/status/2106067801119379898">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>fchollet：This is in 30min -- anybody can join the call. See you there!</title>
+      <link>https://x.com/fchollet/status/2106059763402653798</link>
+      <guid isPermaLink="false">twitter:2106059763402653798</guid>
+      <pubDate>Fri, 02 Oct 2026 16:32:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>This is in 30min -- anybody can join the call. See you there!</p><p><a href="https://x.com/fchollet/status/2106059763402653798">原文</a></p>]]></description>
+    </item>
     <item>
       <title>fchollet：RT @mayalen_etc: 1/9 Local communication in NCAs can produce a visual &quot;chain of t…</title>
       <link>https://x.com/fchollet/status/2105794980031926558</link>

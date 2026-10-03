@@ -5,8 +5,32 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>AravSrinivas · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/AravSrinivas.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 12:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:05:24 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>AravSrinivas：Your creativity is the limit in terms of what you can have Computer do for yo…</title>
+      <link>https://x.com/AravSrinivas/status/2106128438507532492</link>
+      <guid isPermaLink="false">twitter:2106128438507532492</guid>
+      <pubDate>Fri, 02 Oct 2026 21:05:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Your creativity is the limit in terms of what you can have Computer do for you. This is the kind of project that you can let an agent run for hours to come back with something great.</p><p><a href="https://x.com/AravSrinivas/status/2106128438507532492">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>AravSrinivas：a few open source contributions from perplexity recently:</title>
+      <link>https://x.com/AravSrinivas/status/2106119404433908149</link>
+      <guid isPermaLink="false">twitter:2106119404433908149</guid>
+      <pubDate>Fri, 02 Oct 2026 20:29:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>a few open source contributions from perplexity recently:<br /><br />•pplx-decider-v1-27b: SoTA multimodal decision model. 85.7% average across 11 benchmarks, ahead of Jev.<br />•pplx-embed-v2-context-9b-preview: SoTA contextual embeddings, best on ConTEB and turbopuffer context-bench.<br />•Lily: local inference engine for Apple silicon. rust plus custom metal kernels, no pytorch or mlx. 1.23x faster prefill and 1.35x faster decode than MLX-LM on an M5 Max<br />•PII-Tracer: 0.6B on-device PII classifier that decides when a hybrid compute task stays on your Mac. beats OpenAI’s Privacy Filter on all 5 public benchmarks. also released with the PII-TRACE benchmark: 13k conversations in 13 languages<br />•WANDR: benchmark for wide and deep research agents. 500 tasks needing 170k source-backed records<br />•Numbat: agent detection and response for laptops and workstations. 52 rules, single go binary for macOS, linux and windows<br />•Bumblebee: read-only supply chain scanner for dev machines. covers packages, MCP configs, and editor and browser extensions. <br /><br />a lot more open source contributions coming soon!</p><p><a href="https://x.com/AravSrinivas/status/2106119404433908149">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>AravSrinivas：RT @perplexitydevs: We&apos;re looking forward to working with the new @NVIDIA Ver…</title>
+      <link>https://x.com/AravSrinivas/status/2106109840120774855</link>
+      <guid isPermaLink="false">twitter:2106109840120774855</guid>
+      <pubDate>Fri, 02 Oct 2026 19:51:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @perplexitydevs: We&apos;re looking forward to working with the new @NVIDIA Vera CPU on SPACE. https://t.co/LPwmaRDja7</p><img src="https://pbs.twimg.com/media/HTpk4CgbkAAV3rc.jpg" loading="lazy" /><p><a href="https://x.com/AravSrinivas/status/2106109840120774855">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>AravSrinivas：We would love to hear how we can improve our developer platform!</title>
       <link>https://x.com/AravSrinivas/status/2106004271728927135</link>

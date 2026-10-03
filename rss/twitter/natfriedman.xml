@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natfriedman · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>natfriedman · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/natfriedman.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Oct 2026 19:09:57 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>natfriedman：🚨 side project alert 🚨</title>
+      <link>https://x.com/natfriedman/status/2106099383037309211</link>
+      <guid isPermaLink="false">twitter:2106099383037309211</guid>
+      <pubDate>Fri, 02 Oct 2026 19:09:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>🚨 side project alert 🚨<br /><br />Announcing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse.<br /><br />Grab an API token from https://t.co/Q0dE0cYnCs and point your favorite coding agent at the github repo to build your own peripherals for Muse.</p><img src="https://pbs.twimg.com/media/HTpcRGqbYAAFg3-.jpg" loading="lazy" /><p><a href="https://x.com/natfriedman/status/2106099383037309211">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>natfriedman：We built a gadget of our own, too: Muse Home Link is a little usb-c powered de…</title>
+      <link>https://x.com/natfriedman/status/2106099384891158562</link>
+      <guid isPermaLink="false">twitter:2106099384891158562</guid>
+      <pubDate>Fri, 02 Oct 2026 19:09:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We built a gadget of our own, too: Muse Home Link is a little usb-c powered device that allows Muse to connect to your home network to talk to smart home devices like TVs and speakers and anything else that exposes https.<br /><br />We manufactured a batch of 5000 Home Links which should be ready to ship in a few weeks, and they are free for Muse subscribers while supplies last. Claim yours at https://t.co/Q0dE0cYnCs<br /><br />All the code for Muse Home Link is open source too!</p><img src="https://pbs.twimg.com/media/HTpdWwAb0AA9ack.png" loading="lazy" /><p><a href="https://x.com/natfriedman/status/2106099384891158562">原文</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

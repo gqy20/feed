@@ -5,8 +5,48 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>huggingface · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/huggingface.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 12:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:33:50 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>huggingface：RT @natolambert: Today we&apos;re unveiling Trillium Labs @trillium_labs, a new non…</title>
+      <link>https://x.com/huggingface/status/2106075195438252343</link>
+      <guid isPermaLink="false">twitter:2106075195438252343</guid>
+      <pubDate>Fri, 02 Oct 2026 17:33:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @natolambert: Today we&apos;re unveiling Trillium Labs @trillium_labs, a new non-profit to foster the open science of frontier AI. We&apos;re buil…</p><p><a href="https://x.com/huggingface/status/2106075195438252343">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>huggingface：The same model, with the same weights, scores 62% in one agent harness and 33%…</title>
+      <link>https://x.com/huggingface/status/2106034221005312448</link>
+      <guid isPermaLink="false">twitter:2106034221005312448</guid>
+      <pubDate>Fri, 02 Oct 2026 14:51:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The same model, with the same weights, scores 62% in one agent harness and 33% in another.<br /><br />@adithya_s_k and the @huggingface team just released the ultimate guide to multi-harness RL, and it&apos;s one of the most practical RL write-ups this year, and everything open!<br /><br />The trick is simple. Don&apos;t touch the harness. Point it at a proxy instead of the model. The proxy speaks all four API formats coding agents use (OpenAI Chat Completions, OpenAI Responses, Anthropic Messages, Gemini). It records the exact token ids and logprobs vLLM sampled, and you train on that. You don&apos;t change a single line of Claude Code, Codex or OpenCode.<br /><br />Results:<br />🔹 Trained across 4 harnesses at once, LFM2.5-2.6B by @liquidai went from 42% to 54%<br />🔹 31% fewer tool calls, thanks to a small bonus for solving tasks in fewer steps<br />🔹 Training in OpenCode alone took OpenCode from 34% to 58%, but the multi-harness model improved everywhere<br /><br />They also tried the shortcut everyone reaches for: fine-tune on 3,189 successful rollouts from Qwen3.8-27B. Imitation plateaued at 47.5%, below both RL runs. Copying a bigger model doesn&apos;t get you there. Practice does.<br /><br />The best part is that everything is open: the capture proxy in OpenEnv, the trainer in TRL, the tasks, the SFT data, the training code and all seven trained models.<br />Agents will run in dozens of harnesses. <br /><br />Now open models can be trained for each of them, by anyone.<br /><br />Read it here 👇<br />https://t.co/s2I8GI9SLS</p><img src="https://pbs.twimg.com/media/HToib44XsAA-VYJ.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2106034221005312448">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>huggingface：RT @Hesamation: babe, wake up.</title>
+      <link>https://x.com/huggingface/status/2106032540029194575</link>
+      <guid isPermaLink="false">twitter:2106032540029194575</guid>
+      <pubDate>Fri, 02 Oct 2026 14:44:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Hesamation: babe, wake up.<br /><br />Hugging Face just dropped a new banger article about RL training coding agents on different harnesses. http…</p><p><a href="https://x.com/huggingface/status/2106032540029194575">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>huggingface：RT @vanstriendaniel: New in @huggingface Jobs docs: a Train Models page.</title>
+      <link>https://x.com/huggingface/status/2106032506495516706</link>
+      <guid isPermaLink="false">twitter:2106032506495516706</guid>
+      <pubDate>Fri, 02 Oct 2026 14:44:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vanstriendaniel: New in @huggingface Jobs docs: a Train Models page.<br /><br />A quick overview for you or your agent, covering Transformers, TR…</p><p><a href="https://x.com/huggingface/status/2106032506495516706">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>huggingface：RT @ggerganov: Decision models in llama.cpp are now available</title>
+      <link>https://x.com/huggingface/status/2106032225766740338</link>
+      <guid isPermaLink="false">twitter:2106032225766740338</guid>
+      <pubDate>Fri, 02 Oct 2026 14:43:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ggerganov: Decision models in llama.cpp are now available<br /><br />The `/v1/systemone` endpoint is available in the latest llama builds. Use it…</p><p><a href="https://x.com/huggingface/status/2106032225766740338">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>huggingface：RT @RisingSayak: Tensor parallel loading in 🤗 Diffusers got a massive upgrade…</title>
       <link>https://x.com/huggingface/status/2106000685103972364</link>

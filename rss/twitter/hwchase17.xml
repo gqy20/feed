@@ -5,8 +5,48 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 23:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:42:10 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>hwchase17：good pattern from this google paper</title>
+      <link>https://x.com/hwchase17/status/2106077292678246697</link>
+      <guid isPermaLink="false">twitter:2106077292678246697</guid>
+      <pubDate>Fri, 02 Oct 2026 17:42:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>good pattern from this google paper<br /><br />the verifier starts from a clean context, so the explorer&apos;s reasoning can&apos;t talk it into a bad proof<br /><br />so the explorer can try wild ideas and the verifier tosses the wrong ones<br /><br />same reason deepagents subagents get their own context<br /><br />https://t.co/w177WWAdqY</p><p><a href="https://x.com/hwchase17/status/2106077292678246697">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @sydneyrunkle: if your agents are going to production they have to be durable</title>
+      <link>https://x.com/hwchase17/status/2106076377896349873</link>
+      <guid isPermaLink="false">twitter:2106076377896349873</guid>
+      <pubDate>Fri, 02 Oct 2026 17:38:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: if your agents are going to production they have to be durable</p><p><a href="https://x.com/hwchase17/status/2106076377896349873">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：every agent team ends up wanting its own review ui over their traces - LangSmith…</title>
+      <link>https://x.com/hwchase17/status/2106075174793863630</link>
+      <guid isPermaLink="false">twitter:2106075174793863630</guid>
+      <pubDate>Fri, 02 Oct 2026 17:33:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>every agent team ends up wanting its own review ui over their traces - LangSmith Custom Apps lets you build it on your own data and ship it right into the workspace<br /><br />https://t.co/SuWCfBFvg9</p><p><a href="https://x.com/hwchase17/status/2106075174793863630">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：Memory is hard to get working well, especially in a company setting</title>
+      <link>https://x.com/hwchase17/status/2106054930041872693</link>
+      <guid isPermaLink="false">twitter:2106054930041872693</guid>
+      <pubDate>Fri, 02 Oct 2026 16:13:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Memory is hard to get working well, especially in a company setting<br /><br />Making some improvements to how we memory in managed deepagents!</p><p><a href="https://x.com/hwchase17/status/2106054930041872693">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>hwchase17：RT @caspar_br: User memory in Managed Deep Agents 0.8: your agent can remember t…</title>
+      <link>https://x.com/hwchase17/status/2106054554815222238</link>
+      <guid isPermaLink="false">twitter:2106054554815222238</guid>
+      <pubDate>Fri, 02 Oct 2026 16:11:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: User memory in Managed Deep Agents 0.8: your agent can remember the people it works with https://t.co/pnmD06la9i https://t.c…</p><p><a href="https://x.com/hwchase17/status/2106054554815222238">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>hwchase17：RT @LangChain_JS: @𝚕𝚊𝚗𝚐𝚌𝚑𝚊𝚒𝚗/𝚖𝚌𝚙-𝚊𝚍𝚊𝚙𝚝𝚎𝚛𝚜 2.0 is out! 🧵</title>
       <link>https://x.com/hwchase17/status/2105807280713376079</link>
