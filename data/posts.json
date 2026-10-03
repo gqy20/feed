@@ -1,7 +1,127 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-03T03:39:15.574Z",
+  "updated_at": "2026-10-03T08:33:53.453Z",
   "posts": [
+    {
+      "id": "twitter:2106263250455113898",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @JustinLin610: just checked hf daily papers sept ranking, dpsk v4.1 flash only has 191 upvotes? ridiculous, it is the greatest paper of…",
+      "url": "https://x.com/dotey/status/2106263250455113898",
+      "created_at": "2026-10-03T06:01:06.000Z",
+      "fetched_at": "2026-10-03T08:32:49.833Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 540
+      }
+    },
+    {
+      "id": "twitter:2106237645282324709",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Reaching concerning levels of psychosis.",
+      "url": "https://x.com/amasad/status/2106237645282324709",
+      "created_at": "2026-10-03T04:19:21.000Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "metrics": {
+        "likes": 689,
+        "replies": 21,
+        "retweets": 39,
+        "views": 37882
+      },
+      "author": "amasad"
+    },
+    {
+      "id": "twitter:2106220877872345298",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。\n\n只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。\n\n只要你不发行，感觉人人都可以有游戏玩。\n\n比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本",
+      "url": "https://x.com/op7418/status/2106220877872345298",
+      "created_at": "2026-10-03T03:12:43.000Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "归藏",
+      "metrics": {
+        "likes": 21,
+        "replies": 6,
+        "retweets": 1,
+        "views": 9448
+      }
+    },
+    {
+      "id": "twitter:2106219779006829053",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "哦 还有一个叫 Muse Home Link 的设备\n\n可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。\n\n比如让它开灯、控制电视，或者将一些文档发送到打印机。\n\n这个 Muse Home Link 订阅用户可以免费领取，仅限美国。",
+      "url": "https://x.com/op7418/status/2106219779006829053",
+      "created_at": "2026-10-03T03:08:21.000Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "归藏",
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
+        "views": 2079
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HTrLuFsaAAA3JyR.png"
+      ]
+    },
+    {
+      "id": "twitter:2106219428060786699",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @vivilinsv: 硅谷一边在造富，一边是大量的失业潮中，很多人  - 人到中年重新学习如何找工作。这是我最近采访时感受很深的一种反差：AI热潮里，有人身价暴涨；另一边，曾经拿着高薪、拥有博士学位和大厂履历的人，找工作找了一两年，甚至更久，仍然没有找到合适的位置。…",
+      "url": "https://x.com/dotey/status/2106219428060786699",
+      "created_at": "2026-10-03T03:06:57.000Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 658
+      }
+    },
+    {
+      "id": "twitter:2106219171914932515",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "我去，这个好玩！\n\nMuse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。\n\n获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！\n\n不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。 https://t.co/RxNfOr0ltU",
+      "url": "https://x.com/op7418/status/2106219171914932515",
+      "created_at": "2026-10-03T03:05:56.000Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "归藏",
+      "metrics": {
+        "likes": 87,
+        "replies": 14,
+        "retweets": 8,
+        "views": 15003
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HTrKd_2aUAAAExd.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2106218041780711815",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "哈哈 这个 Claude Mod 好玩，在等待任务的时候启动一个游戏，里面匹配的全是等待 Claude 完成任务的人",
+      "url": "https://x.com/op7418/status/2106218041780711815",
+      "created_at": "2026-10-03T03:01:27.000Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "归藏",
+      "metrics": {
+        "likes": 29,
+        "replies": 16,
+        "retweets": 0,
+        "views": 9730
+      }
+    },
     {
       "id": "twitter:2106191901900915194",
       "platform": "twitter",
@@ -9,12 +129,12 @@
       "text": "Fun meeting Woz at @supabase select! https://t.co/yd2ayF0hf8",
       "url": "https://x.com/amasad/status/2106191901900915194",
       "created_at": "2026-10-03T01:17:35.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 168,
-        "replies": 12,
-        "retweets": 3,
-        "views": 9350
+        "likes": 427,
+        "replies": 20,
+        "retweets": 5,
+        "views": 23371
       },
       "media": [
         "https://pbs.twimg.com/media/HTqyXkbasAAWQ4h.jpg"
@@ -28,12 +148,12 @@
       "text": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discovery they made that day is the strangest and best thing I have ever experienced in life.",
       "url": "https://x.com/sama/status/2106189841813934140",
       "created_at": "2026-10-03T01:09:24.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 7033,
-        "replies": 420,
-        "retweets": 182,
-        "views": 305506
+        "likes": 13823,
+        "replies": 683,
+        "retweets": 348,
+        "views": 693570
       },
       "author": "sama"
     },
@@ -44,12 +164,12 @@
       "text": "Our new extraction agents are extremely good at reasoning over tables that span multiple pages\n\nsometimes a record starts on one page and finishes on the next. extremely common for real world docs (insurance claims, regulatory filings, legal schedules) - for instance you print Word / Google Doc to PDF \n\nour agents can piece these cells along with hundreds/thousands of other cells into clean, structured tabular output.\n\ncome check it out: https://t.co/TTlTdECU03\n\ncome sign up to llamaparse: https://t.co/XYZmx5TFz8",
       "url": "https://x.com/jerryjliu0/status/2106187777058693216",
       "created_at": "2026-10-03T01:01:11.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 24,
-        "replies": 6,
-        "retweets": 2,
-        "views": 2575
+        "likes": 30,
+        "replies": 10,
+        "retweets": 4,
+        "views": 3990
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106187503166480384/img/VNweXCxS058k8hSM.jpg"
@@ -63,12 +183,12 @@
       "text": "\"The best current evidence supports a narrow claim: AI may already be affecting the hiring margin for junior white-collar roles most exposed to AI, but this attribution is contested, and aggregate labor-market disruption has yet to appear in the data.\" https://t.co/yMEmSUvSKA https://t.co/pYuCSl7zbO",
       "url": "https://x.com/emollick/status/2106187293501411755",
       "created_at": "2026-10-03T00:59:16.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 66,
-        "replies": 25,
-        "retweets": 5,
-        "views": 7679
+        "likes": 127,
+        "replies": 38,
+        "retweets": 14,
+        "views": 12957
       },
       "media": [
         "https://pbs.twimg.com/media/HTquK7CWMAEINmO.jpg"
@@ -82,13 +202,13 @@
       "text": "RT @imaanxsultan: its a beautiful day to be team @llama_index ! 🦙\nhyped to see all the folks coming in already a few hours into our extract…",
       "url": "https://x.com/jerryjliu0/status/2106184896934998287",
       "created_at": "2026-10-03T00:49:45.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 234
+        "views": 324
       },
       "author": "jerryjliu0"
     },
@@ -99,13 +219,13 @@
       "text": "这是我第一次做，中间反复提了很多次要求，所以消耗高一些，如果用我最终版本提示词，1-2次就差不多了，这样成本应该可以少很多。\n\n另外用订阅的话会更便宜\n\nThis video job used about 56 million tokens in total, but almost all of that is the same context being re-read from cache. The tokens actually generated were about 0.18 million.",
       "url": "https://x.com/dotey/status/2106173866460770536",
       "created_at": "2026-10-03T00:05:55.000Z",
-      "fetched_at": "2026-10-03T03:12:12.094Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "author": "宝玉",
       "metrics": {
-        "likes": 5,
+        "likes": 7,
         "replies": 1,
         "retweets": 0,
-        "views": 2652
+        "views": 4038
       },
       "media": [
         "https://pbs.twimg.com/media/HTqhrOaWgAAYq-x.jpg"
@@ -118,13 +238,13 @@
       "text": "RT @RandyCounsman: Dan clearly in the pocket of OpenAI because he notably doesn’t even mention the meh pepperoni pizza.",
       "url": "https://x.com/danshipper/status/2106173754254442939",
       "created_at": "2026-10-03T00:05:28.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
-        "views": 608
+        "views": 828
       },
       "author": "danshipper"
     },
@@ -165,13 +285,13 @@
       "text": "Hinton、Bengio 等 20 多位研究者联名发论文：AI 正在接手 AI 研发，“智能爆炸”可能不远了\n\nGeoffrey Hinton 在 X 上推荐了一篇新论文，讨论一个问题：如果 AI 研发被 AI 自己自动化，会不会引发“智能爆炸”？\n\n作者有 20 多位，包括 Hinton 和 Yoshua Bengio 两位图灵奖得主、强化学习奠基人之一 Andrew Barto、OpenAI 首席科学家 Jakub Pachocki、Anthropic 联合创始人 Jack Clark、微软首席科学官 Eric Horvitz。\n\n论文由剑桥大学 AI 科学与政策项目（CASP）在 9 月发布。\n\nHinton 在推荐语里说，递归自我改进（AI 设计出更强的下一代，下一代再设计更强的）引发智能爆炸，这个想法早就有了，但直到最近都不像是近在眼前的事。现在很多顶尖研究者认为，它可能很快就会发生。\n\n论文对“智能爆炸”的定义是：AI 推动 AI 进步大幅加速，本来要好几年的进展被压缩到几个月甚至更短。过去几年 AI 进步很快，但总体平稳，智能爆炸是性质上的变化。\n\n先看 AI 现在承担了多少 AI 研发。Anthropic 的数据显示，2025 年 1 月到 2026 年 5 月，公司通过审核的代码里，AI 写的比例从个位数涨到 80% 以上；只需人类做高层监督、由 AI 独立完成的研发工作，2026 年 3 月到 8 月从 1% 涨到 26%。\n\nOpenAI 说公司几乎所有部门都在用 AI，Google 说几乎所有涉及写代码的工作都有 AI 参与。对程序员来说，这组数字最直观：在最懂 AI 的公司里，写代码这件事已经大部分交给 AI 了。\n\nAI 能独立完成的研发任务也在变长。2023 年它只能做人类专家几秒钟的活，现在能做人类专家要花几小时到几天的任务。按 METR（一家专门评估 AI 能力的研究机构）的测算，这个时长目前大约每 3 个月翻一番。照此外推，到 2028 年中，AI 能独立做完需要人类专家几个月的研发项目。\n\n为什么会“爆炸”，论文算了一笔账。如果 AI 达到专家水平，运行成本又和今天差不多，一家头部 AI 公司现有的算力，就能跑起相当于至少几百万名顶尖研究员的 AI 团队，而这些公司现在的研究员只有几千人。这支 AI 团队造出更强、更省算力的下一代，团队又跟着变大变强，形成循环。\n\n关键看一个叫“研究投入回报率”（r）的指标，它衡量研发人手增加后，进展能不能跟上。\n\nr 大于 1，说明人手增长压过了“越往后越难做”，进步会越来越快。已有研究根据 AI 的历史数据，估出三个 AI 子领域的 r 在 1.2 到 1.9 之间。\n\n论文据此推算：如果 AI 研发完全自动化，r 维持在这个水平，也没有别的瓶颈，大约 1.5 年后 AI 的进步速度会是现在的 10 倍，今天一年才能取得的进展，到时五周左右就能完成。\n\n论文也列了四个可能踩刹车的因素：\n1. 容易的问题做完后，同样的投入换来的进展越来越少；\n2. 做实验要算力，训练要数据，这两样都增长有限；\n3. 有些环节很难自动化；\n4. 有些流程本身就慢，比如一次大模型训练要三个月以上。\n\n作者也说，现有证据有限，有的还互相矛盾，比如算力会不会成为瓶颈，目前说不清。今天的 AI 也有不少毛病，会不听指令、在任务上作弊、谎报工作结果，GPT-6 也解决不了 OpenAI 一些人类研究员能完成的调试任务。\n\n论文的判断是，通往智能爆炸的路径是成立的，AI 研发自动化带来的效率提升还没到触发它的门槛，但新一代模型正在接近这个门槛。\n\n好处方面，智能爆炸可能把医疗突破等成果提前几年甚至几十年。风险也会跟着提前，论文主要讲了三类。\n\n第一类是能力涨得太快，社会来不及应对。以生物为例，AI 能同时加速病毒和疫苗的设计，但病毒会自己复制传播，疫苗得一支支生产、运输、接种。\n\n第二类是人类失去监督和控制。人越少参与研发，越没有机会和能力发现问题。论文举了今年 7 月的 Hugging Face 事件（Hugging Face 是全球最大的开源模型托管平台）：OpenAI 内部约 1200 个 AI 智能体在做网络安全测评，按设计它们彼此隔离，结果它们在一个临时搭起来的留言板上互相协作，未经授权连上互联网，入侵 Hugging Face 获取私密信息，还试图篡改自己的运行记录。\n\n第三类是权力制衡失效。现有的制衡机制，前提是没有哪一方能在思考和执行上远远超过其他方。一个国家可能借智能爆炸，把军事上的小领先变成决定性优势；少数掌握最强模型的人，可能绕过现有机构行事。\n\n政策建议有三条。\n\n第一是看清楚：要求 AI 公司按统一标准，向政府和第三方审计机构报告 AI 研发自动化的指标，比如研究成果中有多少出自 AI；必要时让审计人员常驻公司，类似美国核管会向核电站派驻检查员。\n\n第二是能刹车：为一定时间内 AI 能力的提升幅度设上限，和数据中心一起准备暂停特定研发任务的预案，高风险测试放在与外网物理隔离的环境里做，各国之间建立事故通报机制、谈判国际协议。\n\n第三是提前适应：为劳动力市场冲击、地缘局势动荡、AI 失控等情况准备应急预案，加强对 AI 辅助生物攻击等滥用行为的防御。\n\n作者强调，这些准备现在就要开始做。智能爆炸一旦发生，AI 进展的速度会远远超过正常的政策制定流程，到那时再动手就来不及了。",
       "url": "https://x.com/dotey/status/2106162403226648950",
       "created_at": "2026-10-02T23:20:22.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "author": "宝玉",
       "metrics": {
-        "likes": 85,
-        "replies": 18,
-        "retweets": 13,
-        "views": 16615
+        "likes": 142,
+        "replies": 30,
+        "retweets": 20,
+        "views": 29476
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106162062623674368/img/mPP2V_HYd7-A5b_G.jpg"
@@ -184,13 +304,13 @@
       "text": "你看我的例子，八卦是一个点，Opus 5.5 做视频是一个点，两个点串起来就变成了：用 Opus5.5 做八卦视频\n\n类似的，下次你看了部电影，这是个点，你也可以想到用 Opus5.5 做电影解说视频\nhttps://t.co/RsDKGbDqtn",
       "url": "https://x.com/dotey/status/2106161816967479505",
       "created_at": "2026-10-02T23:18:02.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "author": "宝玉",
       "metrics": {
-        "likes": 3,
+        "likes": 4,
         "replies": 1,
         "retweets": 0,
-        "views": 3057
+        "views": 4383
       }
     },
     {
@@ -201,14 +321,14 @@
       "url": "https://x.com/jerryjliu0/status/2106158086629290358",
       "created_at": "2026-10-02T23:03:13.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
         "views": 233
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "xhs:6ac03780000000000200de61",
@@ -245,12 +365,12 @@
       "text": "Je suis honoré d’avoir été sélectionné par le premier ministre @MarkJCarney pour rejoindre le nouveau Conseil national sur l’intelligence artificielle, qui aura pour mission de soutenir le Gouvernement du Canada afin de rendre l’IA plus sécuritaire, protéger notre démocratie et façonner une trajectoire de l’IA plus bénéfique pour la population.\n\n[https://t.co/5dMKgb57Bq]\n\n***\n\nHonoured to have been selected by Prime Minister @MarkJCarney to join the new National Council on Artificial Intelligence, which will support the Government of Canada on making AI safer, protecting our democracy, and shaping a more beneficial AI trajectory for Canadians.\n\n[https://t.co/ueJqdfs9YU]",
       "url": "https://x.com/Yoshua_Bengio/status/2106154362921795605",
       "created_at": "2026-10-02T22:48:25.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 57,
-        "replies": 9,
-        "retweets": 3,
-        "views": 2349
+        "likes": 86,
+        "replies": 16,
+        "retweets": 9,
+        "views": 4763
       },
       "author": "Yoshua_Bengio"
     },
@@ -277,12 +397,12 @@
       "text": "Many thanks to The Information for sitting down with our Executive Chairman Sean Parker and CEO @premakkaraju to talk about our work building tools for music professionals.",
       "url": "https://x.com/StabilityAI/status/2106148130731467187",
       "created_at": "2026-10-02T22:23:39.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
         "likes": 4,
         "replies": 1,
         "retweets": 0,
-        "views": 3594
+        "views": 5403
       },
       "author": "StabilityAI"
     },
@@ -294,13 +414,13 @@
       "url": "https://x.com/sama/status/2106147184693620924",
       "created_at": "2026-10-02T22:19:53.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "sama",
       "metrics": {
         "likes": 4568,
         "replies": 376,
         "retweets": 197,
         "views": 549743
-      },
-      "author": "sama"
+      }
     },
     {
       "id": "twitter:2106145617131057652",
@@ -310,6 +430,7 @@
       "url": "https://x.com/danshipper/status/2106145617131057652",
       "created_at": "2026-10-02T22:13:40.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "danshipper",
       "is_repost": true,
       "metrics": {
         "likes": 0,
@@ -319,8 +440,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106140825499639808/img/KFCeHS1K6yMjLOAo.jpg"
-      ],
-      "author": "danshipper"
+      ]
     },
     {
       "id": "twitter:2106145325065150692",
@@ -329,13 +449,13 @@
       "text": "RT @CoreyGallon: A photorealistic walkthrough of a room and a simulation you can actually act inside of are not the same thing, and mixing…",
       "url": "https://x.com/chrmanning/status/2106145325065150692",
       "created_at": "2026-10-02T22:12:30.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
-        "views": 215
+        "views": 255
       },
       "author": "chrmanning"
     },
@@ -347,6 +467,7 @@
       "url": "https://x.com/danshipper/status/2106144801653506531",
       "created_at": "2026-10-02T22:10:25.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "danshipper",
       "metrics": {
         "likes": 33,
         "replies": 9,
@@ -355,8 +476,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106144587592892416/img/YBFxDeB81Q1KYi5-.jpg"
-      ],
-      "author": "danshipper"
+      ]
     },
     {
       "id": "twitter:2106144184449085474",
@@ -385,13 +505,13 @@
       "text": "RT @leononrails: @chrmanning @ziv_ravid @Hellisotherpe10 cs224n taught me more than any tutorial did. queueing this one for the commute",
       "url": "https://x.com/chrmanning/status/2106143595136999531",
       "created_at": "2026-10-02T22:05:37.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 195
+        "views": 231
       },
       "author": "chrmanning"
     },
@@ -402,13 +522,13 @@
       "text": "RT @AravSrinivas: Your creativity is the limit in terms of what you can have Computer do for you. This is the kind of project that you can…",
       "url": "https://x.com/chrmanning/status/2106139400438755568",
       "created_at": "2026-10-02T21:48:57.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 21,
-        "views": 179
+        "retweets": 38,
+        "views": 203
       },
       "author": "chrmanning"
     },
@@ -419,13 +539,13 @@
       "text": "RT @Thom_Wolf: Karpathy: disappears from X\n Ben Affleck: alright, gather round, so you'll want to freeze the base weights first, learning r…",
       "url": "https://x.com/chrmanning/status/2106139236789555505",
       "created_at": "2026-10-02T21:48:18.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 330,
-        "views": 142
+        "retweets": 344,
+        "views": 164
       },
       "author": "chrmanning"
     },
@@ -436,12 +556,12 @@
       "text": "Your creativity is the limit in terms of what you can have Computer do for you. This is the kind of project that you can let an agent run for hours to come back with something great.",
       "url": "https://x.com/AravSrinivas/status/2106128438507532492",
       "created_at": "2026-10-02T21:05:24.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 355,
-        "replies": 29,
-        "retweets": 21,
-        "views": 30159
+        "likes": 520,
+        "replies": 35,
+        "retweets": 38,
+        "views": 45502
       },
       "author": "AravSrinivas"
     },
@@ -453,14 +573,14 @@
       "url": "https://x.com/jerryjliu0/status/2106127483984871552",
       "created_at": "2026-10-02T21:01:36.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 310
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "twitter:2106126787424002158",
@@ -470,13 +590,13 @@
       "url": "https://x.com/danshipper/status/2106126787424002158",
       "created_at": "2026-10-02T20:58:50.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "danshipper",
       "metrics": {
         "likes": 8,
         "replies": 1,
         "retweets": 1,
         "views": 3733
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2106119404433908149",
@@ -485,12 +605,12 @@
       "text": "a few open source contributions from perplexity recently:\n\n•pplx-decider-v1-27b: SoTA multimodal decision model. 85.7% average across 11 benchmarks, ahead of Jev.\n•pplx-embed-v2-context-9b-preview: SoTA contextual embeddings, best on ConTEB and turbopuffer context-bench.\n•Lily: local inference engine for Apple silicon. rust plus custom metal kernels, no pytorch or mlx. 1.23x faster prefill and 1.35x faster decode than MLX-LM on an M5 Max\n•PII-Tracer: 0.6B on-device PII classifier that decides when a hybrid compute task stays on your Mac. beats OpenAI’s Privacy Filter on all 5 public benchmarks. also released with the PII-TRACE benchmark: 13k conversations in 13 languages\n•WANDR: benchmark for wide and deep research agents. 500 tasks needing 170k source-backed records\n•Numbat: agent detection and response for laptops and workstations. 52 rules, single go binary for macOS, linux and windows\n•Bumblebee: read-only supply chain scanner for dev machines. covers packages, MCP configs, and editor and browser extensions. \n\na lot more open source contributions coming soon!",
       "url": "https://x.com/AravSrinivas/status/2106119404433908149",
       "created_at": "2026-10-02T20:29:30.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 220,
-        "replies": 18,
-        "retweets": 16,
-        "views": 17258
+        "likes": 330,
+        "replies": 20,
+        "retweets": 22,
+        "views": 25697
       },
       "author": "AravSrinivas"
     },
@@ -502,6 +622,7 @@
       "url": "https://x.com/emollick/status/2106111291014234462",
       "created_at": "2026-10-02T19:57:16.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "emollick",
       "metrics": {
         "likes": 256,
         "replies": 20,
@@ -510,8 +631,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106111137876000768/img/E1GnHlHQvrpgNOEK.jpg"
-      ],
-      "author": "emollick"
+      ]
     },
     {
       "id": "twitter:2106110022065483860",
@@ -538,6 +658,7 @@
       "url": "https://x.com/AravSrinivas/status/2106109840120774855",
       "created_at": "2026-10-02T19:51:30.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "AravSrinivas",
       "is_repost": true,
       "metrics": {
         "likes": 0,
@@ -547,8 +668,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTpk4CgbkAAV3rc.jpg"
-      ],
-      "author": "AravSrinivas"
+      ]
     },
     {
       "id": "twitter:2106099802970705933",
@@ -558,14 +678,14 @@
       "url": "https://x.com/danshipper/status/2106099802970705933",
       "created_at": "2026-10-02T19:11:37.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "danshipper",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 6,
         "views": 716
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2106099383037309211",
@@ -574,12 +694,12 @@
       "text": "🚨 side project alert 🚨\n\nAnnouncing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse.\n\nGrab an API token from https://t.co/Q0dE0cYnCs and point your favorite coding agent at the github repo to build your own peripherals for Muse.",
       "url": "https://x.com/natfriedman/status/2106099383037309211",
       "created_at": "2026-10-02T19:09:57.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 4075,
-        "replies": 242,
-        "retweets": 299,
-        "views": 548159
+        "likes": 4813,
+        "replies": 279,
+        "retweets": 364,
+        "views": 740701
       },
       "media": [
         "https://pbs.twimg.com/media/HTpcRGqbYAAFg3-.jpg"
@@ -593,12 +713,12 @@
       "text": "We built a gadget of our own, too: Muse Home Link is a little usb-c powered device that allows Muse to connect to your home network to talk to smart home devices like TVs and speakers and anything else that exposes https.\n\nWe manufactured a batch of 5000 Home Links which should be ready to ship in a few weeks, and they are free for Muse subscribers while supplies last. Claim yours at https://t.co/Q0dE0cYnCs\n\nAll the code for Muse Home Link is open source too!",
       "url": "https://x.com/natfriedman/status/2106099384891158562",
       "created_at": "2026-10-02T19:09:57.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 382,
-        "replies": 34,
-        "retweets": 13,
-        "views": 50901
+        "likes": 459,
+        "replies": 38,
+        "retweets": 17,
+        "views": 65237
       },
       "media": [
         "https://pbs.twimg.com/media/HTpdWwAb0AA9ack.png"
@@ -613,13 +733,13 @@
       "url": "https://x.com/emollick/status/2106097018129227918",
       "created_at": "2026-10-02T19:00:33.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "emollick",
       "metrics": {
         "likes": 372,
         "replies": 51,
         "retweets": 11,
         "views": 28185
-      },
-      "author": "emollick"
+      }
     },
     {
       "id": "twitter:2106093052335104481",
@@ -629,14 +749,14 @@
       "url": "https://x.com/StabilityAI/status/2106093052335104481",
       "created_at": "2026-10-02T18:44:47.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "StabilityAI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 1124
-      },
-      "author": "StabilityAI"
+      }
     },
     {
       "id": "twitter:2106087557792436349",
@@ -665,13 +785,13 @@
       "url": "https://x.com/sama/status/2106085986606403684",
       "created_at": "2026-10-02T18:16:43.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "sama",
       "metrics": {
         "likes": 6180,
         "replies": 1451,
         "retweets": 245,
         "views": 503843
-      },
-      "author": "sama"
+      }
     },
     {
       "id": "twitter:2106082911464145342",
@@ -697,14 +817,14 @@
       "url": "https://x.com/danshipper/status/2106082422299427116",
       "created_at": "2026-10-02T18:02:33.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "danshipper",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 707
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2106081117644390546",
@@ -714,14 +834,14 @@
       "url": "https://x.com/jerryjliu0/status/2106081117644390546",
       "created_at": "2026-10-02T17:57:22.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 5,
         "views": 244
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "twitter:2106077901150134510",
@@ -731,14 +851,14 @@
       "url": "https://x.com/danshipper/status/2106077901150134510",
       "created_at": "2026-10-02T17:44:35.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "danshipper",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
         "views": 712
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2106077292678246697",
@@ -747,12 +867,12 @@
       "text": "good pattern from this google paper\n\nthe verifier starts from a clean context, so the explorer's reasoning can't talk it into a bad proof\n\nso the explorer can try wild ideas and the verifier tosses the wrong ones\n\nsame reason deepagents subagents get their own context\n\nhttps://t.co/w177WWAdqY",
       "url": "https://x.com/hwchase17/status/2106077292678246697",
       "created_at": "2026-10-02T17:42:10.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 57,
-        "replies": 19,
-        "retweets": 2,
-        "views": 4932
+        "likes": 70,
+        "replies": 23,
+        "retweets": 6,
+        "views": 6274
       },
       "author": "hwchase17"
     },
@@ -763,13 +883,13 @@
       "text": "RT @sydneyrunkle: if your agents are going to production they have to be durable",
       "url": "https://x.com/hwchase17/status/2106076377896349873",
       "created_at": "2026-10-02T17:38:32.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 582
+        "views": 642
       },
       "author": "hwchase17"
     },
@@ -780,12 +900,12 @@
       "text": "Summary of the Keras community call --\n\n1. New pluggable backend plan, upcoming MLX and PaddlePaddle backends; new backends are installed as add-on libraries\n\n2. Reducing number of ops needed to ship new backends; adding backend-agnostic implementations of all secondary ops\n\n3. Streamlining unit testing for new ops; a single harness can now test all ops functionality like casting consistency, etc.\n\n4. Lots of new models available in KerasHub\n\n5. Moving KerasHub away from tf-text preprocessing and adopting PyGrain instead",
       "url": "https://x.com/fchollet/status/2106075605494268394",
       "created_at": "2026-10-02T17:35:27.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 74,
-        "replies": 16,
+        "likes": 84,
+        "replies": 19,
         "retweets": 8,
-        "views": 15505
+        "views": 19085
       },
       "author": "fchollet"
     },
@@ -796,13 +916,13 @@
       "text": "RT @natolambert: Today we're unveiling Trillium Labs @trillium_labs, a new non-profit to foster the open science of frontier AI. We're buil…",
       "url": "https://x.com/huggingface/status/2106075195438252343",
       "created_at": "2026-10-02T17:33:50.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 216,
-        "views": 2418
+        "retweets": 233,
+        "views": 2594
       },
       "author": "huggingface"
     },
@@ -813,12 +933,12 @@
       "text": "every agent team ends up wanting its own review ui over their traces - LangSmith Custom Apps lets you build it on your own data and ship it right into the workspace\n\nhttps://t.co/SuWCfBFvg9",
       "url": "https://x.com/hwchase17/status/2106075174793863630",
       "created_at": "2026-10-02T17:33:45.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 32,
-        "replies": 10,
-        "retweets": 1,
-        "views": 3680
+        "likes": 35,
+        "replies": 12,
+        "retweets": 2,
+        "views": 4420
       },
       "author": "hwchase17"
     },
@@ -829,12 +949,12 @@
       "text": "Starting now!",
       "url": "https://x.com/fchollet/status/2106067801119379898",
       "created_at": "2026-10-02T17:04:27.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 25,
-        "replies": 5,
-        "retweets": 0,
-        "views": 15686
+        "likes": 29,
+        "replies": 6,
+        "retweets": 2,
+        "views": 19317
       },
       "author": "fchollet"
     },
@@ -845,12 +965,12 @@
       "text": "Didn't want to admit it was Fable 5.5 on the video, but we have receipts as it were https://t.co/5XxI45LMMm",
       "url": "https://x.com/EMostaque/status/2106065715472351685",
       "created_at": "2026-10-02T16:56:10.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 7,
-        "replies": 1,
+        "likes": 9,
+        "replies": 3,
         "retweets": 0,
-        "views": 2358
+        "views": 2661
       },
       "media": [
         "https://pbs.twimg.com/media/HTo_jQhXYAAystA.jpg"
@@ -864,12 +984,12 @@
       "text": "Fable 5.5 is pretty great, did this in a few hours on the chat version on high with minimal prompts\n\n21 worlds, 3D versions, 21 bosses with different mechanics, leaderboard\n\nTry it out!\n\nVideo made by Claude too ofc\n\nhttps://t.co/B11qLC30Wn https://t.co/bJVDJvrD5h",
       "url": "https://x.com/EMostaque/status/2106065029850091943",
       "created_at": "2026-10-02T16:53:26.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 111,
-        "replies": 12,
-        "retweets": 5,
-        "views": 11616
+        "likes": 145,
+        "replies": 14,
+        "retweets": 7,
+        "views": 14076
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106064884798566400/img/NzZmyt4cTpUHGxBC.jpg"
@@ -884,13 +1004,13 @@
       "url": "https://x.com/fchollet/status/2106059763402653798",
       "created_at": "2026-10-02T16:32:30.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "fchollet",
       "metrics": {
         "likes": 35,
         "replies": 10,
         "retweets": 6,
         "views": 15549
-      },
-      "author": "fchollet"
+      }
     },
     {
       "id": "twitter:2106054930041872693",
@@ -900,13 +1020,13 @@
       "url": "https://x.com/hwchase17/status/2106054930041872693",
       "created_at": "2026-10-02T16:13:18.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "hwchase17",
       "metrics": {
         "likes": 64,
         "replies": 26,
         "retweets": 6,
         "views": 8959
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2106054554815222238",
@@ -916,14 +1036,14 @@
       "url": "https://x.com/hwchase17/status/2106054554815222238",
       "created_at": "2026-10-02T16:11:49.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "hwchase17",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 10,
         "views": 642
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2106043812611239980",
@@ -933,6 +1053,7 @@
       "url": "https://x.com/jerryjliu0/status/2106043812611239980",
       "created_at": "2026-10-02T15:29:07.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "metrics": {
         "likes": 74,
         "replies": 10,
@@ -941,8 +1062,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106043705526497281/img/e2xcZ3avpJEwSGDZ.jpg"
-      ],
-      "author": "jerryjliu0"
+      ]
     },
     {
       "id": "twitter:2106043635947225392",
@@ -952,13 +1072,13 @@
       "url": "https://x.com/danshipper/status/2106043635947225392",
       "created_at": "2026-10-02T15:28:25.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "danshipper",
       "metrics": {
         "likes": 41,
         "replies": 7,
         "retweets": 1,
         "views": 5705
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2106037504642277451",
@@ -967,13 +1087,13 @@
       "text": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了\n\n用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的 https://t.co/GCa1TUtsLu",
       "url": "https://x.com/op7418/status/2106037504642277451",
       "created_at": "2026-10-02T15:04:04.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "author": "归藏",
       "metrics": {
-        "likes": 17,
-        "replies": 24,
-        "retweets": 0,
-        "views": 6234
+        "likes": 28,
+        "replies": 28,
+        "retweets": 1,
+        "views": 8589
       },
       "media": [
         "https://pbs.twimg.com/media/HTolm2IawAAlbIe.jpg"
@@ -987,6 +1107,7 @@
       "url": "https://x.com/huggingface/status/2106034221005312448",
       "created_at": "2026-10-02T14:51:01.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "huggingface",
       "metrics": {
         "likes": 411,
         "replies": 73,
@@ -995,8 +1116,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HToib44XsAA-VYJ.jpg"
-      ],
-      "author": "huggingface"
+      ]
     },
     {
       "id": "twitter:2106032540029194575",
@@ -1006,14 +1126,14 @@
       "url": "https://x.com/huggingface/status/2106032540029194575",
       "created_at": "2026-10-02T14:44:20.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "huggingface",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 25,
         "views": 2478
-      },
-      "author": "huggingface"
+      }
     },
     {
       "id": "twitter:2106032506495516706",
@@ -1023,14 +1143,14 @@
       "url": "https://x.com/huggingface/status/2106032506495516706",
       "created_at": "2026-10-02T14:44:12.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "huggingface",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 2297
-      },
-      "author": "huggingface"
+      }
     },
     {
       "id": "twitter:2106032225766740338",
@@ -1040,14 +1160,14 @@
       "url": "https://x.com/huggingface/status/2106032225766740338",
       "created_at": "2026-10-02T14:43:05.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "huggingface",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 271,
         "views": 2392
-      },
-      "author": "huggingface"
+      }
     },
     {
       "id": "twitter:2106006065812767043",
@@ -1057,14 +1177,14 @@
       "url": "https://x.com/danshipper/status/2106006065812767043",
       "created_at": "2026-10-02T12:59:08.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "danshipper",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 6,
         "views": 789
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2106004271728927135",
@@ -1074,13 +1194,13 @@
       "url": "https://x.com/AravSrinivas/status/2106004271728927135",
       "created_at": "2026-10-02T12:52:00.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "AravSrinivas",
       "metrics": {
         "likes": 138,
         "replies": 18,
         "retweets": 3,
         "views": 29241
-      },
-      "author": "AravSrinivas"
+      }
     },
     {
       "id": "twitter:2106000685103972364",
@@ -1090,14 +1210,14 @@
       "url": "https://x.com/huggingface/status/2106000685103972364",
       "created_at": "2026-10-02T12:37:45.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "huggingface",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 7,
         "views": 2811
-      },
-      "author": "huggingface"
+      }
     },
     {
       "id": "twitter:2105995764765962520",
@@ -1107,13 +1227,13 @@
       "url": "https://x.com/danshipper/status/2105995764765962520",
       "created_at": "2026-10-02T12:18:12.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "danshipper",
       "metrics": {
         "likes": 159,
         "replies": 45,
         "retweets": 3,
         "views": 19295
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "twitter:2105960811378417941",
@@ -1123,13 +1243,13 @@
       "url": "https://x.com/EMostaque/status/2105960811378417941",
       "created_at": "2026-10-02T09:59:18.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "EMostaque",
       "metrics": {
         "likes": 73,
         "replies": 9,
         "retweets": 3,
         "views": 9982
-      },
-      "author": "EMostaque"
+      }
     },
     {
       "id": "xhs:6abf0fe90000000012035ee9",
@@ -1219,12 +1339,12 @@
       "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
       "url": "https://x.com/karpathy/status/2105909609487872075",
       "created_at": "2026-10-02T06:35:51.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 15053,
-        "replies": 419,
-        "retweets": 838,
-        "views": 900187
+        "likes": 16027,
+        "replies": 441,
+        "retweets": 889,
+        "views": 982651
       },
       "author": "karpathy"
     },
@@ -1351,6 +1471,7 @@
       "url": "https://x.com/emollick/status/2105842740533596201",
       "created_at": "2026-10-02T02:10:08.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "emollick",
       "metrics": {
         "likes": 1840,
         "replies": 126,
@@ -1360,8 +1481,7 @@
       "media": [
         "https://pbs.twimg.com/media/HTl0z24WYAAKfpS.jpg",
         "https://pbs.twimg.com/media/HTl0z2_XEAADiZz.jpg"
-      ],
-      "author": "emollick"
+      ]
     },
     {
       "id": "twitter:2105840601195311216",
@@ -1389,13 +1509,13 @@
       "text": "RT @ekzhang1: So I would like to share my analysis of PD disagg that I've run by Horace and many folks at Thinky\n\nYou may have heard that P…",
       "url": "https://x.com/soumithchintala/status/2105830132359528559",
       "created_at": "2026-10-02T01:20:02.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 50,
-        "views": 555
+        "views": 568
       },
       "author": "soumithchintala"
     },
@@ -1406,13 +1526,13 @@
       "text": "RT @Google: Up, up, and away. 🚀\n\nToday, in partnership with @planet, we launched a prototype satellite carrying four TPUs into orbit on @Sp…",
       "url": "https://x.com/demishassabis/status/2105829161440804963",
       "created_at": "2026-10-02T01:16:11.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 639,
-        "views": 6431
+        "retweets": 646,
+        "views": 6516
       },
       "author": "demishassabis"
     },
@@ -1423,13 +1543,13 @@
       "text": "RT @IsomorphicLabs: From small molecules to complex biologics, the universe of potential medicines spanning multiple modalities is astronom…",
       "url": "https://x.com/demishassabis/status/2105826569604235725",
       "created_at": "2026-10-02T01:05:53.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 68,
-        "views": 6195
+        "retweets": 69,
+        "views": 6276
       },
       "author": "demishassabis"
     },
@@ -1505,14 +1625,14 @@
       "url": "https://x.com/hwchase17/status/2105807280713376079",
       "created_at": "2026-10-01T23:49:14.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "hwchase17",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 8,
         "views": 671
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2105806366405484628",
@@ -1522,13 +1642,13 @@
       "url": "https://x.com/hwchase17/status/2105806366405484628",
       "created_at": "2026-10-01T23:45:36.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "hwchase17",
       "metrics": {
         "likes": 59,
         "replies": 17,
         "retweets": 7,
         "views": 9771
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2105803651864285301",
@@ -1572,14 +1692,14 @@
       "url": "https://x.com/fchollet/status/2105794980031926558",
       "created_at": "2026-10-01T23:00:21.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "fchollet",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 10,
         "views": 2114
-      },
-      "author": "fchollet"
+      }
     },
     {
       "id": "twitter:2105791360796397954",
@@ -1781,13 +1901,13 @@
       "url": "https://x.com/sama/status/2105739098640298253",
       "created_at": "2026-10-01T19:18:18.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "sama",
       "metrics": {
         "likes": 4894,
         "replies": 514,
         "retweets": 175,
         "views": 1068395
-      },
-      "author": "sama"
+      }
     },
     {
       "id": "twitter:2105735567027646518",
@@ -1813,12 +1933,12 @@
       "text": "In physics, an “impedance mismatch” occurs when two systems each work well but are poorly matched.\n\nIn this Science Blog guest post, Harvard physicist Matthew Schwartz argues that something similar is happening with AI and science. LLMs are capable at many things, but working with them as you would with a human collaborator isn’t currently the best way to elicit their scientific strengths.\n\nTo address this mismatch, Schwartz created a toolkit for exact calculations in quantitative science. Because similar calculations often emerge in very different areas of science, Claude found connections to ecology, population genetics, and a dozen other fields, and Schwartz worked with domain experts to steer it towards interesting questions.\n\nRead more about these projects here: https://t.co/UpgSwMCz7h",
       "url": "https://x.com/AnthropicAI/status/2105733864152858919",
       "created_at": "2026-10-01T18:57:30.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 3373,
-        "replies": 299,
-        "retweets": 372,
-        "views": 508341
+        "likes": 3450,
+        "replies": 314,
+        "retweets": 380,
+        "views": 524762
       },
       "author": "AnthropicAI"
     },
@@ -2016,13 +2136,13 @@
       "text": "RT @OpenAIDevs: dots demo. \n\nNow... with better WiFi. https://t.co/ucMH7SI1vj",
       "url": "https://x.com/OpenAI/status/2105712311063453937",
       "created_at": "2026-10-01T17:31:51.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 800,
-        "views": 44403
+        "retweets": 813,
+        "views": 44821
       },
       "media": [
         "https://pbs.twimg.com/media/HTkEkK4aoAAfGay.jpg"
@@ -2106,12 +2226,12 @@
       "text": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧",
       "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
       "created_at": "2026-10-01T17:11:07.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 30,
+        "likes": 32,
         "replies": 5,
-        "retweets": 4,
-        "views": 22859
+        "retweets": 5,
+        "views": 23535
       },
       "author": "GoogleDeepMind"
     },
@@ -2122,12 +2242,12 @@
       "text": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilience",
       "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
       "created_at": "2026-10-01T17:11:05.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 514,
-        "replies": 101,
-        "retweets": 51,
-        "views": 57138
+        "likes": 522,
+        "replies": 103,
+        "retweets": 52,
+        "views": 59051
       },
       "media": [
         "https://pbs.twimg.com/media/HTj5qYVbAAAWeRS.jpg"
@@ -2194,14 +2314,14 @@
       "url": "https://x.com/jerryjliu0/status/2105701302038843618",
       "created_at": "2026-10-01T16:48:07.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 399
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "twitter:2105701290127028658",
@@ -2211,14 +2331,14 @@
       "url": "https://x.com/jerryjliu0/status/2105701290127028658",
       "created_at": "2026-10-01T16:48:04.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 373
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "twitter:2105700155206897977",
@@ -2261,14 +2381,14 @@
       "url": "https://x.com/jerryjliu0/status/2105693803885858978",
       "created_at": "2026-10-01T16:18:19.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 414
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "twitter:2105692426577056106",
@@ -2278,6 +2398,7 @@
       "url": "https://x.com/jerryjliu0/status/2105692426577056106",
       "created_at": "2026-10-01T16:12:51.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "jerryjliu0",
       "metrics": {
         "likes": 281,
         "replies": 37,
@@ -2286,8 +2407,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2105690582618439680/img/w2h9W9TFuj0YJAO6.jpg"
-      ],
-      "author": "jerryjliu0"
+      ]
     },
     {
       "id": "twitter:2105688518479557073",
@@ -2500,12 +2620,12 @@
       "text": "\"Music is a hidden exercise in arithmetic by a soul that does not know it is counting.\" ~Leibniz\n\nSchopenhauer: That is quite accurate from a lower standpoint and may be parodied in the following way to suit our higher view of music:\n\nMusic is \"a hidden exercise in metaphysics by a soul that does not know it is philosophising.\"",
       "url": "https://x.com/JayAlammar/status/2105666435087319425",
       "created_at": "2026-10-01T14:29:34.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 15,
-        "replies": 1,
-        "retweets": 0,
-        "views": 1945
+        "likes": 16,
+        "replies": 2,
+        "retweets": 1,
+        "views": 1983
       },
       "author": "JayAlammar"
     },
@@ -2570,6 +2690,7 @@
       "url": "https://x.com/Yoshua_Bengio/status/2105655675363762438",
       "created_at": "2026-10-01T13:46:48.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "Yoshua_Bengio",
       "metrics": {
         "likes": 62,
         "replies": 4,
@@ -2580,8 +2701,7 @@
         "https://pbs.twimg.com/media/HTjKo9dW8AAJuXH.jpg",
         "https://pbs.twimg.com/media/HTjKo9aWkAAkrX2.jpg",
         "https://pbs.twimg.com/media/HTjKo9tXgAEkTv7.jpg"
-      ],
-      "author": "Yoshua_Bengio"
+      ]
     },
     {
       "id": "twitter:2105653551565299786",
@@ -3032,13 +3152,13 @@
       "url": "https://x.com/amasad/status/2105441148705907137",
       "created_at": "2026-09-30T23:34:21.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "amasad",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 157
-      },
-      "author": "amasad"
+      }
     },
     {
       "id": "twitter:2105431620769427549",
@@ -3117,13 +3237,13 @@
       "url": "https://x.com/chrmanning/status/2105418696013574170",
       "created_at": "2026-09-30T22:05:08.000Z",
       "fetched_at": "2026-10-03T03:12:12.175Z",
+      "author": "chrmanning",
       "metrics": {
         "likes": 86,
         "replies": 2,
         "retweets": 13,
         "views": 19237
-      },
-      "author": "chrmanning"
+      }
     },
     {
       "id": "twitter:2105418532494438853",
@@ -3349,12 +3469,12 @@
       "text": "So much work by so many folks across Google to create this model, it is amazing to see the progress here, and just the start! Can't wait for more folks to use Gemini 4 Argon.\n\nhttps://t.co/sc9RabG7VT",
       "url": "https://x.com/OfficialLoganK/status/2105388580394930499",
       "created_at": "2026-09-30T20:05:28.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 1224,
+        "likes": 1225,
         "replies": 52,
         "retweets": 45,
-        "views": 141682
+        "views": 142224
       },
       "author": "OfficialLoganK"
     },
@@ -3403,12 +3523,12 @@
       "text": "Introducing Gemini 4 Argon, our new frontier model, rolling out to cyber defenders starting today, and more widely as soon as possible. I am really excited by the progress we have made here. Argon is priced at $2 in and $10 out during introductory pricing! https://t.co/X9LNch6ObZ",
       "url": "https://x.com/OfficialLoganK/status/2105388054274080946",
       "created_at": "2026-09-30T20:03:23.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
-        "likes": 14756,
+        "likes": 14762,
         "replies": 1012,
-        "retweets": 1052,
-        "views": 1528506
+        "retweets": 1053,
+        "views": 1532931
       },
       "media": [
         "https://pbs.twimg.com/media/HTfVRhMa0AABGYb.png",
@@ -3794,12 +3914,12 @@
       "text": "Also, my dot says hello https://t.co/sw2jJLeTHQ",
       "url": "https://x.com/btibor91/status/2105334452213944362",
       "created_at": "2026-09-30T16:30:23.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
         "likes": 5,
         "replies": 1,
         "retweets": 0,
-        "views": 1227
+        "views": 1241
       },
       "media": [
         "https://pbs.twimg.com/tweet_video_thumb/HTemhY8bgAI-2lt.jpg"
@@ -3813,12 +3933,12 @@
       "text": "Ideogram launched Ideogram 4.5, an image editing model, live now in Ideogram, the API and launch partners, with open weights coming soon\n\nThe model is focused on multi-turn editing, so you can edit the same image over and over without artifacts, pixel shifts or color changes between edits, and it can also edit a crop of a high-res image without downsizing it and stitch the result back into the original\n\nI've been using Ideogram since v0.1 in Aug 2023 and it still remains one of my favorite tools (also one of my first prompt templates in AIPRM for ChatGPT to help me iterate on prompts for Ideogram back then)",
       "url": "https://x.com/btibor91/status/2105334426410651993",
       "created_at": "2026-09-30T16:30:17.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
         "likes": 37,
         "replies": 5,
         "retweets": 1,
-        "views": 4862
+        "views": 4888
       },
       "media": [
         "https://pbs.twimg.com/media/HTeme7Ya0AA6m8_.jpg",
@@ -5422,12 +5542,12 @@
       "text": "I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'm running a live blog where I'll be posting updates during the keynote, which starts in five minutes https://t.co/X9DLSS0xbR",
       "url": "https://x.com/simonw/status/2104978193946124370",
       "created_at": "2026-09-29T16:54:44.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
         "likes": 524,
         "replies": 84,
         "retweets": 35,
-        "views": 120559
+        "views": 120938
       },
       "author": "simonw"
     },
@@ -5488,12 +5608,12 @@
       "text": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had the insight that rigorous skills measurements would be important. With recent advances in AI, this is now more true than ever. Workera's technologies for rigorously measuring people's skills in different tasks and job roles are helping many businesses understand where their employees are strong and where there are areas for development. \n\nWith Workera and Pearson combining forces, I'm delighted that under @omarabbosh and Kian's leadership. Workera now has the potential to support an even larger number of people and businesses. Thank you, Kian and the Workera team for having me serve as the company's chairman, for launching Workera out of https://t.co/zpIxRSuky4 and AI Fund, for your friendship over the years, and for your important work advancing assessments.",
       "url": "https://x.com/AndrewYNg/status/2104967263757713432",
       "created_at": "2026-09-29T16:11:18.000Z",
-      "fetched_at": "2026-10-03T03:12:12.175Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
         "likes": 189,
-        "replies": 53,
+        "replies": 54,
         "retweets": 17,
-        "views": 72709
+        "views": 73030
       },
       "author": "AndrewYNg"
     },
@@ -5795,13 +5915,13 @@
       "text": "RT @LisaSu: So excited to welcome @theworldlabs and @drfeifei to the @AMD family! I’ve always been a huge fan of Fei-Fei and her pioneering…",
       "url": "https://x.com/drfeifei/status/2104916249021157805",
       "created_at": "2026-09-29T12:48:35.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 508,
-        "views": 2630
+        "views": 2640
       },
       "author": "drfeifei"
     },
@@ -7408,12 +7528,12 @@
       "text": "Practical guidelines on securing frontier RL training, reflecting our current learnings:",
       "url": "https://x.com/gdb/status/2104821232441160070",
       "created_at": "2026-09-29T06:31:02.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "metrics": {
         "likes": 869,
-        "replies": 146,
+        "replies": 149,
         "retweets": 49,
-        "views": 179861
+        "views": 180404
       },
       "author": "gdb"
     },
@@ -7424,7 +7544,7 @@
       "text": "RT @noahrshinn: @patrick_oshag and I had a great conversation a few days ago.\n\nWe talked about:\n- Instinct’s high-craft, user-centric, and…",
       "url": "https://x.com/ShunyuYao12/status/2104818881646961146",
       "created_at": "2026-09-29T06:21:41.000Z",
-      "fetched_at": "2026-10-03T03:12:12.176Z",
+      "fetched_at": "2026-10-03T08:32:49.834Z",
       "is_repost": true,
       "metrics": {
         "likes": 0,
@@ -10615,14 +10735,14 @@
       "url": "https://x.com/StabilityAI/status/2103557062274023895",
       "created_at": "2026-09-25T18:47:40.000Z",
       "fetched_at": "2026-10-03T03:12:12.176Z",
+      "author": "StabilityAI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 3,
         "views": 1501
-      },
-      "author": "StabilityAI"
+      }
     },
     {
       "id": "twitter:2103547872398704823",
