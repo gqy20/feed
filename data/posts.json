@@ -1,7 +1,40 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-03T08:33:53.453Z",
+  "updated_at": "2026-10-03T16:02:17.500Z",
   "posts": [
+    {
+      "id": "twitter:2106393007008456973",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @AskPerplexity: Here are 5 examples of inline visualizations that Computer can create directly in your thread:\n\n1. Show me how a jet eng…",
+      "url": "https://x.com/AravSrinivas/status/2106393007008456973",
+      "created_at": "2026-10-03T14:36:42.000Z",
+      "fetched_at": "2026-10-03T16:02:12.057Z",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 2049
+      },
+      "author": "AravSrinivas"
+    },
+    {
+      "id": "twitter:2106313275797352674",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Our goal is to vertically integrate our agentic infrastructure: own our sandboxes, and optimize the sandbox for the best silicon. Vera is far better than x86. Look forward to sharing more soon as we begin to rollout deployment of Perplexity Computer on Vera.",
+      "url": "https://x.com/AravSrinivas/status/2106313275797352674",
+      "created_at": "2026-10-03T09:19:53.000Z",
+      "fetched_at": "2026-10-03T16:02:12.057Z",
+      "metrics": {
+        "likes": 158,
+        "replies": 28,
+        "retweets": 9,
+        "views": 17338
+      },
+      "author": "AravSrinivas"
+    },
     {
       "id": "twitter:2106263250455113898",
       "platform": "twitter",
@@ -27,13 +60,13 @@
       "url": "https://x.com/amasad/status/2106237645282324709",
       "created_at": "2026-10-03T04:19:21.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "amasad",
       "metrics": {
         "likes": 689,
         "replies": 21,
         "retweets": 39,
         "views": 37882
-      },
-      "author": "amasad"
+      }
     },
     {
       "id": "twitter:2106220877872345298",
@@ -130,6 +163,7 @@
       "url": "https://x.com/amasad/status/2106191901900915194",
       "created_at": "2026-10-03T01:17:35.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "amasad",
       "metrics": {
         "likes": 427,
         "replies": 20,
@@ -138,8 +172,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTqyXkbasAAWQ4h.jpg"
-      ],
-      "author": "amasad"
+      ]
     },
     {
       "id": "twitter:2106189841813934140",
@@ -149,13 +182,13 @@
       "url": "https://x.com/sama/status/2106189841813934140",
       "created_at": "2026-10-03T01:09:24.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "sama",
       "metrics": {
         "likes": 13823,
         "replies": 683,
         "retweets": 348,
         "views": 693570
-      },
-      "author": "sama"
+      }
     },
     {
       "id": "twitter:2106187777058693216",
@@ -165,6 +198,7 @@
       "url": "https://x.com/jerryjliu0/status/2106187777058693216",
       "created_at": "2026-10-03T01:01:11.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "jerryjliu0",
       "metrics": {
         "likes": 30,
         "replies": 10,
@@ -173,8 +207,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106187503166480384/img/VNweXCxS058k8hSM.jpg"
-      ],
-      "author": "jerryjliu0"
+      ]
     },
     {
       "id": "twitter:2106187293501411755",
@@ -184,6 +217,7 @@
       "url": "https://x.com/emollick/status/2106187293501411755",
       "created_at": "2026-10-03T00:59:16.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "emollick",
       "metrics": {
         "likes": 127,
         "replies": 38,
@@ -192,8 +226,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTquK7CWMAEINmO.jpg"
-      ],
-      "author": "emollick"
+      ]
     },
     {
       "id": "twitter:2106184896934998287",
@@ -203,14 +236,14 @@
       "url": "https://x.com/jerryjliu0/status/2106184896934998287",
       "created_at": "2026-10-03T00:49:45.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "jerryjliu0",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
         "views": 324
-      },
-      "author": "jerryjliu0"
+      }
     },
     {
       "id": "twitter:2106173866460770536",
@@ -239,14 +272,14 @@
       "url": "https://x.com/danshipper/status/2106173754254442939",
       "created_at": "2026-10-03T00:05:28.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "danshipper",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 828
-      },
-      "author": "danshipper"
+      }
     },
     {
       "id": "xhs:6abfdfa1000000001c00feca",
@@ -366,13 +399,13 @@
       "url": "https://x.com/Yoshua_Bengio/status/2106154362921795605",
       "created_at": "2026-10-02T22:48:25.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "Yoshua_Bengio",
       "metrics": {
         "likes": 86,
         "replies": 16,
         "retweets": 9,
         "views": 4763
-      },
-      "author": "Yoshua_Bengio"
+      }
     },
     {
       "id": "twitter:2106153681423130801",
@@ -398,13 +431,13 @@
       "url": "https://x.com/StabilityAI/status/2106148130731467187",
       "created_at": "2026-10-02T22:23:39.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "StabilityAI",
       "metrics": {
         "likes": 4,
         "replies": 1,
         "retweets": 0,
         "views": 5403
-      },
-      "author": "StabilityAI"
+      }
     },
     {
       "id": "twitter:2106147184693620924",
@@ -450,14 +483,14 @@
       "url": "https://x.com/chrmanning/status/2106145325065150692",
       "created_at": "2026-10-02T22:12:30.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "chrmanning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
         "views": 255
-      },
-      "author": "chrmanning"
+      }
     },
     {
       "id": "twitter:2106144801653506531",
@@ -506,14 +539,14 @@
       "url": "https://x.com/chrmanning/status/2106143595136999531",
       "created_at": "2026-10-02T22:05:37.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "chrmanning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
         "views": 231
-      },
-      "author": "chrmanning"
+      }
     },
     {
       "id": "twitter:2106139400438755568",
@@ -523,14 +556,14 @@
       "url": "https://x.com/chrmanning/status/2106139400438755568",
       "created_at": "2026-10-02T21:48:57.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "chrmanning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 38,
         "views": 203
-      },
-      "author": "chrmanning"
+      }
     },
     {
       "id": "twitter:2106139236789555505",
@@ -540,14 +573,14 @@
       "url": "https://x.com/chrmanning/status/2106139236789555505",
       "created_at": "2026-10-02T21:48:18.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "chrmanning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 344,
         "views": 164
-      },
-      "author": "chrmanning"
+      }
     },
     {
       "id": "twitter:2106128438507532492",
@@ -556,12 +589,12 @@
       "text": "Your creativity is the limit in terms of what you can have Computer do for you. This is the kind of project that you can let an agent run for hours to come back with something great.",
       "url": "https://x.com/AravSrinivas/status/2106128438507532492",
       "created_at": "2026-10-02T21:05:24.000Z",
-      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "fetched_at": "2026-10-03T16:02:12.057Z",
       "metrics": {
-        "likes": 520,
-        "replies": 35,
-        "retweets": 38,
-        "views": 45502
+        "likes": 626,
+        "replies": 40,
+        "retweets": 48,
+        "views": 56282
       },
       "author": "AravSrinivas"
     },
@@ -605,12 +638,12 @@
       "text": "a few open source contributions from perplexity recently:\n\n•pplx-decider-v1-27b: SoTA multimodal decision model. 85.7% average across 11 benchmarks, ahead of Jev.\n•pplx-embed-v2-context-9b-preview: SoTA contextual embeddings, best on ConTEB and turbopuffer context-bench.\n•Lily: local inference engine for Apple silicon. rust plus custom metal kernels, no pytorch or mlx. 1.23x faster prefill and 1.35x faster decode than MLX-LM on an M5 Max\n•PII-Tracer: 0.6B on-device PII classifier that decides when a hybrid compute task stays on your Mac. beats OpenAI’s Privacy Filter on all 5 public benchmarks. also released with the PII-TRACE benchmark: 13k conversations in 13 languages\n•WANDR: benchmark for wide and deep research agents. 500 tasks needing 170k source-backed records\n•Numbat: agent detection and response for laptops and workstations. 52 rules, single go binary for macOS, linux and windows\n•Bumblebee: read-only supply chain scanner for dev machines. covers packages, MCP configs, and editor and browser extensions. \n\na lot more open source contributions coming soon!",
       "url": "https://x.com/AravSrinivas/status/2106119404433908149",
       "created_at": "2026-10-02T20:29:30.000Z",
-      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "fetched_at": "2026-10-03T16:02:12.057Z",
       "metrics": {
-        "likes": 330,
-        "replies": 20,
-        "retweets": 22,
-        "views": 25697
+        "likes": 413,
+        "replies": 23,
+        "retweets": 27,
+        "views": 33838
       },
       "author": "AravSrinivas"
     },
@@ -695,6 +728,7 @@
       "url": "https://x.com/natfriedman/status/2106099383037309211",
       "created_at": "2026-10-02T19:09:57.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "natfriedman",
       "metrics": {
         "likes": 4813,
         "replies": 279,
@@ -703,8 +737,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTpcRGqbYAAFg3-.jpg"
-      ],
-      "author": "natfriedman"
+      ]
     },
     {
       "id": "twitter:2106099384891158562",
@@ -714,6 +747,7 @@
       "url": "https://x.com/natfriedman/status/2106099384891158562",
       "created_at": "2026-10-02T19:09:57.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "natfriedman",
       "metrics": {
         "likes": 459,
         "replies": 38,
@@ -722,8 +756,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTpdWwAb0AA9ack.png"
-      ],
-      "author": "natfriedman"
+      ]
     },
     {
       "id": "twitter:2106097018129227918",
@@ -868,13 +901,13 @@
       "url": "https://x.com/hwchase17/status/2106077292678246697",
       "created_at": "2026-10-02T17:42:10.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "hwchase17",
       "metrics": {
         "likes": 70,
         "replies": 23,
         "retweets": 6,
         "views": 6274
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2106076377896349873",
@@ -884,14 +917,14 @@
       "url": "https://x.com/hwchase17/status/2106076377896349873",
       "created_at": "2026-10-02T17:38:32.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "hwchase17",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
         "views": 642
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2106075605494268394",
@@ -901,13 +934,13 @@
       "url": "https://x.com/fchollet/status/2106075605494268394",
       "created_at": "2026-10-02T17:35:27.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "fchollet",
       "metrics": {
         "likes": 84,
         "replies": 19,
         "retweets": 8,
         "views": 19085
-      },
-      "author": "fchollet"
+      }
     },
     {
       "id": "twitter:2106075195438252343",
@@ -917,14 +950,14 @@
       "url": "https://x.com/huggingface/status/2106075195438252343",
       "created_at": "2026-10-02T17:33:50.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "huggingface",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 233,
         "views": 2594
-      },
-      "author": "huggingface"
+      }
     },
     {
       "id": "twitter:2106075174793863630",
@@ -934,13 +967,13 @@
       "url": "https://x.com/hwchase17/status/2106075174793863630",
       "created_at": "2026-10-02T17:33:45.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "hwchase17",
       "metrics": {
         "likes": 35,
         "replies": 12,
         "retweets": 2,
         "views": 4420
-      },
-      "author": "hwchase17"
+      }
     },
     {
       "id": "twitter:2106067801119379898",
@@ -950,13 +983,13 @@
       "url": "https://x.com/fchollet/status/2106067801119379898",
       "created_at": "2026-10-02T17:04:27.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "fchollet",
       "metrics": {
         "likes": 29,
         "replies": 6,
         "retweets": 2,
         "views": 19317
-      },
-      "author": "fchollet"
+      }
     },
     {
       "id": "twitter:2106065715472351685",
@@ -966,6 +999,7 @@
       "url": "https://x.com/EMostaque/status/2106065715472351685",
       "created_at": "2026-10-02T16:56:10.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "EMostaque",
       "metrics": {
         "likes": 9,
         "replies": 3,
@@ -974,8 +1008,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTo_jQhXYAAystA.jpg"
-      ],
-      "author": "EMostaque"
+      ]
     },
     {
       "id": "twitter:2106065029850091943",
@@ -985,6 +1018,7 @@
       "url": "https://x.com/EMostaque/status/2106065029850091943",
       "created_at": "2026-10-02T16:53:26.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "EMostaque",
       "metrics": {
         "likes": 145,
         "replies": 14,
@@ -993,8 +1027,7 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106064884798566400/img/NzZmyt4cTpUHGxBC.jpg"
-      ],
-      "author": "EMostaque"
+      ]
     },
     {
       "id": "twitter:2106059763402653798",
@@ -1340,13 +1373,13 @@
       "url": "https://x.com/karpathy/status/2105909609487872075",
       "created_at": "2026-10-02T06:35:51.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "karpathy",
       "metrics": {
         "likes": 16027,
         "replies": 441,
         "retweets": 889,
         "views": 982651
-      },
-      "author": "karpathy"
+      }
     },
     {
       "id": "twitter:2105903415930831066",
@@ -1510,14 +1543,14 @@
       "url": "https://x.com/soumithchintala/status/2105830132359528559",
       "created_at": "2026-10-02T01:20:02.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "soumithchintala",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 50,
         "views": 568
-      },
-      "author": "soumithchintala"
+      }
     },
     {
       "id": "twitter:2105829161440804963",
@@ -1527,14 +1560,14 @@
       "url": "https://x.com/demishassabis/status/2105829161440804963",
       "created_at": "2026-10-02T01:16:11.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "demishassabis",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 646,
         "views": 6516
-      },
-      "author": "demishassabis"
+      }
     },
     {
       "id": "twitter:2105826569604235725",
@@ -1544,14 +1577,14 @@
       "url": "https://x.com/demishassabis/status/2105826569604235725",
       "created_at": "2026-10-02T01:05:53.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "demishassabis",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 69,
         "views": 6276
-      },
-      "author": "demishassabis"
+      }
     },
     {
       "id": "twitter:2105819303471976479",
@@ -1933,12 +1966,12 @@
       "text": "In physics, an “impedance mismatch” occurs when two systems each work well but are poorly matched.\n\nIn this Science Blog guest post, Harvard physicist Matthew Schwartz argues that something similar is happening with AI and science. LLMs are capable at many things, but working with them as you would with a human collaborator isn’t currently the best way to elicit their scientific strengths.\n\nTo address this mismatch, Schwartz created a toolkit for exact calculations in quantitative science. Because similar calculations often emerge in very different areas of science, Claude found connections to ecology, population genetics, and a dozen other fields, and Schwartz worked with domain experts to steer it towards interesting questions.\n\nRead more about these projects here: https://t.co/UpgSwMCz7h",
       "url": "https://x.com/AnthropicAI/status/2105733864152858919",
       "created_at": "2026-10-01T18:57:30.000Z",
-      "fetched_at": "2026-10-03T08:32:49.834Z",
+      "fetched_at": "2026-10-03T16:02:12.056Z",
       "metrics": {
-        "likes": 3450,
-        "replies": 314,
-        "retweets": 380,
-        "views": 524762
+        "likes": 3489,
+        "replies": 332,
+        "retweets": 390,
+        "views": 540176
       },
       "author": "AnthropicAI"
     },
@@ -2137,6 +2170,7 @@
       "url": "https://x.com/OpenAI/status/2105712311063453937",
       "created_at": "2026-10-01T17:31:51.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "OpenAI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
@@ -2146,8 +2180,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTkEkK4aoAAfGay.jpg"
-      ],
-      "author": "OpenAI"
+      ]
     },
     {
       "id": "twitter:2105710409894547687",
@@ -2227,13 +2260,13 @@
       "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
       "created_at": "2026-10-01T17:11:07.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "GoogleDeepMind",
       "metrics": {
         "likes": 32,
         "replies": 5,
         "retweets": 5,
         "views": 23535
-      },
-      "author": "GoogleDeepMind"
+      }
     },
     {
       "id": "twitter:2105707085287567709",
@@ -2243,6 +2276,7 @@
       "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
       "created_at": "2026-10-01T17:11:05.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "GoogleDeepMind",
       "metrics": {
         "likes": 522,
         "replies": 103,
@@ -2251,8 +2285,7 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HTj5qYVbAAAWeRS.jpg"
-      ],
-      "author": "GoogleDeepMind"
+      ]
     },
     {
       "id": "twitter:2105706777832767984",
@@ -2621,13 +2654,13 @@
       "url": "https://x.com/JayAlammar/status/2105666435087319425",
       "created_at": "2026-10-01T14:29:34.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "JayAlammar",
       "metrics": {
         "likes": 16,
         "replies": 2,
         "retweets": 1,
         "views": 1983
-      },
-      "author": "JayAlammar"
+      }
     },
     {
       "id": "twitter:2105666232074846674",
@@ -3470,13 +3503,13 @@
       "url": "https://x.com/OfficialLoganK/status/2105388580394930499",
       "created_at": "2026-09-30T20:05:28.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "OfficialLoganK",
       "metrics": {
         "likes": 1225,
         "replies": 52,
         "retweets": 45,
         "views": 142224
-      },
-      "author": "OfficialLoganK"
+      }
     },
     {
       "id": "twitter:2105388084154056939",
@@ -3524,6 +3557,7 @@
       "url": "https://x.com/OfficialLoganK/status/2105388054274080946",
       "created_at": "2026-09-30T20:03:23.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "OfficialLoganK",
       "metrics": {
         "likes": 14762,
         "replies": 1012,
@@ -3535,8 +3569,7 @@
         "https://pbs.twimg.com/media/HTfWRcSbYAAQ6VP.png",
         "https://pbs.twimg.com/media/HTfWRcTa8AAgNKl.jpg",
         "https://pbs.twimg.com/media/HTfWRcfbUAA3ehZ.png"
-      ],
-      "author": "OfficialLoganK"
+      ]
     },
     {
       "id": "twitter:2105385761390632968",
@@ -3915,6 +3948,7 @@
       "url": "https://x.com/btibor91/status/2105334452213944362",
       "created_at": "2026-09-30T16:30:23.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "btibor91",
       "metrics": {
         "likes": 5,
         "replies": 1,
@@ -3923,8 +3957,7 @@
       },
       "media": [
         "https://pbs.twimg.com/tweet_video_thumb/HTemhY8bgAI-2lt.jpg"
-      ],
-      "author": "btibor91"
+      ]
     },
     {
       "id": "twitter:2105334426410651993",
@@ -3934,6 +3967,7 @@
       "url": "https://x.com/btibor91/status/2105334426410651993",
       "created_at": "2026-09-30T16:30:17.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "btibor91",
       "metrics": {
         "likes": 37,
         "replies": 5,
@@ -3945,8 +3979,7 @@
         "https://pbs.twimg.com/media/HTemfjmbgAA85ij.jpg",
         "https://pbs.twimg.com/media/HTemfy2bgAQFbMY.jpg",
         "https://pbs.twimg.com/media/HTemgGubYAABBUt.jpg"
-      ],
-      "author": "btibor91"
+      ]
     },
     {
       "id": "twitter:2105328449187451036",
@@ -5543,13 +5576,13 @@
       "url": "https://x.com/simonw/status/2104978193946124370",
       "created_at": "2026-09-29T16:54:44.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "simonw",
       "metrics": {
         "likes": 524,
         "replies": 84,
         "retweets": 35,
         "views": 120938
-      },
-      "author": "simonw"
+      }
     },
     {
       "id": "twitter:2104976337316589726",
@@ -5609,13 +5642,13 @@
       "url": "https://x.com/AndrewYNg/status/2104967263757713432",
       "created_at": "2026-09-29T16:11:18.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "AndrewYNg",
       "metrics": {
         "likes": 189,
         "replies": 54,
         "retweets": 17,
         "views": 73030
-      },
-      "author": "AndrewYNg"
+      }
     },
     {
       "id": "twitter:2104966339156984000",
@@ -5916,14 +5949,14 @@
       "url": "https://x.com/drfeifei/status/2104916249021157805",
       "created_at": "2026-09-29T12:48:35.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "drfeifei",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 508,
         "views": 2640
-      },
-      "author": "drfeifei"
+      }
     },
     {
       "id": "xhs:6aaf6c7a000000002700ae91",
@@ -7529,13 +7562,13 @@
       "url": "https://x.com/gdb/status/2104821232441160070",
       "created_at": "2026-09-29T06:31:02.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "gdb",
       "metrics": {
         "likes": 869,
         "replies": 149,
         "retweets": 49,
         "views": 180404
-      },
-      "author": "gdb"
+      }
     },
     {
       "id": "twitter:2104818881646961146",
@@ -7545,14 +7578,14 @@
       "url": "https://x.com/ShunyuYao12/status/2104818881646961146",
       "created_at": "2026-09-29T06:21:41.000Z",
       "fetched_at": "2026-10-03T08:32:49.834Z",
+      "author": "ShunyuYao12",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 46,
         "views": 222
-      },
-      "author": "ShunyuYao12"
+      }
     },
     {
       "id": "xhs:6abb58250000000018016315",

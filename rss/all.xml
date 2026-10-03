@@ -5,8 +5,24 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>Trail 采集聚合订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/all.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Oct 2026 06:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:36:42 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>AravSrinivas：RT @AskPerplexity: Here are 5 examples of inline visualizations that Computer…</title>
+      <link>https://x.com/AravSrinivas/status/2106393007008456973</link>
+      <guid isPermaLink="false">twitter:2106393007008456973</guid>
+      <pubDate>Sat, 03 Oct 2026 14:36:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AskPerplexity: Here are 5 examples of inline visualizations that Computer can create directly in your thread:<br /><br />1. Show me how a jet eng…</p><p><a href="https://x.com/AravSrinivas/status/2106393007008456973">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>AravSrinivas：Our goal is to vertically integrate our agentic infrastructure: own our sandb…</title>
+      <link>https://x.com/AravSrinivas/status/2106313275797352674</link>
+      <guid isPermaLink="false">twitter:2106313275797352674</guid>
+      <pubDate>Sat, 03 Oct 2026 09:19:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Our goal is to vertically integrate our agentic infrastructure: own our sandboxes, and optimize the sandbox for the best silicon. Vera is far better than x86. Look forward to sharing more soon as we begin to rollout deployment of Perplexity Computer on Vera.</p><p><a href="https://x.com/AravSrinivas/status/2106313275797352674">原文</a></p>]]></description>
+    </item>
     <item>
       <title>宝玉：RT @JustinLin610: just checked hf daily papers sept ranking, dpsk v4.1 flash only has 1…</title>
       <link>https://x.com/dotey/status/2106263250455113898</link>
@@ -1190,22 +1206,6 @@
       <pubDate>Thu, 01 Oct 2026 14:43:11 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @abidlabs: Every company should be fine-tuning its own models on its own, proprietary business data. We&apos;ve made this a LOT easier by add…</p><p><a href="https://x.com/huggingface/status/2105669863415116262">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>huggingface：RT @victormustar: I&apos;m giving away $1,000 of HF credits 🤗</title>
-      <link>https://x.com/huggingface/status/2105669796398264402</link>
-      <guid isPermaLink="false">twitter:2105669796398264402</guid>
-      <pubDate>Thu, 01 Oct 2026 14:42:55 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @victormustar: I&apos;m giving away $1,000 of HF credits 🤗<br />$10 x 100 people, I want you to experience this:<br /><br />&amp;gt; having your agent launch hundr…</p><p><a href="https://x.com/huggingface/status/2105669796398264402">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>JayAlammar：&quot;Music is a hidden exercise in arithmetic by a soul that does not know it is co…</title>
-      <link>https://x.com/JayAlammar/status/2105666435087319425</link>
-      <guid isPermaLink="false">twitter:2105666435087319425</guid>
-      <pubDate>Thu, 01 Oct 2026 14:29:34 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>&quot;Music is a hidden exercise in arithmetic by a soul that does not know it is counting.&quot; ~Leibniz<br /><br />Schopenhauer: That is quite accurate from a lower standpoint and may be parodied in the following way to suit our higher view of music:<br /><br />Music is &quot;a hidden exercise in metaphysics by a soul that does not know it is philosophising.&quot;</p><p><a href="https://x.com/JayAlammar/status/2105666435087319425">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>
