@@ -5,10 +5,18 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>jerryjliu0 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/jerryjliu0.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Oct 2026 01:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:10:23 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
     <item>
-      <title>jerryjliu0：Our new extraction agents are extremely good at reasoning over tables that span…</title>
+      <title>Jerry Liu：sfo is the best airport in the US</title>
+      <link>https://x.com/jerryjliu0/status/2106582677738656039</link>
+      <guid isPermaLink="false">twitter:2106582677738656039</guid>
+      <pubDate>Sun, 04 Oct 2026 03:10:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>sfo is the best airport in the US</p><p><a href="https://x.com/jerryjliu0/status/2106582677738656039">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Our new extraction agents are extremely good at reasoning over tables that span …</title>
       <link>https://x.com/jerryjliu0/status/2106187777058693216</link>
       <guid isPermaLink="false">twitter:2106187777058693216</guid>
       <pubDate>Sat, 03 Oct 2026 01:01:11 GMT</pubDate>
@@ -16,7 +24,7 @@
       <description><![CDATA[<p>Our new extraction agents are extremely good at reasoning over tables that span multiple pages<br /><br />sometimes a record starts on one page and finishes on the next. extremely common for real world docs (insurance claims, regulatory filings, legal schedules) - for instance you print Word / Google Doc to PDF <br /><br />our agents can piece these cells along with hundreds/thousands of other cells into clean, structured tabular output.<br /><br />come check it out: https://t.co/TTlTdECU03<br /><br />come sign up to llamaparse: https://t.co/XYZmx5TFz8</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106187503166480384/img/VNweXCxS058k8hSM.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2106187777058693216">原文</a></p>]]></description>
     </item>
     <item>
-      <title>jerryjliu0：RT @imaanxsultan: its a beautiful day to be team @llama_index ! 🦙</title>
+      <title>Jerry Liu：RT @imaanxsultan: its a beautiful day to be team @llama_index ! 🦙</title>
       <link>https://x.com/jerryjliu0/status/2106184896934998287</link>
       <guid isPermaLink="false">twitter:2106184896934998287</guid>
       <pubDate>Sat, 03 Oct 2026 00:49:45 GMT</pubDate>

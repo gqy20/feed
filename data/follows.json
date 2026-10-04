@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-04T03:49:08.719Z",
+  "updated_at": "2026-10-04T05:44:13.628Z",
   "accounts": [
     {
       "platform": "twitter",
@@ -88,136 +88,163 @@
     {
       "platform": "twitter",
       "handle": "DarioAmodei",
+      "name": "Dario Amodei",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "demishassabis",
+      "name": "Demis Hassabis",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "drfeifei",
+      "name": "Fei-Fei Li",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "DrJimFan",
+      "name": "Jim Fan",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "emollick",
+      "name": "Ethan Mollick",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "EMostaque",
+      "name": "Emad",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "eugeneyan",
+      "name": "Eugene Yan",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "fchollet",
+      "name": "François Chollet",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "gdb",
+      "name": "Greg Brockman",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "GoogleDeepMind",
+      "name": "Google DeepMind",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "hamzafarrukh",
+      "name": "Hamza Farrukh",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "huggingface",
+      "name": "Hugging Face",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "hwchase17",
+      "name": "Harrison Chase",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "ilyasut",
+      "name": "Ilya Sutskever",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "JayAlammar",
+      "name": "Jay Alammar",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "JeremyHoward",
+      "name": "Jeremy Howard",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "jerryjliu0",
+      "name": "Jerry Liu",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "lilianweng",
+      "name": "Lilian Weng",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "MetaAI",
+      "name": "AI at Meta",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "natfriedman",
+      "name": "Nat Friedman",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "nir_diamant",
+      "name": "Nir Diamant",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "OfficialLoganK",
+      "name": "Logan Kilpatrick",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "OpenAI",
+      "name": "OpenAI",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "ShunyuYao12",
+      "name": "Shunyu Yao",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "simonw",
+      "name": "Simon Willison",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "soumithchintala",
+      "name": "Soumith Chintala",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "StabilityAI",
+      "name": "Stability AI",
       "priority": 2
     },
     {

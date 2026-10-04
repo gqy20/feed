@@ -5,10 +5,34 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>simonw · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/simonw.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 16:54:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 01:03:52 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
     <item>
-      <title>simonw：I&apos;m at OpenAI&apos;s DevDay event in San Francisco today - as I have for the past three …</title>
+      <title>Simon Willison：RT @biilmann: @simonw That was one of the components in our switch to credi…</title>
+      <link>https://x.com/simonw/status/2106550840773509149</link>
+      <guid isPermaLink="false">twitter:2106550840773509149</guid>
+      <pubDate>Sun, 04 Oct 2026 01:03:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @biilmann: @simonw That was one of the components in our switch to credit based pricing at Netlify a year ago.</p><p><a href="https://x.com/simonw/status/2106550840773509149">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Just published this post about how we’re going to need default hard budget …</title>
+      <link>https://x.com/simonw/status/2106528704902164855</link>
+      <guid isPermaLink="false">twitter:2106528704902164855</guid>
+      <pubDate>Sat, 03 Oct 2026 23:35:55 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Just published this post about how we’re going to need default hard budget caps on pretty much everything https://t.co/L6XEYpF4uZ</p><p><a href="https://x.com/simonw/status/2106528704902164855">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Now that we&apos;ve had a few days with it, how are people differentiating betwe…</title>
+      <link>https://x.com/simonw/status/2106500511465869380</link>
+      <guid isPermaLink="false">twitter:2106500511465869380</guid>
+      <pubDate>Sat, 03 Oct 2026 21:43:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Now that we&apos;ve had a few days with it, how are people differentiating between Dot and regular ChatGPT?<br /><br />I&apos;m having trouble deciding when I should prompt Dot vs using ChatGPT - my Dot seems to afford a single conversation, but I like controlling my context across multiple threads</p><p><a href="https://x.com/simonw/status/2106500511465869380">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：I&apos;m at OpenAI&apos;s DevDay event in San Francisco today - as I have for the pas…</title>
       <link>https://x.com/simonw/status/2104978193946124370</link>
       <guid isPermaLink="false">twitter:2104978193946124370</guid>
       <pubDate>Tue, 29 Sep 2026 16:54:44 GMT</pubDate>

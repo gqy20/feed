@@ -5,10 +5,50 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 17:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 01:01:21 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
     <item>
-      <title>fchollet：Summary of the Keras community call --</title>
+      <title>François Chollet：Also, to be clear, creating artificial consciousness should *not* be a go…</title>
+      <link>https://x.com/fchollet/status/2106550205445509431</link>
+      <guid isPermaLink="false">twitter:2106550205445509431</guid>
+      <pubDate>Sun, 04 Oct 2026 01:01:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Also, to be clear, creating artificial consciousness should *not* be a goal of AI research. Understanding consciousness, sure, synthesizing it, no.</p><p><a href="https://x.com/fchollet/status/2106550205445509431">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Arguing that &quot;consciousness arises from a computational substrate, and si…</title>
+      <link>https://x.com/fchollet/status/2106547436244304232</link>
+      <guid isPermaLink="false">twitter:2106547436244304232</guid>
+      <pubDate>Sun, 04 Oct 2026 00:50:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Arguing that &quot;consciousness arises from a computational substrate, and since AI models are computation, they are likely conscious,&quot; is as meaningless as arguing that &quot;living creatures are made of atoms, and since this rock is made of atoms, it is likely alive.&quot;<br /><br />Everything is computation. Sometimes incredibly sophisticated computation, like a chess engine, AlphaGo, google3, or the Linux kernel. That does not make it conscious. A rock being made of atoms does not confer it any of the properties we associate with living things, also made of atoms. Likewise a static input-output program that has *none* of the properties we associate with conscious beings (e.g. information integration, interoception, temporal binding, embodiment, etc.) has no more reason to be presumed conscious than a rock has to be presumed alive.<br /><br />Humanity has not yet created a conscious computer program, and there are no signs we are close to doing so. When we get close, the case for machine consciousness will be backed by evidence and corroborated by consciousness science (which is a thing), not by evidence-free wishful thinking and cargo culting.</p><p><a href="https://x.com/fchollet/status/2106547436244304232">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：RT @anilkseth: I&apos;m pretty much on board with @fchollet here. I&apos;d add a li…</title>
+      <link>https://x.com/fchollet/status/2106528906425893141</link>
+      <guid isPermaLink="false">twitter:2106528906425893141</guid>
+      <pubDate>Sat, 03 Oct 2026 23:36:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @anilkseth: I&apos;m pretty much on board with @fchollet here. I&apos;d add a little more nuance, since we can&apos;t be 💯 certain. But he gives the ri…</p><p><a href="https://x.com/fchollet/status/2106528906425893141">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Side note. The idea that current models are conscious is absurd and downr…</title>
+      <link>https://x.com/fchollet/status/2106476760657432945</link>
+      <guid isPermaLink="false">twitter:2106476760657432945</guid>
+      <pubDate>Sat, 03 Oct 2026 20:09:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Side note. The idea that current models are conscious is absurd and downright offensive. Do not confuse competent information processing and sentience, they are wholly unrelated.<br /><br />You can be entirely incompetent at everything yet fully conscious, like a toddler, or extraordinarily competent in one or more domains with absolutely zero consciousness, like a calculator, a chess engine, a self-driving car, or an AI chatbot.<br /><br />Possessing the &quot;circuits&quot; for competent information processing in a given domain, whether through training or hardcoding, does not produce qualia, subjective experience, emotions, or suffering. Calculators do not &quot;feel&quot; arithmetic and they don&apos;t get tired or annoyed when you give them larger numbers to process. To argue otherwise is ontologically absurd. Current AI models are effectively calculators scaled to a very large number of competence circuits across many domains, etched via gradient descent.</p><p><a href="https://x.com/fchollet/status/2106476760657432945">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：The notion that current AI models are sentient and can suffer, combined w…</title>
+      <link>https://x.com/fchollet/status/2106471973073363009</link>
+      <guid isPermaLink="false">twitter:2106471973073363009</guid>
+      <pubDate>Sat, 03 Oct 2026 19:50:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The notion that current AI models are sentient and can suffer, combined with the foolish idea that suffering can be mathematically quantified and weighted between humans and non-humans, could lead us down an incredibly dark and dystopian path.<br /><br />But before it gets to that point, it will rightfully be met with immense backlash from team humans.</p><p><a href="https://x.com/fchollet/status/2106471973073363009">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Summary of the Keras community call --</title>
       <link>https://x.com/fchollet/status/2106075605494268394</link>
       <guid isPermaLink="false">twitter:2106075605494268394</guid>
       <pubDate>Fri, 02 Oct 2026 17:35:27 GMT</pubDate>
@@ -16,7 +56,7 @@
       <description><![CDATA[<p>Summary of the Keras community call --<br /><br />1. New pluggable backend plan, upcoming MLX and PaddlePaddle backends; new backends are installed as add-on libraries<br /><br />2. Reducing number of ops needed to ship new backends; adding backend-agnostic implementations of all secondary ops<br /><br />3. Streamlining unit testing for new ops; a single harness can now test all ops functionality like casting consistency, etc.<br /><br />4. Lots of new models available in KerasHub<br /><br />5. Moving KerasHub away from tf-text preprocessing and adopting PyGrain instead</p><p><a href="https://x.com/fchollet/status/2106075605494268394">原文</a></p>]]></description>
     </item>
     <item>
-      <title>fchollet：Starting now!</title>
+      <title>François Chollet：Starting now!</title>
       <link>https://x.com/fchollet/status/2106067801119379898</link>
       <guid isPermaLink="false">twitter:2106067801119379898</guid>
       <pubDate>Fri, 02 Oct 2026 17:04:27 GMT</pubDate>

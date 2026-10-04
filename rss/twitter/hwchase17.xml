@@ -5,10 +5,26 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 17:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:05:50 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
     <item>
-      <title>hwchase17：good pattern from this google paper</title>
+      <title>Harrison Chase：specialized agents or one mega agent?</title>
+      <link>https://x.com/hwchase17/status/2106475835964477533</link>
+      <guid isPermaLink="false">twitter:2106475835964477533</guid>
+      <pubDate>Sat, 03 Oct 2026 20:05:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>specialized agents or one mega agent?<br /><br />we&apos;re having this debate internally...</p><p><a href="https://x.com/hwchase17/status/2106475835964477533">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：cool project by @dbreunig</title>
+      <link>https://x.com/hwchase17/status/2106475668804657555</link>
+      <guid isPermaLink="false">twitter:2106475668804657555</guid>
+      <pubDate>Sat, 03 Oct 2026 20:05:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>cool project by @dbreunig<br /><br />in langchain this is ModelRouterMiddleware - jev reads the first message, picks the model, and that model handles the whole run<br /><br />jev is cheap enough that you can also re-pick after each tool result with a custom hook<br /><br />docs: https://t.co/T2OwFGxocd<br /><br />https://t.co/oYrDHho4t5</p><p><a href="https://x.com/hwchase17/status/2106475668804657555">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：good pattern from this google paper</title>
       <link>https://x.com/hwchase17/status/2106077292678246697</link>
       <guid isPermaLink="false">twitter:2106077292678246697</guid>
       <pubDate>Fri, 02 Oct 2026 17:42:10 GMT</pubDate>
@@ -16,7 +32,7 @@
       <description><![CDATA[<p>good pattern from this google paper<br /><br />the verifier starts from a clean context, so the explorer&apos;s reasoning can&apos;t talk it into a bad proof<br /><br />so the explorer can try wild ideas and the verifier tosses the wrong ones<br /><br />same reason deepagents subagents get their own context<br /><br />https://t.co/w177WWAdqY</p><p><a href="https://x.com/hwchase17/status/2106077292678246697">原文</a></p>]]></description>
     </item>
     <item>
-      <title>hwchase17：RT @sydneyrunkle: if your agents are going to production they have to be durable</title>
+      <title>Harrison Chase：RT @sydneyrunkle: if your agents are going to production they have to be du…</title>
       <link>https://x.com/hwchase17/status/2106076377896349873</link>
       <guid isPermaLink="false">twitter:2106076377896349873</guid>
       <pubDate>Fri, 02 Oct 2026 17:38:32 GMT</pubDate>
@@ -24,7 +40,7 @@
       <description><![CDATA[<p>RT @sydneyrunkle: if your agents are going to production they have to be durable</p><p><a href="https://x.com/hwchase17/status/2106076377896349873">原文</a> · 转发</p>]]></description>
     </item>
     <item>
-      <title>hwchase17：every agent team ends up wanting its own review ui over their traces - LangSmith…</title>
+      <title>Harrison Chase：every agent team ends up wanting its own review ui over their traces - Lang…</title>
       <link>https://x.com/hwchase17/status/2106075174793863630</link>
       <guid isPermaLink="false">twitter:2106075174793863630</guid>
       <pubDate>Fri, 02 Oct 2026 17:33:45 GMT</pubDate>
