@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-03T16:02:17.500Z",
+  "updated_at": "2026-10-04T03:49:08.719Z",
   "accounts": [
     {
       "platform": "twitter",
@@ -11,22 +11,25 @@
     {
       "platform": "twitter",
       "handle": "karpathy",
+      "name": "Andrej Karpathy",
       "priority": 3
     },
     {
       "platform": "twitter",
       "handle": "op7418",
-      "name": "归藏",
+      "name": "歸藏(guizang.ai)",
       "priority": 3
     },
     {
       "platform": "twitter",
       "handle": "sama",
+      "name": "Sam Altman",
       "priority": 3
     },
     {
       "platform": "twitter",
       "handle": "Yoshua_Bengio",
+      "name": "Yoshua Bengio",
       "priority": 3
     },
     {
@@ -37,41 +40,49 @@
     {
       "platform": "twitter",
       "handle": "amasad",
+      "name": "Amjad Masad",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "AndrewYNg",
+      "name": "Andrew Ng",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "AnthropicAI",
+      "name": "Anthropic",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "AravSrinivas",
+      "name": "Aravind Srinivas",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "btibor91",
+      "name": "Tibor Blaho",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "chipro",
+      "name": "Chip Huyen",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "chrmanning",
+      "name": "Christopher Manning",
       "priority": 2
     },
     {
       "platform": "twitter",
       "handle": "danshipper",
+      "name": "Dan Shipper",
       "priority": 2
     },
     {
@@ -212,31 +223,31 @@
     {
       "platform": "xhs",
       "handle": "5d7ece920000000001018707",
-      "name": "SinKry 的 Ai 方舟",
+      "name": "SinKry的Ai方舟",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "5ec66abd0000000001006a8a",
-      "name": "AI 异类弗兰克",
+      "name": "AI异类弗兰克",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "6314a2cc0000000012003173",
-      "name": "Aaron-OpenOnion",
+      "name": "Aaron",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
-      "name": "AI 拯救打工人（大厂爆料版）",
+      "name": "AI拯救打工人（幻觉版）",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "68502b1a000000001b01a7ba",
-      "name": "AgentOPC",
+      "name": "拆解AI",
       "priority": 1
     }
   ]
