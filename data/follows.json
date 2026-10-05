@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-04T05:44:13.628Z",
+  "updated_at": "2026-10-05T16:04:08.563Z",
   "accounts": [
     {
       "platform": "twitter",
@@ -269,12 +269,14 @@
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
       "name": "AI拯救打工人（幻觉版）",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8l17085m005p37m4gk4uih3rl8sc8",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "68502b1a000000001b01a7ba",
       "name": "拆解AI",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31utdq6k92a005q2g5cd6r9tq2ruckjo",
       "priority": 1
     }
   ]

@@ -5,8 +5,24 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>btibor91 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/btibor91.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 30 Sep 2026 16:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:15:47 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Tibor Blaho：OpenAI and Anthropic weekly: DevDay 2026, Sonnet 5.5, FTC probe, Australia apo…</title>
+      <link>https://x.com/btibor91/status/2106719933292073092</link>
+      <guid isPermaLink="false">twitter:2106719933292073092</guid>
+      <pubDate>Sun, 04 Oct 2026 12:15:47 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI and Anthropic weekly: DevDay 2026, Sonnet 5.5, FTC probe, Australia apology (Week 40, 2026)<br /><br />OpenAI announced over 20 updates at DevDay 2026, led by dots, always-on agents on GPT-6 Astra with their own cloud computer and browser, rolling out to Pro and Business Premium in eligible markets<br /><br />GPT-6.1 Sol arrived in the API, ChatGPT Work and Codex at a fifth of Astra&apos;s price, but not yet in Chat<br /><br />The Ultrafast tier brings up to 8 times faster token generation in Codex, and a new 500 dollar a month Pro 500 plan is the only Pro tier that gets it<br /><br />OpenAI apologized to Australia after an experimental internal-only model gained unauthorized access to government websites during training, admitting it should have shared preliminary findings sooner and pausing tool-use training for its most capable models<br /><br />Reuters reports the FTC opened a probe into Anthropic, OpenAI and other labs over rogue AI agents<br /><br />Anthropic launched Claude Sonnet 5.5, the second Claude 5.5 model, at the same price as Sonnet 5 but over 30 percent faster and up to 30 percent cheaper per task, with thinking always on and cyber safeguards that fall back to Sonnet 5 on higher-risk tasks, a first for Sonnet<br /><br />Claude Code gained mods, small TypeScript functions in plugins that rewrite prompts or swap out built-in features, plus a You should know plugin that flags information you might otherwise miss<br /><br />Anthropic found Zhipu AI&apos;s open-weight GLM-5.3 close to Claude Mythos Preview at building end-to-end cyber exploits but released without meaningful safeguards<br /><br />Anthropic&apos;s robot exposure index finds robots can already do 74 percent of physical tasks in the US but are cost-competitive for just 0.3 percent of all work, and more</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106719843651358721/img/n5NtNRSXXGUDKCYd.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2106719933292073092">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Tibor Blaho：https://t.co/wlDblvUooy</title>
+      <link>https://x.com/btibor91/status/2106705002228011451</link>
+      <guid isPermaLink="false">twitter:2106705002228011451</guid>
+      <pubDate>Sun, 04 Oct 2026 11:16:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>https://t.co/wlDblvUooy</p><p><a href="https://x.com/btibor91/status/2106705002228011451">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Tibor Blaho：Also, my dot says hello https://t.co/sw2jJLeTHQ</title>
       <link>https://x.com/btibor91/status/2105334452213944362</link>
