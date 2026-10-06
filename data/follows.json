@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-05T16:04:08.563Z",
+  "updated_at": "2026-10-06T16:05:18.305Z",
   "accounts": [
     {
       "platform": "twitter",
@@ -251,18 +251,21 @@
       "platform": "xhs",
       "handle": "5d7ece920000000001018707",
       "name": "SinKry的Ai方舟",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6475f87d91d8f80671cffc26.jpg",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "5ec66abd0000000001006a8a",
       "name": "AI异类弗兰克",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kjgi96a30005nm6daug8qkasm979go",
       "priority": 1
     },
     {
       "platform": "xhs",
       "handle": "6314a2cc0000000012003173",
       "name": "Aaron",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tam9tegl86g5ookkb64gcbja1jlqr0",
       "priority": 1
     },
     {
