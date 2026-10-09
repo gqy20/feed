@@ -1,7 +1,92 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T16:01:01.549Z",
+  "updated_at": "2026-10-09T20:02:31.728Z",
   "posts": [
+    {
+      "id": "twitter:2108633631610884555",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: i don't think you guys understand how big this is for tech bros fashion in SF",
+      "url": "https://x.com/jerryjliu0/status/2108633631610884555",
+      "created_at": "2026-10-09T19:00:08.000Z",
+      "fetched_at": "2026-10-09T20:02:27.305Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 219
+      }
+    },
+    {
+      "id": "twitter:2108614125614162184",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: I think my biggest pet-peeve with AI usage is directly copy-pasting AI text into slack/teams.\n\nChoosing to remove human…",
+      "url": "https://x.com/jerryjliu0/status/2108614125614162184",
+      "created_at": "2026-10-09T17:42:38.000Z",
+      "fetched_at": "2026-10-09T20:02:27.305Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 237
+      }
+    },
+    {
+      "id": "twitter:2108602998377283603",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: What happens when a table contains tables?\n\nUsually, a mess. With LlamaParse, it comes out clean.\n\nDoc of the Week: Micron…",
+      "url": "https://x.com/jerryjliu0/status/2108602998377283603",
+      "created_at": "2026-10-09T16:58:25.000Z",
+      "fetched_at": "2026-10-09T20:02:27.305Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 213
+      }
+    },
+    {
+      "id": "twitter:2108579846129647963",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @hwchase17: eval driven development",
+      "url": "https://x.com/jerryjliu0/status/2108579846129647963",
+      "created_at": "2026-10-09T15:26:25.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 16,
+        "views": 233
+      }
+    },
+    {
+      "id": "twitter:2108579841520087525",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @_alejandroao: THIS. this is what building software will look like for the next few years. bullish!",
+      "url": "https://x.com/jerryjliu0/status/2108579841520087525",
+      "created_at": "2026-10-09T15:26:24.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 318
+      }
+    },
     {
       "id": "twitter:2108474622966444102",
       "platform": "twitter",
@@ -51,6 +136,22 @@
       }
     },
     {
+      "id": "twitter:2108436834418373099",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "These days, you can pretty much solve any task by defining an eval and hillclimbing over it, instead of directly defining the deterministic/agentic workflow to solve it.\n\nThe data provider companies' entire job is to define evals for all economic activity to make the frontier models capable of doing anything. \n\nYour job then becomes pointing frontier intelligence in the right direction - defining what to solve, and how to measure what good looks like. \n\nAgent application interfaces will evolve to capture this. The most complex processes will still need some sort of explicit workflow builder interface, but most tasks can be compressed into goals and eval instructions.",
+      "url": "https://x.com/jerryjliu0/status/2108436834418373099",
+      "created_at": "2026-10-09T05:58:08.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 744,
+        "replies": 90,
+        "retweets": 57,
+        "views": 47302
+      }
+    },
+    {
       "id": "xhs:6ac85b4e0000000018005084",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -79,6 +180,161 @@
         "https://sns-webpic-qc.xhscdn.com/202610091804/3f049720796ed9b144c5b2f5222f1b6b/spectrum/1040g0k03263b97v24c4g5p37m4gk4uihakpm1a8!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610091804/c3697e7b6c2054f332c26b61b559a5db/spectrum/1040g0k03263b97v24c505p37m4gk4uih770hhm0!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2108387409218154515",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: me everytime i get an ai bot commenting some bullshit on my post https://t.co/INfnAs5lao",
+      "url": "https://x.com/jerryjliu0/status/2108387409218154515",
+      "created_at": "2026-10-09T02:41:44.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 406
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUJ9Btqa0AMhrys.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108384638892953928",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "Today we’re announcing dots\n\nhttps://t.co/nkYyYDtlnL",
+      "url": "https://x.com/jerryjliu0/status/2108384638892953928",
+      "created_at": "2026-10-09T02:30:44.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 263,
+        "replies": 18,
+        "retweets": 3,
+        "views": 83924
+      }
+    },
+    {
+      "id": "twitter:2108384267017605529",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: Today, we are announcing LlamaIndex.\n\nIt is here: https://t.co/jEqmSDwNUK",
+      "url": "https://x.com/jerryjliu0/status/2108384267017605529",
+      "created_at": "2026-10-09T02:29:15.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 384
+      }
+    },
+    {
+      "id": "twitter:2108362528753643958",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "i'm pulling out my suit for this \n\nHuge shoutout to @imaanxsultan and everyone else for organizing!",
+      "url": "https://x.com/jerryjliu0/status/2108362528753643958",
+      "created_at": "2026-10-09T01:02:52.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 6,
+        "replies": 2,
+        "retweets": 1,
+        "views": 2743
+      }
+    },
+    {
+      "id": "twitter:2108362022593396884",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: The Agent Economy Gala just maxed out at 400 guests  \n\nHere’s a breakdown: \n- 203 founders ($1B+ raised combined) \n- 67 f…",
+      "url": "https://x.com/jerryjliu0/status/2108362022593396884",
+      "created_at": "2026-10-09T01:00:52.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 363
+      }
+    },
+    {
+      "id": "twitter:2108352485140332758",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "fleet week makes me patriotic af",
+      "url": "https://x.com/jerryjliu0/status/2108352485140332758",
+      "created_at": "2026-10-09T00:22:58.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 16,
+        "replies": 1,
+        "retweets": 0,
+        "views": 2480
+      }
+    },
+    {
+      "id": "twitter:2108345026099261950",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @TimBaer8: Love WFH during Fleet Week in the nontechnical north. Finally a break from sirens, dogs, and handymen. Just weapons of war fl…",
+      "url": "https://x.com/jerryjliu0/status/2108345026099261950",
+      "created_at": "2026-10-08T23:53:20.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 374
+      }
+    },
+    {
+      "id": "twitter:2108344861208510479",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "LightOn OCR-3 is now available on OpenDocRouter, priced at $0.28 / 1m input and $1.40 / 1m output (it is ~$3.19 / 1k pages on ParseBench). \n\nWe benchmarked it on ParseBench. It is on the pareto frontier for open-weight OCR models, with similar performance as Gemini 3.8 flash low at ~45% lower price. It is decent at tables, workable for charts, and quite good at grounding.\n\nTry it out on OpenDocRouter: https://t.co/iPrI8nyjKI\n\nFor the full list of benchmark results, check out ParseBench: https://t.co/PWczfhp0OX",
+      "url": "https://x.com/jerryjliu0/status/2108344861208510479",
+      "created_at": "2026-10-08T23:52:40.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 87,
+        "replies": 7,
+        "retweets": 9,
+        "views": 6082
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUJYWvTacAA1lTE.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108327656035090441",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: OpenDocRouter serves LightOnOCR-3-1B now! When benched in the app, we found that our attribution engine produced better…",
+      "url": "https://x.com/jerryjliu0/status/2108327656035090441",
+      "created_at": "2026-10-08T22:44:18.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 370
+      }
     },
     {
       "id": "twitter:2108296444662910980",
@@ -130,6 +386,26 @@
         "retweets": 22,
         "views": 2171
       }
+    },
+    {
+      "id": "twitter:2108272910209351910",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: Sometimes there really are just free gains you can implement https://t.co/nh6cNz1xc1",
+      "url": "https://x.com/jerryjliu0/status/2108272910209351910",
+      "created_at": "2026-10-08T19:06:46.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 378
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUIVWRoakAAlz1v.png"
+      ]
     },
     {
       "id": "twitter:2108272060141301908",
@@ -216,6 +492,44 @@
       }
     },
     {
+      "id": "twitter:2108254114362904619",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "Markdown has become a universal representation of information between humans and agents.\n\nIt preserves core primitives needed to express structure (headings, lists), allows agents to read the information in a semantically interpretable manner, and allows for complex elements like tables and charts. You can natively embed HTML as well.\n\nBut since most unstructured data is not natively within markdown (yet), the issue becomes the translation layer.\n\nWe've created best models to convert any unstructured document container into markdown.\n\nCheck out our blog!  https://t.co/D0b7XA3Nc7",
+      "url": "https://x.com/jerryjliu0/status/2108254114362904619",
+      "created_at": "2026-10-08T17:52:04.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 48,
+        "replies": 16,
+        "retweets": 2,
+        "views": 3776
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUIFmkTbgAAJWfQ.png"
+      ]
+    },
+    {
+      "id": "twitter:2108252626500661371",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "OpenDocRouter is basically OpenRouter for document OCR \n\nYou can compare and use all your favorite OCR models under a single API / billing interface. \n\nThey range from some of the lightweight/OSS models  (e.g. MinerU) to the latest frontier VLMs (Opus 5.5) \n\nCome check it out! https://t.co/v8PieWWUNV",
+      "url": "https://x.com/jerryjliu0/status/2108252626500661371",
+      "created_at": "2026-10-08T17:46:10.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 77,
+        "replies": 14,
+        "retweets": 6,
+        "views": 5423
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108252307712622592/img/4rQjkE6f13ut-yGX.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108252563015422389",
       "platform": "twitter",
       "handle": "huggingface",
@@ -230,6 +544,43 @@
         "retweets": 7,
         "views": 18546
       }
+    },
+    {
+      "id": "twitter:2108242044833726602",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: Markdown is all you need. \n\n(Mostly.)\n\nA parser can get every word on the page right and still lose which column a number…",
+      "url": "https://x.com/jerryjliu0/status/2108242044833726602",
+      "created_at": "2026-10-08T17:04:07.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 297
+      }
+    },
+    {
+      "id": "twitter:2108240294210891968",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: how do i explain this to a non-tech person https://t.co/NGJiYEyL5f",
+      "url": "https://x.com/jerryjliu0/status/2108240294210891968",
+      "created_at": "2026-10-08T16:57:10.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 406
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108230598179569664/img/T-gcqh5WMohNu05x.jpg"
+      ]
     },
     {
       "id": "twitter:2108225596199149849",
@@ -317,6 +668,23 @@
         "replies": 0,
         "retweets": 49,
         "views": 2410
+      }
+    },
+    {
+      "id": "twitter:2108221872286699820",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: @jerryjliu0 resilience!! matisse is top dawg",
+      "url": "https://x.com/jerryjliu0/status/2108221872286699820",
+      "created_at": "2026-10-08T15:43:57.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 409
       }
     },
     {
@@ -529,6 +897,41 @@
       ]
     },
     {
+      "id": "twitter:2108071104472592724",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "this was a really good business decision and ensures i'll continue using @bot",
+      "url": "https://x.com/jerryjliu0/status/2108071104472592724",
+      "created_at": "2026-10-08T05:44:52.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 12,
+        "replies": 8,
+        "retweets": 1,
+        "views": 2903
+      }
+    },
+    {
+      "id": "twitter:2108064808172237025",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "having high agency is choosing to do a hot ones challenge with no spice tolerance and powering through 9 out of 10 wings \n\ns/o matisse https://t.co/jR9Um6fz55",
+      "url": "https://x.com/jerryjliu0/status/2108064808172237025",
+      "created_at": "2026-10-08T05:19:50.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 11,
+        "replies": 4,
+        "retweets": 1,
+        "views": 2782
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUFZxaRaoAAmafe.jpg"
+      ]
+    },
+    {
       "id": "xhs:6ac70e05000000001203a7af",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -556,6 +959,26 @@
       ]
     },
     {
+      "id": "twitter:2108011269806760285",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @EkoLovesYou: SI is helpful, but the kingdom is within https://t.co/2uh2jWYTRs",
+      "url": "https://x.com/jerryjliu0/status/2108011269806760285",
+      "created_at": "2026-10-08T01:47:06.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 421
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUEbkD8bQAEwhZy.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108005474641838500",
       "platform": "twitter",
       "handle": "huggingface",
@@ -571,6 +994,27 @@
         "retweets": 45,
         "views": 2840
       }
+    },
+    {
+      "id": "twitter:2107997726126600310",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: @cartesia coffee cart! :D \ngot to order my drink using their sonic TTS model, very cool https://t.co/eZanOhgt4a",
+      "url": "https://x.com/jerryjliu0/status/2107997726126600310",
+      "created_at": "2026-10-08T00:53:17.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 420
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUEXEE_bkAALYRa.jpg",
+        "https://pbs.twimg.com/media/HUEXEE9agAEhWR_.jpg"
+      ]
     },
     {
       "id": "twitter:2107997468671852922",
@@ -659,6 +1103,41 @@
       }
     },
     {
+      "id": "twitter:2107940103897424157",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "in the meantime if you need consistently high document parsing quality across every dimension, come check out llamaparse: https://t.co/DHMd6BFO0l",
+      "url": "https://x.com/jerryjliu0/status/2107940103897424157",
+      "created_at": "2026-10-07T21:04:19.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "retweets": 0,
+        "views": 779
+      }
+    },
+    {
+      "id": "twitter:2107940101217309041",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "Claude Haiku 5.5 is now available on OpenDocRouter as one of the cheapest models for document parsing.\n\nIt is roughly $1.2 / 1k pages and does quite well on tables and text reading order compared to other models at this price point. It struggles a bit on charts, semantic formatting, and bounding boxes.\n\nCheck out OpenDocRouter, which we just launched today! https://t.co/iPrI8nyjKI",
+      "url": "https://x.com/jerryjliu0/status/2107940101217309041",
+      "created_at": "2026-10-07T21:04:18.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 59,
+        "replies": 22,
+        "retweets": 9,
+        "views": 5806
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDoECRakAATx4Z.jpg"
+      ]
+    },
+    {
       "id": "twitter:2107938889004396561",
       "platform": "twitter",
       "handle": "emollick",
@@ -673,6 +1152,26 @@
         "retweets": 20,
         "views": 29681
       }
+    },
+    {
+      "id": "twitter:2107937765757436202",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: how it sometimes feels being the startup growth daughter of a finance bro and doctor https://t.co/LvHpnlA7H0",
+      "url": "https://x.com/jerryjliu0/status/2107937765757436202",
+      "created_at": "2026-10-07T20:55:01.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 388
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDekNBbUAA9P2I.jpg"
+      ]
     },
     {
       "id": "twitter:2107935410596823275",
@@ -761,6 +1260,23 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2107913431617847296/img/UOrSCai2SNmgoumY.jpg"
       ]
+    },
+    {
+      "id": "twitter:2107922393016717725",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: The power of OpenDocRouter is already working: Anthropic just dropped Haiku 5.5 and we already have initial benchmark r…",
+      "url": "https://x.com/jerryjliu0/status/2107922393016717725",
+      "created_at": "2026-10-07T19:53:56.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 409
+      }
     },
     {
       "id": "twitter:2107921716605517953",
@@ -999,6 +1515,75 @@
       ]
     },
     {
+      "id": "twitter:2107878264459153777",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: OpenDocRouter is here!\nhttps://t.co/WnutrTv2yN\n\nSome time ago, I realized LlamaIndex was really good at benchmarking an…",
+      "url": "https://x.com/jerryjliu0/status/2107878264459153777",
+      "created_at": "2026-10-07T16:58:35.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 427
+      }
+    },
+    {
+      "id": "twitter:2107864677611139096",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "Today I’m excited to introduce OpenDocRouter - a unified API for document parsing with the latest frontier and open-weight models.\n\nThere are a lot of VLMs and OCR models that can be used for document parsing: we have over 130+ models on ParseBench, and a HuggingFace search for “ocr” turns up thousands of results.\n\nIt’s extremely time consuming to choose between OCR vendors. You need to figure out the right prompts, handle rate limits, manage deployments, integrations with all models you’re using, and benchmark new models as they come out.\n\nOpenDocRouter provides a comprehensive, transparent set of models along the price-performance frontier. It manages a unified API to transcribe documents to markdown. It serves all frontier and open-weight models “at-cost”, with a small transaction cut. It handles rate limits with all models to ensure you can put massive volume through. It even offers bounding boxes and layout as a service, so that you can add grounding to any model that you’re using.\n\nWhen new OCR candidate models ship, we will benchmark them on ParseBench and immediately add them to OpenDocRouter. \n\nWe’re adding a lot more models very quickly, and also adding some extremely exciting feature improvements (e.g. automated routing) as we speak.\n\nWe welcome your feedback!\n\nCheck it out: https://t.co/v8PieWWUNV\n\nBlog: https://t.co/ilVqqJRacP",
+      "url": "https://x.com/jerryjliu0/status/2107864677611139096",
+      "created_at": "2026-10-07T16:04:36.000Z",
+      "fetched_at": "2026-10-09T20:02:27.305Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 509,
+        "replies": 60,
+        "retweets": 51,
+        "views": 46895
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107864151112724480/img/jlS_0_8IzrmjLsMl.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107864679787991243",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "You may ask why we’re doing this given that our main focus within LlamaParse (https://t.co/XYZmx5TFz8) is building the best frontier models for document parsing and extraction.\n\nWhile we believe our models are best in class in accuracy at their price points, we acknowledge that they don’t cover every possible price point; at the low end there are extremely cheap models (mineru, luna, paddleocr), at the high end there may be an edge case or two you want to run the latest frontier model over.",
+      "url": "https://x.com/jerryjliu0/status/2107864679787991243",
+      "created_at": "2026-10-07T16:04:36.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "retweets": 0,
+        "views": 1083
+      }
+    },
+    {
+      "id": "twitter:2107864060272537617",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: Today we're announcing OpenDocRouter: every model for document parsing under one API.\n\nThere are ~4,000 OCR models on Hugg…",
+      "url": "https://x.com/jerryjliu0/status/2107864060272537617",
+      "created_at": "2026-10-07T16:02:08.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 38,
+        "views": 311
+      }
+    },
+    {
       "id": "twitter:2107857927071732152",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1047,6 +1632,23 @@
         "replies": 0,
         "retweets": 72,
         "views": 1859
+      }
+    },
+    {
+      "id": "twitter:2107847669515423776",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @murtazakhomusi: It's SF tech week and here's how we celebrated at  @llama_index  🦙:  \n\n1. @imaanxsultan  pitched our product in a room…",
+      "url": "https://x.com/jerryjliu0/status/2107847669515423776",
+      "created_at": "2026-10-07T14:57:00.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 447
       }
     },
     {
@@ -1201,6 +1803,73 @@
       }
     },
     {
+      "id": "twitter:2107701357054763399",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @snpal2000: Check out this talk from our CEO (@jerryjliu0) at the SF AI Engineer Conference!\n\nWe'll be back for the NYC show next week..…",
+      "url": "https://x.com/jerryjliu0/status/2107701357054763399",
+      "created_at": "2026-10-07T05:15:37.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 481
+      }
+    },
+    {
+      "id": "twitter:2107689326847123520",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @beffjezos: Any investor that understands this should be going all in on deep tech right now\n\nTechnologies that required too much intell…",
+      "url": "https://x.com/jerryjliu0/status/2107689326847123520",
+      "created_at": "2026-10-07T04:27:49.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 34,
+        "views": 445
+      }
+    },
+    {
+      "id": "twitter:2107679159099216060",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "You can literally do anything these days if you just ask for it",
+      "url": "https://x.com/jerryjliu0/status/2107679159099216060",
+      "created_at": "2026-10-07T03:47:24.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 126,
+        "replies": 27,
+        "retweets": 10,
+        "views": 23103
+      }
+    },
+    {
+      "id": "twitter:2107677645609775495",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: gave a really fun talk today about @llama_index to a full room at ai demo night with @ClickHouseDB 💌 \n\nalso won an award…",
+      "url": "https://x.com/jerryjliu0/status/2107677645609775495",
+      "created_at": "2026-10-07T03:41:24.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 444
+      }
+    },
+    {
       "id": "twitter:2107648160604528897",
       "platform": "twitter",
       "handle": "emollick",
@@ -1231,6 +1900,25 @@
         "retweets": 218,
         "views": 216438
       }
+    },
+    {
+      "id": "twitter:2107641238799479075",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "OCR is the perfect example of a use case that has been dominated by legacy/brittle systems, and can be solved both accurately and cheaply by applying the right amount of agentic intelligence.\n\nA properly tuned agentic OCR needs to dynamically apply extra compute to complex elements, review and correct failures, and create the right semantic meaning throughout the page. It's a task that frontier models are both overengineered for in terms of cost and latency, and struggle at over a long tail of complex edge cases. \n\nCheck out this blog post by @LoganMarkewich below: https://t.co/41iPHRleIW",
+      "url": "https://x.com/jerryjliu0/status/2107641238799479075",
+      "created_at": "2026-10-07T01:16:44.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 176,
+        "replies": 27,
+        "retweets": 14,
+        "views": 13374
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT_YcQBaEAA7TtH.png"
+      ]
     },
     {
       "id": "twitter:2107640886482104524",
@@ -1324,6 +2012,23 @@
         "replies": 0,
         "retweets": 0,
         "views": 3274
+      }
+    },
+    {
+      "id": "twitter:2107612747223674921",
+      "platform": "twitter",
+      "handle": "lilianweng",
+      "text": "RT @OpenAI: We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with t…",
+      "url": "https://x.com/lilianweng/status/2107612747223674921",
+      "created_at": "2026-10-06T23:23:31.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Lilian Weng",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6261,
+        "views": 935
       }
     },
     {
@@ -1522,6 +2227,40 @@
         "replies": 0,
         "retweets": 9,
         "views": 813
+      }
+    },
+    {
+      "id": "twitter:2107527855865479290",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: There's a party on Friday night that most of SF Tech Week will only hear about on Saturday.\n\nSo, we made a vintage film t…",
+      "url": "https://x.com/jerryjliu0/status/2107527855865479290",
+      "created_at": "2026-10-06T17:46:11.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 422
+      }
+    },
+    {
+      "id": "twitter:2107527796398674304",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: The biggest night of SF Tech Week is black tie.\n\n120+ agent founders, 50 investors, and live jazz at the Redwood Room on F…",
+      "url": "https://x.com/jerryjliu0/status/2107527796398674304",
+      "created_at": "2026-10-06T17:45:57.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 273
       }
     },
     {
@@ -1889,6 +2628,26 @@
       ]
     },
     {
+      "id": "twitter:2107252489393434965",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: the love for @llama_index is real https://t.co/Z5d9Fr258O",
+      "url": "https://x.com/jerryjliu0/status/2107252489393434965",
+      "created_at": "2026-10-05T23:31:58.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 423
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT5o3fnaAAAhiQM.png"
+      ]
+    },
+    {
       "id": "twitter:2107248468800733571",
       "platform": "twitter",
       "handle": "emollick",
@@ -1989,6 +2748,23 @@
       ]
     },
     {
+      "id": "twitter:2107197320354058327",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: OCR is dead 🪦 Long live agentic OCR!\n\nTraditional OCR makes one pass and hands back whatever text it got. Tables get flatt…",
+      "url": "https://x.com/jerryjliu0/status/2107197320354058327",
+      "created_at": "2026-10-05T19:52:45.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 73,
+        "views": 311
+      }
+    },
+    {
       "id": "twitter:2107158718299173332",
       "platform": "twitter",
       "handle": "huggingface",
@@ -2003,6 +2779,23 @@
         "replies": 0,
         "retweets": 4,
         "views": 3284
+      }
+    },
+    {
+      "id": "twitter:2107145927127609752",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: it's sf tech week and this year is the first time i'm hosting, which means i get to see the chaos from the other side 🌟…",
+      "url": "https://x.com/jerryjliu0/status/2107145927127609752",
+      "created_at": "2026-10-05T16:28:32.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 463
       }
     },
     {
@@ -2413,6 +3206,26 @@
       ]
     },
     {
+      "id": "twitter:2106888959955767536",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: the child won’t sleep but I still love her https://t.co/ihJk3RRqP4",
+      "url": "https://x.com/jerryjliu0/status/2106888959955767536",
+      "created_at": "2026-10-04T23:27:26.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 456
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT0lyF6aYAAJT0B.jpg"
+      ]
+    },
+    {
       "id": "twitter:2106850913474482566",
       "platform": "twitter",
       "handle": "demishassabis",
@@ -2426,6 +3239,22 @@
         "replies": 175,
         "retweets": 230,
         "views": 159627
+      }
+    },
+    {
+      "id": "twitter:2106844101635379533",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "I agree that chatgpt/codex has the current best agent interface for deep work. \n- It unifies all my work (coding/knowledge work) in one interface. Toggling between chatgpt/codex doesn't have explicitly separate flows\n- It has forking (why doesn't the claude app have forking?) \n\nClaude Code CLI is probably the best that a CLI app can get. I still love Opus 5.5, especially for product demos, but mostly use it through the CLI. But sometimes having a GUI is nicer.",
+      "url": "https://x.com/jerryjliu0/status/2106844101635379533",
+      "created_at": "2026-10-04T20:29:11.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 44,
+        "replies": 27,
+        "retweets": 0,
+        "views": 7996
       }
     },
     {
@@ -2444,6 +3273,25 @@
         "retweets": 1,
         "views": 968
       }
+    },
+    {
+      "id": "twitter:2106835158867534282",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "We got extremely good at extracting a scanned from layer by layer 📋 - from printed fields, overlaid text, handwriting, and reviewer annotations.\n\nFor instance, on an annotated permit, our Extract agents can extract out both the original permit number but also any drawn/handwritten annotations on top. they're also grounded exactly in the source text. \n\nour agents reduce error rates by 2x+, at a small fraction of the price compared to using a frontier model.\n\nOur Extract v2.5 agents are SOTA in price/performance, and scanned forms are just one example. Come check it out! \n\nExtract v2.5: https://t.co/TTlTdECU03\n\nAvailable in LlamaParse: https://t.co/XYZmx5TFz8",
+      "url": "https://x.com/jerryjliu0/status/2106835158867534282",
+      "created_at": "2026-10-04T19:53:39.000Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 117,
+        "replies": 24,
+        "retweets": 13,
+        "views": 11361
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2106833842963447808/img/zDuQo-6wITTGv0F4.jpg"
+      ]
     },
     {
       "id": "twitter:2106807635593064619",
@@ -2638,13 +3486,13 @@
       "text": "sfo is the best airport in the US",
       "url": "https://x.com/jerryjliu0/status/2106582677738656039",
       "created_at": "2026-10-04T03:10:23.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-09T20:02:27.306Z",
       "author": "Jerry Liu",
       "metrics": {
-        "likes": 37,
-        "replies": 6,
-        "retweets": 1,
-        "views": 3200
+        "likes": 235,
+        "replies": 22,
+        "retweets": 4,
+        "views": 26512
       }
     },
     {

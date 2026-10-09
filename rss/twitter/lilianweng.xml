@@ -5,8 +5,16 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>lilianweng · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/lilianweng.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 08 Sep 2026 17:30:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:23:31 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Lilian Weng：RT @OpenAI: We’re releasing a broad range of new mathematical results produced…</title>
+      <link>https://x.com/lilianweng/status/2107612747223674921</link>
+      <guid isPermaLink="false">twitter:2107612747223674921</guid>
+      <pubDate>Tue, 06 Oct 2026 23:23:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @OpenAI: We’re releasing a broad range of new mathematical results produced by an internal frontier model.<br /><br />We’ve been consulting with t…</p><p><a href="https://x.com/lilianweng/status/2107612747223674921">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>lilianweng：RT @OpenAI: We’re sharing a solution to the Navier-Stokes Millennium Prize Prob…</title>
       <link>https://x.com/lilianweng/status/2097377140534804880</link>

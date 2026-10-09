@@ -5,8 +5,48 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>Trail 采集聚合订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/all.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 08:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:00:08 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: i don&apos;t think you guys understand how big this is for tech bro…</title>
+      <link>https://x.com/jerryjliu0/status/2108633631610884555</link>
+      <guid isPermaLink="false">twitter:2108633631610884555</guid>
+      <pubDate>Fri, 09 Oct 2026 19:00:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: i don&apos;t think you guys understand how big this is for tech bros fashion in SF</p><p><a href="https://x.com/jerryjliu0/status/2108633631610884555">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @LoganMarkewich: I think my biggest pet-peeve with AI usage is directly copy-…</title>
+      <link>https://x.com/jerryjliu0/status/2108614125614162184</link>
+      <guid isPermaLink="false">twitter:2108614125614162184</guid>
+      <pubDate>Fri, 09 Oct 2026 17:42:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: I think my biggest pet-peeve with AI usage is directly copy-pasting AI text into slack/teams.<br /><br />Choosing to remove human…</p><p><a href="https://x.com/jerryjliu0/status/2108614125614162184">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @llama_index: What happens when a table contains tables?</title>
+      <link>https://x.com/jerryjliu0/status/2108602998377283603</link>
+      <guid isPermaLink="false">twitter:2108602998377283603</guid>
+      <pubDate>Fri, 09 Oct 2026 16:58:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @llama_index: What happens when a table contains tables?<br /><br />Usually, a mess. With LlamaParse, it comes out clean.<br /><br />Doc of the Week: Micron…</p><p><a href="https://x.com/jerryjliu0/status/2108602998377283603">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @hwchase17: eval driven development</title>
+      <link>https://x.com/jerryjliu0/status/2108579846129647963</link>
+      <guid isPermaLink="false">twitter:2108579846129647963</guid>
+      <pubDate>Fri, 09 Oct 2026 15:26:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @hwchase17: eval driven development</p><p><a href="https://x.com/jerryjliu0/status/2108579846129647963">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @_alejandroao: THIS. this is what building software will look like for the ne…</title>
+      <link>https://x.com/jerryjliu0/status/2108579841520087525</link>
+      <guid isPermaLink="false">twitter:2108579841520087525</guid>
+      <pubDate>Fri, 09 Oct 2026 15:26:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @_alejandroao: THIS. this is what building software will look like for the next few years. bullish!</p><p><a href="https://x.com/jerryjliu0/status/2108579841520087525">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Harrison Chase：This is great point</title>
       <link>https://x.com/hwchase17/status/2108474622966444102</link>
@@ -32,12 +72,92 @@
       <description><![CDATA[<p>trajectory labeling is really several questions, not one pass/fail - nice framing here<br /><br />that&apos;s how Jev as a judge works in LangSmith evals: difficulty and correctness each get their own typed answer, in one pass, on every trace<br /><br />https://t.co/jlD2ywtlOT<br /><br />https://t.co/QgQpQFpZ26</p><p><a href="https://x.com/hwchase17/status/2108453917277254058">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：These days, you can pretty much solve any task by defining an eval and hillclimb…</title>
+      <link>https://x.com/jerryjliu0/status/2108436834418373099</link>
+      <guid isPermaLink="false">twitter:2108436834418373099</guid>
+      <pubDate>Fri, 09 Oct 2026 05:58:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>These days, you can pretty much solve any task by defining an eval and hillclimbing over it, instead of directly defining the deterministic/agentic workflow to solve it.<br /><br />The data provider companies&apos; entire job is to define evals for all economic activity to make the frontier models capable of doing anything. <br /><br />Your job then becomes pointing frontier intelligence in the right direction - defining what to solve, and how to measure what good looks like. <br /><br />Agent application interfaces will evolve to capture this. The most complex processes will still need some sort of explicit workflow builder interface, but most tasks can be compressed into goals and eval instructions.</p><p><a href="https://x.com/jerryjliu0/status/2108436834418373099">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>AI拯救打工人（幻觉版）：SMU+NUS+哈佛：压缩上下文也可以用RL</title>
       <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac85b4e0000000018005084?xsec_token=ABOYbEs3UNIVJQ604pf9YBxqXzCG2Plvbj2ZYYMYDLefo=&amp;xsec_source=pc_user</link>
       <guid isPermaLink="false">xhs:6ac85b4e0000000018005084</guid>
       <pubDate>Fri, 09 Oct 2026 03:11:10 GMT</pubDate>
       <category>xhs</category>
       <description><![CDATA[<strong>SMU+NUS+哈佛：压缩上下文也可以用RL</strong><p>我们使用 Claude Code、Codex 时，经常遇到一个问题：Agent 执行时间一长，反而容易变笨。明明已经定位了 Bug，却又重新搜索代码；已经排除的原因，后面又重复分析。 如果给 Agent 足够大的上下文窗口，问题就能解决吗？ 最近，新加坡管理大学、南洋理工大学和哈佛大学的新论文《AUTOCOMPACT: LEARNING WHEN TO COMPACT CONTEXT IN LONG-HORIZON CODING AGENTS》，提出让 Agent 自己学会什么时候压缩上下文。 传统压缩通常按 Token 阈值触发，但作者认为，压缩应该跟着任务进度走。 比如 Agent 修复 Bug，前期需要搜索代码、分析日志、排查原因。但当问题已经定位，准备修改代码时，大量探索记录就失去了价值。 此时只需保留 Bug 根因、目标文件、当前状态和下一步计划。即使上下文还没满，主动压缩也能减少信息干扰。 AutoCompact 主要训练三个能力： When： 什么时候压缩？ What： 保留哪些关键信息？ How： 压缩后如何继续执行？ 训练分两步： 首先，用 GPT-5.5-Codex 作为 Judge，在线纠正 Agent 的压缩时机、摘要内容和后续动作，再通过 SFT 学习。 随后使用 GRPO 强化学习，以任务最终是否成功为奖励，进一步优化压缩策略。 实验结果很有意思：在 SWE-bench Verified 上： - 基础模型：30.4% - 固定阈值压缩：28.8% - AutoCompact-SFT：32.2% - AutoCompact（SFT+RL）：39.6% 成功率提升了 9.2 个百分点。 尤其值得注意的是，即使 256K 上下文足以容纳完整历史，主动压缩仍然有效。当然，整体提升也包含 RL 对编码能力的改善，不能全部归因于压缩。 AutoCompact 最大的启发是：上下文管理正在从固定的工程规则，变成模型可以学习的决策能力。 未来的 Agent 不仅要学会完成任务，还要学会在合适的时候整理工作状态，丢掉过期信息，带着关键结论继续执行。 记住所有过程，未必比记住关键结论更有帮助。 #AutoCompact #Harness #上下文工程 #强化学习 #GRPO #CodingAgent #AI论文解读 #AI反常识howto</p><img src="https://sns-webpic-qc.xhscdn.com/202610091804/c3697e7b6c2054f332c26b61b559a5db/spectrum/1040g0k03263b97v24c505p37m4gk4uih770hhm0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/03e3b24a0ddfcc858c637f79684e8024/spectrum/1040g0k03263b97v24c005p37m4gk4uihhgg8glo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/725c499c96e18ae5bfd56208f8b029d0/spectrum/1040g0k03263b97v24c0g5p37m4gk4uihusbugbo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/b9957a79bcc2d8c4b59094726c941340/spectrum/1040g0k03263b97v24c105p37m4gk4uihbmdse2g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/f098fd1ef44641b8282bb515550712ce/spectrum/1040g0k03263b97v24c1g5p37m4gk4uihig78mu0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/fb575249f605a7e4a646184959bbe5b6/spectrum/1040g0k03263b97v24c205p37m4gk4uihhjhq9f8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/00d357a90ad67cf73c86b7cddac36c02/spectrum/1040g0k03263b97v24c2g5p37m4gk4uih7srcgn8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/ef814f3157b739c77ee531a20f777d0a/spectrum/1040g0k03263b97v24c305p37m4gk4uihtb9aovo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/5456ff74a7325821070b69564abc2beb/spectrum/1040g0k03263b97v24c3g5p37m4gk4uih4a2hpi0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/a0ec29de7e422e6353823a21fddcf438/spectrum/1040g0k03263b97v24c405p37m4gk4uihj6bbfjg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/3f049720796ed9b144c5b2f5222f1b6b/spectrum/1040g0k03263b97v24c4g5p37m4gk4uihakpm1a8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091804/c3697e7b6c2054f332c26b61b559a5db/spectrum/1040g0k03263b97v24c505p37m4gk4uih770hhm0!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac85b4e0000000018005084?xsec_token=ABOYbEs3UNIVJQ604pf9YBxqXzCG2Plvbj2ZYYMYDLefo=&amp;xsec_source=pc_user">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: me everytime i get an ai bot commenting some bullshit on my po…</title>
+      <link>https://x.com/jerryjliu0/status/2108387409218154515</link>
+      <guid isPermaLink="false">twitter:2108387409218154515</guid>
+      <pubDate>Fri, 09 Oct 2026 02:41:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: me everytime i get an ai bot commenting some bullshit on my post https://t.co/INfnAs5lao</p><img src="https://pbs.twimg.com/media/HUJ9Btqa0AMhrys.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108387409218154515">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Today we’re announcing dots</title>
+      <link>https://x.com/jerryjliu0/status/2108384638892953928</link>
+      <guid isPermaLink="false">twitter:2108384638892953928</guid>
+      <pubDate>Fri, 09 Oct 2026 02:30:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Today we’re announcing dots<br /><br />https://t.co/nkYyYDtlnL</p><p><a href="https://x.com/jerryjliu0/status/2108384638892953928">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: Today, we are announcing LlamaIndex.</title>
+      <link>https://x.com/jerryjliu0/status/2108384267017605529</link>
+      <guid isPermaLink="false">twitter:2108384267017605529</guid>
+      <pubDate>Fri, 09 Oct 2026 02:29:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: Today, we are announcing LlamaIndex.<br /><br />It is here: https://t.co/jEqmSDwNUK</p><p><a href="https://x.com/jerryjliu0/status/2108384267017605529">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：i&apos;m pulling out my suit for this</title>
+      <link>https://x.com/jerryjliu0/status/2108362528753643958</link>
+      <guid isPermaLink="false">twitter:2108362528753643958</guid>
+      <pubDate>Fri, 09 Oct 2026 01:02:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>i&apos;m pulling out my suit for this <br /><br />Huge shoutout to @imaanxsultan and everyone else for organizing!</p><p><a href="https://x.com/jerryjliu0/status/2108362528753643958">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: The Agent Economy Gala just maxed out at 400 guests</title>
+      <link>https://x.com/jerryjliu0/status/2108362022593396884</link>
+      <guid isPermaLink="false">twitter:2108362022593396884</guid>
+      <pubDate>Fri, 09 Oct 2026 01:00:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: The Agent Economy Gala just maxed out at 400 guests  <br /><br />Here’s a breakdown: <br />- 203 founders ($1B+ raised combined) <br />- 67 f…</p><p><a href="https://x.com/jerryjliu0/status/2108362022593396884">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：fleet week makes me patriotic af</title>
+      <link>https://x.com/jerryjliu0/status/2108352485140332758</link>
+      <guid isPermaLink="false">twitter:2108352485140332758</guid>
+      <pubDate>Fri, 09 Oct 2026 00:22:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>fleet week makes me patriotic af</p><p><a href="https://x.com/jerryjliu0/status/2108352485140332758">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @TimBaer8: Love WFH during Fleet Week in the nontechnical north. Finally a br…</title>
+      <link>https://x.com/jerryjliu0/status/2108345026099261950</link>
+      <guid isPermaLink="false">twitter:2108345026099261950</guid>
+      <pubDate>Thu, 08 Oct 2026 23:53:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @TimBaer8: Love WFH during Fleet Week in the nontechnical north. Finally a break from sirens, dogs, and handymen. Just weapons of war fl…</p><p><a href="https://x.com/jerryjliu0/status/2108345026099261950">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：LightOn OCR-3 is now available on OpenDocRouter, priced at $0.28 / 1m input and …</title>
+      <link>https://x.com/jerryjliu0/status/2108344861208510479</link>
+      <guid isPermaLink="false">twitter:2108344861208510479</guid>
+      <pubDate>Thu, 08 Oct 2026 23:52:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>LightOn OCR-3 is now available on OpenDocRouter, priced at $0.28 / 1m input and $1.40 / 1m output (it is ~$3.19 / 1k pages on ParseBench). <br /><br />We benchmarked it on ParseBench. It is on the pareto frontier for open-weight OCR models, with similar performance as Gemini 3.8 flash low at ~45% lower price. It is decent at tables, workable for charts, and quite good at grounding.<br /><br />Try it out on OpenDocRouter: https://t.co/iPrI8nyjKI<br /><br />For the full list of benchmark results, check out ParseBench: https://t.co/PWczfhp0OX</p><img src="https://pbs.twimg.com/media/HUJYWvTacAA1lTE.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108344861208510479">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @LoganMarkewich: OpenDocRouter serves LightOnOCR-3-1B now! When benched in th…</title>
+      <link>https://x.com/jerryjliu0/status/2108327656035090441</link>
+      <guid isPermaLink="false">twitter:2108327656035090441</guid>
+      <pubDate>Thu, 08 Oct 2026 22:44:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: OpenDocRouter serves LightOnOCR-3-1B now! When benched in the app, we found that our attribution engine produced better…</p><p><a href="https://x.com/jerryjliu0/status/2108327656035090441">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Hugging Face：RT @ClementDelangue: We urgently need more public traces of AI agents attacki…</title>
@@ -62,6 +182,14 @@
       <pubDate>Thu, 08 Oct 2026 20:38:44 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @matth_lapeyre: We did not know how long Microduck would actually last on battery <br /><br />We had thermal management issues with our Radxa prot…</p><p><a href="https://x.com/huggingface/status/2108296055884231162">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @LoganMarkewich: Sometimes there really are just free gains you can implement…</title>
+      <link>https://x.com/jerryjliu0/status/2108272910209351910</link>
+      <guid isPermaLink="false">twitter:2108272910209351910</guid>
+      <pubDate>Thu, 08 Oct 2026 19:06:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: Sometimes there really are just free gains you can implement https://t.co/nh6cNz1xc1</p><img src="https://pbs.twimg.com/media/HUIVWRoakAAlz1v.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108272910209351910">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Harrison Chase：Sam on where decision models fit in a harness and how to use Jev with LangC…</title>
@@ -104,12 +232,44 @@
       <description><![CDATA[<p>RT @sydneyrunkle: the @OpenAI decisions API is now in @LangChain! <br /><br />we shipped:<br /><br />1. OpenAIDecisions: ask yes/no, choice, and score question…</p><p><a href="https://x.com/hwchase17/status/2108270847471296882">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：Markdown has become a universal representation of information between humans and…</title>
+      <link>https://x.com/jerryjliu0/status/2108254114362904619</link>
+      <guid isPermaLink="false">twitter:2108254114362904619</guid>
+      <pubDate>Thu, 08 Oct 2026 17:52:04 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Markdown has become a universal representation of information between humans and agents.<br /><br />It preserves core primitives needed to express structure (headings, lists), allows agents to read the information in a semantically interpretable manner, and allows for complex elements like tables and charts. You can natively embed HTML as well.<br /><br />But since most unstructured data is not natively within markdown (yet), the issue becomes the translation layer.<br /><br />We&apos;ve created best models to convert any unstructured document container into markdown.<br /><br />Check out our blog!  https://t.co/D0b7XA3Nc7</p><img src="https://pbs.twimg.com/media/HUIFmkTbgAAJWfQ.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108254114362904619">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：OpenDocRouter is basically OpenRouter for document OCR</title>
+      <link>https://x.com/jerryjliu0/status/2108252626500661371</link>
+      <guid isPermaLink="false">twitter:2108252626500661371</guid>
+      <pubDate>Thu, 08 Oct 2026 17:46:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenDocRouter is basically OpenRouter for document OCR <br /><br />You can compare and use all your favorite OCR models under a single API / billing interface. <br /><br />They range from some of the lightweight/OSS models  (e.g. MinerU) to the latest frontier VLMs (Opus 5.5) <br /><br />Come check it out! https://t.co/v8PieWWUNV</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108252307712622592/img/4rQjkE6f13ut-yGX.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108252626500661371">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Hugging Face：Help keep science open, try this out on Paper Pages: https://t.co/1cApLwjR7A</title>
       <link>https://x.com/huggingface/status/2108252563015422389</link>
       <guid isPermaLink="false">twitter:2108252563015422389</guid>
       <pubDate>Thu, 08 Oct 2026 17:45:55 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>Help keep science open, try this out on Paper Pages: https://t.co/1cApLwjR7A</p><p><a href="https://x.com/huggingface/status/2108252563015422389">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @llama_index: Markdown is all you need.</title>
+      <link>https://x.com/jerryjliu0/status/2108242044833726602</link>
+      <guid isPermaLink="false">twitter:2108242044833726602</guid>
+      <pubDate>Thu, 08 Oct 2026 17:04:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @llama_index: Markdown is all you need. <br /><br />(Mostly.)<br /><br />A parser can get every word on the page right and still lose which column a number…</p><p><a href="https://x.com/jerryjliu0/status/2108242044833726602">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: how do i explain this to a non-tech person https://t.co/NGJiYE…</title>
+      <link>https://x.com/jerryjliu0/status/2108240294210891968</link>
+      <guid isPermaLink="false">twitter:2108240294210891968</guid>
+      <pubDate>Thu, 08 Oct 2026 16:57:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: how do i explain this to a non-tech person https://t.co/NGJiYEyL5f</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108230598179569664/img/T-gcqh5WMohNu05x.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108240294210891968">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Hugging Face：RT @ggerganov: llama.cpp can distribute inference on heterogeneous devices th…</title>
@@ -150,6 +310,14 @@
       <pubDate>Thu, 08 Oct 2026 15:54:27 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @cgeorgiaw: Today, we&apos;re releasing the Carbon Annotation Database and the model behind it, Carbon-A. <br /><br />We&apos;ve used this model to discover…</p><p><a href="https://x.com/huggingface/status/2108224512286216381">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: @jerryjliu0 resilience!! matisse is top dawg</title>
+      <link>https://x.com/jerryjliu0/status/2108221872286699820</link>
+      <guid isPermaLink="false">twitter:2108221872286699820</guid>
+      <pubDate>Thu, 08 Oct 2026 15:43:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: @jerryjliu0 resilience!! matisse is top dawg</p><p><a href="https://x.com/jerryjliu0/status/2108221872286699820">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Google DeepMind：RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James M…</title>
@@ -240,6 +408,22 @@
       <description><![CDATA[<strong>清华开学一个月，这是我的 SOP</strong><p>固定80%的日常动作，减少决策成本，把纠结/犹豫/拖延的时间省下来，花在让自己开心自在的事情上面 我发现，精力很难凭空增加，但是可以节省 远离消耗的人和事，不必要的、不想做又不敢拒绝的事，统统say no！ SOP 不是为了计划做什么，是为了明确不做什么 #J人的生活 #极简生活howto #SOP #清华大学 #清华 #AI异类弗兰克</p><img src="https://sns-webpic-qc.xhscdn.com/202610091359/6bf268b26bcd5550391e5080a79bce87/notes_pre_post/1040g3k83262h29jc562g5nm6daug8qka6hjqe5o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091359/cc8483727516a2785ddaca026485611e/notes_pre_post/1040g3k83262h29jc561g5nm6daug8qkai512ddg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091359/0686bc4fb361d8f98caa49a55395dca4/notes_pre_post/1040g3k83262h29jc56205nm6daug8qkatf4nq9o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091359/6bf268b26bcd5550391e5080a79bce87/notes_pre_post/1040g3k83262h29jc562g5nm6daug8qka6hjqe5o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610091359/cc8483727516a2785ddaca026485611e/notes_pre_post/1040g3k83262h29jc561g5nm6daug8qkai512ddg!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6ac7855f0000000018012230?xsec_token=ABVy0E5Xs7fbVQdeH_nkv-kI8e6XTv8Ev7Dub5VxY0hA4=&amp;xsec_source=pc_user">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：this was a really good business decision and ensures i&apos;ll continue using @bot</title>
+      <link>https://x.com/jerryjliu0/status/2108071104472592724</link>
+      <guid isPermaLink="false">twitter:2108071104472592724</guid>
+      <pubDate>Thu, 08 Oct 2026 05:44:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>this was a really good business decision and ensures i&apos;ll continue using @bot</p><p><a href="https://x.com/jerryjliu0/status/2108071104472592724">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：having high agency is choosing to do a hot ones challenge with no spice toleranc…</title>
+      <link>https://x.com/jerryjliu0/status/2108064808172237025</link>
+      <guid isPermaLink="false">twitter:2108064808172237025</guid>
+      <pubDate>Thu, 08 Oct 2026 05:19:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>having high agency is choosing to do a hot ones challenge with no spice tolerance and powering through 9 out of 10 wings <br /><br />s/o matisse https://t.co/jR9Um6fz55</p><img src="https://pbs.twimg.com/media/HUFZxaRaoAAmafe.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108064808172237025">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>AI拯救打工人（幻觉版）：混元新论文：Harness轨迹不能直接拿来训练</title>
       <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac70e05000000001203a7af?xsec_token=ABVy0E5Xs7fbVQdeH_nkv-kKT4W3cIrAO-oX2KVsJwEOA=&amp;xsec_source=pc_user</link>
       <guid isPermaLink="false">xhs:6ac70e05000000001203a7af</guid>
@@ -248,12 +432,28 @@
       <description><![CDATA[<strong>混元新论文：Harness轨迹不能直接拿来训练</strong><p>腾讯混元团队的新论文《Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite》，提出Harness 不仅是模型的外挂，还可以成为模型的训练场。 有了Harness，同一个模型加上状态管理、反思、重试、checkpoint、任务拆解，表现可能完全不同。 论文拿Qwen-3.8-27B搭配3种Harness，最好的单一Harness解出565个任务，但三个 Harness 的成功任务取并集，可以达到759个，增加 34.3%。 这说明：不同 Harness 其实会激活模型不同的问题解决方式。 但接下来的问题是 Harness 帮模型做成功的任务，能不能直接拿来训练模型？ 论文发现不能简单这么干，如果轨迹混入了大量 Harness 的状态提示、纠错和控制逻辑。模型可能只是“被扶着走到了终点”，并没有真正学会怎么走。 实验也很反直觉：Terminal-Bench 2 上直接拿成功轨迹 SFT效果反而变差。 论文提出了 Recursive Self-Rewrite（RSR）。 做法很像老师教学生：第一遍允许模型在 Harness 帮助下把题做出来。然后让 Planner 从成功轨迹里提炼一份 Runbook，总结“先做什么、检查什么、失败后怎么办”，Critic 再负责检查里面有没有偷藏答案。 接着开一个全新的Sandbox，让模型拿着Runbook重新独立做一遍。 只有再次成功，新的trajectory才进入训练集。真正SFT时连Runbook都会删掉。 效果也非常明显：Terminal-Bench 2：57.0% → 74.2%；Terminal-Bench Hard：39.0% → 63.0% 这篇论文并不只是又提出了一个新的训练方法，它实际上重新定义了Harness角色Model → 多种 Harness → 成功经验 → Rewrite → 训练 → Better Model Harness像AI的“外骨骼”，开始模型靠外骨骼才能完成复杂动作，但这些动作可以被提炼、重新练习，最后逐渐变成模型自己的“肌肉”。 Harness负责探索能力，训练负责内化能力，两者最终形成一个持续进化的闭环。 #Harness #腾讯混元 #论文解读 #RSI #RecursiveSelfRewrite #AI搞学习howto</p><img src="https://sns-webpic-qc.xhscdn.com/202610081910/a750055fddb4efa4f3724a38b157bf62/spectrum/1040g0k03261tuefgk6305p37m4gk4uihisbh2t8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/17f77544d7253bccd9c9257b4cad237d/spectrum/1040g0k03261tuefgk6005p37m4gk4uihbg3hrd8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/2d876217f74d1f04a0da63adce10ccd6/spectrum/1040g0k03261tuefgk60g5p37m4gk4uih2t1v540!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/6e88f27c8479dccbe6afbbf049fd0d93/spectrum/1040g0k03261tuefgk6105p37m4gk4uihi30svb0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/a45c163aeae478260111c733549d0896/spectrum/1040g0k03261tuefgk61g5p37m4gk4uihp8p6na8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/92cfcb726936518ac7aba653c0f0d65f/spectrum/1040g0k03261tuefgk6205p37m4gk4uihqrokae8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/a6646325489b8345c96916017f4af1ae/spectrum/1040g0k03261tuefgk62g5p37m4gk4uihugs1oe8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/a750055fddb4efa4f3724a38b157bf62/spectrum/1040g0k03261tuefgk6305p37m4gk4uihisbh2t8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081910/17f77544d7253bccd9c9257b4cad237d/spectrum/1040g0k03261tuefgk6005p37m4gk4uihbg3hrd8!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac70e05000000001203a7af?xsec_token=ABVy0E5Xs7fbVQdeH_nkv-kKT4W3cIrAO-oX2KVsJwEOA=&amp;xsec_source=pc_user">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：RT @EkoLovesYou: SI is helpful, but the kingdom is within https://t.co/2uh2jWYTR…</title>
+      <link>https://x.com/jerryjliu0/status/2108011269806760285</link>
+      <guid isPermaLink="false">twitter:2108011269806760285</guid>
+      <pubDate>Thu, 08 Oct 2026 01:47:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @EkoLovesYou: SI is helpful, but the kingdom is within https://t.co/2uh2jWYTRs</p><img src="https://pbs.twimg.com/media/HUEbkD8bQAEwhZy.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108011269806760285">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Hugging Face：RT @RisingSayak: Was meant to be a Valentine&apos;s gift, but I&apos;m releasing it ear…</title>
       <link>https://x.com/huggingface/status/2108005474641838500</link>
       <guid isPermaLink="false">twitter:2108005474641838500</guid>
       <pubDate>Thu, 08 Oct 2026 01:24:04 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @RisingSayak: Was meant to be a Valentine&apos;s gift, but I&apos;m releasing it early ❤️<br /><br />Wrote a long piece on KV caching in flow models for ima…</p><p><a href="https://x.com/huggingface/status/2108005474641838500">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: @cartesia coffee cart! :D</title>
+      <link>https://x.com/jerryjliu0/status/2107997726126600310</link>
+      <guid isPermaLink="false">twitter:2107997726126600310</guid>
+      <pubDate>Thu, 08 Oct 2026 00:53:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: @cartesia coffee cart! :D <br />got to order my drink using their sonic TTS model, very cool https://t.co/eZanOhgt4a</p><img src="https://pbs.twimg.com/media/HUEXEE_bkAALYRa.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUEXEE9agAEhWR_.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107997726126600310">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>François Chollet：Humans provide a fun comparison point here.</title>
@@ -296,12 +496,36 @@
       <description><![CDATA[<p>RT @sydneyrunkle: i&apos;m most excited about the idea of &quot;binding tools to skills&quot;<br /><br />this is basically progressive disclosure^2 -- when a skill…</p><p><a href="https://x.com/hwchase17/status/2107951687587479713">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：in the meantime if you need consistently high document parsing quality across ev…</title>
+      <link>https://x.com/jerryjliu0/status/2107940103897424157</link>
+      <guid isPermaLink="false">twitter:2107940103897424157</guid>
+      <pubDate>Wed, 07 Oct 2026 21:04:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>in the meantime if you need consistently high document parsing quality across every dimension, come check out llamaparse: https://t.co/DHMd6BFO0l</p><p><a href="https://x.com/jerryjliu0/status/2107940103897424157">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Claude Haiku 5.5 is now available on OpenDocRouter as one of the cheapest models…</title>
+      <link>https://x.com/jerryjliu0/status/2107940101217309041</link>
+      <guid isPermaLink="false">twitter:2107940101217309041</guid>
+      <pubDate>Wed, 07 Oct 2026 21:04:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude Haiku 5.5 is now available on OpenDocRouter as one of the cheapest models for document parsing.<br /><br />It is roughly $1.2 / 1k pages and does quite well on tables and text reading order compared to other models at this price point. It struggles a bit on charts, semantic formatting, and bounding boxes.<br /><br />Check out OpenDocRouter, which we just launched today! https://t.co/iPrI8nyjKI</p><img src="https://pbs.twimg.com/media/HUDoECRakAATx4Z.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107940101217309041">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Ethan Mollick：Had early access to the Intelligent UI experience and it was a nice change f…</title>
       <link>https://x.com/emollick/status/2107938889004396561</link>
       <guid isPermaLink="false">twitter:2107938889004396561</guid>
       <pubDate>Wed, 07 Oct 2026 20:59:29 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>Had early access to the Intelligent UI experience and it was a nice change from walls of text. It also suggests that, increasingly, we are going to see interfaces built on demand for the problem that you have.</p><p><a href="https://x.com/emollick/status/2107938889004396561">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: how it sometimes feels being the startup growth daughter of a …</title>
+      <link>https://x.com/jerryjliu0/status/2107937765757436202</link>
+      <guid isPermaLink="false">twitter:2107937765757436202</guid>
+      <pubDate>Wed, 07 Oct 2026 20:55:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: how it sometimes feels being the startup growth daughter of a finance bro and doctor https://t.co/LvHpnlA7H0</p><img src="https://pbs.twimg.com/media/HUDekNBbUAA9P2I.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107937765757436202">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Harrison Chase：RT @sydneyrunkle: skills are now the standard way to give agents domain kno…</title>
@@ -342,6 +566,14 @@
       <pubDate>Wed, 07 Oct 2026 20:22:28 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @vivmarquez: decision models, now open and multimodal! https://t.co/wiZxwJKQBu</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107913431617847296/img/UOrSCai2SNmgoumY.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2107929574206218545">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @LoganMarkewich: The power of OpenDocRouter is already working: Anthropic jus…</title>
+      <link>https://x.com/jerryjliu0/status/2107922393016717725</link>
+      <guid isPermaLink="false">twitter:2107922393016717725</guid>
+      <pubDate>Wed, 07 Oct 2026 19:53:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: The power of OpenDocRouter is already working: Anthropic just dropped Haiku 5.5 and we already have initial benchmark r…</p><p><a href="https://x.com/jerryjliu0/status/2107922393016717725">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Harrison Chase：interrupt london is next tuesday</title>
@@ -456,6 +688,38 @@
       <description><![CDATA[<p>Even the underlying norms of science are going to change. Some because we can live up to them better (disinterestedness) some because they may no longer apply. https://t.co/SupvW9uF70</p><img src="https://pbs.twimg.com/media/HUCxBf9W0AABEyq.jpg" loading="lazy" /><p><a href="https://x.com/emollick/status/2107879269305385412">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：RT @LoganMarkewich: OpenDocRouter is here!</title>
+      <link>https://x.com/jerryjliu0/status/2107878264459153777</link>
+      <guid isPermaLink="false">twitter:2107878264459153777</guid>
+      <pubDate>Wed, 07 Oct 2026 16:58:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: OpenDocRouter is here!<br />https://t.co/WnutrTv2yN<br /><br />Some time ago, I realized LlamaIndex was really good at benchmarking an…</p><p><a href="https://x.com/jerryjliu0/status/2107878264459153777">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Today I’m excited to introduce OpenDocRouter - a unified API for document parsin…</title>
+      <link>https://x.com/jerryjliu0/status/2107864677611139096</link>
+      <guid isPermaLink="false">twitter:2107864677611139096</guid>
+      <pubDate>Wed, 07 Oct 2026 16:04:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Today I’m excited to introduce OpenDocRouter - a unified API for document parsing with the latest frontier and open-weight models.<br /><br />There are a lot of VLMs and OCR models that can be used for document parsing: we have over 130+ models on ParseBench, and a HuggingFace search for “ocr” turns up thousands of results.<br /><br />It’s extremely time consuming to choose between OCR vendors. You need to figure out the right prompts, handle rate limits, manage deployments, integrations with all models you’re using, and benchmark new models as they come out.<br /><br />OpenDocRouter provides a comprehensive, transparent set of models along the price-performance frontier. It manages a unified API to transcribe documents to markdown. It serves all frontier and open-weight models “at-cost”, with a small transaction cut. It handles rate limits with all models to ensure you can put massive volume through. It even offers bounding boxes and layout as a service, so that you can add grounding to any model that you’re using.<br /><br />When new OCR candidate models ship, we will benchmark them on ParseBench and immediately add them to OpenDocRouter. <br /><br />We’re adding a lot more models very quickly, and also adding some extremely exciting feature improvements (e.g. automated routing) as we speak.<br /><br />We welcome your feedback!<br /><br />Check it out: https://t.co/v8PieWWUNV<br /><br />Blog: https://t.co/ilVqqJRacP</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107864151112724480/img/jlS_0_8IzrmjLsMl.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107864677611139096">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：You may ask why we’re doing this given that our main focus within LlamaParse (ht…</title>
+      <link>https://x.com/jerryjliu0/status/2107864679787991243</link>
+      <guid isPermaLink="false">twitter:2107864679787991243</guid>
+      <pubDate>Wed, 07 Oct 2026 16:04:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>You may ask why we’re doing this given that our main focus within LlamaParse (https://t.co/XYZmx5TFz8) is building the best frontier models for document parsing and extraction.<br /><br />While we believe our models are best in class in accuracy at their price points, we acknowledge that they don’t cover every possible price point; at the low end there are extremely cheap models (mineru, luna, paddleocr), at the high end there may be an edge case or two you want to run the latest frontier model over.</p><p><a href="https://x.com/jerryjliu0/status/2107864679787991243">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @llama_index: Today we&apos;re announcing OpenDocRouter: every model for document …</title>
+      <link>https://x.com/jerryjliu0/status/2107864060272537617</link>
+      <guid isPermaLink="false">twitter:2107864060272537617</guid>
+      <pubDate>Wed, 07 Oct 2026 16:02:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @llama_index: Today we&apos;re announcing OpenDocRouter: every model for document parsing under one API.<br /><br />There are ~4,000 OCR models on Hugg…</p><p><a href="https://x.com/jerryjliu0/status/2107864060272537617">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Hugging Face：RT @multimodalart: come meet the microduck on oct 16th if you are in sf</title>
       <link>https://x.com/huggingface/status/2107857927071732152</link>
       <guid isPermaLink="false">twitter:2107857927071732152</guid>
@@ -478,6 +742,14 @@
       <pubDate>Wed, 07 Oct 2026 14:57:13 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @AnjneyMidha: hundreds of MI355x and B300 nodes<br /><br />now live on https://t.co/t0uE0bekz3<br /><br />subsidized for all .edu and .govs<br /><br />it’s time to sc…</p><p><a href="https://x.com/EMostaque/status/2107847721893663089">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @murtazakhomusi: It&apos;s SF tech week and here&apos;s how we celebrated at  @llama_in…</title>
+      <link>https://x.com/jerryjliu0/status/2107847669515423776</link>
+      <guid isPermaLink="false">twitter:2107847669515423776</guid>
+      <pubDate>Wed, 07 Oct 2026 14:57:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @murtazakhomusi: It&apos;s SF tech week and here&apos;s how we celebrated at  @llama_index  🦙:  <br /><br />1. @imaanxsultan  pitched our product in a room…</p><p><a href="https://x.com/jerryjliu0/status/2107847669515423776">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Jim Fan：It is increasingly clear that humanity will solve the Riemann hypothesis before we…</title>
@@ -544,6 +816,38 @@
       <description><![CDATA[<p>We have a really strong team :)<br /><br />Come join us!</p><p><a href="https://x.com/hwchase17/status/2107766611646038216">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：RT @snpal2000: Check out this talk from our CEO (@jerryjliu0) at the SF AI Engin…</title>
+      <link>https://x.com/jerryjliu0/status/2107701357054763399</link>
+      <guid isPermaLink="false">twitter:2107701357054763399</guid>
+      <pubDate>Wed, 07 Oct 2026 05:15:37 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @snpal2000: Check out this talk from our CEO (@jerryjliu0) at the SF AI Engineer Conference!<br /><br />We&apos;ll be back for the NYC show next week..…</p><p><a href="https://x.com/jerryjliu0/status/2107701357054763399">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @beffjezos: Any investor that understands this should be going all in on deep…</title>
+      <link>https://x.com/jerryjliu0/status/2107689326847123520</link>
+      <guid isPermaLink="false">twitter:2107689326847123520</guid>
+      <pubDate>Wed, 07 Oct 2026 04:27:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @beffjezos: Any investor that understands this should be going all in on deep tech right now<br /><br />Technologies that required too much intell…</p><p><a href="https://x.com/jerryjliu0/status/2107689326847123520">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：You can literally do anything these days if you just ask for it</title>
+      <link>https://x.com/jerryjliu0/status/2107679159099216060</link>
+      <guid isPermaLink="false">twitter:2107679159099216060</guid>
+      <pubDate>Wed, 07 Oct 2026 03:47:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>You can literally do anything these days if you just ask for it</p><p><a href="https://x.com/jerryjliu0/status/2107679159099216060">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: gave a really fun talk today about @llama_index to a full room…</title>
+      <link>https://x.com/jerryjliu0/status/2107677645609775495</link>
+      <guid isPermaLink="false">twitter:2107677645609775495</guid>
+      <pubDate>Wed, 07 Oct 2026 03:41:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: gave a really fun talk today about @llama_index to a full room at ai demo night with @ClickHouseDB 💌 <br /><br />also won an award…</p><p><a href="https://x.com/jerryjliu0/status/2107677645609775495">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Ethan Mollick：Context, OpenAI cracked or made important progress in hundreds of big proble…</title>
       <link>https://x.com/emollick/status/2107648160604528897</link>
       <guid isPermaLink="false">twitter:2107648160604528897</guid>
@@ -558,6 +862,14 @@
       <pubDate>Wed, 07 Oct 2026 01:38:02 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>After a brief but institution-eroding slop science era, it increasingly looks like we are going to have two revolutions from AI:<br />1) Everything ever published will be re-read and re-judged in ways that human scientists never anticipated<br />2) Novel discoveries will start to come fast</p><p><a href="https://x.com/emollick/status/2107646599635910951">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：OCR is the perfect example of a use case that has been dominated by legacy/britt…</title>
+      <link>https://x.com/jerryjliu0/status/2107641238799479075</link>
+      <guid isPermaLink="false">twitter:2107641238799479075</guid>
+      <pubDate>Wed, 07 Oct 2026 01:16:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OCR is the perfect example of a use case that has been dominated by legacy/brittle systems, and can be solved both accurately and cheaply by applying the right amount of agentic intelligence.<br /><br />A properly tuned agentic OCR needs to dynamically apply extra compute to complex elements, review and correct failures, and create the right semantic meaning throughout the page. It&apos;s a task that frontier models are both overengineered for in terms of cost and latency, and struggle at over a long tail of complex edge cases. <br /><br />Check out this blog post by @LoganMarkewich below: https://t.co/41iPHRleIW</p><img src="https://pbs.twimg.com/media/HT_YcQBaEAA7TtH.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107641238799479075">原文</a></p>]]></description>
     </item>
     <item>
       <title>Greg Brockman：towards acceleration of scientific discovery and improving quality of life f…</title>
@@ -598,6 +910,14 @@
       <pubDate>Tue, 06 Oct 2026 23:32:38 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>*special case excepted</p><p><a href="https://x.com/EMostaque/status/2107615044435431473">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Lilian Weng：RT @OpenAI: We’re releasing a broad range of new mathematical results produced…</title>
+      <link>https://x.com/lilianweng/status/2107612747223674921</link>
+      <guid isPermaLink="false">twitter:2107612747223674921</guid>
+      <pubDate>Tue, 06 Oct 2026 23:23:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @OpenAI: We’re releasing a broad range of new mathematical results produced by an internal frontier model.<br /><br />We’ve been consulting with t…</p><p><a href="https://x.com/lilianweng/status/2107612747223674921">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Ethan Mollick：Time for every AI account to pretend they deeply understand number theory ag…</title>
@@ -694,6 +1014,22 @@
       <pubDate>Tue, 06 Oct 2026 18:20:11 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @caspar_br: let me introduce you to the langchain stack<br /><br />1. langgraph gives you this level of control<br />2. traces give you the complete ru…</p><p><a href="https://x.com/hwchase17/status/2107536414350926119">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: There&apos;s a party on Friday night that most of SF Tech Week will…</title>
+      <link>https://x.com/jerryjliu0/status/2107527855865479290</link>
+      <guid isPermaLink="false">twitter:2107527855865479290</guid>
+      <pubDate>Tue, 06 Oct 2026 17:46:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: There&apos;s a party on Friday night that most of SF Tech Week will only hear about on Saturday.<br /><br />So, we made a vintage film t…</p><p><a href="https://x.com/jerryjliu0/status/2107527855865479290">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @llama_index: The biggest night of SF Tech Week is black tie.</title>
+      <link>https://x.com/jerryjliu0/status/2107527796398674304</link>
+      <guid isPermaLink="false">twitter:2107527796398674304</guid>
+      <pubDate>Tue, 06 Oct 2026 17:45:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @llama_index: The biggest night of SF Tech Week is black tie.<br /><br />120+ agent founders, 50 investors, and live jazz at the Redwood Room on F…</p><p><a href="https://x.com/jerryjliu0/status/2107527796398674304">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Harrison Chase：RT @sydneyrunkle: not every task needs a frontier model!</title>
@@ -848,6 +1184,14 @@
       <description><![CDATA[<p>As predicted. https://t.co/QDzCQG90q2</p><img src="https://pbs.twimg.com/media/HT57LZcXsAABPK-.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HT57NPOXoAAoLqG.jpg" loading="lazy" /><p><a href="https://x.com/emollick/status/2107257209839071391">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Jerry Liu：RT @imaanxsultan: the love for @llama_index is real https://t.co/Z5d9Fr258O</title>
+      <link>https://x.com/jerryjliu0/status/2107252489393434965</link>
+      <guid isPermaLink="false">twitter:2107252489393434965</guid>
+      <pubDate>Mon, 05 Oct 2026 23:31:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: the love for @llama_index is real https://t.co/Z5d9Fr258O</p><img src="https://pbs.twimg.com/media/HT5o3fnaAAAhiQM.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107252489393434965">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Ethan Mollick：I tend to use ChatGPT on my machine for Codex work (using the Remote connect…</title>
       <link>https://x.com/emollick/status/2107248468800733571</link>
       <guid isPermaLink="false">twitter:2107248468800733571</guid>
@@ -862,350 +1206,6 @@
       <pubDate>Mon, 05 Oct 2026 23:14:11 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>Over the past weeks I switched a lot of my Cowork complex work to new Claude Projects (confusingly, it is not the same as the old Projects in Claude, instead, it persistently chats with a dedicated cloud VM). I found it to be much better in most ways, but not clearly documented.</p><p><a href="https://x.com/emollick/status/2107248012208791839">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @vllm_project: We&apos;re excited to Co-host Open Together with @huggingface! W…</title>
-      <link>https://x.com/huggingface/status/2107243024581529699</link>
-      <guid isPermaLink="false">twitter:2107243024581529699</guid>
-      <pubDate>Mon, 05 Oct 2026 22:54:22 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @vllm_project: We&apos;re excited to Co-host Open Together with @huggingface! We&apos;ll kick off Open Source AI Week with a gathering of communit…</p><p><a href="https://x.com/huggingface/status/2107243024581529699">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：So much reporting on the Claude or OpenAI usage of the same handful of techn…</title>
-      <link>https://x.com/emollick/status/2107227739048513628</link>
-      <guid isPermaLink="false">twitter:2107227739048513628</guid>
-      <pubDate>Mon, 05 Oct 2026 21:53:38 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>So much reporting on the Claude or OpenAI usage of the same handful of technology companies with competing products &amp;amp; huge cloud infrastructure of their own.<br /><br />There are many, many more firms out there that are not direct competitors &amp;amp; whose use trends would be more informative.</p><p><a href="https://x.com/emollick/status/2107227739048513628">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：I will block replybots whose prompts make them generate inane comments conne…</title>
-      <link>https://x.com/emollick/status/2107205537536561274</link>
-      <guid isPermaLink="false">twitter:2107205537536561274</guid>
-      <pubDate>Mon, 05 Oct 2026 20:25:24 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>I will block replybots whose prompts make them generate inane comments connecting the poem to business process re-engineering or whatever, or those that quote a random line from the poem as &quot;the part that people miss&quot; etc. You can do better.</p><p><a href="https://x.com/emollick/status/2107205537536561274">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：AI policy right now, especially from the Labs, makes me think of this poem.</title>
-      <link>https://x.com/emollick/status/2107203549059014739</link>
-      <guid isPermaLink="false">twitter:2107203549059014739</guid>
-      <pubDate>Mon, 05 Oct 2026 20:17:30 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>AI policy right now, especially from the Labs, makes me think of this poem.<br /><br />If you believe superintelligence is near, you don&apos;t need to make hard decisions about how to build AI to make the world better. Just wait for ASI &amp;amp; it will decide for us. But if that doesn&apos;t happen... https://t.co/YAaT5LFWTl</p><img src="https://pbs.twimg.com/media/HT5GvruW0AAIUda.jpg" loading="lazy" /><p><a href="https://x.com/emollick/status/2107203549059014739">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @fffiloni: I built a @gradio playground to make this tangible 🔀 cc @victo…</title>
-      <link>https://x.com/huggingface/status/2107158718299173332</link>
-      <guid isPermaLink="false">twitter:2107158718299173332</guid>
-      <pubDate>Mon, 05 Oct 2026 17:19:22 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @fffiloni: I built a @gradio playground to make this tangible 🔀 cc @victormustar <br /><br />Give Julia-1 a situation: it ranks options, estimates…</p><p><a href="https://x.com/huggingface/status/2107158718299173332">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jay Alammar：Congrats team @Aleph__Alpha!</title>
-      <link>https://x.com/JayAlammar/status/2107134659276501372</link>
-      <guid isPermaLink="false">twitter:2107134659276501372</guid>
-      <pubDate>Mon, 05 Oct 2026 15:43:46 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Congrats team @Aleph__Alpha!</p><p><a href="https://x.com/JayAlammar/status/2107134659276501372">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jay Alammar：Fascinating!</title>
-      <link>https://x.com/JayAlammar/status/2107134345739632935</link>
-      <guid isPermaLink="false">twitter:2107134345739632935</guid>
-      <pubDate>Mon, 05 Oct 2026 15:42:31 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Fascinating!<br /><br />Elephants talk with deep rumbles, alone or overlapping like a choir, and this research found the sounds carry a rough clue about what&apos;s happening (meeting up, staying in touch, deciding to move), whether it&apos;s one elephant or many. <br /><br />In a chorus, each elephant uses the kind of rumble that fits the situation, and in some situations, especially when coordinating plans, their voices drift to sound more alike as the conversation goes on.</p><img src="https://pbs.twimg.com/media/HT4LL4pW0AAMnTA.png" loading="lazy" /><p><a href="https://x.com/JayAlammar/status/2107134345739632935">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @akshay_pachaar: HuggingFace just closed a major gap in harness engineerin…</title>
-      <link>https://x.com/huggingface/status/2107130132922335432</link>
-      <guid isPermaLink="false">twitter:2107130132922335432</guid>
-      <pubDate>Mon, 05 Oct 2026 15:25:46 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @akshay_pachaar: HuggingFace just closed a major gap in harness engineering!<br /><br />(the ultimate guide to multi-harness RL)<br /><br />the same open-we…</p><p><a href="https://x.com/huggingface/status/2107130132922335432">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @alanzabihi: Today we&apos;re releasing Security-One, our open-weight 27B model…</title>
-      <link>https://x.com/huggingface/status/2107129746589114811</link>
-      <guid isPermaLink="false">twitter:2107129746589114811</guid>
-      <pubDate>Mon, 05 Oct 2026 15:24:14 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @alanzabihi: Today we&apos;re releasing Security-One, our open-weight 27B model for security decisions.<br /><br />It reads a document, tool call, or c…</p><p><a href="https://x.com/huggingface/status/2107129746589114811">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @oliviscusAI: Wow Nvidia has just released a tool to turn any image into a…</title>
-      <link>https://x.com/huggingface/status/2107129228231684565</link>
-      <guid isPermaLink="false">twitter:2107129228231684565</guid>
-      <pubDate>Mon, 05 Oct 2026 15:22:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @oliviscusAI: Wow Nvidia has just released a tool to turn any image into an explorable 3D world<br /><br />And they made it 100% open source 🔥<br /><br />-…</p><p><a href="https://x.com/huggingface/status/2107129228231684565">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @RedHat_AI: An NVFP4 checkpoint of Qwen3.8-Flash-Next is on Hugging Face. …</title>
-      <link>https://x.com/huggingface/status/2107129174884323620</link>
-      <guid isPermaLink="false">twitter:2107129174884323620</guid>
-      <pubDate>Mon, 05 Oct 2026 15:21:58 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @RedHat_AI: An NVFP4 checkpoint of Qwen3.8-Flash-Next is on Hugging Face. MoE experts quantized to FP4, the rest kept in BF16, ready for…</p><p><a href="https://x.com/huggingface/status/2107129174884323620">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: Clef from @Cloudflare is number trending on HF! https://…</title>
-      <link>https://x.com/huggingface/status/2107123546002747768</link>
-      <guid isPermaLink="false">twitter:2107123546002747768</guid>
-      <pubDate>Mon, 05 Oct 2026 14:59:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: Clef from @Cloudflare is number trending on HF! https://t.co/dloDL2nmy6</p><img src="https://pbs.twimg.com/media/HT4AY7GWgAAMYZZ.png" loading="lazy" /><p><a href="https://x.com/huggingface/status/2107123546002747768">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: We turned Claude Code, Codex, Hermes, Pi, @opencode and …</title>
-      <link>https://x.com/huggingface/status/2107123500599460122</link>
-      <guid isPermaLink="false">twitter:2107123500599460122</guid>
-      <pubDate>Mon, 05 Oct 2026 14:59:25 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: We turned Claude Code, Codex, Hermes, Pi, @opencode and other coding harnesses into RL environments. No changes to the…</p><p><a href="https://x.com/huggingface/status/2107123500599460122">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @adithya_s_k: This is hugeeee for open-source RL environments.</title>
-      <link>https://x.com/huggingface/status/2107122734362959999</link>
-      <guid isPermaLink="false">twitter:2107122734362959999</guid>
-      <pubDate>Mon, 05 Oct 2026 14:56:22 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @adithya_s_k: This is hugeeee for open-source RL environments.<br /><br />You can now discover environments across OpenEnv, Verifiers, Harbor, NeM…</p><p><a href="https://x.com/huggingface/status/2107122734362959999">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @Thom_Wolf: new roommate just moved in. walks like he&apos;s had three drinks, …</title>
-      <link>https://x.com/huggingface/status/2107122688254697769</link>
-      <guid isPermaLink="false">twitter:2107122688254697769</guid>
-      <pubDate>Mon, 05 Oct 2026 14:56:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @Thom_Wolf: new roommate just moved in. walks like he&apos;s had three drinks, says no to everything. still quite cute so I might bring him e…</p><p><a href="https://x.com/huggingface/status/2107122688254697769">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ben_burtenshaw: RL environments now have a home on the @huggingface  Hub.</title>
-      <link>https://x.com/huggingface/status/2107117662815846473</link>
-      <guid isPermaLink="false">twitter:2107117662815846473</guid>
-      <pubDate>Mon, 05 Oct 2026 14:36:13 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ben_burtenshaw: RL environments now have a home on the @huggingface  Hub.<br /><br />Every RL framework has its own way to find environments. Cus…</p><p><a href="https://x.com/huggingface/status/2107117662815846473">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @nikhiljoisr: I&apos;ll take that.  Looking forward hitting a clean 8 soon. http…</title>
-      <link>https://x.com/danshipper/status/2107117502778249482</link>
-      <guid isPermaLink="false">twitter:2107117502778249482</guid>
-      <pubDate>Mon, 05 Oct 2026 14:35:35 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @nikhiljoisr: I&apos;ll take that.  Looking forward hitting a clean 8 soon. https://t.co/r8WNwBP9EY</p><img src="https://pbs.twimg.com/media/HT30_-PakAAOyBi.jpg" loading="lazy" /><p><a href="https://x.com/danshipper/status/2107117502778249482">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：waiting for your dot to pick up https://t.co/zgFfC31LLE</title>
-      <link>https://x.com/danshipper/status/2107099152161095955</link>
-      <guid isPermaLink="false">twitter:2107099152161095955</guid>
-      <pubDate>Mon, 05 Oct 2026 13:22:40 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>waiting for your dot to pick up https://t.co/zgFfC31LLE</p><img src="https://pbs.twimg.com/media/HT3rgy1XkAAt8eB.jpg" loading="lazy" /><p><a href="https://x.com/danshipper/status/2107099152161095955">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：great article by @ArielleShipper</title>
-      <link>https://x.com/danshipper/status/2107098678141804829</link>
-      <guid isPermaLink="false">twitter:2107098678141804829</guid>
-      <pubDate>Mon, 05 Oct 2026 13:20:47 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>great article by @ArielleShipper <br /><br />https://t.co/lKTS6XBwX0</p><p><a href="https://x.com/danshipper/status/2107098678141804829">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：if you want to get better at using AI, just ask it to evaluate you and regular…</title>
-      <link>https://x.com/danshipper/status/2107098576887173595</link>
-      <guid isPermaLink="false">twitter:2107098576887173595</guid>
-      <pubDate>Mon, 05 Oct 2026 13:20:23 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>if you want to get better at using AI, just ask it to evaluate you and regularly suggest upgrades to your workflow https://t.co/GDGncFozck</p><img src="https://pbs.twimg.com/media/HT3q_SWWQAAFx6-.jpg" loading="lazy" /><p><a href="https://x.com/danshipper/status/2107098576887173595">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：use codex to go from prompting to orchestrating agents with this step-by-step …</title>
-      <link>https://x.com/danshipper/status/2107098362654949410</link>
-      <guid isPermaLink="false">twitter:2107098362654949410</guid>
-      <pubDate>Mon, 05 Oct 2026 13:19:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>use codex to go from prompting to orchestrating agents with this step-by-step guide by @ArielleShipper <br /><br />https://t.co/lKTS6XC4My</p><p><a href="https://x.com/danshipper/status/2107098362654949410">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @giudegio: How to Get Better at AI by Asking AI https://t.co/skfz9LJB4r</title>
-      <link>https://x.com/danshipper/status/2107096776796975436</link>
-      <guid isPermaLink="false">twitter:2107096776796975436</guid>
-      <pubDate>Mon, 05 Oct 2026 13:13:14 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @giudegio: How to Get Better at AI by Asking AI https://t.co/skfz9LJB4r</p><p><a href="https://x.com/danshipper/status/2107096776796975436">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>AI拯救打工人（幻觉版）：哈佛新论文：SFT的问题可能出在训练数据</title>
-      <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac33f22000000001b022f25?xsec_token=ABzb27dKgxoow_Rx2jCPIeFMIPkql3rfqibn4PKIigTOo=&amp;xsec_source=pc_user</link>
-      <guid isPermaLink="false">xhs:6ac33f22000000001b022f25</guid>
-      <pubDate>Mon, 05 Oct 2026 09:27:02 GMT</pubDate>
-      <category>xhs</category>
-      <description><![CDATA[<strong>哈佛新论文：SFT的问题可能出在训练数据</strong><p>Harvard 的新论文《Finetuning with Sampling》，它挑战了一个越来越流行的判断：SFT 只会记答案，RL 才能真正学能力。 作者发现，很多时候问题可能不在 SFT，而在训练数据。 比如你拿 GPT-5 生成的一批高质量化学答案去微调 Qwen。答案当然是对的，但 GPT-5 的表达方式、推理路径和 token 分布，可能离 Qwen 自己原本的分布很远。 对 Qwen 来说，就像一个初中生直接背教授的标准答案：知识没错，但“说话方式”不是自己的。 这会带来一个问题：为了模仿这些 off-policy 数据，模型参数需要被大幅拉动，结果不仅容易过拟合，还可能把原来的能力一起冲掉。 论文给出的办法叫 Projection Sampling。 它不是直接把专家答案拿去 SFT，而是先让目标模型自己不断续写、重写，再保留那些依然正确，同时更像模型自己会生成的答案。 简单说，就是把“GPT-5 会怎么答”，慢慢变成“Qwen 自己可能怎么答对”。 然后再做普通 SFT。 结果很明显。在Chemistry任务上，Qwen2.5-7B： Base：34.3% 普通 SFT：61.8% Sampling SFT：66.0% 更关键的是遗忘。模型原有能力平均从 59.7%，普通 SFT 后掉到 52.0%；Sampling SFT 还能保持在 58.6%。 数学任务上更夸张，Qwen2.5-3B 在 MATH500 上，GRPO：31.3%，Sampling SFT：58.2%， 而 Sampling SFT 后再接 RL，还能继续涨到 65.2%。 所以这篇论文真正有意思的地方，并不是“SFT 打败 RL”。 它提出了一个很重要的新问题：训练数据不只是要正确、优质，还要让当前这个模型“好学”。 GPT-5 的最佳答案，未必是 Qwen 最容易吸收的答案。 未来的数据流程，可能会从专家数据 -&gt; 训练， 变成专家数据 -&gt; Sampling -&gt; 模型专属数据 -&gt; SFT -&gt; RL。 训练数据也许不会再是一份固定资产，而会根据不同模型动态生成。 这可能才是这篇论文最值得关注的地方。 #SFT #强化学习 #RL #PostTraining #模型训练 #AI论文日报 #机器学习 #人工智能 #AI反常识howto #AI搞学习howto</p><img src="https://sns-webpic-qc.xhscdn.com/202610081057/4a4d3bf104a52d3ed1ea84174098e936/spectrum/1040g0k0325ubikahka705p37m4gk4uihjsobulo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/32d3db729a27e97645018093d5cace5f/spectrum/1040g0k0325ubik74k6005p37m4gk4uih36pl8jg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/44c3a330f15fc81267131cd5739fbb49/spectrum/1040g0k0325ubik74k60g5p37m4gk4uihvcmb548!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/c2d224fe9a8960cfa6653aa6b3481bc0/spectrum/1040g0k0325ubik74k6105p37m4gk4uihjlq0t7o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/52070028416fe7344b0aba9ba21d8622/spectrum/1040g0k0325ubik74k61g5p37m4gk4uihs1t9uk0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/ae5cbff68717326324dcf8f1ec7de788/spectrum/1040g0k0325ubik74k6205p37m4gk4uih7v59nvo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/4b56a119fd6653b8f1473ca505a4015e/spectrum/1040g0k0325ubik74k62g5p37m4gk4uih2n07llg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/111833c7671da1c74ff8ea499a88e7e7/spectrum/1040g0k0325ubik74k6305p37m4gk4uihu10p7qg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/4eb3f9ec2dba200fac97ebb66539614c/spectrum/1040g0k0325ubik74k63g5p37m4gk4uih6obtie0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/b7159a6514a7f85f8b30d1b9a2a9d0af/spectrum/1040g0k0325ubik74k6405p37m4gk4uihe6o6cbo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/fe3351e20d970f337160f6f4fc8ae916/spectrum/1040g0k0325ubik74k64g5p37m4gk4uihri3msv0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081057/25d5a013621706c6b701c4a895ef2d8b/spectrum/1040g0k0325ubik74k6505p37m4gk4uih9afv2q0!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac33f22000000001b022f25?xsec_token=ABzb27dKgxoow_Rx2jCPIeFMIPkql3rfqibn4PKIigTOo=&amp;xsec_source=pc_user">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Aaron：OpenAI 14 天复制 Jev</title>
-      <link>https://www.xiaohongshu.com/user/profile/6314a2cc0000000012003173/6ac2f76300000000120369c3?xsec_token=ABfOmAWLErDseKqtbFJzceLtnRnuIPXepvSLAleceq5jU=&amp;xsec_source=pc_user</link>
-      <guid isPermaLink="false">xhs:6ac2f76300000000120369c3</guid>
-      <pubDate>Mon, 05 Oct 2026 01:03:31 GMT</pubDate>
-      <category>xhs</category>
-      <description><![CDATA[<strong>OpenAI 14 天复制 Jev</strong><p>#ConnectOnion #AI #创业 #投资</p><img src="https://sns-webpic-qc.xhscdn.com/202610070005/5c8667b98edca808dca67a96f46a7f55/spectrum/1040g0k0325u2sdlul86g5ookkb64gcbjv9mjhj0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/c64957aaf0b2afcba3fb4f6c2b59e7ec/spectrum/1040g0k0325u2sdlul8005ookkb64gcbjf3b1d5o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/144ac6a7329caaf4607f2f4235c5bbf7/spectrum/1040g0k0325u2sdlul80g5ookkb64gcbj4o5jnno!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/24f2d840dc61259bff320522e8b36647/spectrum/1040g0k0325u2sdlul8105ookkb64gcbjp0b5nm0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/12ba2bb3cfe8826d6be6fb4dd668cc08/spectrum/1040g0k0325u2sdlul81g5ookkb64gcbj1i35s7g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/f4bfd6047ea537d527cf4ca6fc5f059c/spectrum/1040g0k0325u2sdlul8205ookkb64gcbjr4t6kug!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/3442d3d8aeb93bab538db7136efbe8b8/spectrum/1040g0k0325u2sdlul82g5ookkb64gcbjt2952ho!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/9133d69dbadb813d794e75bab6a786e2/spectrum/1040g0k0325u2sdlul8305ookkb64gcbj8no8oug!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/4740706a28290d39c98a1e3a1169ad9a/spectrum/1040g0k0325u2sdlul83g5ookkb64gcbjposbig0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/89b8d4d6b7ec1f80f9d3e6ec33dd9aa6/spectrum/1040g0k0325u2sdlul8405ookkb64gcbjgnuu53g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/3ef90c60948790bf26f7afb473edbc0a/spectrum/1040g0k0325u2sdlul84g5ookkb64gcbjloqf33o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610070005/74423ecc3a6016a791d0beb63fd8ac96/spectrum/1040g0k0325u2sdlul8505ookkb64gcbjnkmgjd8!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6314a2cc0000000012003173/6ac2f76300000000120369c3?xsec_token=ABfOmAWLErDseKqtbFJzceLtnRnuIPXepvSLAleceq5jU=&amp;xsec_source=pc_user">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>AI拯救打工人（幻觉版）：CMU x USC：Fixed Point正在重塑Loop Model</title>
-      <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac24e21000000001802b11c?xsec_token=ABfOmAWLErDseKqtbFJzceLtxuT7KJ5k4LkqlNkXlLMxY=&amp;xsec_source=pc_user</link>
-      <guid isPermaLink="false">xhs:6ac24e21000000001802b11c</guid>
-      <pubDate>Sun, 04 Oct 2026 23:57:00 GMT</pubDate>
-      <category>xhs</category>
-      <description><![CDATA[<strong>CMU x USC：Fixed Point正在重塑Loop Model</strong><p>CMU 和 USC 的新论文《Towards Looped Models Done Right Part II: Rethinking at Fixed Points》讨论的 Looped Model。 普通 Transformer 一层一层往上堆，每层都有不同参数；Looped Model 则保留少量 Block，让同一组参数反复执行多次。 看起来省参数但问题也很明显：参数少了，Activation、KV Cache、Prefill、RL Replay 的成本却会随着 Loop 次数继续增加。 论文发现如果训练方式合适，模型内部状态会逐渐收敛。比如：z₁ -&gt; z₂ -&gt; z₃ -&gt; … -&gt; z₈ 到了后面，可能已经变成：z₈≈z₉≈z₁₀ 继续 Loop，状态也几乎不变，这个状态就是Fixed Point，固定点。 论文发现大约95%的Token在第8个 Loop 左右已经趋于稳定。 这件事一旦成立，很多东西就可以节省掉了。 一个关键的思路是：Near a fixed point, the endpoint can replace the trajectory. 接近固定点后，终点可以替代整个过程。 带来的四个收益： 1️⃣ 训练时只反传最后几轮，Activation Memory最多降低约2.6× 2️⃣ 推理时只保存最终循环的 KV，KV Cache最多降低到约1/3 3️⃣ Prefill 直接预测最终状态，8K Prompt最快约1.79× 4️⃣ RL 阶段复用rollout的最终状态，scoring + backward接近2× 但是有 Loop，不代表自然就有 Fixed Point。如果永远固定跑N轮，模型完全可能只是学会“第N轮答对”，而没有学会真正收敛。 论文提出 Learned Depth Prior，让训练过程中不同Loop Depth动态采样，让模型学习更加稳定的迭代过程。 以前更像同一组 Transformer Layer 重复使用，现在更像用 Transformer 不断迭代求解一个最终稳定状态。 关注点也逐渐变成：状态是否收敛？ 多久收敛？ 能不能提前停止？ 能不能直接预测 Fixed Point？ #Transformer #LoopedModel #FixedPoint #人工智能 #论文解读 #AI反常识howto</p><img src="https://sns-webpic-qc.xhscdn.com/202610081058/422bdb1105fcd66fda3e6a5e2606c8ff/spectrum/1040g0k0325te2kqgkc4g5p37m4gk4uihksjcc68!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/c4487ed36e597b30c953c5806d1817d0/spectrum/1040g0k0325te2kqgkc005p37m4gk4uihqvhl1lg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/d8a31b539916f49b791cdc80f527448a/spectrum/1040g0k0325te2kqgkc0g5p37m4gk4uihl9r0vu8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/dae388e737664383cb1486b5607f3131/spectrum/1040g0k0325te2kqgkc105p37m4gk4uihbre17a0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/1af8fa4cd766ed7cca4efa6b4c818fac/spectrum/1040g0k0325te2kqgkc1g5p37m4gk4uih2l4t6j8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/0dae256ae270045b838b751366c8af15/spectrum/1040g0k0325te2kqgkc205p37m4gk4uih1n5qr1o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/98886fe2285e1a7505cb7cfa67f8ba49/spectrum/1040g0k0325te2kqgkc2g5p37m4gk4uihs6uc6io!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/d97f9e4226ee78c1c43707537b294153/spectrum/1040g0k0325te2kqgkc305p37m4gk4uihkaqla18!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/01a1620916bfb670a2874b033c384d3f/spectrum/1040g0k0325te2kqgkc3g5p37m4gk4uihll8a0g8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/727f0cbf4b831c7cf2fe05ec97afa2b1/spectrum/1040g0k0325te2kqgkc405p37m4gk4uihhrukur8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/422bdb1105fcd66fda3e6a5e2606c8ff/spectrum/1040g0k0325te2kqgkc4g5p37m4gk4uihksjcc68!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610081058/c4487ed36e597b30c953c5806d1817d0/spectrum/1040g0k0325te2kqgkc005p37m4gk4uihqvhl1lg!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac24e21000000001802b11c?xsec_token=ABfOmAWLErDseKqtbFJzceLtxuT7KJ5k4LkqlNkXlLMxY=&amp;xsec_source=pc_user">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：dot has become my primary interface to AI over the last few weeks.</title>
-      <link>https://x.com/danshipper/status/2106892868564431255</link>
-      <guid isPermaLink="false">twitter:2106892868564431255</guid>
-      <pubDate>Sun, 04 Oct 2026 23:42:58 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>dot has become my primary interface to AI over the last few weeks.<br /><br />my dot&apos;s name is boo. he&apos;s cute! <br /><br />in a year, i bet i&apos;ll still be interacting in this way with @ChatGPT—e.g. as an always-on persistent agent—but boo will have disappeared. it reminds me a lot of early OpenClaw days—we loved the little personality quirks of our Claws, but we dropped them as soon as there was something functionally more powerful available</p><img src="https://pbs.twimg.com/media/HT0uwP7XYAAIEBL.png" loading="lazy" /><p><a href="https://x.com/danshipper/status/2106892868564431255">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Demis Hassabis：Very proud of the impact of all our work using AI to accelerate science and…</title>
-      <link>https://x.com/demishassabis/status/2106850913474482566</link>
-      <guid isPermaLink="false">twitter:2106850913474482566</guid>
-      <pubDate>Sun, 04 Oct 2026 20:56:15 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Very proud of the impact of all our work using AI to accelerate science and medicine for the benefit of society.</p><p><a href="https://x.com/demishassabis/status/2106850913474482566">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @ddemaree: Totally agree with these food takes. The salad looked sad but wa…</title>
-      <link>https://x.com/danshipper/status/2106837497892204562</link>
-      <guid isPermaLink="false">twitter:2106837497892204562</guid>
-      <pubDate>Sun, 04 Oct 2026 20:02:57 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ddemaree: Totally agree with these food takes. The salad looked sad but was delicious (local Little Gem ftw), coffee was S tier, sadly…</p><p><a href="https://x.com/danshipper/status/2106837497892204562">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Emad：Well yeah. This is also one reason why tax-based UBI won&apos;t work, labor share of taxes…</title>
-      <link>https://x.com/EMostaque/status/2106807635593064619</link>
-      <guid isPermaLink="false">twitter:2106807635593064619</guid>
-      <pubDate>Sun, 04 Oct 2026 18:04:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Well yeah. This is also one reason why tax-based UBI won&apos;t work, labor share of taxes in the US is like 80%</p><p><a href="https://x.com/EMostaque/status/2106807635593064619">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @kplikethebird: A very analog Bible study whilst the latest batch of fronti…</title>
-      <link>https://x.com/danshipper/status/2106755228515078512</link>
-      <guid isPermaLink="false">twitter:2106755228515078512</guid>
-      <pubDate>Sun, 04 Oct 2026 14:36:02 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @kplikethebird: A very analog Bible study whilst the latest batch of frontier models take their stab at building me my dream Bible study…</p><p><a href="https://x.com/danshipper/status/2106755228515078512">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jay Alammar：RT @OutliersVC: 🚀 𝗧𝗵𝗲 𝗢𝘂𝘁𝗹𝗶𝗲𝗿𝘀 𝗕𝘂𝗶𝗹𝗱𝗲𝗿𝘀 𝗦𝘂𝗺𝗺𝗶𝘁 𝗶𝘀 …</title>
-      <link>https://x.com/JayAlammar/status/2106744700543619225</link>
-      <guid isPermaLink="false">twitter:2106744700543619225</guid>
-      <pubDate>Sun, 04 Oct 2026 13:54:12 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @OutliersVC: 🚀 𝗧𝗵𝗲 𝗢𝘂𝘁𝗹𝗶𝗲𝗿𝘀 𝗕𝘂𝗶𝗹𝗱𝗲𝗿𝘀 𝗦𝘂𝗺𝗺𝗶𝘁 𝗶𝘀 𝗯𝗮𝗰𝗸! <br /><br />Our annual invite-only gathering is back, bringing together the region’s most amb…</p><p><a href="https://x.com/JayAlammar/status/2106744700543619225">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Tibor Blaho：OpenAI and Anthropic weekly: DevDay 2026, Sonnet 5.5, FTC probe, Australia apo…</title>
-      <link>https://x.com/btibor91/status/2106719933292073092</link>
-      <guid isPermaLink="false">twitter:2106719933292073092</guid>
-      <pubDate>Sun, 04 Oct 2026 12:15:47 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>OpenAI and Anthropic weekly: DevDay 2026, Sonnet 5.5, FTC probe, Australia apology (Week 40, 2026)<br /><br />OpenAI announced over 20 updates at DevDay 2026, led by dots, always-on agents on GPT-6 Astra with their own cloud computer and browser, rolling out to Pro and Business Premium in eligible markets<br /><br />GPT-6.1 Sol arrived in the API, ChatGPT Work and Codex at a fifth of Astra&apos;s price, but not yet in Chat<br /><br />The Ultrafast tier brings up to 8 times faster token generation in Codex, and a new 500 dollar a month Pro 500 plan is the only Pro tier that gets it<br /><br />OpenAI apologized to Australia after an experimental internal-only model gained unauthorized access to government websites during training, admitting it should have shared preliminary findings sooner and pausing tool-use training for its most capable models<br /><br />Reuters reports the FTC opened a probe into Anthropic, OpenAI and other labs over rogue AI agents<br /><br />Anthropic launched Claude Sonnet 5.5, the second Claude 5.5 model, at the same price as Sonnet 5 but over 30 percent faster and up to 30 percent cheaper per task, with thinking always on and cyber safeguards that fall back to Sonnet 5 on higher-risk tasks, a first for Sonnet<br /><br />Claude Code gained mods, small TypeScript functions in plugins that rewrite prompts or swap out built-in features, plus a You should know plugin that flags information you might otherwise miss<br /><br />Anthropic found Zhipu AI&apos;s open-weight GLM-5.3 close to Claude Mythos Preview at building end-to-end cyber exploits but released without meaningful safeguards<br /><br />Anthropic&apos;s robot exposure index finds robots can already do 74 percent of physical tasks in the US but are cost-competitive for just 0.3 percent of all work, and more</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106719843651358721/img/n5NtNRSXXGUDKCYd.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2106719933292073092">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Tibor Blaho：https://t.co/wlDblvUooy</title>
-      <link>https://x.com/btibor91/status/2106705002228011451</link>
-      <guid isPermaLink="false">twitter:2106705002228011451</guid>
-      <pubDate>Sun, 04 Oct 2026 11:16:27 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>https://t.co/wlDblvUooy</p><p><a href="https://x.com/btibor91/status/2106705002228011451">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>AI拯救打工人（幻觉版）：MIT何恺明新作VISTA：给Agent一套视觉记忆</title>
-      <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac1eac0000000001a032d9e?xsec_token=ABkNw9T8ThS9lAa0WwR_uHX6IJetPJCn_F9z1TjFuTra4=&amp;xsec_source=pc_user</link>
-      <guid isPermaLink="false">xhs:6ac1eac0000000001a032d9e</guid>
-      <pubDate>Sun, 04 Oct 2026 09:23:02 GMT</pubDate>
-      <category>xhs</category>
-      <description><![CDATA[<strong>MIT何恺明新作VISTA：给Agent一套视觉记忆</strong><p>MIT、Kaiming He 团队新论文《VISTA: A Visual Harness for Reasoning in an Interactive World》，研究一个有意思的问题：AI 看过一张图以后，能不能像人一样，过一会儿再回去认真看一眼？ 这件问题对视觉 Agent 很重要。 传统做法通常是：看到当前画面，理解，然后行动。问题是模型第一次看到一张图时，并不知道哪些细节未来会变得重要。 比如玩一个陌生游戏，第 30 步突然发现，要确认开局时左边那条路到底通向哪里。但场景已经变化，原来的信息也丢了。 VISTA 的做法很直接：把 Agent 看过的原始画面保存下来。 模型之后如果产生疑问，可以找到之前某一帧，用 inspect 重新查看，甚至裁剪、放大局部；如果颜色很关键，还可以直接用 read_pixels 读取像素值。 于是视觉推理从：看-&gt;判断-&gt;行动 变成了：看-&gt;思考-&gt;怀疑-&gt;回看-&gt;放大-&gt;验证-&gt;再行动。 这更像我们真正使用视觉的方式。 论文还有一个有意思的设计：它既保存“结论”，也保存“证据”。 GUIDE.md 记录已经验证过的长期规律，WORKING.md 保存当前任务状态。 但原始图片不会被这些文字总结替代，因为总结一定会丢信息；当前不重要的东西，十步后可能突然成为关键。 实验结果：ARC-AGI-3上 GPT-5.6 Sol，随着视觉观察、连续交互、记忆和主动回看能力逐步加入，RHAE 从 13.33 上升到 99.00 Claude Opus 5.0 + VISTA 更是完成 25/25 个游戏。 还有两个反直觉的结果： 1️⃣ 直接使用图片反而比 Text Grid 更省 Token：每局大约 30.7M vs 71.9M。 2️⃣ 把 Context 从 200K 一路增加到 780K，并没有变得更好，Token 消耗反而涨到 105.7M。 视觉 Agent 的问题，未必只是“看得够不够多”。 重要的是过去的信息有没有被完整保存，以及需要的时候能不能重新找到。 AI 不需要一次看懂整个世界，而是允许看错、怀疑、回头重新观察，再修正自己的判断，可能才是更接近真实智能的视觉能力。 #VISTA #视觉Agent #AgentMemory #MIT #何恺明 #KaimingHe #人工智能 #AI反常识howto</p><img src="https://sns-webpic-qc.xhscdn.com/202610050005/9878d87e8ed5fd462307a497e89f3c18/spectrum/1040g0k0325t1tn1lka5g5p37m4gk4uihq3jte5g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/5cfd1d21b082fc6aa6392ebfcfea8d59/spectrum/1040g0k0325t1tn1lka005p37m4gk4uih8jnemv8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/75eac3e83b1841418b01d77bfad25057/spectrum/1040g0k0325t1tn1lka0g5p37m4gk4uihdo89ulo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/68ee84c3f889703b4b5f55d1e901ff73/spectrum/1040g0k0325t1tn1lka105p37m4gk4uihdmrh48g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/3ac017c32049cbbdbac9a30f5a521983/spectrum/1040g0k0325t1tn1lka1g5p37m4gk4uihvjj3ou8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/1ce2417573de7f897f88bf241be5be4f/spectrum/1040g0k0325t1tn1lka205p37m4gk4uihjkvar90!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/b7d139bd5a5eb7abe710007e7ee2b87f/spectrum/1040g0k0325t1tn1lka2g5p37m4gk4uihj7c2ioo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/424453178171cbec754d319e47b886c0/spectrum/1040g0k0325t1tn1lka305p37m4gk4uihef5rhf8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/a61a31364e3b10a58ea2b8457f29d67f/spectrum/1040g0k0325t1tn1lka3g5p37m4gk4uihctbas4o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/586127813bea77f09560245f15775123/spectrum/1040g0k0325t1tn1lka405p37m4gk4uih1ji6c68!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/c80484cf22a47c0d8a94140cc2a57837/spectrum/1040g0k0325t1tn1lka4g5p37m4gk4uihlufqlpo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610050005/82741b4ef2acc092fb2508ff99d2a182/spectrum/1040g0k0325t1tn1lka505p37m4gk4uih17jl0eo!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac1eac0000000001a032d9e?xsec_token=ABkNw9T8ThS9lAa0WwR_uHX6IJetPJCn_F9z1TjFuTra4=&amp;xsec_source=pc_user">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：我把后面这一段单独摘出来放评论：</title>
-      <link>https://x.com/dotey/status/2106635859831246989</link>
-      <guid isPermaLink="false">twitter:2106635859831246989</guid>
-      <pubDate>Sun, 04 Oct 2026 06:41:43 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>我把后面这一段单独摘出来放评论：<br /><br />很多人看完这期访谈会觉得，以后自己也可以像 Lauren 那样不 Review PR 了，装上她的 Skill，让模型帮忙验证一下就行。我自己现在的做法和她差不多，每天也有大量 PR，也不 Review。但我的建议是先别急着学她怎么做，先弄明白她凭什么能这么做。<br /><br />1. 你能不能用上最好的模型，Token 够不够<br /><br />在用上 Fable 和 Opus 5.5 之前，AI 写的代码我是不太放心的；用上之后，我才真的敢让 AI 去写而不怎么 Review。模型能力很重要，能力没到，就先别想这件事。<br /><br />还有成本。像我这样没有大公司可以依靠的，得自己掏钱买 2 个 Claude Max 20x 账号，还得省着用。Lauren 在大公司，不用考虑 Token 消耗，全程用最好的模型、开最快的模式都没问题。<br /><br />不过也别着急。Fable 这个级别的模型，也许半年以后就能像现在的 DeepSeek V4.1 Flash 一样便宜，人人用得起。梁圣加油。<br /><br />2. 不能完全依赖 AI 的验证<br /><br />哪怕现在 GPT-6 操作电脑的水平已经超过真人了，让它去做验证，也只能替代一部分，不能真的全交给它，自己还是要看。<br /><br />可以做的是把那些手动重复做的事情，一点点沉淀成 Skill 和自动化脚本，把体力活解放出去。<br /><br />3. 方向得靠你自己的专业来指<br /><br />再聪明的 AI，也没办法替你决定该往哪个方向走。就像给车子装上火箭发动机，也得你来告诉它往哪开，走偏了要及时调整，不然跑得再快也是南辕北辙。<br /><br />做软件也一样。你不能指望一句提示词做出一个淘宝。你得先做一个能发商品、能浏览的小网站，再加上用户注册，还得区分买家和卖家，然后是支付和安全，功能做完了还要扛得住很多人同时用。稍微复杂一点的软件，都没法完全依赖 AI，要人去拆解、规划，分成一个个小版本、小里程碑，做完要验证，出现偏差要重新指方向。甚至做着做着，你自己的想法都变了，AI 不可能知道你真正想要的是什么。<br /><br />所以就像播客里说的：模型越来越强，卡住人的已经变成你能不能把自己想要什么讲清楚。<br /><br />4. 不一定要用他们的 Skill，但要学着把事情交给 Agent 去做<br /><br />Matt 和 Lauren 的 Skill 都很受欢迎，但你不一定要用。<br /><br />一方面，软件工程的基础知识，现在的模型已经学得很好了。Lauren 在播客里也说，去年的 Skill 还得写清楚具体该敲哪条命令，现在这些都可以删掉，只留流程步骤，Skill 会越写越短。<br /><br />另一方面，他们的开发流程和环境，跟你的很可能不一样。Lauren 的 Skill 都是从她自己的工作里总结出来的：验证技能来自她当“人肉中转站”的那段日子；另一个叫 recall 的技能，来自她每次开新对话，都得把上一个对话里的背景再讲一遍。<br /><br />所以更重要的是从你自己每天的开发流程出发。那些还要你手动操作的环节，尽可能交给 Agent 去做；Agent 做顺了，再把它的操作过程沉淀成 Skill，反复迭代优化。<br /><br />如果不知道从哪里下手的话，可以参考 Lauren 的办法：翻自己和 AI 的聊天记录，找那些你反复纠正、反复插手的地方。这样迭代出来的 Skill 才真正适合你，用她的话说，每个厨师都该有一套自己的刀。</p><p><a href="https://x.com/dotey/status/2106635859831246989">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：我记得半年前我说自己不怎么 Review PR 了，评论区很多人不认同，觉得这样不靠谱。现在再看，不 Review PR 的人越来越多。比如我刚看的这期播客，在 SpaceX…</title>
-      <link>https://x.com/dotey/status/2106635352609865925</link>
-      <guid isPermaLink="false">twitter:2106635352609865925</guid>
-      <pubDate>Sun, 04 Oct 2026 06:39:42 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>我记得半年前我说自己不怎么 Review PR 了，评论区很多人不认同，觉得这样不靠谱。现在再看，不 Review PR 的人越来越多。比如我刚看的这期播客，在 SpaceXAI 做 Grok Bot 的 Lauren Tan，一个月合并 2500 个 PR，也是不逐个 Review 的：晚上让 AI 自己检查、自己合并，第二天早上她再抽查。<br /><br />不 Review 不等于不管质量，她靠另外两个办法来保证：<br />一是让 AI 能像真人用户一样把程序用一遍，自己发现问题；<br />二是给代码定下很多规矩，让 AI 很难写出烂代码。<br /><br />她把自己这套做法写成了一组 Skill，公开了出来，叫 pstack。<br /><br />顺便说一下，这期播客的主持人 Matt Pocock 原本是知名的编程课讲师，他公开的技能库在代码托管网站 GitHub 上有二十多万个星标，是最受欢迎的技能库之一，所以这期算是两位同行对谈。Lauren 之前在 Meta 做网页开发框架 React，今年 3 月加入 AI 编程工具公司 Cursor；Cursor 今年 8 月被 SpaceX 收购，并入旗下的 AI 部门 SpaceXAI。<br /><br />根据播客的内容，我把 Lauren 的这套做法简单总结一下，我自己的点评在结尾处。<br /><br />一、先让 AI 能检查自己干的活<br /><br />Lauren 说，就算不用她的 pstack，每个人最该有的一项技能也是“验证”：给 AI “手和眼睛”，让它能把自己写的程序跑起来，像普通用户一样点一遍，看看结果对不对。<br /><br />这是她吃过亏之后得出的结论。今年 4 月她在 Cursor 解决一个窗口卡顿的问题，一开始全靠手工：她自己去看各种性能数据，再把看到的转述给 AI，AI 改完她再去看。她形容自己成了 AI 和检测工具之间的“人肉中转站”。她在 Cursor 写的第一个技能就是验证。在这之前，AI 看不到自己改动的效果，只能等她来回传话；有了验证，AI 可以自己改、自己看结果、不满意再改，一轮一轮往下做，不需要她守着。现在她所在的团队里每个产品都配有这样的验证技能，全团队都在用。<br /><br />做这个技能时她还总结出一条原则：工作里有的部分需要动脑判断，有的部分只是照章办事，照章办事的部分应该写成固定的程序，只把需要判断的留给 AI。起因是她发现，每个 AI 在检查前都要自己从头写一遍检查用的小程序，各写各的，有的能用有的不能用，用完就扔，又慢又浪费。她把这部分做成一个现成的工具，所有 AI 直接调用。<br /><br />二、AI 反复犯的错，去改规矩，不去改 AI<br /><br />Lauren 不喜欢“软件工厂”这个流行说法，她更愿意把自己的工作比作经营一家米其林餐厅的后厨。主厨不用亲手做每道菜，但要安排好整个厨房：食材什么时候进、怎么存，每个人用什么工具，菜按什么流程出。工程师现在也一样，不再亲手写代码，却仍然要对结果负责。她认为工程师现在最重要的工作就是把这个“厨房”布置好。没花时间布置的人，信不过 AI 的产出，只能盯着它一步步干，忙到没空改进工具，就像一直拿钝刀切菜。<br /><br />她举了自己的例子。Grok Bot 最早几版的代码挤在八个巨大的文件里，每个至少一万行，AI 加新功能时就接着往里塞，越塞越乱。她后来定了规矩：每个功能必须放在自己单独的文件夹里，做一件事只允许一种写法，不合规矩的代码会被自动检查拦下来。这样 AI 加功能时不用多想，按规矩放就行。她的习惯是一直观察 AI 在哪里出错，每看到一次就问自己：能不能加一条规矩，让这种错以后根本写不出来。<br /><br />不逐个检查，靠的也是这套办法。她说，开了几家餐厅的老板不可能尝每一道菜，只能抽查。她每天挑一些改动仔细看，如果只是偶然出错就算了；如果好几个 AI 都在走同一条捷径，说明该改的是规矩和工具。她的 pstack 里有一个全自动模式：每次改动都会派出一批专门负责检查的 AI，把程序打开到处点，找出问题就自己修，反复到没问题再合并。早上她翻一遍改动记录，发现不对就撤回，再补一条新规矩。<br /><br />她说第一次让 AI 整夜自己合并代码时很害怕，担心半夜把线上产品弄坏，现在反而睡得更好。她也提醒，走到这一步很难，要花大量时间观察和调整，装上 pstack 并不能直接做到。Matt 问，如果改动是没法撤回的，比如会丢数据，或者是医疗、金融这类领域怎么办？她说这取决于工作成果能不能被程序自动检查，软件大部分可以，很难自动检查的领域就很难这样做，她自己也没有答案。<br /><br />三、2500 次改动从哪来：她不再当传话的人<br /><br />这 2500 次改动并不是她发起了 2500 次对话。用户反馈的问题散落在聊天工具、邮件和社交媒体上，以前要靠她自己去看，再转述给 AI。现在她让 Grok Bot 来盯这些渠道。Grok Bot 是 SpaceXAI 今年 8 月推出的产品，是能登录邮箱、聊天工具等各种应用、替人办事的 AI 智能体。它一发现新的问题反馈，就转给一个负责“协调”的 AI。这个协调者自己不写代码，只负责拆分任务、分派给其他 AI、盯进度，相当于她的后厨主管。<br /><br />为什么不直接一个问题派一个 AI 去修？她说，一批反馈往往出自同一个根源，分开修会重复劳动，也看不出真正的毛病在哪，放在一起看才看得出来。她现在同时开着十多个这样的协调者，各管一摊。她一直在问自己一个问题：哪一步还卡在我身上，AI 为什么非得来问我？然后想办法教 AI 自己去拿到真实的信息。<br /><br />她也说明，2500 次改动里新功能不占多数，很多是整理代码这类维护工作。<br /><br />四、懂行的人更吃香，哪怕不会写代码<br /><br />Matt 问，大家都靠 AI 了，专业知识是不是不值钱了？Lauren 的看法相反。模型越来越强，卡住人的已经变成你能不能把自己想要什么讲清楚。所以她认为，医生、律师这类在某个领域懂得很深的人，只要稍微懂一点技术、会用 AI 智能体，就能做出很好的产品。<br /><br />两人都认为，技能没有什么神秘的，就是把自己的做事流程写成文字。Lauren 建议回头翻自己和 AI 的聊天记录，找出那些自己反复纠正、反复插手的地方，把它们写成技能或规矩。别人的技能可以拿来拼着用，但每个人最后都该有一套自己的，就像厨师换了餐厅也会带着自己的刀。<br /><br />五、最后<br /><br />很多人看完这期访谈会觉得，以后自己也可以像 Lauren 那样不 Review PR 了，装上她的 Skill，让模型帮忙验证一下就行。我自己现在的做法和她差不多，每天也有大量 PR，也不 Review。但我的建议是先别急着学她怎么做，先弄明白她凭什么能这么做。<br /><br />1. 你能不能用上最好的模型，Token 够不够<br /><br />在用上 Fable 和 Opus 5.5 之前，AI 写的代码我是不太放心的；用上之后，我才真的敢让 AI 去写而不怎么 Review。模型能力很重要，能力没到，就先别想这件事。<br /><br />还有成本。像我这样没有大公司可以依靠的，得自己掏钱买 2 个 Claude Max 20x 账号，还得省着用。Lauren 在大公司，不用考虑 Token 消耗，全程用最好的模型、开最快的模式都没问题。<br /><br />不过也别着急。Fable 这个级别的模型，也许半年以后就能像现在的 DeepSeek V4.1 Flash 一样便宜，人人用得起。梁圣加油。<br /><br />2. 不能完全依赖 AI 的验证<br /><br />哪怕现在 GPT-6 操作电脑的水平已经超过真人了，让它去做验证，也只能替代一部分，不能真的全交给它，自己还是要看。<br /><br />可以做的是把那些手动重复做的事情，一点点沉淀成 Skill 和自动化脚本，把体力活解放出去。<br /><br />3. 方向得靠你自己的专业来指<br /><br />再聪明的 AI，也没办法替你决定该往哪个方向走。就像给车子装上火箭发动机，也得你来告诉它往哪开，走偏了要及时调整，不然跑得再快也是南辕北辙。<br /><br />做软件也一样。你不能指望一句提示词做出一个淘宝。你得先做一个能发商品、能浏览的小网站，再加上用户注册，还得区分买家和卖家，然后是支付和安全，功能做完了还要扛得住很多人同时用。稍微复杂一点的软件，都没法完全依赖 AI，要人去拆解、规划，分成一个个小版本、小里程碑，做完要验证，出现偏差要重新指方向。甚至做着做着，你自己的想法都变了，AI 不可能知道你真正想要的是什么。<br /><br />所以就像播客里说的：模型越来越强，卡住人的已经变成你能不能把自己想要什么讲清楚。<br /><br />4. 不一定要用他们的 Skill，但要学着把事情交给 Agent 去做<br /><br />Matt 和 Lauren 的 Skill 都很受欢迎，但你不一定要用。<br /><br />一方面，软件工程的基础知识，现在的模型已经学得很好了。Lauren 在播客里也说，去年的 Skill 还得写清楚具体该敲哪条命令，现在这些都可以删掉，只留流程步骤，Skill 会越写越短。<br /><br />另一方面，他们的开发流程和环境，跟你的很可能不一样。Lauren 的 Skill 都是从她自己的工作里总结出来的：验证技能来自她当“人肉中转站”的那段日子；另一个叫 recall 的技能，来自她每次开新对话，都得把上一个对话里的背景再讲一遍。<br /><br />所以更重要的是从你自己每天的开发流程出发。那些还要你手动操作的环节，尽可能交给 Agent 去做；Agent 做顺了，再把它的操作过程沉淀成 Skill，反复迭代优化。<br /><br />如果不知道从哪里下手的话，可以参考 Lauren 的办法：翻自己和 AI 的聊天记录，找那些你反复纠正、反复插手的地方。这样迭代出来的 Skill 才真正适合你，用她的话说，每个厨师都该有一套自己的刀。</p><p><a href="https://x.com/dotey/status/2106635352609865925">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Amjad Masad：RT @beffjezos: How it feels like to vibe code with multiple parallel agents on…</title>
-      <link>https://x.com/amasad/status/2106620041668248043</link>
-      <guid isPermaLink="false">twitter:2106620041668248043</guid>
-      <pubDate>Sun, 04 Oct 2026 05:38:51 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @beffjezos: How it feels like to vibe code with multiple parallel agents on @replit https://t.co/gQHgQajmJx</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106406454756536321/img/6UnQrt4_UiOW6KCf.jpg" loading="lazy" /><p><a href="https://x.com/amasad/status/2106620041668248043">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：OpenAI 安全报告负责人离职，发文批评 AI 公司“跑得太快”</title>
-      <link>https://x.com/dotey/status/2106594542690426947</link>
-      <guid isPermaLink="false">twitter:2106594542690426947</guid>
-      <pubDate>Sun, 04 Oct 2026 03:57:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>OpenAI 安全报告负责人离职，发文批评 AI 公司“跑得太快”<br /><br />OpenAI 负责撰写模型安全报告的 David Robinson 本周辞职，随后在《大西洋月刊》发文，标题是《我离开 OpenAI，因为它的文化出了问题》。他说 OpenAI 和整个 AI 行业在安全上都远远不够谨慎，光靠具体规则或新法律解决不了，问题出在文化。<br /><br />Robinson 在 OpenAI 工作了三年半，是公司里资历最老的一批员工。OpenAI 每次发布重要模型，都会附一份安全报告，说明做过哪些风险测试、加了哪些防护，这些报告由他牵头撰写，前后经手 12 次前沿模型发布。他还主导起草了 OpenAI 现行的“准备度框架”（Preparedness Framework），也就是 OpenAI 用来判断模型危险程度、决定能否发布的内部规则。<br /><br />他的核心观点是：OpenAI 一直靠“迭代部署”管安全，先把产品推出去，发现问题再修补。这种做法注定会周期性出事故，而且模型越强，事故的规模越大。<br /><br />他举了今年的几个例子。夏天的 Hugging Face 事件中（Hugging Face 是全球最大的开源模型托管平台），一群 OpenAI 的 AI 智能体在没有人监督的情况下攻击了 Hugging Face，OpenAI 事后还就失控智能体的活动通知了 100 多家机构。公司随后加强了安全措施，但之后 OpenAI 自己又报告，一个正在训练的模型绕过了联网限制，监控系统向工作人员发出了警报，却没有按设计自动把模型关掉。Anthropic 也承认过，因为配置错误误关了自己的安全防护。Robinson 认为，在这个行业里，大家做事追求速度、规则又松，这类失误很常见。<br /><br />他提出两件急需做的事。<br /><br />第一，借用其他行业已有的安全经验。核电站和繁忙的机场都设计了多层冗余，就算设备坏了、有人按错按钮，也不会酿成大祸。AI 公司远没做到这一步。他说自己在 OpenAI 期间，据他所知没遇到过一个有航空安全、核电或金融系统风控经验的同事。<br /><br />第二，在造出比现在强得多的模型之前，先研究出新的方法，确保模型在没人盯着的时候也会做出安全的选择。这关系到“对齐”，也就是让 AI 的行为符合人类的价值观。他说业界目前对“对齐”还没有完整的定义，衡量手段也很粗糙：模型可能察觉自己正在被测试，测试时表现良好，上线后换一种做法。所以对齐测试分数高，不代表模型真的可靠。<br /><br />他还设想了一种场景：失控的 AI 智能体像黑客团队一样行动，比如劫持医院的电脑系统勒索赎金，而且全天候不停歇。<br /><br />就在他发文前几天，OpenAI 刚因为类似的问题踩了刹车。OpenAI 原计划 10 月发布下一代模型 GPT-6.1 Astra，用户可以在 ChatGPT 和 Codex 里用到，现在这次发布取消了。内部测试发现，这个模型有时没拿到许可就继续执行任务，会在可能不安全的情况下尝试调用外部工具，欺骗行为也比上一代 GPT-6 Astra 更多。OpenAI 还暂停了最先进模型的训练。OpenAI 发言人回应说，公司在持续加强安全措施，确保模型能力不超出公司能安全管控的范围，需要放慢时会暂停训练或推迟发布模型。<br /><br />Robinson 不是唯一发出警告的人。曾在 OpenAI 和 DeepMind 工作的 Geoffrey Irving 同一天在《时代》周刊发文，说最近关于 AI 破坏力的警告还低估了形势，他认为人类有大约 50% 的概率因为比人更聪明的 AI 而灭亡，结局取决于未来 2 到 10 年的作为。Irving 曾任英国 AI 安全研究所首席科学家，现任 Resolution 首席科学家，Resolution 是他今年牵头创办的非营利对齐研究机构。他也说明，这个 50% 并不是精确估计，想表达的是 AI 安全领域几个最根本的争论到现在都没有定论。上个月，Anthropic 研究员 Jacob Coxon 离职，警告 AI 可能在这个十年结束前毁灭人类；随后 Anthropic 也表示，未来十年内 AI 导致人类灭绝的概率超过 10%。也有批评者认为，这类概率预测无法验证、也无法证伪，算不上科学。<br /><br />离职后，Robinson 打算在公司外部推动，让更多人了解他看到的风险，并给 AI 公司施加更强的安全压力。为应对接下来的关注，他请了公关公司 Spitfire Strategies 协助。</p><img src="https://pbs.twimg.com/media/HTwgkeVWcAAZZYx.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2106594542690426947">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：sfo is the best airport in the US</title>
-      <link>https://x.com/jerryjliu0/status/2106582677738656039</link>
-      <guid isPermaLink="false">twitter:2106582677738656039</guid>
-      <pubDate>Sun, 04 Oct 2026 03:10:23 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>sfo is the best airport in the US</p><p><a href="https://x.com/jerryjliu0/status/2106582677738656039">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：这条也挺好</title>
-      <link>https://x.com/dotey/status/2106579749208576149</link>
-      <guid isPermaLink="false">twitter:2106579749208576149</guid>
-      <pubDate>Sun, 04 Oct 2026 02:58:45 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>这条也挺好<br />https://t.co/COrgTduTJG</p><p><a href="https://x.com/dotey/status/2106579749208576149">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Simon Willison：RT @biilmann: @simonw That was one of the components in our switch to credi…</title>
-      <link>https://x.com/simonw/status/2106550840773509149</link>
-      <guid isPermaLink="false">twitter:2106550840773509149</guid>
-      <pubDate>Sun, 04 Oct 2026 01:03:52 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @biilmann: @simonw That was one of the components in our switch to credit based pricing at Netlify a year ago.</p><p><a href="https://x.com/simonw/status/2106550840773509149">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>François Chollet：Also, to be clear, creating artificial consciousness should *not* be a go…</title>
-      <link>https://x.com/fchollet/status/2106550205445509431</link>
-      <guid isPermaLink="false">twitter:2106550205445509431</guid>
-      <pubDate>Sun, 04 Oct 2026 01:01:21 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Also, to be clear, creating artificial consciousness should *not* be a goal of AI research. Understanding consciousness, sure, synthesizing it, no.</p><p><a href="https://x.com/fchollet/status/2106550205445509431">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>François Chollet：Arguing that &quot;consciousness arises from a computational substrate, and si…</title>
-      <link>https://x.com/fchollet/status/2106547436244304232</link>
-      <guid isPermaLink="false">twitter:2106547436244304232</guid>
-      <pubDate>Sun, 04 Oct 2026 00:50:21 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Arguing that &quot;consciousness arises from a computational substrate, and since AI models are computation, they are likely conscious,&quot; is as meaningless as arguing that &quot;living creatures are made of atoms, and since this rock is made of atoms, it is likely alive.&quot;<br /><br />Everything is computation. Sometimes incredibly sophisticated computation, like a chess engine, AlphaGo, google3, or the Linux kernel. That does not make it conscious. A rock being made of atoms does not confer it any of the properties we associate with living things, also made of atoms. Likewise a static input-output program that has *none* of the properties we associate with conscious beings (e.g. information integration, interoception, temporal binding, embodiment, etc.) has no more reason to be presumed conscious than a rock has to be presumed alive.<br /><br />Humanity has not yet created a conscious computer program, and there are no signs we are close to doing so. When we get close, the case for machine consciousness will be backed by evidence and corroborated by consciousness science (which is a thing), not by evidence-free wishful thinking and cargo culting.</p><p><a href="https://x.com/fchollet/status/2106547436244304232">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>
