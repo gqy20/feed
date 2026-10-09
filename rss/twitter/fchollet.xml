@@ -5,8 +5,32 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 01:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:52:15 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>François Chollet：Humans provide a fun comparison point here.</title>
+      <link>https://x.com/fchollet/status/2107997468671852922</link>
+      <guid isPermaLink="false">twitter:2107997468671852922</guid>
+      <pubDate>Thu, 08 Oct 2026 00:52:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Humans provide a fun comparison point here.<br /><br />In the 80s, the &quot;cognitive consequences of programming&quot; was a major psychological research focus. The prevailing hypothesis was that learning formal logic and algorithmic structures through computer programming would act as a form of mental gymnastics that could upgrade general reasoning, planning, and novel problem-solving abilities. But foundational research, followed by subsequent meta-analyses, demonstrated that this does not happen. Students who learn programming become highly proficient at algorithmic thinking and coding, but these gains do not transfer to general cognitive tasks or unrelated problem-solving scenarios. Similarly, intensive mathematical training improves mathematical deduction and structural mapping, but does not increase an individual&apos;s baseline rate of skill acquisition in unrelated fields.<br /><br />General intelligence seems to be a fundamental property of the brain rather than a skill you can train. Practicing in a domain makes you better at the domain but does not make you generally smarter.</p><p><a href="https://x.com/fchollet/status/2107997468671852922">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Rephrased: does G &quot;emerge&quot; from math + code RLVR? Or do you only get high…</title>
+      <link>https://x.com/fchollet/status/2107626212613034064</link>
+      <guid isPermaLink="false">twitter:2107626212613034064</guid>
+      <pubDate>Wed, 07 Oct 2026 00:17:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Rephrased: does G &quot;emerge&quot; from math + code RLVR? Or do you only get higher math + code skill and nothing else?<br /><br />Maybe G is a skill and it is isomorphic to math + code problem solving?</p><p><a href="https://x.com/fchollet/status/2107626212613034064">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：What if the jagged frontier is mainly math + code (which you can push arb…</title>
+      <link>https://x.com/fchollet/status/2107625225768858076</link>
+      <guid isPermaLink="false">twitter:2107625225768858076</guid>
+      <pubDate>Wed, 07 Oct 2026 00:13:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>What if the jagged frontier is mainly math + code (which you can push arbitrarily far with RLVR), and everything else starts to plateau because it is still bottlenecked by human generated data? <br /><br />Model performance in non-verifiable areas has kept improving steadily, albeit much slower than for math and code. But is that steady improvement a side effect of a higher G (itself driven by RLVR), or only a function of the amount of new human data getting injected into training (which is still continually happening on a massive scale)?<br /><br />A lot of things depend on the answer to this question</p><p><a href="https://x.com/fchollet/status/2107625225768858076">原文</a></p>]]></description>
+    </item>
     <item>
       <title>François Chollet：Also, to be clear, creating artificial consciousness should *not* be a go…</title>
       <link>https://x.com/fchollet/status/2106550205445509431</link>

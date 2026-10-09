@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-06T16:05:18.305Z",
+  "updated_at": "2026-10-09T05:59:12.295Z",
   "channels": {
     "twitter": {
-      "lastPublishAt": "2026-10-06T16:05:18.305Z",
-      "postCount": 1199
+      "lastPublishAt": "2026-10-09T05:59:12.295Z",
+      "postCount": 1290
     },
     "xhs": {
-      "lastPublishAt": "2026-10-06T16:05:18.305Z",
-      "postCount": 291
+      "lastPublishAt": "2026-10-09T05:59:12.295Z",
+      "postCount": 298
     }
   }
 }

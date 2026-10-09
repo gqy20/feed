@@ -5,8 +5,64 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>GoogleDeepMind · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/GoogleDeepMind.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 17:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:24:11 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Google DeepMind：RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James M…</title>
+      <link>https://x.com/GoogleDeepMind/status/2108216895329497200</link>
+      <guid isPermaLink="false">twitter:2108216895329497200</guid>
+      <pubDate>Thu, 08 Oct 2026 15:24:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, &quot;Bending the Curve of Discovery&quot;.<br /><br />While…</p><p><a href="https://x.com/GoogleDeepMind/status/2108216895329497200">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind：RT @pushmeet: Building predictive biology models is one of the most import…</title>
+      <link>https://x.com/GoogleDeepMind/status/2107908193666187560</link>
+      <guid isPermaLink="false">twitter:2107908193666187560</guid>
+      <pubDate>Wed, 07 Oct 2026 18:57:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @pushmeet: Building predictive biology models is one of the most important scientific challenges of our time, but solving this requires…</p><p><a href="https://x.com/GoogleDeepMind/status/2107908193666187560">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind：SynthID Detector can quickly identify our watermarks in video, audio and i…</title>
+      <link>https://x.com/GoogleDeepMind/status/2107834254222581862</link>
+      <guid isPermaLink="false">twitter:2107834254222581862</guid>
+      <pubDate>Wed, 07 Oct 2026 14:03:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>SynthID Detector can quickly identify our watermarks in video, audio and images – even after edits, like adding filters. ✂️<br /><br />You can also use existing AI identification features found in @GoogleChrome, @Google Search, and the @GeminiApp. https://t.co/VglUeteVIL</p><img src="https://pbs.twimg.com/tweet_video_thumb/HUCFqB8WMAAtgKR.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2107834254222581862">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind：SynthID Detector is now available to everyone. 🌐</title>
+      <link>https://x.com/GoogleDeepMind/status/2107834249680499136</link>
+      <guid isPermaLink="false">twitter:2107834249680499136</guid>
+      <pubDate>Wed, 07 Oct 2026 14:03:41 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>SynthID Detector is now available to everyone. 🌐<br /><br />Check whether online content was generated using @GoogleAI, or with tools from our industry partners – including @OpenAI, @NVIDIA, Kakao and coming soon, @Apple.<br /><br />Try it out → https://t.co/cPW2aNnqr6 https://t.co/TGYA0uZ0dx</p><img src="https://pbs.twimg.com/tweet_video_thumb/HUCE4n7XkAEQbgA.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2107834249680499136">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind：At 740M parameters, it’s competitive across benchmarks – even outperformin…</title>
+      <link>https://x.com/GoogleDeepMind/status/2107502289652982118</link>
+      <guid isPermaLink="false">twitter:2107502289652982118</guid>
+      <pubDate>Tue, 06 Oct 2026 16:04:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>At 740M parameters, it’s competitive across benchmarks – even outperforming some specialist models more than twice its size.<br /><br />Developers can use it to add multimodal search to their apps – like finding moments in a video using a voice memo – or pair it with Gemma 4 for private, on-device RAG.<br /><br />EmbeddingGemma 2 is released under an Apache 2.0 license. Check out the weights on @HuggingFace and @Kaggle.<br /><br />Find out more → https://t.co/lRsjbvR5VB</p><img src="https://pbs.twimg.com/media/HT9UxprWcAA3gtL.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HT9UxppXgAAQ7vu.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HT9UxprXIAAPiRY.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2107502289652982118">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind：Meet EmbeddingGemma 2, our first natively multimodal open model for on-dev…</title>
+      <link>https://x.com/GoogleDeepMind/status/2107502286758895878</link>
+      <guid isPermaLink="false">twitter:2107502286758895878</guid>
+      <pubDate>Tue, 06 Oct 2026 16:04:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Meet EmbeddingGemma 2, our first natively multimodal open model for on-device embeddings.<br /><br />It expands beyond text to unify code, images, audio, and video in a shared space. 🧵</p><img src="https://pbs.twimg.com/tweet_video_thumb/HT9Uhe6WYAA8Sg9.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2107502286758895878">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind：RT @FlemingCentre: Supported by @GoogleDeepMind , our new 3-year programme…</title>
+      <link>https://x.com/GoogleDeepMind/status/2107416258639786392</link>
+      <guid isPermaLink="false">twitter:2107416258639786392</guid>
+      <pubDate>Tue, 06 Oct 2026 10:22:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @FlemingCentre: Supported by @GoogleDeepMind , our new 3-year programme will develop the methods and standards needed to evaluate artifi…</p><p><a href="https://x.com/GoogleDeepMind/status/2107416258639786392">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Google DeepMind：Watch → https://t.co/vaJzQEEPPs</title>
       <link>https://x.com/GoogleDeepMind/status/2105707090547478914</link>

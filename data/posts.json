@@ -1,7 +1,1695 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-06T16:05:18.305Z",
+  "updated_at": "2026-10-09T05:59:12.295Z",
   "posts": [
+    {
+      "id": "twitter:2108296444662910980",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: We urgently need more public traces of AI agents attacking and defending systems. Defenders can’t learn from what they…",
+      "url": "https://x.com/huggingface/status/2108296444662910980",
+      "created_at": "2026-10-08T20:40:17.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 128,
+        "views": 1997
+      }
+    },
+    {
+      "id": "twitter:2108296348206330179",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @DynamicWebPaige: 🤗💎 Such an exciting week for open-source, congrats to the @GoogleGemma @GoogleDeepMind teams!\n\nThe @huggingface demos…",
+      "url": "https://x.com/huggingface/status/2108296348206330179",
+      "created_at": "2026-10-08T20:39:54.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 2019
+      }
+    },
+    {
+      "id": "twitter:2108296055884231162",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @matth_lapeyre: We did not know how long Microduck would actually last on battery \n\nWe had thermal management issues with our Radxa prot…",
+      "url": "https://x.com/huggingface/status/2108296055884231162",
+      "created_at": "2026-10-08T20:38:44.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 22,
+        "views": 2171
+      }
+    },
+    {
+      "id": "twitter:2108271757496852611",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @osanseviero: Open models for plant DNA analysis! 🍈\n\nCombining Gemma 4 E4B + BOTANIC-1, a model trained on plant genomes, allowed the Li…",
+      "url": "https://x.com/huggingface/status/2108271757496852611",
+      "created_at": "2026-10-08T19:02:11.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 2354
+      }
+    },
+    {
+      "id": "twitter:2108271555725643798",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @Weyaxi: Everything is open on @huggingface: the environments, every trajectory (including the 14k failures), the exact training split a…",
+      "url": "https://x.com/huggingface/status/2108271555725643798",
+      "created_at": "2026-10-08T19:01:23.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 2186
+      }
+    },
+    {
+      "id": "twitter:2108271529360228644",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @Weyaxi: We're releasing TermGrade at @aiand_: high-quality RL environments for terminal agents, fully open source, along with the full…",
+      "url": "https://x.com/huggingface/status/2108271529360228644",
+      "created_at": "2026-10-08T19:01:17.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 36,
+        "views": 2146
+      }
+    },
+    {
+      "id": "twitter:2108252563015422389",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "Help keep science open, try this out on Paper Pages: https://t.co/1cApLwjR7A",
+      "url": "https://x.com/huggingface/status/2108252563015422389",
+      "created_at": "2026-10-08T17:45:55.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "metrics": {
+        "likes": 36,
+        "replies": 12,
+        "retweets": 7,
+        "views": 18546
+      }
+    },
+    {
+      "id": "twitter:2108225596199149849",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ggerganov: llama.cpp can distribute inference on heterogeneous devices through the ggml RPC backend\n\nIt's an advanced setting but I thi…",
+      "url": "https://x.com/huggingface/status/2108225596199149849",
+      "created_at": "2026-10-08T15:58:45.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 40,
+        "views": 2533
+      }
+    },
+    {
+      "id": "twitter:2108225574858809644",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @XciD_: no config. no key. nothing\nchat with open models, zero setup\nssh https://t.co/xvINX5qMn9 https://t.co/8PBP6yi1n2",
+      "url": "https://x.com/huggingface/status/2108225574858809644",
+      "created_at": "2026-10-08T15:58:40.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 17,
+        "views": 2299
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107894550224162816/img/2N-I84vBKDWAuQgd.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108225563920089395",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ggerganov: It is very cool to see llama.cpp on the big stage in todays Windows event!\n\nThe software and hardware stacks are finally com…",
+      "url": "https://x.com/huggingface/status/2108225563920089395",
+      "created_at": "2026-10-08T15:58:38.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 52,
+        "views": 2271
+      }
+    },
+    {
+      "id": "twitter:2108224577809658208",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @victormustar: Decision Models + Hugging Face = ❤️\n\nNew tag on HF: \"decision-model\" so you can filter for them and maybe combine with ML…",
+      "url": "https://x.com/huggingface/status/2108224577809658208",
+      "created_at": "2026-10-08T15:54:42.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 15,
+        "views": 2520
+      }
+    },
+    {
+      "id": "twitter:2108224512286216381",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @cgeorgiaw: Today, we're releasing the Carbon Annotation Database and the model behind it, Carbon-A. \n\nWe've used this model to discover…",
+      "url": "https://x.com/huggingface/status/2108224512286216381",
+      "created_at": "2026-10-08T15:54:27.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 49,
+        "views": 2410
+      }
+    },
+    {
+      "id": "twitter:2108216895329497200",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, \"Bending the Curve of Discovery\".\n\nWhile…",
+      "url": "https://x.com/GoogleDeepMind/status/2108216895329497200",
+      "created_at": "2026-10-08T15:24:11.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 50,
+        "views": 7699
+      }
+    },
+    {
+      "id": "twitter:2108214664844767460",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @osanseviero: Introducing EmbeddingGemma 2, our new open embeddings model for on-device use cases!\n\n👀 Code, image, video, audio, and tex…",
+      "url": "https://x.com/huggingface/status/2108214664844767460",
+      "created_at": "2026-10-08T15:15:19.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 104,
+        "views": 2593
+      }
+    },
+    {
+      "id": "twitter:2108213409430798428",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @lmoroney: Still running OCR over your PDFs before you can search them? Perplexity's new open embedding models are built to skip that st…",
+      "url": "https://x.com/huggingface/status/2108213409430798428",
+      "created_at": "2026-10-08T15:10:20.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 26,
+        "views": 2632
+      }
+    },
+    {
+      "id": "twitter:2108213331106341207",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: Is there anything Reachy mini can’t do? https://t.co/eh0SdAUmWR",
+      "url": "https://x.com/huggingface/status/2108213331106341207",
+      "created_at": "2026-10-08T15:10:01.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 21,
+        "views": 2132
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108212150036541440/img/-U1xnH_NGh04jV8p.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108202656032497919",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @maximelabonne: Tiny decision models you can run everywhere:\n\n&gt; d1-3B has impeccable performance in text and vision\n&gt; d1-omni-600M suppo…",
+      "url": "https://x.com/huggingface/status/2108202656032497919",
+      "created_at": "2026-10-08T14:27:36.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 26,
+        "views": 2737
+      }
+    },
+    {
+      "id": "twitter:2108202639658013150",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @1a1a11a: The largest agentic LLM Inference dataset has arrived!\n206B tokens · 12,002 sessions · 1,186,582 LLM requests · 1,213,347 tool…",
+      "url": "https://x.com/huggingface/status/2108202639658013150",
+      "created_at": "2026-10-08T14:27:32.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 41,
+        "views": 2330
+      }
+    },
+    {
+      "id": "twitter:2108202577779466646",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @Alex_tra_memory: d1-omni-600M, now running on Apple silicon with Core ML ⚡\n\nWe pointed it at a firehose of 5,000 real comments from Civ…",
+      "url": "https://x.com/huggingface/status/2108202577779466646",
+      "created_at": "2026-10-08T14:27:17.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 2385
+      }
+    },
+    {
+      "id": "twitter:2108202145141174669",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ben_burtenshaw: Today we are launching an agent arena for RL environments: The Open Env Arena.\n\nYour agents can work to define the best…",
+      "url": "https://x.com/huggingface/status/2108202145141174669",
+      "created_at": "2026-10-08T14:25:34.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 43,
+        "views": 2602
+      }
+    },
+    {
+      "id": "twitter:2108188508632625227",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @nv_pavlichenko: Today we're releasing Mellum2.1: a major update to the Mellum2 that we open-sourced in June. This release is the result…",
+      "url": "https://x.com/huggingface/status/2108188508632625227",
+      "created_at": "2026-10-08T13:31:23.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 26,
+        "views": 2748
+      }
+    },
+    {
+      "id": "xhs:6ac70e05000000001203a7af",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "腾讯混元团队的新论文《Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite》，提出Harness 不仅是模型的外挂，还可以成为模型的训练场。 有了Harness，同一个模型加上状态管理、反思、重试、checkpoint、任务拆解，表现可能完全不同。 论文拿Qwen-3.8-27B搭配3种Harness，最好的单一Harness解出565个任务，但三个 Harness 的成功任务取并集，可以达到759个，增加 34.3%。 这说明：不同 Harness 其实会激活模型不同的问题解决方式。 但接下来的问题是 Harness 帮模型做成功的任务，能不能直接拿来训练模型？ 论文发现不能简单这么干，如果轨迹混入了大量 Harness 的状态提示、纠错和控制逻辑。模型可能只是“被扶着走到了终点”，并没有真正学会怎么走。 实验也很反直觉：Terminal-Bench 2 上直接拿成功轨迹 SFT效果反而变差。 论文提出了 Recursive Self-Rewrite（RSR）。 做法很像老师教学生：第一遍允许模型在 Harness 帮助下把题做出来。然后让 Planner 从成功轨迹里提炼一份 Runbook，总结“先做什么、检查什么、失败后怎么办”，Critic 再负责检查里面有没有偷藏答案。 接着开一个全新的Sandbox，让模型拿着Runbook重新独立做一遍。 只有再次成功，新的trajectory才进入训练集。真正SFT时连Runbook都会删掉。 效果也非常明显：Terminal-Bench 2：57.0% → 74.2%；Terminal-Bench Hard：39.0% → 63.0% 这篇论文并不只是又提出了一个新的训练方法，它实际上重新定义了Harness角色Model → 多种 Harness → 成功经验 → Rewrite → 训练 → Better Model Harness像AI的“外骨骼”，开始模型靠外骨骼才能完成复杂动作，但这些动作可以被提炼、重新练习，最后逐渐变成模型自己的“肌肉”。 Harness负责探索能力，训练负责内化能力，两者最终形成一个持续进化的闭环。 #Harness #腾讯混元 #论文解读 #RSI #RecursiveSelfRewrite #AI搞学习howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac70e05000000001203a7af?xsec_token=ABVy0E5Xs7fbVQdeH_nkv-kKT4W3cIrAO-oX2KVsJwEOA=&xsec_source=pc_user",
+      "created_at": "2026-10-08T03:29:09.000Z",
+      "fetched_at": "2026-10-08T11:09:51.149Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "混元新论文：Harness轨迹不能直接拿来训练",
+      "metrics": {
+        "collects": 178,
+        "comments": 10,
+        "likes": 129
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081910/a750055fddb4efa4f3724a38b157bf62/spectrum/1040g0k03261tuefgk6305p37m4gk4uihisbh2t8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/17f77544d7253bccd9c9257b4cad237d/spectrum/1040g0k03261tuefgk6005p37m4gk4uihbg3hrd8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/2d876217f74d1f04a0da63adce10ccd6/spectrum/1040g0k03261tuefgk60g5p37m4gk4uih2t1v540!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/6e88f27c8479dccbe6afbbf049fd0d93/spectrum/1040g0k03261tuefgk6105p37m4gk4uihi30svb0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/a45c163aeae478260111c733549d0896/spectrum/1040g0k03261tuefgk61g5p37m4gk4uihp8p6na8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/92cfcb726936518ac7aba653c0f0d65f/spectrum/1040g0k03261tuefgk6205p37m4gk4uihqrokae8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/a6646325489b8345c96916017f4af1ae/spectrum/1040g0k03261tuefgk62g5p37m4gk4uihugs1oe8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/a750055fddb4efa4f3724a38b157bf62/spectrum/1040g0k03261tuefgk6305p37m4gk4uihisbh2t8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081910/17f77544d7253bccd9c9257b4cad237d/spectrum/1040g0k03261tuefgk6005p37m4gk4uihbg3hrd8!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2108005474641838500",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @RisingSayak: Was meant to be a Valentine's gift, but I'm releasing it early ❤️\n\nWrote a long piece on KV caching in flow models for ima…",
+      "url": "https://x.com/huggingface/status/2108005474641838500",
+      "created_at": "2026-10-08T01:24:04.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 45,
+        "views": 2840
+      }
+    },
+    {
+      "id": "twitter:2107997468671852922",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "Humans provide a fun comparison point here.\n\nIn the 80s, the \"cognitive consequences of programming\" was a major psychological research focus. The prevailing hypothesis was that learning formal logic and algorithmic structures through computer programming would act as a form of mental gymnastics that could upgrade general reasoning, planning, and novel problem-solving abilities. But foundational research, followed by subsequent meta-analyses, demonstrated that this does not happen. Students who learn programming become highly proficient at algorithmic thinking and coding, but these gains do not transfer to general cognitive tasks or unrelated problem-solving scenarios. Similarly, intensive mathematical training improves mathematical deduction and structural mapping, but does not increase an individual's baseline rate of skill acquisition in unrelated fields.\n\nGeneral intelligence seems to be a fundamental property of the brain rather than a skill you can train. Practicing in a domain makes you better at the domain but does not make you generally smarter.",
+      "url": "https://x.com/fchollet/status/2107997468671852922",
+      "created_at": "2026-10-08T00:52:15.000Z",
+      "fetched_at": "2026-10-08T11:04:01.102Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 838,
+        "replies": 65,
+        "retweets": 99,
+        "views": 37181
+      }
+    },
+    {
+      "id": "twitter:2107980334180794480",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @alexwg: Moonshots episode #301 is out. https://t.co/0Ye2j1wCEE",
+      "url": "https://x.com/EMostaque/status/2107980334180794480",
+      "created_at": "2026-10-07T23:44:10.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 12,
+        "views": 1403
+      }
+    },
+    {
+      "id": "twitter:2107970182606164167",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I suspect there are going to be a lot of bots in this thread who understand number theory better than their operators (or me!). So expect a lot of ostensible AI marketing accounts to have a lot of opinions on Lean proofs all of a sudden.",
+      "url": "https://x.com/emollick/status/2107970182606164167",
+      "created_at": "2026-10-07T23:03:50.000Z",
+      "fetched_at": "2026-10-08T06:59:05.152Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 83,
+        "replies": 5,
+        "retweets": 1,
+        "views": 10649
+      }
+    },
+    {
+      "id": "twitter:2107964764316209326",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Some early first-hand accounts of encountering a narrow superhuman intelligence as mathematicians grapple with the hundreds of big AI proofs released by OpenAI.\n\nProblems solved in inhuman ways that make us wonder what it means to actually know things... https://t.co/DgpHqbYKCR https://t.co/saiSe2pl3f",
+      "url": "https://x.com/emollick/status/2107964764316209326",
+      "created_at": "2026-10-07T22:42:18.000Z",
+      "fetched_at": "2026-10-08T06:59:05.152Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 787,
+        "replies": 70,
+        "retweets": 73,
+        "views": 74724
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUD9bipbwAAAyjq.jpg",
+        "https://pbs.twimg.com/media/HUD-Tcea8AAqQur.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107938889004396561",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Had early access to the Intelligent UI experience and it was a nice change from walls of text. It also suggests that, increasingly, we are going to see interfaces built on demand for the problem that you have.",
+      "url": "https://x.com/emollick/status/2107938889004396561",
+      "created_at": "2026-10-07T20:59:29.000Z",
+      "fetched_at": "2026-10-08T06:59:05.152Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 455,
+        "replies": 53,
+        "retweets": 20,
+        "views": 29681
+      }
+    },
+    {
+      "id": "twitter:2107929853676990731",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: If you need any more evidence about how exciting local AI (and llamacpp) is! From the @Microsoft windows launch today…",
+      "url": "https://x.com/huggingface/status/2107929853676990731",
+      "created_at": "2026-10-07T20:23:35.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 39,
+        "views": 2447
+      }
+    },
+    {
+      "id": "twitter:2107929676358300047",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @_philschmid: EmbeddingGemma 2 is out! Our first native multimodal embeddings built on Gemma 4 under Apache 2.0. 🤗 Embeds 100+ languages…",
+      "url": "https://x.com/huggingface/status/2107929676358300047",
+      "created_at": "2026-10-07T20:22:52.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 61,
+        "views": 2407
+      }
+    },
+    {
+      "id": "twitter:2107929604149403673",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @liquidai: Choose d1-3B for high-quality text and vision decisions, or explore our experimental d1-omni-600M when footprint matters.\n\nDo…",
+      "url": "https://x.com/huggingface/status/2107929604149403673",
+      "created_at": "2026-10-07T20:22:35.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 18,
+        "views": 2383
+      }
+    },
+    {
+      "id": "twitter:2107929574206218545",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @vivmarquez: decision models, now open and multimodal! https://t.co/wiZxwJKQBu",
+      "url": "https://x.com/huggingface/status/2107929574206218545",
+      "created_at": "2026-10-07T20:22:28.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 23,
+        "views": 2481
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107913431617847296/img/UOrSCai2SNmgoumY.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107908193666187560",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @pushmeet: Building predictive biology models is one of the most important scientific challenges of our time, but solving this requires…",
+      "url": "https://x.com/GoogleDeepMind/status/2107908193666187560",
+      "created_at": "2026-10-07T18:57:31.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 41,
+        "views": 8314
+      }
+    },
+    {
+      "id": "twitter:2107899150247616531",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "Introducing Intelligent UI, a new capability in ChatGPT for answering quickly with fully interactive user interfaces:",
+      "url": "https://x.com/gdb/status/2107899150247616531",
+      "created_at": "2026-10-07T18:21:34.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 3818,
+        "replies": 220,
+        "retweets": 163,
+        "views": 386107
+      }
+    },
+    {
+      "id": "twitter:2107895489614250316",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Much of the world is based on the assumption that the future is like the past and an original meaning of “singularity” was a point where that relationship breaks. I don’t know if there will be one big Singularity, but a million little singularities across fields seems inevitable.",
+      "url": "https://x.com/emollick/status/2107895489614250316",
+      "created_at": "2026-10-07T18:07:02.000Z",
+      "fetched_at": "2026-10-08T06:59:05.152Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 408,
+        "replies": 51,
+        "retweets": 22,
+        "views": 16401
+      }
+    },
+    {
+      "id": "twitter:2107895115671031810",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @netflix: When the open-source AI platform Hugging Face was hit by a cyberattack this July, it quickly became clear this was no ordinary…",
+      "url": "https://x.com/huggingface/status/2107895115671031810",
+      "created_at": "2026-10-07T18:05:33.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 535,
+        "views": 2776
+      }
+    },
+    {
+      "id": "twitter:2107894724073832517",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @EmmaScharfmann: EmbeddingGemma made it possible for so many AI for Science projects to get started:\n🩺 Embedding Gemma 300m Medical\n🌍 Ge…",
+      "url": "https://x.com/huggingface/status/2107894724073832517",
+      "created_at": "2026-10-07T18:03:59.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 37,
+        "views": 2708
+      }
+    },
+    {
+      "id": "twitter:2107894672207266029",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @liquidai: Today we release Open d1: two open-weight multimodal models in our d1 decision model family.\n\n&gt; d1-3B: text + vision\n&gt; d1-omn…",
+      "url": "https://x.com/huggingface/status/2107894672207266029",
+      "created_at": "2026-10-07T18:03:47.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 271,
+        "views": 2458
+      }
+    },
+    {
+      "id": "twitter:2107894654872281276",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @adithya_s_k: Introducing RL Environment Explorer 🧭\n\nThere are now 12M+ RL task entries across RL environments on the @huggingface Hub.…",
+      "url": "https://x.com/huggingface/status/2107894654872281276",
+      "created_at": "2026-10-07T18:03:43.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 29,
+        "views": 2522
+      }
+    },
+    {
+      "id": "twitter:2107891092762890588",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @pcuenq: It's crazy that I can run MiMo 2.6 Flash across my RTX 6000 GPU and my M5 laptop at 40 tokens/sec over 10 GbE 🤯\n\nThese are the…",
+      "url": "https://x.com/huggingface/status/2107891092762890588",
+      "created_at": "2026-10-07T17:49:33.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 20,
+        "views": 2978
+      }
+    },
+    {
+      "id": "twitter:2107879269305385412",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Even the underlying norms of science are going to change. Some because we can live up to them better (disinterestedness) some because they may no longer apply. https://t.co/SupvW9uF70",
+      "url": "https://x.com/emollick/status/2107879269305385412",
+      "created_at": "2026-10-07T17:02:34.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 35,
+        "replies": 2,
+        "retweets": 4,
+        "views": 7889
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUCxBf9W0AABEyq.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107857927071732152",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @multimodalart: come meet the microduck on oct 16th if you are in sf\n\ni may have convinced it to make its first ever appearance to the o…",
+      "url": "https://x.com/huggingface/status/2107857927071732152",
+      "created_at": "2026-10-07T15:37:46.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 13,
+        "views": 3140
+      }
+    },
+    {
+      "id": "twitter:2107847721893663089",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @AnjneyMidha: hundreds of MI355x and B300 nodes\n\nnow live on https://t.co/t0uE0bekz3\n\nsubsidized for all .edu and .govs\n\nit’s time to sc…",
+      "url": "https://x.com/EMostaque/status/2107847721893663089",
+      "created_at": "2026-10-07T14:57:13.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 72,
+        "views": 1859
+      }
+    },
+    {
+      "id": "twitter:2107842520390701212",
+      "platform": "twitter",
+      "handle": "DrJimFan",
+      "text": "It is increasingly clear that humanity will solve the Riemann hypothesis before we pass the Physical Turing Test - you come back to a clean home after a wild Sunday party, and you can't tell whether a human or a robot did the job.\n\nWe are not Moravec's paradox-pilled enough.",
+      "url": "https://x.com/DrJimFan/status/2107842520390701212",
+      "created_at": "2026-10-07T14:36:33.000Z",
+      "fetched_at": "2026-10-08T02:56:12.614Z",
+      "author": "Jim Fan",
+      "metrics": {
+        "likes": 1028,
+        "replies": 68,
+        "retweets": 56,
+        "views": 46793
+      }
+    },
+    {
+      "id": "twitter:2107834254222581862",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "SynthID Detector can quickly identify our watermarks in video, audio and images – even after edits, like adding filters. ✂️\n\nYou can also use existing AI identification features found in @GoogleChrome, @Google Search, and the @GeminiApp. https://t.co/VglUeteVIL",
+      "url": "https://x.com/GoogleDeepMind/status/2107834254222581862",
+      "created_at": "2026-10-07T14:03:42.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 63,
+        "replies": 12,
+        "retweets": 4,
+        "views": 17713
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HUCFqB8WMAAtgKR.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107834249680499136",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "SynthID Detector is now available to everyone. 🌐\n\nCheck whether online content was generated using @GoogleAI, or with tools from our industry partners – including @OpenAI, @NVIDIA, Kakao and coming soon, @Apple.\n\nTry it out → https://t.co/cPW2aNnqr6 https://t.co/TGYA0uZ0dx",
+      "url": "https://x.com/GoogleDeepMind/status/2107834249680499136",
+      "created_at": "2026-10-07T14:03:41.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 1396,
+        "replies": 202,
+        "retweets": 258,
+        "views": 149694
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HUCE4n7XkAEQbgA.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107823411674112277",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "decompile all teh things",
+      "url": "https://x.com/EMostaque/status/2107823411674112277",
+      "created_at": "2026-10-07T13:20:37.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 164,
+        "replies": 16,
+        "retweets": 6,
+        "views": 10004
+      }
+    },
+    {
+      "id": "twitter:2107813002925724112",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @matth_lapeyre: Microduck got its new brain!\n\nOur first fully custom SBC in a Pollen robot! It replaces the Radxa + board sandwich from…",
+      "url": "https://x.com/huggingface/status/2107813002925724112",
+      "created_at": "2026-10-07T12:39:15.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 44,
+        "views": 3240
+      }
+    },
+    {
+      "id": "xhs:6ac63d1e0000000015008845",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "Stanford（斯坦福大学）的新论文《Sentry: Learning to Recover from LLM Agent Failures at Test Time》发现：Agent 不是记住的经验越多，就一定越聪明。 把过去积累的失败经验一直塞在 Context 里，反而可能让 Agent 变差。 比如一条经验“连续搜索多次没有结果时，就扩大搜索范围”，这条本身没问题。 问题在于，如果 Agent 从任务开始就看着它，可能在还没真正卡住时就提前触发，干扰正常决策。 论文里，把ACE的 failure-related lessons 删除后，WebShop从0.335提升到0.391，Mind2Web Replay 从0.562提升到0.643。 问题就不只是：Agent 应该记住什么？还有什么时候才应该让它想起这些东西？ Sentry 的做法很像给 Agent 增加一个“异常处理系统”。 平时Agent正常运行，Sentry只在旁边观察，当发现Agent出现问题时才介入。 如果是行为层面的错误，Sentry会先判断属于哪类failure，再从外部Playbook里找几条过去成功脱困的经验，临时放进Context。 重点是整个Playbook不会一直塞给Agent。只有真正出现对应故障时，相关经验才被激活。 Sentry 还多做了一步：验证这次修复到底有没有用。 只有Agent确实从错误状态里恢复，并重新朝目标推进，经验才会被写入Playbook，整个闭环变成：Failure->Diagnose->Repair->Verify->Learn 论文还把“是否真的需要干预”的判断去掉，隔一段时间就给 Agent 建议。 WebShop 效果反而比完全不干预时还差。 这说明，Context 以后可能不只要解决：放什么、放多少、怎么检索。 还要解决另一个问题什么时候放。 未来Agent的Memory可能也要分层：任务知识、业务知识、Skill、失败经验。失败经验平时不用，出故障时再调出来。 Agent真正走向长期运行，可能不只需要“会做事”，还得学会发现自己错了、知道怎么脱困，并把成功脱困的方法留下来。 #Sentry #论文解读 #ContextEngineering #AgentMemory #SelfEvolvingAgent #Stanford #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac63d1e0000000015008845?xsec_token=AB8Tmgh3NiyeBrqfFQcRUPfx-ZY9VJTqgLfsVkWK75Cic=&xsec_source=pc_user",
+      "created_at": "2026-10-07T12:37:50.000Z",
+      "fetched_at": "2026-10-08T02:58:25.793Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "斯坦福新论：Sentry让Agent学会怎么犯错",
+      "metrics": {
+        "collects": 29,
+        "comments": 3,
+        "likes": 22
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081056/71183d6ca7c9b46031041953fe371d35/spectrum/1040g0k032618unt144405p37m4gk4uih0bvpkv0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/824ae6ba471611536a164fe273a0799e/spectrum/1040g0k032618unt144005p37m4gk4uihdqus1m0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/32cdbc833aaaf2db5cf25f0ee6a81f0f/spectrum/1040g0k032618unt1440g5p37m4gk4uihtiqdf1g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/f27f8dbdc14b3926e2fbe1648b9dc786/spectrum/1040g0k032618unt144105p37m4gk4uihdvmmvgg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/ec01c6fbd6a4467403e2d2f3cc58f498/spectrum/1040g0k032618unt1441g5p37m4gk4uihrt9obj0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/6e4c694484af0d4e30eda6151cacf274/spectrum/1040g0k032618unt144205p37m4gk4uih5th19bg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/c5e91fbdb6c647037ce55340fe07cb37/spectrum/1040g0k032618unt1442g5p37m4gk4uih2e63d98!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/fd1396d52ee26ece336bcff9249a0b33/spectrum/1040g0k032618unt144305p37m4gk4uihu7v32vo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/8b0d54f4fb9abed106665ff422457b8b/spectrum/1040g0k032618unt1443g5p37m4gk4uih817lgug!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/71183d6ca7c9b46031041953fe371d35/spectrum/1040g0k032618unt144405p37m4gk4uih0bvpkv0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/824ae6ba471611536a164fe273a0799e/spectrum/1040g0k032618unt144005p37m4gk4uihdqus1m0!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2107648160604528897",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Context, OpenAI cracked or made important progress in hundreds of big problems today: https://t.co/koJq2pYViH\n\n(And I am seeing rapid increases in the ability of AI to do novel work in my field of economic sociology, with nearly autonomous research getting to top journal level)",
+      "url": "https://x.com/emollick/status/2107648160604528897",
+      "created_at": "2026-10-07T01:44:14.000Z",
+      "fetched_at": "2026-10-08T06:59:05.152Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 286,
+        "replies": 23,
+        "retweets": 18,
+        "views": 40223
+      }
+    },
+    {
+      "id": "twitter:2107646599635910951",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "After a brief but institution-eroding slop science era, it increasingly looks like we are going to have two revolutions from AI:\n1) Everything ever published will be re-read and re-judged in ways that human scientists never anticipated\n2) Novel discoveries will start to come fast",
+      "url": "https://x.com/emollick/status/2107646599635910951",
+      "created_at": "2026-10-07T01:38:02.000Z",
+      "fetched_at": "2026-10-08T06:59:05.152Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 2726,
+        "replies": 150,
+        "retweets": 218,
+        "views": 216438
+      }
+    },
+    {
+      "id": "twitter:2107640886482104524",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "towards acceleration of scientific discovery and improving quality of life for everyone",
+      "url": "https://x.com/gdb/status/2107640886482104524",
+      "created_at": "2026-10-07T01:15:20.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 3918,
+        "replies": 182,
+        "retweets": 204,
+        "views": 158404
+      }
+    },
+    {
+      "id": "xhs:6ac51b8c000000001a0239f8",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "最近有个项目很火：Strata，在 12GB 显存上，能跑 125B 参数的大模型（Qwen3.8-Flash-Next）。 其实关键不在“把 125B 塞进 12GB 显存”，而在于 Strata 根本没打算把整个模型都塞进显卡。 它目前主要针对 Qwen3.8-Flash-Next 这种 MoE 模型。这个模型虽然总参数有 125B，但每次推理真正激活的参数只有大约 6B。 Strata 就抓住了 MoE 的特性，把整台电脑拆成了几层“仓库”： GPU 显存：放最常用、最关键的部分 系统内存 RAM：保存大量 Expert CPU：负责处理 GPU 没缓存到的 Expert SSD：存放更大、访问频率更低的数据 最常用的 Expert 会尽量留在 GPU，冷门 Expert 则放在内存里，真正需要时再调用。 Strata 真正做的事情，有点像 给大模型参数做了一套智能缓存系统。 另外，它还用了 Speculative Decoding。 简单理解就是：先让一个“小模型”一次猜几个 token，再让大模型统一批改。 猜对的话，就不用一个 token 一个 token 慢慢生成，可以一次通过多个，因此进一步提高速度。 所以“12GB 显存跑 125B”背后的真相其实是：GPU + RAM + CPU + SSD 一起干活。 当然，它也没有违反物理规律。 它依然建议 12GB+ 显存、64GB RAM 和 NVMe SSD，而且运行的是量化后的模型。 但 Strata 最值得关注的，其实不是某个具体的跑分。 它让我觉得，本地大模型接下来可能会发生一个思路变化。 以前我们问我的显卡能装下多大的模型？ 以后可能要问模型里到底有哪些参数必须一直待在显存？ 随着 MoE、稀疏模型越来越普遍，未来跑大模型未必只是疯狂堆显存。 更重要的能力，可能会变成如何聪明地调度显存、内存、CPU 和 SSD。 Strata 真正有意思的地方，也许就在这里。 更值得期待的是，Strata 的作者 Niko Veit 已经在适配 Qwen4 了。 #Strata #开源项目 #本地大模型 #MoE #Qwen4 #人工智能 #AI技术 #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac51b8c000000001a0239f8?xsec_token=ABt66ubMAcnmVmuYqg615BmAUQfNygJhXxhDOlDErHazc=&xsec_source=pc_user",
+      "created_at": "2026-10-07T00:23:01.000Z",
+      "fetched_at": "2026-10-08T02:58:25.793Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "Strata火了做什么让12GB显存跑上128B的Qwen",
+      "metrics": {
+        "collects": 421,
+        "comments": 83,
+        "likes": 274
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081056/f874f60ac17066e5002ee804215f3986/spectrum/1040g0k032605mjfl464g5p37m4gk4uih6p30550!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/07ebdb3c0b7c8548547e0a7df21aa833/spectrum/1040g0k032605mjfl46005p37m4gk4uih0kscg70!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/ea4ed4749f7750b688c653ba7547cfd4/spectrum/1040g0k032605mjfl460g5p37m4gk4uihh0lg1co!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/7916248b5e62028a1d7bcfa8da979d56/spectrum/1040g0k032605mjfl46105p37m4gk4uih1n4v7eg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/2623f30e8a26324c8e2e5bdaef00de77/spectrum/1040g0k032605mjfl461g5p37m4gk4uih5stijuo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/16df15e76d03123485944662b91ad73a/spectrum/1040g0k032605mjfl46205p37m4gk4uihup5r3fo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/6082dc4867b8c77ac5a032793b135550/spectrum/1040g0k032605mjfl462g5p37m4gk4uihu4n8n8o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/690a4d5c3ef81e2fbde87e3daca7e02f/spectrum/1040g0k032605mjfl46305p37m4gk4uihf1es0ng!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/aec0abfcd2e197cfe233adbd7b6edc6a/spectrum/1040g0k032605mjfl463g5p37m4gk4uihq6fibho!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/d7b964d08ef307a44b517e9830015c17/spectrum/1040g0k032605mjfl46405p37m4gk4uihb52gchg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/f874f60ac17066e5002ee804215f3986/spectrum/1040g0k032605mjfl464g5p37m4gk4uih6p30550!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/07ebdb3c0b7c8548547e0a7df21aa833/spectrum/1040g0k032605mjfl46005p37m4gk4uih0kscg70!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2107626212613034064",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "Rephrased: does G \"emerge\" from math + code RLVR? Or do you only get higher math + code skill and nothing else?\n\nMaybe G is a skill and it is isomorphic to math + code problem solving?",
+      "url": "https://x.com/fchollet/status/2107626212613034064",
+      "created_at": "2026-10-07T00:17:01.000Z",
+      "fetched_at": "2026-10-08T11:04:01.102Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 219,
+        "replies": 16,
+        "retweets": 10,
+        "views": 24085
+      }
+    },
+    {
+      "id": "twitter:2107625225768858076",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "What if the jagged frontier is mainly math + code (which you can push arbitrarily far with RLVR), and everything else starts to plateau because it is still bottlenecked by human generated data? \n\nModel performance in non-verifiable areas has kept improving steadily, albeit much slower than for math and code. But is that steady improvement a side effect of a higher G (itself driven by RLVR), or only a function of the amount of new human data getting injected into training (which is still continually happening on a massive scale)?\n\nA lot of things depend on the answer to this question",
+      "url": "https://x.com/fchollet/status/2107625225768858076",
+      "created_at": "2026-10-07T00:13:06.000Z",
+      "fetched_at": "2026-10-08T11:04:01.102Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 2139,
+        "replies": 205,
+        "retweets": 172,
+        "views": 213358
+      }
+    },
+    {
+      "id": "twitter:2107615044435431473",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "*special case excepted",
+      "url": "https://x.com/EMostaque/status/2107615044435431473",
+      "created_at": "2026-10-06T23:32:38.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 13,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3274
+      }
+    },
+    {
+      "id": "twitter:2107609416359117027",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Time for every AI account to pretend they deeply understand number theory again to opine on the importance of the latest math breakthroughs.",
+      "url": "https://x.com/emollick/status/2107609416359117027",
+      "created_at": "2026-10-06T23:10:17.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 567,
+        "replies": 50,
+        "retweets": 22,
+        "views": 26698
+      }
+    },
+    {
+      "id": "twitter:2107605907169267860",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "got 722 problems but the hodge conjecture ain’t one",
+      "url": "https://x.com/EMostaque/status/2107605907169267860",
+      "created_at": "2026-10-06T22:56:20.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 521,
+        "replies": 29,
+        "retweets": 14,
+        "views": 29295
+      }
+    },
+    {
+      "id": "twitter:2107591427878466041",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Training cut-offs are not the primary problem here.",
+      "url": "https://x.com/emollick/status/2107591427878466041",
+      "created_at": "2026-10-06T21:58:48.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 31,
+        "replies": 2,
+        "retweets": 0,
+        "views": 6499
+      }
+    },
+    {
+      "id": "twitter:2107582910652096590",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "You have the perfect user experience tool in your models! It should suggest features to you that are useful and be able to troubleshoot when users are frustrated!",
+      "url": "https://x.com/emollick/status/2107582910652096590",
+      "created_at": "2026-10-06T21:24:57.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 74,
+        "replies": 1,
+        "retweets": 2,
+        "views": 9442
+      }
+    },
+    {
+      "id": "twitter:2107582374347489570",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Just a reminder to the AI Labs that you should confirm that the models you are shipping understand your products &amp; how to use them (&amp; update when you release new features). Nothing weirder than having your AI know everything about how to use your computer except for its own app.",
+      "url": "https://x.com/emollick/status/2107582374347489570",
+      "created_at": "2026-10-06T21:22:49.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 608,
+        "replies": 83,
+        "retweets": 22,
+        "views": 26412
+      }
+    },
+    {
+      "id": "twitter:2107558552999174624",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @jeffboudier: With 150 people on the waitlist and 10 days until Open Together we had to double capacity... again.\n\nCalling all AI Builde…",
+      "url": "https://x.com/huggingface/status/2107558552999174624",
+      "created_at": "2026-10-06T19:48:10.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 3094
+      }
+    },
+    {
+      "id": "twitter:2107549520678592712",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "And I also think the positive use cases (like the evidence shows current AIs provide good health information &amp; financial advice &amp; lead to startups etc.) are also undermeasured and underdiscussed.\n\nWe do need to worry about many dangers, but its worth building on successes as well",
+      "url": "https://x.com/emollick/status/2107549520678592712",
+      "created_at": "2026-10-06T19:12:16.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 86,
+        "replies": 7,
+        "retweets": 12,
+        "views": 11904
+      }
+    },
+    {
+      "id": "twitter:2107539857040187468",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @my_cat_can_code: We’re teaming up with @huggingface for the next round of RSI Arena! 📷\n\nWe gave AI agents GPUs and one job: train bette…",
+      "url": "https://x.com/huggingface/status/2107539857040187468",
+      "created_at": "2026-10-06T18:33:52.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 2998
+      }
+    },
+    {
+      "id": "twitter:2107537101709525107",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @perplexitydevs: pplx-decider-v1.1-27b, our updated open weights multimodal decision model, is now available.\n\nIt scores the highest on…",
+      "url": "https://x.com/huggingface/status/2107537101709525107",
+      "created_at": "2026-10-06T18:22:55.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 60,
+        "views": 3112
+      }
+    },
+    {
+      "id": "twitter:2107524104786202808",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @multimodalart: the jev Decision Index v0.3 is here 🎯\n\nfeaturing a way stronger set of benchmarks, now with a strong private half 🔒 so t…",
+      "url": "https://x.com/huggingface/status/2107524104786202808",
+      "created_at": "2026-10-06T17:31:17.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 26,
+        "views": 3084
+      }
+    },
+    {
+      "id": "twitter:2107523959684042949",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @victormustar: Mistral 4 on Hugging Face soon 🤯 \nhttps://t.co/X3VwwIo6TF",
+      "url": "https://x.com/huggingface/status/2107523959684042949",
+      "created_at": "2026-10-06T17:30:42.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 21,
+        "views": 2810
+      }
+    },
+    {
+      "id": "twitter:2107521440300032204",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @mervenoyann: releasing my local AI slide deck\n\ncovers from prefill vs decode, MoE vs dense, VRAM vs unified memory, quantization to spe…",
+      "url": "https://x.com/huggingface/status/2107521440300032204",
+      "created_at": "2026-10-06T17:20:41.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 44,
+        "views": 3011
+      }
+    },
+    {
+      "id": "twitter:2107502289652982118",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "At 740M parameters, it’s competitive across benchmarks – even outperforming some specialist models more than twice its size.\n\nDevelopers can use it to add multimodal search to their apps – like finding moments in a video using a voice memo – or pair it with Gemma 4 for private, on-device RAG.\n\nEmbeddingGemma 2 is released under an Apache 2.0 license. Check out the weights on @HuggingFace and @Kaggle.\n\nFind out more → https://t.co/lRsjbvR5VB",
+      "url": "https://x.com/GoogleDeepMind/status/2107502289652982118",
+      "created_at": "2026-10-06T16:04:36.000Z",
+      "fetched_at": "2026-10-09T01:53:53.170Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 556,
+        "replies": 26,
+        "retweets": 44,
+        "views": 57163
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT9UxprWcAA3gtL.jpg",
+        "https://pbs.twimg.com/media/HT9UxppXgAAQ7vu.jpg",
+        "https://pbs.twimg.com/media/HT9UxprXIAAPiRY.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107502286758895878",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Meet EmbeddingGemma 2, our first natively multimodal open model for on-device embeddings.\n\nIt expands beyond text to unify code, images, audio, and video in a shared space. 🧵",
+      "url": "https://x.com/GoogleDeepMind/status/2107502286758895878",
+      "created_at": "2026-10-06T16:04:35.000Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 4393,
+        "replies": 242,
+        "retweets": 526,
+        "views": 802760
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HT9Uhe6WYAA8Sg9.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107489752349892677",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I think most people who have been closely watching AI for the past few years are likely surprised by how relatively rare terrible AI incidents have been, given a billion users overall and hundreds of millions of corporate users. Doesn’t mean that will continue, but surprising.",
+      "url": "https://x.com/emollick/status/2107489752349892677",
+      "created_at": "2026-10-06T15:14:46.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 930,
+        "replies": 135,
+        "retweets": 65,
+        "views": 77639
+      }
+    },
+    {
+      "id": "twitter:2107475672004497466",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: Le fat chaton! https://t.co/svhuNNJHnZ https://t.co/nbT0DF8BN7",
+      "url": "https://x.com/huggingface/status/2107475672004497466",
+      "created_at": "2026-10-06T14:18:49.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 69,
+        "views": 2865
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT87XlyXMAABikq.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107433480095404103",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ben_burtenshaw: No one (actually) working on open source is surprised by this release. For months, @reflection_ai engineers have been d…",
+      "url": "https://x.com/huggingface/status/2107433480095404103",
+      "created_at": "2026-10-06T11:31:10.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 20,
+        "views": 3436
+      }
+    },
+    {
+      "id": "twitter:2107416258639786392",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @FlemingCentre: Supported by @GoogleDeepMind , our new 3-year programme will develop the methods and standards needed to evaluate artifi…",
+      "url": "https://x.com/GoogleDeepMind/status/2107416258639786392",
+      "created_at": "2026-10-06T10:22:44.000Z",
+      "fetched_at": "2026-10-09T01:53:53.170Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 9244
+      }
+    },
+    {
+      "id": "xhs:6ac4c75c000000001a026f91",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "康奈尔大学和 IBM 的新论文《THE SURPRISING EFFECTIVENESS OF SHARED MEMORY IN LOOPED TRANSFORMERS》，研究的是Looped Transformer：同一组Transformer层反复跑多轮，用更多计算换更强能力，同时不增加太多参数。 但这里有个问题：参数虽然共享了，KV Cache往往还是每一轮各存一份。 跑5轮，缓存可能接近5倍。 作者提出了一个很直接的办法：第一轮负责建立完整KV Cache，后面的轮次共享这份“记忆”，自己只保留很短的局部缓存。 这个结构叫LPT，Looped Prediction Transformer。 反直觉的是，结果不只是“省显存”。在约1B参数、5次循环的实验里，普通Looped Transformer PPL：11.39，平均准确率：63.4%，Context Memory：5×。 而 LPT PPL：10.32，平均准确率：68.2%，Context Memory：1.06×。 也就是说，缓存从 5 倍降到接近 1 倍，性能反而明显提高。 论文里有两个很有意思的发现。 第一，不同循环开始出现“分工”。 首轮更像是在建立可复用的 State / Memory，后面的循环则基于这份 Memory 不断修正预测。 第二，共享 KV 还建立了一条作者称为 Gradient Highway 的路径。 因为后面的循环会直接读取第一轮产生的 KV，所以最终 Loss 的梯度，也可以更直接地传回第一轮。 论文做了个实验：允许后面读取 Shared KV，但切断这条梯度路径，模型表现马上变差。 Shared Memory 已经不只是 KV Cache 压缩技巧，它实际上改变了模型的训练结构。 这次Looped Transformer从同一套参数多跑几遍，开始变成不同轮次承担不同计算职责，并共享状态。 Looped Model真正值得研究的问题，可能不是到底循环几次，而是多出来的这些计算步骤，应该怎样分工、怎样共享状态、怎样把前后几轮真正组织起来。 不过它省的是Memory，不是Compute。5次循环依然意味着明显更多的计算量，而且目前实验只有约1B参数。 #Transformer #LoopedTransformer #KVCache #人工智能 #论文解读 #深度学习 #机器学习 #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac4c75c000000001a026f91?xsec_token=ABLc9V-bblelzd5_eSMfXcugK5QF2xidiVOjo_8mFOWHs=&xsec_source=pc_user",
+      "created_at": "2026-10-06T10:03:08.000Z",
+      "fetched_at": "2026-10-08T02:58:25.794Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "康奈尔x IBM：模型共用“记忆”效果更好",
+      "metrics": {
+        "collects": 14,
+        "comments": 2,
+        "likes": 18
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081056/26d5379b53b6f8732876621eeb3726b7/spectrum/1040g0k0325vrdu9s4c405p37m4gk4uihkj2qfpg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/a54942cb7c891a7b74bb51b9337aacda/spectrum/1040g0k0325vrdu9s4c005p37m4gk4uih0fhj6eg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/acc609bf6bc09cadb794c5d66fe0f436/spectrum/1040g0k0325vrdu9s4c0g5p37m4gk4uihoj760q0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/b00ad364be340a51ea864666b0e10a52/spectrum/1040g0k0325vrdu9s4c105p37m4gk4uihuvou1gg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/0f97661752de6d6c7674fffbb9484f7c/spectrum/1040g0k0325vrdu9s4c1g5p37m4gk4uihsrpotlo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/9731b85724cf3ec17c6cffe9b79ba56f/spectrum/1040g0k0325vrdu9s4c205p37m4gk4uihkmkjmg8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/f5d07a6717d0bf07d50f05b3bbe138ab/spectrum/1040g0k0325vrdu9s4c2g5p37m4gk4uihhch36co!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/a9fdbc23dcba399b252a67df094af8ee/spectrum/1040g0k0325vrdu9s4c305p37m4gk4uihtnaid0g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/18aa9065330b7e8d97a858a3c0045dc3/spectrum/1040g0k0325vrdu9s4c3g5p37m4gk4uih2s54c2g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/26d5379b53b6f8732876621eeb3726b7/spectrum/1040g0k0325vrdu9s4c405p37m4gk4uihkj2qfpg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081056/a54942cb7c891a7b74bb51b9337aacda/spectrum/1040g0k0325vrdu9s4c005p37m4gk4uih0fhj6eg!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2107356794410377510",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "When people talk about AI easily replacing workers, I think about this ethnography of copier repair technicians in the 1990s.\n\nYou see how work is complicated and improvised by workers and informal and badly documented.\n\n(But eventually technology did largely eliminate this job) https://t.co/DHGW060pUK",
+      "url": "https://x.com/emollick/status/2107356794410377510",
+      "created_at": "2026-10-06T06:26:27.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 337,
+        "replies": 96,
+        "retweets": 39,
+        "views": 29667
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT7TdFAWwAAnHAo.png",
+        "https://pbs.twimg.com/media/HT7Vn5gXAAAd5Zi.png",
+        "https://pbs.twimg.com/media/HT7VpDkXkAAn1zD.png"
+      ]
+    },
+    {
+      "id": "twitter:2107281172342427734",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Subtle problem with AI-written academic papers is that AI isn't calibrated for feedback. AI often just folds, but if you are sending a paper for review, challenges from peer reviewers should result in some attempt to defend your idea (while still giving up on it if really wrong)",
+      "url": "https://x.com/emollick/status/2107281172342427734",
+      "created_at": "2026-10-06T01:25:57.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 255,
+        "replies": 73,
+        "retweets": 8,
+        "views": 28360
+      }
+    },
+    {
+      "id": "xhs:6ac3c0430000000015008744",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "剑桥大学CASP的新论文《What if automating AI R&D triggers an intelligence explosion?》，作者包括 Geoffrey Hinton、Yoshua Bengio、Dawn Song、Jakub Pachocki、Jack Clark 等 22 位研究者。 它讨论如果 AI 开始大规模参与 AI 自己的研发，会发生什么？ “智能爆炸”并不是 AI 突然修改自己的模型权重，一夜之间变成超级智能。 现实的路径是：更强的 AI -> 自动完成更多 AI 研发 -> 更快产生下一代 AI -> 下一代 AI 再参与研发。 这个循环一旦闭合，就可能形成 Software-driven Intelligence Explosion，AI Researcher 将像软件一样可以复制。 人类研究员从 1000 人扩张到 1 万人，需要招聘、培养很多年；AI Researcher 理论上只需要更多算力。 论文做了个估算：头部实验室（OpenAI）可能承载百万至千万级“等效 AI Researcher”。 但人多了，研究就一定更快吗？ 有个关键参数Returns to Research Effort（r）：增加研发力量之后，能换来多少额外进步。 三个 AI 领域：计算机视觉、Atari 强化学习和语言模型，估出的 r 中心值约为 1.26、1.20、1.89。 如果 r<1，Ideas are getting harder to find，研究越往后越难，新增 AI Researcher 的收益会递减。 如果 r>1，新增研究能力带来的收益可能跑赢“好点子越来越难找”的阻力，反馈循环就可能持续加速。 论文推演大约 17 个月，AI 技术进步速度可能提高 10 倍，今天需要一年完成的技术进步，可能被压缩到五周左右。 论文花了很多篇幅讲它的局限性：算力可能成为硬瓶颈；实验无法无限并行；训练 Frontier Model 仍然需要时间；数据和可验证反馈有限；100 万个 Agent 也无法跳过必须串行完成的实验。 或许某一天我们回头发现：制造下一代 AI 的主要力量，已经开始变成上一代 AI。 #智能爆炸 #CASP #RecursiveSelfImprovement #RSI #AIResearch #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac3c0430000000015008744?xsec_token=ABzb27dKgxoow_Rx2jCPIeFITvDVI6yYMs5lusIelK9Mw=&xsec_source=pc_user",
+      "created_at": "2026-10-06T00:23:01.000Z",
+      "fetched_at": "2026-10-08T02:58:25.794Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "Hinton、Bengio联名：RSI 开始进入临界点",
+      "metrics": {
+        "collects": 43,
+        "comments": 3,
+        "likes": 43
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081057/ccfe162827fa385c881c2ef70fbf575c/spectrum/1040g0k0325ur6j4246505p37m4gk4uihvqlf8j8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/44733852f7f1adc240fcb0ad62e5d5cd/spectrum/1040g0k0325ur6j4246005p37m4gk4uihkrua6c0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/a81b0247a7f2b6c786e1a8c811bd1e5f/spectrum/1040g0k0325ur6j42460g5p37m4gk4uihlcfgr00!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/5825f7270bd036f54f116f4e3d225ddf/spectrum/1040g0k0325ur6j4246105p37m4gk4uih7kcrmao!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/b7375db4b0380f91ed5dd3eaa97e066a/spectrum/1040g0k0325ur6j42461g5p37m4gk4uihsr3soqg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/edb93655588e4b81ab22a905a6d56bcd/spectrum/1040g0k0325ur6j4246205p37m4gk4uihai089qo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/7fef29cb56432fd6498519769012aaa1/spectrum/1040g0k0325ur6j42462g5p37m4gk4uihhsluq38!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/763c6ccb7d1e09cb371e2d7995db0d50/spectrum/1040g0k0325ur6j4246305p37m4gk4uihho7fg8g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/8f1794b7325ba4c1b490db5118259060/spectrum/1040g0k0325ur6j42463g5p37m4gk4uihic8ulp0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/4bb2dab557a3cfd4547ea246fa101fa8/spectrum/1040g0k0325ur6j4246405p37m4gk4uihp11iomg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/5b71d4c2db36a720837411370ba009db/spectrum/1040g0k0325ur6j42464g5p37m4gk4uihfqlqv8o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/ccfe162827fa385c881c2ef70fbf575c/spectrum/1040g0k0325ur6j4246505p37m4gk4uihvqlf8j8!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2107257209839071391",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "As predicted. https://t.co/QDzCQG90q2",
+      "url": "https://x.com/emollick/status/2107257209839071391",
+      "created_at": "2026-10-05T23:50:44.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "retweets": 0,
+        "views": 6706
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT57LZcXsAABPK-.jpg",
+        "https://pbs.twimg.com/media/HT57NPOXoAAoLqG.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107248468800733571",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I tend to use ChatGPT on my machine for Codex work (using the Remote connection for management), but Dot is in the Cloud and I have a couple scheduled tasks in Claude running on my machine and... oh my gosh is it all confusing to explain to anyone who isn't deep into this stuff.",
+      "url": "https://x.com/emollick/status/2107248468800733571",
+      "created_at": "2026-10-05T23:16:00.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 78,
+        "replies": 11,
+        "retweets": 2,
+        "views": 8945
+      }
+    },
+    {
+      "id": "twitter:2107248012208791839",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Over the past weeks I switched a lot of my Cowork complex work to new Claude Projects (confusingly, it is not the same as the old Projects in Claude, instead, it persistently chats with a dedicated cloud VM). I found it to be much better in most ways, but not clearly documented.",
+      "url": "https://x.com/emollick/status/2107248012208791839",
+      "created_at": "2026-10-05T23:14:11.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 314,
+        "replies": 36,
+        "retweets": 4,
+        "views": 33958
+      }
+    },
+    {
+      "id": "twitter:2107243024581529699",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @vllm_project: We're excited to Co-host Open Together with @huggingface! We'll kick off Open Source AI Week with a gathering of communit…",
+      "url": "https://x.com/huggingface/status/2107243024581529699",
+      "created_at": "2026-10-05T22:54:22.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 3001
+      }
+    },
+    {
+      "id": "twitter:2107227739048513628",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "So much reporting on the Claude or OpenAI usage of the same handful of technology companies with competing products &amp; huge cloud infrastructure of their own.\n\nThere are many, many more firms out there that are not direct competitors &amp; whose use trends would be more informative.",
+      "url": "https://x.com/emollick/status/2107227739048513628",
+      "created_at": "2026-10-05T21:53:38.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 241,
+        "replies": 42,
+        "retweets": 12,
+        "views": 34210
+      }
+    },
+    {
+      "id": "twitter:2107205537536561274",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I will block replybots whose prompts make them generate inane comments connecting the poem to business process re-engineering or whatever, or those that quote a random line from the poem as \"the part that people miss\" etc. You can do better.",
+      "url": "https://x.com/emollick/status/2107205537536561274",
+      "created_at": "2026-10-05T20:25:24.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 49,
+        "replies": 9,
+        "retweets": 2,
+        "views": 11744
+      }
+    },
+    {
+      "id": "twitter:2107203549059014739",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "AI policy right now, especially from the Labs, makes me think of this poem.\n\nIf you believe superintelligence is near, you don't need to make hard decisions about how to build AI to make the world better. Just wait for ASI &amp; it will decide for us. But if that doesn't happen... https://t.co/YAaT5LFWTl",
+      "url": "https://x.com/emollick/status/2107203549059014739",
+      "created_at": "2026-10-05T20:17:30.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 167,
+        "replies": 25,
+        "retweets": 13,
+        "views": 24244
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT5GvruW0AAIUda.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107158718299173332",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @fffiloni: I built a @gradio playground to make this tangible 🔀 cc @victormustar \n\nGive Julia-1 a situation: it ranks options, estimates…",
+      "url": "https://x.com/huggingface/status/2107158718299173332",
+      "created_at": "2026-10-05T17:19:22.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 3284
+      }
+    },
+    {
+      "id": "twitter:2107130132922335432",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @akshay_pachaar: HuggingFace just closed a major gap in harness engineering!\n\n(the ultimate guide to multi-harness RL)\n\nthe same open-we…",
+      "url": "https://x.com/huggingface/status/2107130132922335432",
+      "created_at": "2026-10-05T15:25:46.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 101,
+        "views": 3068
+      }
+    },
+    {
+      "id": "twitter:2107129746589114811",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @alanzabihi: Today we're releasing Security-One, our open-weight 27B model for security decisions.\n\nIt reads a document, tool call, or c…",
+      "url": "https://x.com/huggingface/status/2107129746589114811",
+      "created_at": "2026-10-05T15:24:14.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 2968
+      }
+    },
+    {
+      "id": "twitter:2107129228231684565",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @oliviscusAI: Wow Nvidia has just released a tool to turn any image into an explorable 3D world\n\nAnd they made it 100% open source 🔥\n\n-…",
+      "url": "https://x.com/huggingface/status/2107129228231684565",
+      "created_at": "2026-10-05T15:22:11.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 277,
+        "views": 3029
+      }
+    },
+    {
+      "id": "twitter:2107129174884323620",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @RedHat_AI: An NVFP4 checkpoint of Qwen3.8-Flash-Next is on Hugging Face. MoE experts quantized to FP4, the rest kept in BF16, ready for…",
+      "url": "https://x.com/huggingface/status/2107129174884323620",
+      "created_at": "2026-10-05T15:21:58.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 31,
+        "views": 2924
+      }
+    },
+    {
+      "id": "twitter:2107123546002747768",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: Clef from @Cloudflare is number trending on HF! https://t.co/dloDL2nmy6",
+      "url": "https://x.com/huggingface/status/2107123546002747768",
+      "created_at": "2026-10-05T14:59:36.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 25,
+        "views": 2740
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT4AY7GWgAAMYZZ.png"
+      ]
+    },
+    {
+      "id": "twitter:2107123500599460122",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: We turned Claude Code, Codex, Hermes, Pi, @opencode and other coding harnesses into RL environments. No changes to the…",
+      "url": "https://x.com/huggingface/status/2107123500599460122",
+      "created_at": "2026-10-05T14:59:25.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 328,
+        "views": 2502
+      }
+    },
+    {
+      "id": "twitter:2107122734362959999",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @adithya_s_k: This is hugeeee for open-source RL environments.\n\nYou can now discover environments across OpenEnv, Verifiers, Harbor, NeM…",
+      "url": "https://x.com/huggingface/status/2107122734362959999",
+      "created_at": "2026-10-05T14:56:22.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 3035
+      }
+    },
+    {
+      "id": "twitter:2107122688254697769",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @Thom_Wolf: new roommate just moved in. walks like he's had three drinks, says no to everything. still quite cute so I might bring him e…",
+      "url": "https://x.com/huggingface/status/2107122688254697769",
+      "created_at": "2026-10-05T14:56:11.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 122,
+        "views": 2733
+      }
+    },
+    {
+      "id": "twitter:2107117662815846473",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ben_burtenshaw: RL environments now have a home on the @huggingface  Hub.\n\nEvery RL framework has its own way to find environments. Cus…",
+      "url": "https://x.com/huggingface/status/2107117662815846473",
+      "created_at": "2026-10-05T14:36:13.000Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 23,
+        "views": 3323
+      }
+    },
     {
       "id": "twitter:2107117502778249482",
       "platform": "twitter",
@@ -110,6 +1798,36 @@
       }
     },
     {
+      "id": "xhs:6ac33f22000000001b022f25",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "Harvard 的新论文《Finetuning with Sampling》，它挑战了一个越来越流行的判断：SFT 只会记答案，RL 才能真正学能力。 作者发现，很多时候问题可能不在 SFT，而在训练数据。 比如你拿 GPT-5 生成的一批高质量化学答案去微调 Qwen。答案当然是对的，但 GPT-5 的表达方式、推理路径和 token 分布，可能离 Qwen 自己原本的分布很远。 对 Qwen 来说，就像一个初中生直接背教授的标准答案：知识没错，但“说话方式”不是自己的。 这会带来一个问题：为了模仿这些 off-policy 数据，模型参数需要被大幅拉动，结果不仅容易过拟合，还可能把原来的能力一起冲掉。 论文给出的办法叫 Projection Sampling。 它不是直接把专家答案拿去 SFT，而是先让目标模型自己不断续写、重写，再保留那些依然正确，同时更像模型自己会生成的答案。 简单说，就是把“GPT-5 会怎么答”，慢慢变成“Qwen 自己可能怎么答对”。 然后再做普通 SFT。 结果很明显。在Chemistry任务上，Qwen2.5-7B： Base：34.3% 普通 SFT：61.8% Sampling SFT：66.0% 更关键的是遗忘。模型原有能力平均从 59.7%，普通 SFT 后掉到 52.0%；Sampling SFT 还能保持在 58.6%。 数学任务上更夸张，Qwen2.5-3B 在 MATH500 上，GRPO：31.3%，Sampling SFT：58.2%， 而 Sampling SFT 后再接 RL，还能继续涨到 65.2%。 所以这篇论文真正有意思的地方，并不是“SFT 打败 RL”。 它提出了一个很重要的新问题：训练数据不只是要正确、优质，还要让当前这个模型“好学”。 GPT-5 的最佳答案，未必是 Qwen 最容易吸收的答案。 未来的数据流程，可能会从专家数据 -> 训练， 变成专家数据 -> Sampling -> 模型专属数据 -> SFT -> RL。 训练数据也许不会再是一份固定资产，而会根据不同模型动态生成。 这可能才是这篇论文最值得关注的地方。 #SFT #强化学习 #RL #PostTraining #模型训练 #AI论文日报 #机器学习 #人工智能 #AI反常识howto #AI搞学习howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac33f22000000001b022f25?xsec_token=ABzb27dKgxoow_Rx2jCPIeFMIPkql3rfqibn4PKIigTOo=&xsec_source=pc_user",
+      "created_at": "2026-10-05T09:27:02.000Z",
+      "fetched_at": "2026-10-08T02:58:25.794Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "哈佛新论文：SFT的问题可能出在训练数据",
+      "metrics": {
+        "collects": 432,
+        "comments": 20,
+        "likes": 327
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081057/4a4d3bf104a52d3ed1ea84174098e936/spectrum/1040g0k0325ubikahka705p37m4gk4uihjsobulo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/32d3db729a27e97645018093d5cace5f/spectrum/1040g0k0325ubik74k6005p37m4gk4uih36pl8jg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/44c3a330f15fc81267131cd5739fbb49/spectrum/1040g0k0325ubik74k60g5p37m4gk4uihvcmb548!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/c2d224fe9a8960cfa6653aa6b3481bc0/spectrum/1040g0k0325ubik74k6105p37m4gk4uihjlq0t7o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/52070028416fe7344b0aba9ba21d8622/spectrum/1040g0k0325ubik74k61g5p37m4gk4uihs1t9uk0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/ae5cbff68717326324dcf8f1ec7de788/spectrum/1040g0k0325ubik74k6205p37m4gk4uih7v59nvo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/4b56a119fd6653b8f1473ca505a4015e/spectrum/1040g0k0325ubik74k62g5p37m4gk4uih2n07llg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/111833c7671da1c74ff8ea499a88e7e7/spectrum/1040g0k0325ubik74k6305p37m4gk4uihu10p7qg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/4eb3f9ec2dba200fac97ebb66539614c/spectrum/1040g0k0325ubik74k63g5p37m4gk4uih6obtie0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/b7159a6514a7f85f8b30d1b9a2a9d0af/spectrum/1040g0k0325ubik74k6405p37m4gk4uihe6o6cbo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/fe3351e20d970f337160f6f4fc8ae916/spectrum/1040g0k0325ubik74k64g5p37m4gk4uihri3msv0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081057/25d5a013621706c6b701c4a895ef2d8b/spectrum/1040g0k0325ubik74k6505p37m4gk4uih9afv2q0!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
       "id": "xhs:6ac2f76300000000120369c3",
       "platform": "xhs",
       "handle": "6314a2cc0000000012003173",
@@ -137,6 +1855,36 @@
         "https://sns-webpic-qc.xhscdn.com/202610070005/89b8d4d6b7ec1f80f9d3e6ec33dd9aa6/spectrum/1040g0k0325u2sdlul8405ookkb64gcbjgnuu53g!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610070005/3ef90c60948790bf26f7afb473edbc0a/spectrum/1040g0k0325u2sdlul84g5ookkb64gcbjloqf33o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610070005/74423ecc3a6016a791d0beb63fd8ac96/spectrum/1040g0k0325u2sdlul8505ookkb64gcbjnkmgjd8!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "xhs:6ac24e21000000001802b11c",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "CMU 和 USC 的新论文《Towards Looped Models Done Right Part II: Rethinking at Fixed Points》讨论的 Looped Model。 普通 Transformer 一层一层往上堆，每层都有不同参数；Looped Model 则保留少量 Block，让同一组参数反复执行多次。 看起来省参数但问题也很明显：参数少了，Activation、KV Cache、Prefill、RL Replay 的成本却会随着 Loop 次数继续增加。 论文发现如果训练方式合适，模型内部状态会逐渐收敛。比如：z₁ -> z₂ -> z₃ -> … -> z₈ 到了后面，可能已经变成：z₈≈z₉≈z₁₀ 继续 Loop，状态也几乎不变，这个状态就是Fixed Point，固定点。 论文发现大约95%的Token在第8个 Loop 左右已经趋于稳定。 这件事一旦成立，很多东西就可以节省掉了。 一个关键的思路是：Near a fixed point, the endpoint can replace the trajectory. 接近固定点后，终点可以替代整个过程。 带来的四个收益： 1️⃣ 训练时只反传最后几轮，Activation Memory最多降低约2.6× 2️⃣ 推理时只保存最终循环的 KV，KV Cache最多降低到约1/3 3️⃣ Prefill 直接预测最终状态，8K Prompt最快约1.79× 4️⃣ RL 阶段复用rollout的最终状态，scoring + backward接近2× 但是有 Loop，不代表自然就有 Fixed Point。如果永远固定跑N轮，模型完全可能只是学会“第N轮答对”，而没有学会真正收敛。 论文提出 Learned Depth Prior，让训练过程中不同Loop Depth动态采样，让模型学习更加稳定的迭代过程。 以前更像同一组 Transformer Layer 重复使用，现在更像用 Transformer 不断迭代求解一个最终稳定状态。 关注点也逐渐变成：状态是否收敛？ 多久收敛？ 能不能提前停止？ 能不能直接预测 Fixed Point？ #Transformer #LoopedModel #FixedPoint #人工智能 #论文解读 #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac24e21000000001802b11c?xsec_token=ABfOmAWLErDseKqtbFJzceLtxuT7KJ5k4LkqlNkXlLMxY=&xsec_source=pc_user",
+      "created_at": "2026-10-04T23:57:00.000Z",
+      "fetched_at": "2026-10-08T02:58:25.794Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "CMU x USC：Fixed Point正在重塑Loop Model",
+      "metrics": {
+        "collects": 111,
+        "comments": 6,
+        "likes": 78
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610081058/422bdb1105fcd66fda3e6a5e2606c8ff/spectrum/1040g0k0325te2kqgkc4g5p37m4gk4uihksjcc68!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/c4487ed36e597b30c953c5806d1817d0/spectrum/1040g0k0325te2kqgkc005p37m4gk4uihqvhl1lg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/d8a31b539916f49b791cdc80f527448a/spectrum/1040g0k0325te2kqgkc0g5p37m4gk4uihl9r0vu8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/dae388e737664383cb1486b5607f3131/spectrum/1040g0k0325te2kqgkc105p37m4gk4uihbre17a0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/1af8fa4cd766ed7cca4efa6b4c818fac/spectrum/1040g0k0325te2kqgkc1g5p37m4gk4uih2l4t6j8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/0dae256ae270045b838b751366c8af15/spectrum/1040g0k0325te2kqgkc205p37m4gk4uih1n5qr1o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/98886fe2285e1a7505cb7cfa67f8ba49/spectrum/1040g0k0325te2kqgkc2g5p37m4gk4uihs6uc6io!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/d97f9e4226ee78c1c43707537b294153/spectrum/1040g0k0325te2kqgkc305p37m4gk4uihkaqla18!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/01a1620916bfb670a2874b033c384d3f/spectrum/1040g0k0325te2kqgkc3g5p37m4gk4uihll8a0g8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/727f0cbf4b831c7cf2fe05ec97afa2b1/spectrum/1040g0k0325te2kqgkc405p37m4gk4uihhrukur8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/422bdb1105fcd66fda3e6a5e2606c8ff/spectrum/1040g0k0325te2kqgkc4g5p37m4gk4uihksjcc68!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610081058/c4487ed36e597b30c953c5806d1817d0/spectrum/1040g0k0325te2kqgkc005p37m4gk4uihqvhl1lg!nd_dft_wlteh_webp_3"
       ]
     },
     {
@@ -189,6 +1937,22 @@
         "replies": 0,
         "retweets": 1,
         "views": 968
+      }
+    },
+    {
+      "id": "twitter:2106807635593064619",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "Well yeah. This is also one reason why tax-based UBI won't work, labor share of taxes in the US is like 80%",
+      "url": "https://x.com/EMostaque/status/2106807635593064619",
+      "created_at": "2026-10-04T18:04:17.000Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 262,
+        "replies": 26,
+        "retweets": 30,
+        "views": 139796
       }
     },
     {
@@ -400,13 +2164,13 @@
       "text": "Also, to be clear, creating artificial consciousness should *not* be a goal of AI research. Understanding consciousness, sure, synthesizing it, no.",
       "url": "https://x.com/fchollet/status/2106550205445509431",
       "created_at": "2026-10-04T01:01:21.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-08T11:04:01.102Z",
       "author": "François Chollet",
       "metrics": {
-        "likes": 149,
-        "replies": 13,
-        "retweets": 6,
-        "views": 7782
+        "likes": 453,
+        "replies": 41,
+        "retweets": 22,
+        "views": 23383
       }
     },
     {
@@ -416,13 +2180,13 @@
       "text": "Arguing that \"consciousness arises from a computational substrate, and since AI models are computation, they are likely conscious,\" is as meaningless as arguing that \"living creatures are made of atoms, and since this rock is made of atoms, it is likely alive.\"\n\nEverything is computation. Sometimes incredibly sophisticated computation, like a chess engine, AlphaGo, google3, or the Linux kernel. That does not make it conscious. A rock being made of atoms does not confer it any of the properties we associate with living things, also made of atoms. Likewise a static input-output program that has *none* of the properties we associate with conscious beings (e.g. information integration, interoception, temporal binding, embodiment, etc.) has no more reason to be presumed conscious than a rock has to be presumed alive.\n\nHumanity has not yet created a conscious computer program, and there are no signs we are close to doing so. When we get close, the case for machine consciousness will be backed by evidence and corroborated by consciousness science (which is a thing), not by evidence-free wishful thinking and cargo culting.",
       "url": "https://x.com/fchollet/status/2106547436244304232",
       "created_at": "2026-10-04T00:50:21.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-08T11:04:01.102Z",
       "author": "François Chollet",
       "metrics": {
-        "likes": 1345,
-        "replies": 174,
-        "retweets": 198,
-        "views": 48176
+        "likes": 3248,
+        "replies": 387,
+        "retweets": 509,
+        "views": 231478
       }
     },
     {
@@ -672,13 +2436,13 @@
       "text": "Meta actually lost this, was fined $18b, shrugged and carried on\n\nThe largest ever antitrust award was $5.5b (Visa &amp; Mastercard)\n\nAny fine for slowing AI would be a fraction of this\n\nIt’s not a serious argument against coordinating if AI would break law/cause harm if they don’t",
       "url": "https://x.com/EMostaque/status/2106466482720755949",
       "created_at": "2026-10-03T19:28:40.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-08T06:59:05.153Z",
       "author": "Emad",
       "metrics": {
-        "likes": 66,
-        "replies": 14,
-        "retweets": 3,
-        "views": 16450
+        "likes": 93,
+        "replies": 16,
+        "retweets": 6,
+        "views": 23820
       }
     },
     {
@@ -1977,14 +3741,14 @@
       "text": "RT @natolambert: Today we're unveiling Trillium Labs @trillium_labs, a new non-profit to foster the open science of frontier AI. We're buil…",
       "url": "https://x.com/huggingface/status/2106075195438252343",
       "created_at": "2026-10-02T17:33:50.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-09T05:59:08.196Z",
       "author": "Hugging Face",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 273,
-        "views": 2854
+        "retweets": 300,
+        "views": 3095
       }
     },
     {
@@ -3287,13 +5051,13 @@
       "text": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧",
       "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
       "created_at": "2026-10-01T17:11:07.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-09T01:53:53.170Z",
       "author": "Google DeepMind",
       "metrics": {
-        "likes": 33,
-        "replies": 5,
+        "likes": 47,
+        "replies": 8,
         "retweets": 5,
-        "views": 26220
+        "views": 37066
       }
     },
     {
@@ -3303,13 +5067,13 @@
       "text": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilience",
       "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
       "created_at": "2026-10-01T17:11:05.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-09T01:53:53.170Z",
       "author": "Google DeepMind",
       "metrics": {
-        "likes": 546,
-        "replies": 108,
-        "retweets": 55,
-        "views": 69550
+        "likes": 576,
+        "replies": 135,
+        "retweets": 58,
+        "views": 86909
       },
       "media": [
         "https://pbs.twimg.com/media/HTj5qYVbAAAWeRS.jpg"
@@ -6976,14 +8740,14 @@
       "text": "RT @LisaSu: So excited to welcome @theworldlabs and @drfeifei to the @AMD family! I’ve always been a huge fan of Fei-Fei and her pioneering…",
       "url": "https://x.com/drfeifei/status/2104916249021157805",
       "created_at": "2026-09-29T12:48:35.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-08T02:56:12.613Z",
       "author": "Fei-Fei Li",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 508,
-        "views": 2664
+        "retweets": 504,
+        "views": 2714
       }
     },
     {
@@ -8589,13 +10353,13 @@
       "text": "Practical guidelines on securing frontier RL training, reflecting our current learnings:",
       "url": "https://x.com/gdb/status/2104821232441160070",
       "created_at": "2026-09-29T06:31:02.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-09T01:53:53.169Z",
       "author": "Greg Brockman",
       "metrics": {
-        "likes": 874,
-        "replies": 155,
-        "retweets": 49,
-        "views": 182673
+        "likes": 893,
+        "replies": 169,
+        "retweets": 52,
+        "views": 191471
       }
     },
     {
