@@ -1,7 +1,85 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T05:59:12.295Z",
+  "updated_at": "2026-10-09T16:01:01.549Z",
   "posts": [
+    {
+      "id": "twitter:2108474622966444102",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "This is great point\n\nGoodharts law: when a measure becomes a target, it ceases to be a good measure\n\nInitial take: eval driven development works for narrowly scoped things, but for more autonomous agents it doesn’t\n\nSo then - how do you hill climb those?",
+      "url": "https://x.com/hwchase17/status/2108474622966444102",
+      "created_at": "2026-10-09T08:28:18.000Z",
+      "fetched_at": "2026-10-09T10:03:56.685Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 32,
+        "replies": 22,
+        "retweets": 3,
+        "views": 2345
+      }
+    },
+    {
+      "id": "twitter:2108465208297476157",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "eval driven development",
+      "url": "https://x.com/hwchase17/status/2108465208297476157",
+      "created_at": "2026-10-09T07:50:53.000Z",
+      "fetched_at": "2026-10-09T10:03:56.685Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 52,
+        "replies": 8,
+        "retweets": 3,
+        "views": 4573
+      }
+    },
+    {
+      "id": "twitter:2108453917277254058",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "trajectory labeling is really several questions, not one pass/fail - nice framing here\n\nthat's how Jev as a judge works in LangSmith evals: difficulty and correctness each get their own typed answer, in one pass, on every trace\n\nhttps://t.co/jlD2ywtlOT\n\nhttps://t.co/QgQpQFpZ26",
+      "url": "https://x.com/hwchase17/status/2108453917277254058",
+      "created_at": "2026-10-09T07:06:01.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 33,
+        "replies": 20,
+        "retweets": 2,
+        "views": 3610
+      }
+    },
+    {
+      "id": "xhs:6ac85b4e0000000018005084",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "我们使用 Claude Code、Codex 时，经常遇到一个问题：Agent 执行时间一长，反而容易变笨。明明已经定位了 Bug，却又重新搜索代码；已经排除的原因，后面又重复分析。 如果给 Agent 足够大的上下文窗口，问题就能解决吗？ 最近，新加坡管理大学、南洋理工大学和哈佛大学的新论文《AUTOCOMPACT: LEARNING WHEN TO COMPACT CONTEXT IN LONG-HORIZON CODING AGENTS》，提出让 Agent 自己学会什么时候压缩上下文。 传统压缩通常按 Token 阈值触发，但作者认为，压缩应该跟着任务进度走。 比如 Agent 修复 Bug，前期需要搜索代码、分析日志、排查原因。但当问题已经定位，准备修改代码时，大量探索记录就失去了价值。 此时只需保留 Bug 根因、目标文件、当前状态和下一步计划。即使上下文还没满，主动压缩也能减少信息干扰。 AutoCompact 主要训练三个能力： When： 什么时候压缩？ What： 保留哪些关键信息？ How： 压缩后如何继续执行？ 训练分两步： 首先，用 GPT-5.5-Codex 作为 Judge，在线纠正 Agent 的压缩时机、摘要内容和后续动作，再通过 SFT 学习。 随后使用 GRPO 强化学习，以任务最终是否成功为奖励，进一步优化压缩策略。 实验结果很有意思：在 SWE-bench Verified 上： - 基础模型：30.4% - 固定阈值压缩：28.8% - AutoCompact-SFT：32.2% - AutoCompact（SFT+RL）：39.6% 成功率提升了 9.2 个百分点。 尤其值得注意的是，即使 256K 上下文足以容纳完整历史，主动压缩仍然有效。当然，整体提升也包含 RL 对编码能力的改善，不能全部归因于压缩。 AutoCompact 最大的启发是：上下文管理正在从固定的工程规则，变成模型可以学习的决策能力。 未来的 Agent 不仅要学会完成任务，还要学会在合适的时候整理工作状态，丢掉过期信息，带着关键结论继续执行。 记住所有过程，未必比记住关键结论更有帮助。 #AutoCompact #Harness #上下文工程 #强化学习 #GRPO #CodingAgent #AI论文解读 #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac85b4e0000000018005084?xsec_token=ABOYbEs3UNIVJQ604pf9YBxqXzCG2Plvbj2ZYYMYDLefo=&xsec_source=pc_user",
+      "created_at": "2026-10-09T03:11:10.000Z",
+      "fetched_at": "2026-10-09T10:05:15.610Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "SMU+NUS+哈佛：压缩上下文也可以用RL",
+      "metrics": {
+        "collects": 14,
+        "comments": 1,
+        "likes": 17
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610091804/c3697e7b6c2054f332c26b61b559a5db/spectrum/1040g0k03263b97v24c505p37m4gk4uih770hhm0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/03e3b24a0ddfcc858c637f79684e8024/spectrum/1040g0k03263b97v24c005p37m4gk4uihhgg8glo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/725c499c96e18ae5bfd56208f8b029d0/spectrum/1040g0k03263b97v24c0g5p37m4gk4uihusbugbo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/b9957a79bcc2d8c4b59094726c941340/spectrum/1040g0k03263b97v24c105p37m4gk4uihbmdse2g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/f098fd1ef44641b8282bb515550712ce/spectrum/1040g0k03263b97v24c1g5p37m4gk4uihig78mu0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/fb575249f605a7e4a646184959bbe5b6/spectrum/1040g0k03263b97v24c205p37m4gk4uihhjhq9f8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/00d357a90ad67cf73c86b7cddac36c02/spectrum/1040g0k03263b97v24c2g5p37m4gk4uih7srcgn8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/ef814f3157b739c77ee531a20f777d0a/spectrum/1040g0k03263b97v24c305p37m4gk4uihtb9aovo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/5456ff74a7325821070b69564abc2beb/spectrum/1040g0k03263b97v24c3g5p37m4gk4uih4a2hpi0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/a0ec29de7e422e6353823a21fddcf438/spectrum/1040g0k03263b97v24c405p37m4gk4uihj6bbfjg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/3f049720796ed9b144c5b2f5222f1b6b/spectrum/1040g0k03263b97v24c4g5p37m4gk4uihakpm1a8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/c3697e7b6c2054f332c26b61b559a5db/spectrum/1040g0k03263b97v24c505p37m4gk4uih770hhm0!nd_dft_wlteh_webp_3"
+      ]
+    },
     {
       "id": "twitter:2108296444662910980",
       "platform": "twitter",
@@ -54,6 +132,22 @@
       }
     },
     {
+      "id": "twitter:2108272060141301908",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "Sam on where decision models fit in a harness and how to use Jev with LangChain\n\nhttps://t.co/TgYoOiLJXd\n\n https://t.co/pRYMKQuLGq",
+      "url": "https://x.com/hwchase17/status/2108272060141301908",
+      "created_at": "2026-10-08T19:03:23.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 27,
+        "replies": 19,
+        "retweets": 8,
+        "views": 4910
+      }
+    },
+    {
       "id": "twitter:2108271757496852611",
       "platform": "twitter",
       "handle": "huggingface",
@@ -102,6 +196,23 @@
         "replies": 0,
         "retweets": 36,
         "views": 2146
+      }
+    },
+    {
+      "id": "twitter:2108270847471296882",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @sydneyrunkle: the @OpenAI decisions API is now in @LangChain! \n\nwe shipped:\n\n1. OpenAIDecisions: ask yes/no, choice, and score question…",
+      "url": "https://x.com/hwchase17/status/2108270847471296882",
+      "created_at": "2026-10-08T18:58:34.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 636
       }
     },
     {
@@ -365,6 +476,59 @@
       }
     },
     {
+      "id": "xhs:6ac78cac0000000015014394",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "腾讯混元团队和复旦大学的新论文《WorkForge：SCALING VERIFIABLE ENVIRONMENTS FOR LONGHORIZON WORK AGENTS》，构建了约 1.67万个可验证的 Agent 工作环境，覆盖40个专业领域、60种文件类型。 用这些数据训练模型后Qwen3.5-35B-A3B-Base 在GDPval上的评分从45.5提升到73.6，APEX从5.0提升到21.3。 这次的思路是让 Agent 在真实工作环境里学习如何干活。 传统大模型训练，可以提供大量问题和标准答案。 但真实工作复杂得多：比如让 AI 做一份报告，需要自己翻找文件、清洗数据、处理异常、分析结果，最后交付PPT和Excel。 过去很多合成任务环境比较简单，文件少、信息集中。而WorkForge构建的真实工作空间，平均包含 42.3 个文件，合成对照环境平均只有 7.9 个。 WorkForge的实现过程也很巧妙。 首先由专家定义工作流程，包括任务、关键决策和交付要求。然后 AI 自动搜集真实文件，理解目录结构，提取可以核实的事实锚点，再基于这些事实生成任务和验收标准。 验收方式分为两种：程序验证负责检查数据、文件和计算结果；语义验证负责判断分析质量与结论合理性。 最后，让Agent自己探索环境、调用工具、处理错误、交付成果，记录完整执行轨迹，用于微调SFT。 论文还有三个有意思的发现： ① 混合验证效果更好：单独用程序或 LLM 评分，都不如两者结合。 ② 长轨迹训练很重要：学习更长执行轨迹的模型，在部分测试中表现更好，也更愿意持续探索、调用工具。 ③ Harness 会影响模型行为：用Claude Code轨迹训练的模型，在Claude Code环境中表现更好；其他Harness也有类似现象，模型会学习特定执行框架的工作习惯。 WorkForge 有意义的地方是把真实工作环境变成了可以规模化生产的训练资源。 一个复杂的 Workspace，本身就包含文件关系、隐藏约束、异常情况和可验证的交付结果，可以衍生大量训练任务。 当然，目前主要覆盖文件型工作，对企业场景还有距离。 值得关注的是未来提升 Agent 能力，除了更好的模型和算法，还需要更多高质量、可验证的真实工作环境。 #Harness #腾讯混元 #论文解读 #RSI #WorkForge #AI搞学习howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac78cac0000000015014394?xsec_token=ABVy0E5Xs7fbVQdeH_nkv-kLNWwD4SwX7_olRs9j8GejQ=&xsec_source=pc_user",
+      "created_at": "2026-10-08T12:29:32.000Z",
+      "fetched_at": "2026-10-09T10:05:15.610Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "混元x复旦新论文：找到训练Agent的新方式",
+      "metrics": {
+        "collects": 37,
+        "comments": 3,
+        "likes": 27
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610091804/0e30b72a46785a0361dde8e86cf1b204/spectrum/1040g0k03262i00rg4a0g5p37m4gk4uihj4qks6o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/5bf555746c7ee200077d884f3329782d/spectrum/1040g0k03262i00kjk60g5p37m4gk4uihsnim3l0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/b1ce780fc66cb0360027ca829315f357/spectrum/1040g0k03262i00kjk6105p37m4gk4uihru2drp8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/53edca20e0d8d420fb7b2e5a26bb6c5f/spectrum/1040g0k03262i00kjk61g5p37m4gk4uihg79qk98!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/96dc4b9b2b45134f957409b1569d5638/spectrum/1040g0k03262i00kjk6205p37m4gk4uihvnbitgg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/5f1b54b28aa235ba5323f8afa5008bfe/spectrum/1040g0k03262i00kjk62g5p37m4gk4uihr0v8ra0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/bd3b5a109f853f44b3abec31dd16cd21/spectrum/1040g0k03262i00kjk6305p37m4gk4uih1dsrkn0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/346601cecb46349a841b540388643588/spectrum/1040g0k03262i00kjk63g5p37m4gk4uihp828pcg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/1eae62f06bff9ad7ba802dd9c419a32c/spectrum/1040g0k03262i00kjk6405p37m4gk4uih9pdv9eg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/8154aa39afe630dd6dfe42de6ffb91b0/spectrum/1040g0k03262i00kjk64g5p37m4gk4uihusqajlo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/68f1102c665174d1835676a47ff33fa0/spectrum/1040g0k03262i00kjk6505p37m4gk4uihteku5ro!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091804/de031b1bdfb7dde19883dd8a5ffd7d1e/spectrum/1040g0k03262i00kjk65g5p37m4gk4uih5921s3o!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "xhs:6ac7855f0000000018012230",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "固定80%的日常动作，减少决策成本，把纠结/犹豫/拖延的时间省下来，花在让自己开心自在的事情上面 我发现，精力很难凭空增加，但是可以节省 远离消耗的人和事，不必要的、不想做又不敢拒绝的事，统统say no！ SOP 不是为了计划做什么，是为了明确不做什么 #J人的生活 #极简生活howto #SOP #清华大学 #清华 #AI异类弗兰克",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6ac7855f0000000018012230?xsec_token=ABVy0E5Xs7fbVQdeH_nkv-kI8e6XTv8Ev7Dub5VxY0hA4=&xsec_source=pc_user",
+      "created_at": "2026-10-08T11:58:23.000Z",
+      "fetched_at": "2026-10-09T05:59:53.975Z",
+      "author": "AI异类弗兰克",
+      "title": "清华开学一个月，这是我的 SOP",
+      "metrics": {
+        "collects": 24,
+        "comments": 1,
+        "likes": 33
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610091359/6bf268b26bcd5550391e5080a79bce87/notes_pre_post/1040g3k83262h29jc562g5nm6daug8qka6hjqe5o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091359/cc8483727516a2785ddaca026485611e/notes_pre_post/1040g3k83262h29jc561g5nm6daug8qkai512ddg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091359/0686bc4fb361d8f98caa49a55395dca4/notes_pre_post/1040g3k83262h29jc56205nm6daug8qkatf4nq9o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091359/6bf268b26bcd5550391e5080a79bce87/notes_pre_post/1040g3k83262h29jc562g5nm6daug8qka6hjqe5o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610091359/cc8483727516a2785ddaca026485611e/notes_pre_post/1040g3k83262h29jc561g5nm6daug8qkai512ddg!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
       "id": "xhs:6ac70e05000000001203a7af",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -478,6 +642,23 @@
       ]
     },
     {
+      "id": "twitter:2107951687587479713",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @sydneyrunkle: i'm most excited about the idea of \"binding tools to skills\"\n\nthis is basically progressive disclosure^2 -- when a skill…",
+      "url": "https://x.com/hwchase17/status/2107951687587479713",
+      "created_at": "2026-10-07T21:50:20.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 692
+      }
+    },
+    {
       "id": "twitter:2107938889004396561",
       "platform": "twitter",
       "handle": "emollick",
@@ -491,6 +672,23 @@
         "replies": 53,
         "retweets": 20,
         "views": 29681
+      }
+    },
+    {
+      "id": "twitter:2107935410596823275",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @sydneyrunkle: skills are now the standard way to give agents domain knowledge!\n\nwe're now seeing expansive skill registries (shared acr…",
+      "url": "https://x.com/hwchase17/status/2107935410596823275",
+      "created_at": "2026-10-07T20:45:40.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 12,
+        "views": 718
       }
     },
     {
@@ -565,6 +763,55 @@
       ]
     },
     {
+      "id": "twitter:2107921716605517953",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "interrupt london is next tuesday\n\nreally looking forward to hearing from Orange and OVO on what's actually working with agents in production. we're also running hands-on workshops on Deep Agents and Engine\n\nhttps://t.co/5oClaWhAA6",
+      "url": "https://x.com/hwchase17/status/2107921716605517953",
+      "created_at": "2026-10-07T19:51:15.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 43,
+        "replies": 14,
+        "retweets": 8,
+        "views": 5504
+      }
+    },
+    {
+      "id": "twitter:2107910495533666794",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @JoshARosen: @hwchase17 Deepagents is more composable every day.",
+      "url": "https://x.com/hwchase17/status/2107910495533666794",
+      "created_at": "2026-10-07T19:06:39.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 756
+      }
+    },
+    {
+      "id": "twitter:2107908436965179896",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "One cool thing deepagents now supports: dynamically loading tools when is a skill is loaded\n\nSome skills require specific tools that you may not always want to have available. This now allows you to pair them \n\nWith openai/anthropic models, it’s possible to do this in a way where it doesn’t break the prompt cache!",
+      "url": "https://x.com/hwchase17/status/2107908436965179896",
+      "created_at": "2026-10-07T18:58:29.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 85,
+        "replies": 35,
+        "retweets": 13,
+        "views": 8423
+      }
+    },
+    {
       "id": "twitter:2107908193666187560",
       "platform": "twitter",
       "handle": "GoogleDeepMind",
@@ -579,6 +826,40 @@
         "replies": 0,
         "retweets": 41,
         "views": 8314
+      }
+    },
+    {
+      "id": "twitter:2107908051466592404",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @sydneyrunkle: https://t.co/Tpta7FK4Ct",
+      "url": "https://x.com/hwchase17/status/2107908051466592404",
+      "created_at": "2026-10-07T18:56:57.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 688
+      }
+    },
+    {
+      "id": "twitter:2107901016230551877",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @caspar_br: managed deep agents 0.9 is here! things we shipped:\n\n⏰ agents can schedule tasks OBO themselves or the user\n🏭 dynamically co…",
+      "url": "https://x.com/hwchase17/status/2107901016230551877",
+      "created_at": "2026-10-07T18:28:59.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 750
       }
     },
     {
@@ -735,6 +1016,23 @@
       }
     },
     {
+      "id": "twitter:2107857414557139087",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @jakebroekhuizen: Come join us! We're hiring across nearly every role 🚂\n\nhttps://t.co/TksaJoHcLq",
+      "url": "https://x.com/hwchase17/status/2107857414557139087",
+      "created_at": "2026-10-07T15:35:44.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 17,
+        "views": 831
+      }
+    },
+    {
       "id": "twitter:2107847721893663089",
       "platform": "twitter",
       "handle": "EMostaque",
@@ -806,6 +1104,25 @@
       ]
     },
     {
+      "id": "twitter:2107827850170495107",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "Figure 1-20 is the most important figure out of the 330+ in An Illustrated Guide to AI Agents. \n\n1- It shows what today's LLM-based AI agents are composed of, including their user and environment loops.\n\n2- It is also therefore a table of contents for Part 1: Agent Fundamentals, showing where each of the key components is explained in details.\n\nRead it here:\nAmazon: https://t.co/0dX0Js2IP8\nO'Reilly: https://t.co/rrf0n2l3QG\nPDF e-book: https://t.co/AThVjkVkB4",
+      "url": "https://x.com/JayAlammar/status/2107827850170495107",
+      "created_at": "2026-10-07T13:38:15.000Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "author": "Jay Alammar",
+      "metrics": {
+        "likes": 237,
+        "replies": 6,
+        "retweets": 35,
+        "views": 12644
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUCAZrkWoAAeRzr.jpg"
+      ]
+    },
+    {
       "id": "twitter:2107823411674112277",
       "platform": "twitter",
       "handle": "EMostaque",
@@ -866,6 +1183,22 @@
         "https://sns-webpic-qc.xhscdn.com/202610081056/71183d6ca7c9b46031041953fe371d35/spectrum/1040g0k032618unt144405p37m4gk4uih0bvpkv0!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610081056/824ae6ba471611536a164fe273a0799e/spectrum/1040g0k032618unt144005p37m4gk4uihdqus1m0!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2107766611646038216",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "We have a really strong team :)\n\nCome join us!",
+      "url": "https://x.com/hwchase17/status/2107766611646038216",
+      "created_at": "2026-10-07T09:34:55.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 91,
+        "replies": 7,
+        "retweets": 6,
+        "views": 16989
+      }
     },
     {
       "id": "twitter:2107648160604528897",
@@ -1074,6 +1407,40 @@
       }
     },
     {
+      "id": "twitter:2107567211238088714",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "RT @enjalot: @JayAlammar it's a great design space with some interesting branches https://t.co/i4QLnXRQUZ",
+      "url": "https://x.com/JayAlammar/status/2107567211238088714",
+      "created_at": "2026-10-06T20:22:34.000Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "author": "Jay Alammar",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 317
+      }
+    },
+    {
+      "id": "twitter:2107560500020281466",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @Shashikant86: Can we  call next week as official \"London  Agent Week\" @hwchase17 @ankush_gola11 WDYT? \n\n @LangChain  Interrupt is happe…",
+      "url": "https://x.com/hwchase17/status/2107560500020281466",
+      "created_at": "2026-10-06T19:55:54.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 780
+      }
+    },
+    {
       "id": "twitter:2107558552999174624",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1141,6 +1508,57 @@
       }
     },
     {
+      "id": "twitter:2107536414350926119",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @caspar_br: let me introduce you to the langchain stack\n\n1. langgraph gives you this level of control\n2. traces give you the complete ru…",
+      "url": "https://x.com/hwchase17/status/2107536414350926119",
+      "created_at": "2026-10-06T18:20:11.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 813
+      }
+    },
+    {
+      "id": "twitter:2107525564449861865",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @sydneyrunkle: not every task needs a frontier model!\n\nwe built a model router into our coding agent's harness and cut costs by 64% w/o…",
+      "url": "https://x.com/hwchase17/status/2107525564449861865",
+      "created_at": "2026-10-06T17:37:05.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 19,
+        "views": 793
+      }
+    },
+    {
+      "id": "twitter:2107524948302451060",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @ndrezn: free web search! for your agents! backed by Parallel with ZDR. Take it for a spin today.",
+      "url": "https://x.com/hwchase17/status/2107524948302451060",
+      "created_at": "2026-10-06T17:34:38.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 804
+      }
+    },
+    {
       "id": "twitter:2107524104786202808",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1190,6 +1608,26 @@
         "retweets": 44,
         "views": 3011
       }
+    },
+    {
+      "id": "twitter:2107517354297184508",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @caspar_br: time to level up https://t.co/pnmD06la9i https://t.co/55JZ2ssC25",
+      "url": "https://x.com/hwchase17/status/2107517354297184508",
+      "created_at": "2026-10-06T17:04:27.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 784
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107512251146227712/img/Nz7_z_IEOm9rENX0.jpg"
+      ]
     },
     {
       "id": "twitter:2107502289652982118",
@@ -1268,6 +1706,22 @@
       ]
     },
     {
+      "id": "twitter:2107464673134031262",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "Such a beautiful way to express math to humans.",
+      "url": "https://x.com/JayAlammar/status/2107464673134031262",
+      "created_at": "2026-10-06T13:35:07.000Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "author": "Jay Alammar",
+      "metrics": {
+        "likes": 2051,
+        "replies": 5,
+        "retweets": 140,
+        "views": 76087
+      }
+    },
+    {
       "id": "twitter:2107433480095404103",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1329,6 +1783,23 @@
         "https://sns-webpic-qc.xhscdn.com/202610081056/26d5379b53b6f8732876621eeb3726b7/spectrum/1040g0k0325vrdu9s4c405p37m4gk4uihkj2qfpg!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610081056/a54942cb7c891a7b74bb51b9337aacda/spectrum/1040g0k0325vrdu9s4c005p37m4gk4uih0fhj6eg!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2107399048906870967",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @GitMaxd: Bots and Dots are great for personal workflows 💯\n\nWhat happens when you want to share and monetize that workflow?\n\nThat's wher…",
+      "url": "https://x.com/hwchase17/status/2107399048906870967",
+      "created_at": "2026-10-06T09:14:21.000Z",
+      "fetched_at": "2026-10-09T10:03:56.686Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 897
+      }
     },
     {
       "id": "twitter:2107356794410377510",
@@ -1533,6 +2004,41 @@
         "retweets": 4,
         "views": 3284
       }
+    },
+    {
+      "id": "twitter:2107134659276501372",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "Congrats team @Aleph__Alpha!",
+      "url": "https://x.com/JayAlammar/status/2107134659276501372",
+      "created_at": "2026-10-05T15:43:46.000Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "author": "Jay Alammar",
+      "metrics": {
+        "likes": 31,
+        "replies": 2,
+        "retweets": 2,
+        "views": 3099
+      }
+    },
+    {
+      "id": "twitter:2107134345739632935",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "Fascinating!\n\nElephants talk with deep rumbles, alone or overlapping like a choir, and this research found the sounds carry a rough clue about what's happening (meeting up, staying in touch, deciding to move), whether it's one elephant or many. \n\nIn a chorus, each elephant uses the kind of rumble that fits the situation, and in some situations, especially when coordinating plans, their voices drift to sound more alike as the conversation goes on.",
+      "url": "https://x.com/JayAlammar/status/2107134345739632935",
+      "created_at": "2026-10-05T15:42:31.000Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "author": "Jay Alammar",
+      "metrics": {
+        "likes": 46,
+        "replies": 2,
+        "retweets": 6,
+        "views": 3271
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT4LL4pW0AAMnTA.png"
+      ]
     },
     {
       "id": "twitter:2107130132922335432",
@@ -1970,6 +2476,23 @@
         "replies": 0,
         "retweets": 1,
         "views": 1069
+      }
+    },
+    {
+      "id": "twitter:2106744700543619225",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "RT @OutliersVC: 🚀 𝗧𝗵𝗲 𝗢𝘂𝘁𝗹𝗶𝗲𝗿𝘀 𝗕𝘂𝗶𝗹𝗱𝗲𝗿𝘀 𝗦𝘂𝗺𝗺𝗶𝘁 𝗶𝘀 𝗯𝗮𝗰𝗸! \n\nOur annual invite-only gathering is back, bringing together the region’s most amb…",
+      "url": "https://x.com/JayAlammar/status/2106744700543619225",
+      "created_at": "2026-10-04T13:54:12.000Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "author": "Jay Alammar",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 384
       }
     },
     {
@@ -5445,13 +5968,13 @@
       "text": "\"Music is a hidden exercise in arithmetic by a soul that does not know it is counting.\" ~Leibniz\n\nSchopenhauer: That is quite accurate from a lower standpoint and may be parodied in the following way to suit our higher view of music:\n\nMusic is \"a hidden exercise in metaphysics by a soul that does not know it is philosophising.\"",
       "url": "https://x.com/JayAlammar/status/2105666435087319425",
       "created_at": "2026-10-01T14:29:34.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-09T16:00:57.770Z",
       "author": "Jay Alammar",
       "metrics": {
-        "likes": 17,
+        "likes": 18,
         "replies": 2,
         "retweets": 1,
-        "views": 2060
+        "views": 2223
       }
     },
     {

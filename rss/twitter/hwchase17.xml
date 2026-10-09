@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Oct 2026 20:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:28:18 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Harrison Chase：This is great point</title>
+      <link>https://x.com/hwchase17/status/2108474622966444102</link>
+      <guid isPermaLink="false">twitter:2108474622966444102</guid>
+      <pubDate>Fri, 09 Oct 2026 08:28:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>This is great point<br /><br />Goodharts law: when a measure becomes a target, it ceases to be a good measure<br /><br />Initial take: eval driven development works for narrowly scoped things, but for more autonomous agents it doesn’t<br /><br />So then - how do you hill climb those?</p><p><a href="https://x.com/hwchase17/status/2108474622966444102">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：eval driven development</title>
+      <link>https://x.com/hwchase17/status/2108465208297476157</link>
+      <guid isPermaLink="false">twitter:2108465208297476157</guid>
+      <pubDate>Fri, 09 Oct 2026 07:50:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>eval driven development</p><p><a href="https://x.com/hwchase17/status/2108465208297476157">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：trajectory labeling is really several questions, not one pass/fail - nice f…</title>
+      <link>https://x.com/hwchase17/status/2108453917277254058</link>
+      <guid isPermaLink="false">twitter:2108453917277254058</guid>
+      <pubDate>Fri, 09 Oct 2026 07:06:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>trajectory labeling is really several questions, not one pass/fail - nice framing here<br /><br />that&apos;s how Jev as a judge works in LangSmith evals: difficulty and correctness each get their own typed answer, in one pass, on every trace<br /><br />https://t.co/jlD2ywtlOT<br /><br />https://t.co/QgQpQFpZ26</p><p><a href="https://x.com/hwchase17/status/2108453917277254058">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：Sam on where decision models fit in a harness and how to use Jev with LangC…</title>
+      <link>https://x.com/hwchase17/status/2108272060141301908</link>
+      <guid isPermaLink="false">twitter:2108272060141301908</guid>
+      <pubDate>Thu, 08 Oct 2026 19:03:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Sam on where decision models fit in a harness and how to use Jev with LangChain<br /><br />https://t.co/TgYoOiLJXd<br /><br /> https://t.co/pRYMKQuLGq</p><p><a href="https://x.com/hwchase17/status/2108272060141301908">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: the @OpenAI decisions API is now in @LangChain!</title>
+      <link>https://x.com/hwchase17/status/2108270847471296882</link>
+      <guid isPermaLink="false">twitter:2108270847471296882</guid>
+      <pubDate>Thu, 08 Oct 2026 18:58:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: the @OpenAI decisions API is now in @LangChain! <br /><br />we shipped:<br /><br />1. OpenAIDecisions: ask yes/no, choice, and score question…</p><p><a href="https://x.com/hwchase17/status/2108270847471296882">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: i&apos;m most excited about the idea of &quot;binding tools to skil…</title>
+      <link>https://x.com/hwchase17/status/2107951687587479713</link>
+      <guid isPermaLink="false">twitter:2107951687587479713</guid>
+      <pubDate>Wed, 07 Oct 2026 21:50:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: i&apos;m most excited about the idea of &quot;binding tools to skills&quot;<br /><br />this is basically progressive disclosure^2 -- when a skill…</p><p><a href="https://x.com/hwchase17/status/2107951687587479713">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: skills are now the standard way to give agents domain kno…</title>
+      <link>https://x.com/hwchase17/status/2107935410596823275</link>
+      <guid isPermaLink="false">twitter:2107935410596823275</guid>
+      <pubDate>Wed, 07 Oct 2026 20:45:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: skills are now the standard way to give agents domain knowledge!<br /><br />we&apos;re now seeing expansive skill registries (shared acr…</p><p><a href="https://x.com/hwchase17/status/2107935410596823275">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：interrupt london is next tuesday</title>
+      <link>https://x.com/hwchase17/status/2107921716605517953</link>
+      <guid isPermaLink="false">twitter:2107921716605517953</guid>
+      <pubDate>Wed, 07 Oct 2026 19:51:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>interrupt london is next tuesday<br /><br />really looking forward to hearing from Orange and OVO on what&apos;s actually working with agents in production. we&apos;re also running hands-on workshops on Deep Agents and Engine<br /><br />https://t.co/5oClaWhAA6</p><p><a href="https://x.com/hwchase17/status/2107921716605517953">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @JoshARosen: @hwchase17 Deepagents is more composable every day.</title>
+      <link>https://x.com/hwchase17/status/2107910495533666794</link>
+      <guid isPermaLink="false">twitter:2107910495533666794</guid>
+      <pubDate>Wed, 07 Oct 2026 19:06:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JoshARosen: @hwchase17 Deepagents is more composable every day.</p><p><a href="https://x.com/hwchase17/status/2107910495533666794">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：One cool thing deepagents now supports: dynamically loading tools when is a…</title>
+      <link>https://x.com/hwchase17/status/2107908436965179896</link>
+      <guid isPermaLink="false">twitter:2107908436965179896</guid>
+      <pubDate>Wed, 07 Oct 2026 18:58:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>One cool thing deepagents now supports: dynamically loading tools when is a skill is loaded<br /><br />Some skills require specific tools that you may not always want to have available. This now allows you to pair them <br /><br />With openai/anthropic models, it’s possible to do this in a way where it doesn’t break the prompt cache!</p><p><a href="https://x.com/hwchase17/status/2107908436965179896">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: https://t.co/Tpta7FK4Ct</title>
+      <link>https://x.com/hwchase17/status/2107908051466592404</link>
+      <guid isPermaLink="false">twitter:2107908051466592404</guid>
+      <pubDate>Wed, 07 Oct 2026 18:56:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: https://t.co/Tpta7FK4Ct</p><p><a href="https://x.com/hwchase17/status/2107908051466592404">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: managed deep agents 0.9 is here! things we shipped:</title>
+      <link>https://x.com/hwchase17/status/2107901016230551877</link>
+      <guid isPermaLink="false">twitter:2107901016230551877</guid>
+      <pubDate>Wed, 07 Oct 2026 18:28:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: managed deep agents 0.9 is here! things we shipped:<br /><br />⏰ agents can schedule tasks OBO themselves or the user<br />🏭 dynamically co…</p><p><a href="https://x.com/hwchase17/status/2107901016230551877">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @jakebroekhuizen: Come join us! We&apos;re hiring across nearly every role 🚂</title>
+      <link>https://x.com/hwchase17/status/2107857414557139087</link>
+      <guid isPermaLink="false">twitter:2107857414557139087</guid>
+      <pubDate>Wed, 07 Oct 2026 15:35:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @jakebroekhuizen: Come join us! We&apos;re hiring across nearly every role 🚂<br /><br />https://t.co/TksaJoHcLq</p><p><a href="https://x.com/hwchase17/status/2107857414557139087">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：We have a really strong team :)</title>
+      <link>https://x.com/hwchase17/status/2107766611646038216</link>
+      <guid isPermaLink="false">twitter:2107766611646038216</guid>
+      <pubDate>Wed, 07 Oct 2026 09:34:55 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We have a really strong team :)<br /><br />Come join us!</p><p><a href="https://x.com/hwchase17/status/2107766611646038216">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @Shashikant86: Can we  call next week as official &quot;London  Agent Week&quot; @…</title>
+      <link>https://x.com/hwchase17/status/2107560500020281466</link>
+      <guid isPermaLink="false">twitter:2107560500020281466</guid>
+      <pubDate>Tue, 06 Oct 2026 19:55:54 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Shashikant86: Can we  call next week as official &quot;London  Agent Week&quot; @hwchase17 @ankush_gola11 WDYT? <br /><br /> @LangChain  Interrupt is happe…</p><p><a href="https://x.com/hwchase17/status/2107560500020281466">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: let me introduce you to the langchain stack</title>
+      <link>https://x.com/hwchase17/status/2107536414350926119</link>
+      <guid isPermaLink="false">twitter:2107536414350926119</guid>
+      <pubDate>Tue, 06 Oct 2026 18:20:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: let me introduce you to the langchain stack<br /><br />1. langgraph gives you this level of control<br />2. traces give you the complete ru…</p><p><a href="https://x.com/hwchase17/status/2107536414350926119">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: not every task needs a frontier model!</title>
+      <link>https://x.com/hwchase17/status/2107525564449861865</link>
+      <guid isPermaLink="false">twitter:2107525564449861865</guid>
+      <pubDate>Tue, 06 Oct 2026 17:37:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: not every task needs a frontier model!<br /><br />we built a model router into our coding agent&apos;s harness and cut costs by 64% w/o…</p><p><a href="https://x.com/hwchase17/status/2107525564449861865">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @ndrezn: free web search! for your agents! backed by Parallel with ZDR. …</title>
+      <link>https://x.com/hwchase17/status/2107524948302451060</link>
+      <guid isPermaLink="false">twitter:2107524948302451060</guid>
+      <pubDate>Tue, 06 Oct 2026 17:34:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ndrezn: free web search! for your agents! backed by Parallel with ZDR. Take it for a spin today.</p><p><a href="https://x.com/hwchase17/status/2107524948302451060">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: time to level up https://t.co/pnmD06la9i https://t.co/55JZ2s…</title>
+      <link>https://x.com/hwchase17/status/2107517354297184508</link>
+      <guid isPermaLink="false">twitter:2107517354297184508</guid>
+      <pubDate>Tue, 06 Oct 2026 17:04:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: time to level up https://t.co/pnmD06la9i https://t.co/55JZ2ssC25</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107512251146227712/img/Nz7_z_IEOm9rENX0.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2107517354297184508">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @GitMaxd: Bots and Dots are great for personal workflows 💯</title>
+      <link>https://x.com/hwchase17/status/2107399048906870967</link>
+      <guid isPermaLink="false">twitter:2107399048906870967</guid>
+      <pubDate>Tue, 06 Oct 2026 09:14:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @GitMaxd: Bots and Dots are great for personal workflows 💯<br /><br />What happens when you want to share and monetize that workflow?<br /><br />That&apos;s wher…</p><p><a href="https://x.com/hwchase17/status/2107399048906870967">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Harrison Chase：specialized agents or one mega agent?</title>
       <link>https://x.com/hwchase17/status/2106475835964477533</link>
