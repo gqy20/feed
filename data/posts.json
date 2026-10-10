@@ -1,7 +1,24 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-10T00:04:01.080Z",
+  "updated_at": "2026-10-10T20:09:01.528Z",
   "posts": [
+    {
+      "id": "twitter:2108637293368242291",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "RT @ChatGPT: Fresh updates for dots.\n\nFirst up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android.…",
+      "url": "https://x.com/OpenAI/status/2108637293368242291",
+      "created_at": "2026-10-09T19:14:41.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 214,
+        "views": 43610
+      }
+    },
     {
       "id": "twitter:2108633631610884555",
       "platform": "twitter",
@@ -522,6 +539,23 @@
       }
     },
     {
+      "id": "twitter:2108269021430710412",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "RT @OpenAIDevs: Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.\n\nNear-Astra intelligence at up to 8x fa…",
+      "url": "https://x.com/OpenAI/status/2108269021430710412",
+      "created_at": "2026-10-08T18:51:19.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 363,
+        "views": 43056
+      }
+    },
+    {
       "id": "twitter:2108254114362904619",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -787,6 +821,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2108212150036541440/img/-U1xnH_NGh04jV8p.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108209559345205430",
+      "platform": "twitter",
+      "handle": "OfficialLoganK",
+      "text": "nearly anything is possible in the digital world with AI, and soon this will be true of the physical world (also largely due to AI)",
+      "url": "https://x.com/OfficialLoganK/status/2108209559345205430",
+      "created_at": "2026-10-08T14:55:02.000Z",
+      "fetched_at": "2026-10-10T16:05:12.562Z",
+      "author": "Logan Kilpatrick",
+      "metrics": {
+        "likes": 2800,
+        "replies": 343,
+        "retweets": 148,
+        "views": 150245
+      }
     },
     {
       "id": "twitter:2108202656032497919",
@@ -1133,6 +1183,23 @@
       }
     },
     {
+      "id": "twitter:2107940728009879622",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "RT @michpokrass: today we’re shipping gpt-6 and intelligent ui to everyone!\n\nintelligent ui is a bet on model intelligence. we’re letting g…",
+      "url": "https://x.com/OpenAI/status/2107940728009879622",
+      "created_at": "2026-10-07T21:06:47.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 76,
+        "views": 50882
+      }
+    },
+    {
       "id": "twitter:2107940103897424157",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -1342,6 +1409,25 @@
       }
     },
     {
+      "id": "twitter:2107909792945832070",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices.\n\nChatGPT for Teens applies automatically to accounts identified as belonging to someone under 18, with protections on by default.\n\nComing soon: College Planner brings application requirements, deadlines, tasks and financial-aid steps together for high school students in the U.S. planning to attend a four-year college.\n\nWe'll keep building these tools, evaluating how they and their protections work in practice, and sharing what we learn.\n\nhttps://t.co/wtiMeor5yh",
+      "url": "https://x.com/OpenAI/status/2107909792945832070",
+      "created_at": "2026-10-07T19:03:52.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 3277,
+        "replies": 288,
+        "retweets": 176,
+        "views": 414032
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDMs_SaAAApuGm.jpg"
+      ]
+    },
+    {
       "id": "twitter:2107908436965179896",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -1456,6 +1542,136 @@
         "retweets": 535,
         "views": 2776
       }
+    },
+    {
+      "id": "twitter:2107895004819775938",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9",
+      "url": "https://x.com/OpenAI/status/2107895004819775938",
+      "created_at": "2026-10-07T18:05:06.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 824,
+        "replies": 6,
+        "retweets": 25,
+        "views": 195371
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDBRUubcAADYJb.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107895006350791071",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat tab in ChatGPT. The models powering Work and Codex are not changing as part of this release. \nhttps://t.co/AYbtcBRfko",
+      "url": "https://x.com/OpenAI/status/2107895006350791071",
+      "created_at": "2026-10-07T18:05:06.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 1732,
+        "replies": 83,
+        "retweets": 136,
+        "views": 341825
+      }
+    },
+    {
+      "id": "twitter:2107895003490169213",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH",
+      "url": "https://x.com/OpenAI/status/2107895003490169213",
+      "created_at": "2026-10-07T18:05:06.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 1031,
+        "replies": 8,
+        "retweets": 26,
+        "views": 152932
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDA_wPawAAtbz_.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107895002022187411",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu",
+      "url": "https://x.com/OpenAI/status/2107895002022187411",
+      "created_at": "2026-10-07T18:05:05.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 1340,
+        "replies": 20,
+        "retweets": 48,
+        "views": 188342
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDA0c9aEAALDbn.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107894999119774148",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.\n\nResponses can include graphics and charts to help explain an idea, along with tappable buttons, forms, and interactive experiences you can use directly in your conversation.",
+      "url": "https://x.com/OpenAI/status/2107894999119774148",
+      "created_at": "2026-10-07T18:05:05.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 2371,
+        "replies": 50,
+        "retweets": 109,
+        "views": 342459
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDAdRma4AAtQmV.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107895000642294250",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF",
+      "url": "https://x.com/OpenAI/status/2107895000642294250",
+      "created_at": "2026-10-07T18:05:05.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 1462,
+        "replies": 16,
+        "retweets": 52,
+        "views": 226527
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDArY6bYAEyqRa.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107894997538525580",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot. https://t.co/XL2gDCPBwG",
+      "url": "https://x.com/OpenAI/status/2107894997538525580",
+      "created_at": "2026-10-07T18:05:04.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 23159,
+        "replies": 1170,
+        "retweets": 1818,
+        "views": 5903694
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDAEy0a4AAdfz8.jpg"
+      ]
     },
     {
       "id": "twitter:2107894724073832517",
@@ -2094,6 +2310,38 @@
       }
     },
     {
+      "id": "twitter:2107596716367388924",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "https://t.co/edRBkXdUAN",
+      "url": "https://x.com/OpenAI/status/2107596716367388924",
+      "created_at": "2026-10-06T22:19:49.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 1843,
+        "replies": 51,
+        "retweets": 149,
+        "views": 1406799
+      }
+    },
+    {
+      "id": "twitter:2107596713791767021",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results. \n\nhttps://t.co/7N6TPlft1P",
+      "url": "https://x.com/OpenAI/status/2107596713791767021",
+      "created_at": "2026-10-06T22:19:48.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 40486,
+        "replies": 1847,
+        "retweets": 6286,
+        "views": 22194426
+      }
+    },
+    {
       "id": "twitter:2107591427878466041",
       "platform": "twitter",
       "handle": "emollick",
@@ -2258,6 +2506,25 @@
         "retweets": 9,
         "views": 813
       }
+    },
+    {
+      "id": "twitter:2107533224453058731",
+      "platform": "twitter",
+      "handle": "OfficialLoganK",
+      "text": "Nano Banana 2.1 is here! 🍌\n\nIt’s a nice update for image generation and editing customers, comes with higher quality images, lots of bug fixes from previous models, and a new lower price point!\n\nAvailable in the API, AI Studio, and Gemini app! https://t.co/XFG2jwLCc5",
+      "url": "https://x.com/OfficialLoganK/status/2107533224453058731",
+      "created_at": "2026-10-06T18:07:31.000Z",
+      "fetched_at": "2026-10-10T16:05:12.562Z",
+      "author": "Logan Kilpatrick",
+      "metrics": {
+        "likes": 2296,
+        "replies": 201,
+        "retweets": 163,
+        "views": 134310
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT92ONla8AA5LKL.jpg"
+      ]
     },
     {
       "id": "twitter:2107527855865479290",
@@ -2792,6 +3059,54 @@
         "replies": 0,
         "retweets": 73,
         "views": 311
+      }
+    },
+    {
+      "id": "twitter:2107164653147340988",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "Watermarks have limits. They’re often undetectable, especially in short passages. Rewriting or translating text can completely remove the watermark.\n\nThat’s why, for now, only approved researchers will have access to our detector, so they can help us evaluate and improve the technology.\n\nWe’re treating text watermarking as an ongoing area of research. We’ll keep testing and improving, with feedback from users, developers, policymakers, and researchers. \n\nhttps://t.co/2QUil8oWdB",
+      "url": "https://x.com/OpenAI/status/2107164653147340988",
+      "created_at": "2026-10-05T17:42:57.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 675,
+        "replies": 57,
+        "retweets": 36,
+        "views": 431275
+      }
+    },
+    {
+      "id": "twitter:2107164650249101695",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "We're expanding our approach to content provenance to include text in response to EU regulatory requirements, while recognizing the significant limitations of current text watermarking technology.\n\nOur tools already help verify whether an image or audio file was created with our models. This work builds on those efforts to help people better understand when content may have been generated or edited with an OpenAI model.\n\nIn the EU, we’ll start watermarking eligible text from ChatGPT and Codex over the coming weeks to comply with the EU AI Act.\n\nCustomers using our API can turn on text watermarking for select models worldwide today.",
+      "url": "https://x.com/OpenAI/status/2107164650249101695",
+      "created_at": "2026-10-05T17:42:56.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 10901,
+        "replies": 1002,
+        "retweets": 706,
+        "views": 7939445
+      }
+    },
+    {
+      "id": "twitter:2107164651478012412",
+      "platform": "twitter",
+      "handle": "OpenAI",
+      "text": "When possible, we want to give people a choice—and be clear about what watermarking can and can’t do.\n\nA text watermark helps answer one question: “Was this likely generated by an OpenAI model?”\n\nIt works by embedding an invisible statistical signal in text as it’s generated. A detector can look for this signal, and it doesn’t add visible marks or special characters. It doesn’t say who originally wrote the text or who owns it. It doesn’t identify a person, organization, account, conversation, or prompt.\n\nIn our testing, watermarking hasn’t affected how capable or fast our models are, or how their responses read.",
+      "url": "https://x.com/OpenAI/status/2107164651478012412",
+      "created_at": "2026-10-05T17:42:56.000Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
+      "author": "OpenAI",
+      "metrics": {
+        "likes": 1133,
+        "replies": 74,
+        "retweets": 49,
+        "views": 661279
       }
     },
     {
@@ -6362,14 +6677,14 @@
       "text": "RT @OpenAIDevs: dots demo. \n\nNow... with better WiFi. https://t.co/ucMH7SI1vj",
       "url": "https://x.com/OpenAI/status/2105712311063453937",
       "created_at": "2026-10-01T17:31:51.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
       "author": "OpenAI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 845,
-        "views": 46038
+        "retweets": 850,
+        "views": 48243
       },
       "media": [
         "https://pbs.twimg.com/media/HTkEkK4aoAAfGay.jpg"
@@ -7695,13 +8010,13 @@
       "text": "So much work by so many folks across Google to create this model, it is amazing to see the progress here, and just the start! Can't wait for more folks to use Gemini 4 Argon.\n\nhttps://t.co/sc9RabG7VT",
       "url": "https://x.com/OfficialLoganK/status/2105388580394930499",
       "created_at": "2026-09-30T20:05:28.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-10T16:05:12.562Z",
       "author": "Logan Kilpatrick",
       "metrics": {
-        "likes": 1228,
-        "replies": 54,
-        "retweets": 46,
-        "views": 144097
+        "likes": 1249,
+        "replies": 60,
+        "retweets": 47,
+        "views": 158676
       }
     },
     {
@@ -7749,13 +8064,13 @@
       "text": "Introducing Gemini 4 Argon, our new frontier model, rolling out to cyber defenders starting today, and more widely as soon as possible. I am really excited by the progress we have made here. Argon is priced at $2 in and $10 out during introductory pricing! https://t.co/X9LNch6ObZ",
       "url": "https://x.com/OfficialLoganK/status/2105388054274080946",
       "created_at": "2026-09-30T20:03:23.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-10T16:05:12.562Z",
       "author": "Logan Kilpatrick",
       "metrics": {
-        "likes": 14772,
-        "replies": 1016,
-        "retweets": 1055,
-        "views": 1546179
+        "likes": 14804,
+        "replies": 1033,
+        "retweets": 1054,
+        "views": 1591808
       },
       "media": [
         "https://pbs.twimg.com/media/HTfVRhMa0AABGYb.png",
@@ -11770,14 +12085,14 @@
       "text": "RT @noahrshinn: @patrick_oshag and I had a great conversation a few days ago.\n\nWe talked about:\n- Instinct’s high-craft, user-centric, and…",
       "url": "https://x.com/ShunyuYao12/status/2104818881646961146",
       "created_at": "2026-09-29T06:21:41.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-10T20:08:59.165Z",
       "author": "Shunyu Yao",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 47,
-        "views": 223
+        "retweets": 49,
+        "views": 226
       }
     },
     {
