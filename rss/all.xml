@@ -48,6 +48,14 @@
       <description><![CDATA[<p>RT @_alejandroao: THIS. this is what building software will look like for the next few years. bullish!</p><p><a href="https://x.com/jerryjliu0/status/2108579841520087525">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>AI拯救打工人（幻觉版）：微软x斯坦福：AutoEnvScaling让AI设计训练</title>
+      <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac8b405000000001500eccf?xsec_token=ABOYbEs3UNIVJQ604pf9YBxljK-uCanKHNjkl4wl4aPSY=&amp;xsec_source=pc_user</link>
+      <guid isPermaLink="false">xhs:6ac8b405000000001500eccf</guid>
+      <pubDate>Fri, 09 Oct 2026 10:30:48 GMT</pubDate>
+      <category>xhs</category>
+      <description><![CDATA[<strong>微软x斯坦福：AutoEnvScaling让AI设计训练</strong><p>微软、东北大学、斯坦福等发表新论文《AutoEnvScaling: Automating the Data Flywheel with Terminal Agents》，探索让 Agent 自己设计训练环境，再通过强化学习提升自身能力。 有意思的是，AI 不仅负责解题，还开始学习如何给自己出题。 过去训练 Agent，需要研究人员准备大量可交互的环境，比如有 Bug 的代码仓库、需要修复的系统、可以自动验证的任务。 但随着模型越来越强，这些题目很快就变简单了，研究人员又得不断设计新任务。 AutoEnvScaling 提出了一个很巧妙的方案：让两个 Agent 分工合作。 Proposer（出题者）：分析 Solver 的历史失败轨迹，找到能力短板，然后生成新的训练任务。 Solver（解题者）：在新环境中执行任务，通过强化学习不断提升能力。 这里的出题，可不是简单生成一道问答题。 Proposer 需要自己编写代码、构建 Docker 环境、准备参考答案、设计测试，甚至运行任务、发现报错后自行修复。 论文在8个模型上的实验发现：直接用 Prompt 生成环境，有效率只有39%；加上错误反馈，有效率提升到57%；使用 AutoEnvScaling，有效率达到 86%。 系统还会自动调整题目难度：太简单和太难的题不要，优先选择当前 Solver 有一定概率解决、但尚未完全掌握的任务。 随着 Solver 能力提升，训练环境也会跟着更新。 研究人员进一步让同一个 Qwen3.6-35B-A3B 模型同时担任 Proposer 和 Solver，在 Terminal-Bench 2.1 上：冷启动模型：41.1；静态环境强化学习：47.2；AutoEnvScaling：53.3 相比冷启动模型，提升了12.2个百分点。 但这远没达到递归自我改进（RSI），目前仍然依赖外部高质量数据冷启动，奖励规则和验证机制也需要人工设计。 而且如果 AI 同时生成参考答案和测试程序，谁来保证它本身就是正确的，这是未来必须解决的难题。 不过论文的方向，也显示 AI 开始参与发现自己的不足，并设计下一阶段的学习内容。 #AutoEnvScaling #微软研究院 #强化学习 #AI反常识howto #递归自我改进 #RSI#大模型 #人工智能发展</p><img src="https://sns-webpic-qc.xhscdn.com/202610100403/988212d22f43c5a340dbf1ef87ae0d46/spectrum/1040g0k03263m1rguk64g5p37m4gk4uih5f35rko!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/580739f17dd4d906ac9ec62be9ac704b/spectrum/1040g0k03263m1rguk6005p37m4gk4uiht7du9ao!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/3e1b81f94029035aec1ed75e844a3491/spectrum/1040g0k03263m1rguk60g5p37m4gk4uih7oa5t0g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/6e85b5784afcc72197436526298991b8/spectrum/1040g0k03263m1rguk6105p37m4gk4uihvluporo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/89ceb1c3b1a76b4b68bdd925ff5f609d/spectrum/1040g0k03263m1rguk61g5p37m4gk4uihcg7ebag!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/67acf8dcccaa10d034f095be9d152c6f/spectrum/1040g0k03263m1rguk6205p37m4gk4uihps33ejo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/2000c45ec874515b8dce2371e0774f03/spectrum/1040g0k03263m1rguk62g5p37m4gk4uihqu51g60!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/776d0d0dc8a66cb0e0ebee3ad5ca91df/spectrum/1040g0k03263m1rguk6305p37m4gk4uih1h5e2ro!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/6f48399388a53c3cd4115a47c2effaae/spectrum/1040g0k03263m1rguk63g5p37m4gk4uihdp0b4gg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/426a5a850a21cd2929123158927eb756/spectrum/1040g0k03263m1rguk6405p37m4gk4uih8vo21bg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/988212d22f43c5a340dbf1ef87ae0d46/spectrum/1040g0k03263m1rguk64g5p37m4gk4uih5f35rko!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610100403/580739f17dd4d906ac9ec62be9ac704b/spectrum/1040g0k03263m1rguk6005p37m4gk4uiht7du9ao!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac8b405000000001500eccf?xsec_token=ABOYbEs3UNIVJQ604pf9YBxljK-uCanKHNjkl4wl4aPSY=&amp;xsec_source=pc_user">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Harrison Chase：This is great point</title>
       <link>https://x.com/hwchase17/status/2108474622966444102</link>
       <guid isPermaLink="false">twitter:2108474622966444102</guid>
@@ -1198,14 +1206,6 @@
       <pubDate>Mon, 05 Oct 2026 23:16:00 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>I tend to use ChatGPT on my machine for Codex work (using the Remote connection for management), but Dot is in the Cloud and I have a couple scheduled tasks in Claude running on my machine and... oh my gosh is it all confusing to explain to anyone who isn&apos;t deep into this stuff.</p><p><a href="https://x.com/emollick/status/2107248468800733571">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：Over the past weeks I switched a lot of my Cowork complex work to new Claude…</title>
-      <link>https://x.com/emollick/status/2107248012208791839</link>
-      <guid isPermaLink="false">twitter:2107248012208791839</guid>
-      <pubDate>Mon, 05 Oct 2026 23:14:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Over the past weeks I switched a lot of my Cowork complex work to new Claude Projects (confusingly, it is not the same as the old Projects in Claude, instead, it persistently chats with a dedicated cloud VM). I found it to be much better in most ways, but not clearly documented.</p><p><a href="https://x.com/emollick/status/2107248012208791839">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>
