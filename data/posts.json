@@ -1,7 +1,711 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-10T20:09:01.528Z",
+  "updated_at": "2026-10-11T20:09:12.204Z",
   "posts": [
+    {
+      "id": "twitter:2109361546505966046",
+      "platform": "twitter",
+      "handle": "karpathy",
+      "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+      "url": "https://x.com/karpathy/status/2109361546505966046",
+      "created_at": "2026-10-11T19:12:37.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "Andrej Karpathy",
+      "metrics": {
+        "likes": 4381,
+        "replies": 337,
+        "retweets": 542,
+        "views": 168818
+      }
+    },
+    {
+      "id": "xhs:6acb2ed2000000001c01c3c7",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "李飞飞和斯坦福等团队的新论文《Cross-Embodiment Robot Foundation World Models with Latent Actions》，研究的是机器人世界模型，论文发表于 ICML 2026，提出了一个叫 LAC-WM 的架构。 它想解决一个长期困扰具身智能的问题：不同机器人之间，能不能共享动作经验？ 举个例子，人类拿起一个杯子，工业机械臂拿起一个杯子，灵巧手机器人拿起一个杯子。虽然完成的是类似的任务，但它们的身体结构、关节数量和控制信号完全不同。 这导致不同机器人的训练数据很难直接复用。 研究团队提出了一个挺巧妙的思路：让模型观察动作发生前后的画面，从视觉变化中反推出动作，并编码成统一的64维潜在动作表示（Latent Action）。 然后让世界模型根据当前状态和潜在动作，预测下一步会发生什么。 这样，不同机器人就有机会在同一个潜在空间中学习动作与环境变化之间的关系。 当引入一种新机器人时，再训练一个动作投影器并进行微调，让它接入已经学到的共享空间。 实验结果很有意思。 在灵巧操作任务中，相比传统显式动作世界模型，LAC-WM 将平均成功率从15%提升到22%，相对提升46.7%。 在修改版 LIBERO 任务中，成功率从82.4%提高到92%。 但我觉得有意思的是另一个发现：随着预训练加入更多不同形态的机器人，LAC-WM 的下游表现反而越来越好。 而传统方案因为不同本体的动作表示彼此分离，加入更多机器人数据后，性能反而下降。 这让我想到大语言模型的发展。之所以能够利用海量不同来源的数据，一个重要前提是它们能够被组织成可共享的表示。 具身智能也面临类似的问题，只不过机器人还多了一层复杂性：它们需要用不同的身体和物理世界交互。 如果未来人类、机械臂、灵巧手等不同本体的数据能够被更充分地共享，机器人基础模型的数据规模化或许会打开新的空间。 当然，目前的结果主要来自仿真实验，也远没有达到通用机器人控制的程度。 但这篇论文让我觉得，机器人基础模型的下一步，除了训练更大的模型、收集更多数据，也许还需要找到不同身体之间可以共享的动作表示。 #李飞飞 #具身智能 #LACWM #世界模型 #WorldModel #LatentAction #VLA #AI前沿",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acb2ed2000000001c01c3c7?xsec_token=ABHKWR2O7hu0Rvz-wD5wknB7JEbS7b3zVyHnmNSlEu6Wc=&xsec_source=pc_user",
+      "created_at": "2026-10-11T09:43:01.000Z",
+      "fetched_at": "2026-10-11T16:04:51.537Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "李飞飞LAC-WM:Robot种类越多世界模型越聪明",
+      "metrics": {
+        "collects": 9,
+        "likes": 11
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610120005/89a9c16ac67fa7ff9bea10baeef19405/spectrum/1040g0k032663gicek44g5p37m4gk4uih12nb85o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/83af662cafcebea6b682a2893229ff65/spectrum/1040g0k032663gicek4005p37m4gk4uihp15mfto!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/ec6296f10d7023c5b3f35952c17d0045/spectrum/1040g0k032663gicek40g5p37m4gk4uihmv9ngig!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/06a53183a3fc424f1c541bb60e26fd33/spectrum/1040g0k032663gicek4105p37m4gk4uih6kqh8a8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/9c1f27c7b710d359d4b46c57a3fa3a66/spectrum/1040g0k032663gicek41g5p37m4gk4uihgdu389g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/79d9a8a8400d0e2c29a3f99014716695/spectrum/1040g0k032663gicek4205p37m4gk4uihaj8819o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/041ecb1976e54c4f12f66878e55bec9d/spectrum/1040g0k032663gicek42g5p37m4gk4uihrlpgkvo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/44954f40b5338df405b7f06bd46810e8/spectrum/1040g0k032663gicek4305p37m4gk4uih2agmj1o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/7f4d849636799b8fd4471c3c0433cf1e/spectrum/1040g0k032663gicek43g5p37m4gk4uihrc50e3o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/a5e64e9514e95092ad5999ac2cd2499d/spectrum/1040g0k032663gicek4405p37m4gk4uihbq96ivg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/89a9c16ac67fa7ff9bea10baeef19405/spectrum/1040g0k032663gicek44g5p37m4gk4uih12nb85o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/83af662cafcebea6b682a2893229ff65/spectrum/1040g0k032663gicek4005p37m4gk4uihp15mfto!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109174479582564542",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @lexi_labs: 我来祛魅一下，所谓的硅谷大厂都在清退华人工程师的事。\n\n涉密企业和项目要求clearance，这是正常的商业操作。\n\n我最近跟 SpaceX 和 Anduril 的recruiter 电话，他们的第一个问题，就是你能不能过 clearance，美国…",
+      "url": "https://x.com/dotey/status/2109174479582564542",
+      "created_at": "2026-10-11T06:49:17.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 752
+      }
+    },
+    {
+      "id": "twitter:2109159416599883861",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Next Token 上周的观察，再次领先国内其他媒体\n\n关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。\n\n业内的人还是可以多看看我们聊的这些东西。\n\n总结一下我们在播客里面的观点。 https://t.co/WxBbJKUOWD",
+      "url": "https://x.com/op7418/status/2109159416599883861",
+      "created_at": "2026-10-11T05:49:25.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 38,
+        "replies": 22,
+        "retweets": 3,
+        "views": 8819
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUU9TYoaIAAycUV.jpg",
+        "https://pbs.twimg.com/media/HUU9TYfbUAE-Rc9.jpg",
+        "https://pbs.twimg.com/media/HUU9TYkbEAATMFy.jpg",
+        "https://pbs.twimg.com/media/HUU9TYeagAAUoQM.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109151666020794711",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "用 REA 小试牛刀逆向了 Claude Slides 的 Slides 编辑器，几乎完整功能。（图1）\n\n我的用法很简单，不一定是最佳实践，仅供参考：\n\n1. 先去 Claude Slides 上把核心的脚本和样式表下载下来（图2）\n2. 按照 REA 官网的说明让 Codex 安装 REA\n3. 使用 REA Skill 去逆向混淆后的代码（图3）\n4. 用不了太久就能有一个目录结构不错的代码，但其实里面还挺乱的\n5. 然后再用 Claude Code 5.5 去重写了一遍就变成结构良好类型完整的代码了\n\n至于提示词，我没有直接逆向，而是换了个思路，先做个 Slides，然后在对话里面，说我要做一个 slides skill，让它帮我实现一个，要做的跟它的一样好，这样子出来的提示词，和原始的提示词肯定不一样，但是做出来的效果没什么差别。（图4是我用同样方法问 Claude Dashboard 的提示词）\n\n完整的代码参考：https://t.co/I25w0FGgkV",
+      "url": "https://x.com/dotey/status/2109151666020794711",
+      "created_at": "2026-10-11T05:18:37.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 498,
+        "replies": 89,
+        "retweets": 64,
+        "views": 51239
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUUyueaWEAI3toM.jpg",
+        "https://pbs.twimg.com/media/HUUy907WkAAijNk.jpg",
+        "https://pbs.twimg.com/media/HUUzbPCXkAAoJUl.jpg",
+        "https://pbs.twimg.com/media/HUU2D_4WcAAM2DJ.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109102136890180034",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "重置了",
+      "url": "https://x.com/op7418/status/2109102136890180034",
+      "created_at": "2026-10-11T02:01:49.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 12,
+        "replies": 30,
+        "retweets": 0,
+        "views": 14098
+      }
+    },
+    {
+      "id": "xhs:6acae62d000000001a02bd5a",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "清华大学、CMU的新论文《TokenRouter: Efficient Serving System for Token-Level LLM Routing》，思路是既然一段回答中，并不是每个 Token 都需要大模型的能力，为什么还要让大模型从头干到尾？ 过去使用 LLM，通常是一个请求选择一个模型，简单问题交给小模型，复杂问题交给大模型。 但即使是复杂的数学推理，也不是每一步都那么困难。 条件整理、简单计算，小模型可能就能完成，真正需要大模型的只是少数关键步骤。 这就是Token-level Routing（Token 级路由）的思路：让小模型负责大部分生成，遇到困难时交给大模型，解决后再切回来。 此前的 R2R 研究就发现，在特定实验中，仅让32B模型参与约5%的 Token 生成，其余交给 1.5B 小模型，就能获得接近全程使用32B模型的效果。 想法很好，但工程实现并不容易。 大小模型生成速度不同，频繁切换容易互相等待；请求在模型间跳转，会破坏GPU的批处理效率；每次交接还涉及 KV Cache、请求状态恢复等额外开销。 结果是模型计算量省下来，时间却浪费在调度上。 TokenRouter主要做了三件事，为这种协作方式设计了一套高效的推理运行时。 ① 异步执行： 每个模型拥有独立的调度器和KV Cache。小模型把任务交给大模型后，可以继续处理其他请求，不必原地等待。 ② 保存现场： 请求切换时保留原模型的执行状态，返回后快速恢复，减少重复初始化和缓存管理。 ③ 延迟批处理： 适当等待多个请求，组成更高效的Batch一起执行。有时候稍微等一下，整体反而更快。 研究团队测试了R2R、CITER、Co-LLM等五种路由算法，涉及Qwen3模型。 相比已有实现，TokenRouter的解码吞吐提升了 2.01～64.15 倍。 当然，64 倍是特定配置下相较已有路由实现的最高提升。 论文值得关注的，是它展示了一种更精细的算力分配方式。 过去我们更多关注如何让模型更强、更小、更快。TokenRouter则探索如何让不同能力的模型，在一次生成过程中动态协作。 未来也许不需要整个请求固定选择一个模型，而是根据每一步推理难度，动态决定调用什么模型、投入多少算力。当然，前提是能够准确识别哪些步骤真正需要大模型。 #TokenRouter #LLM #大语言模型 #模型路由 #推理优化 #SGLang",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acae62d000000001a02bd5a?xsec_token=ABeKSzh48iEG3SCeNuuxDDJUypbi5Zswv1q7bv30XGWtA=&xsec_source=pc_user",
+      "created_at": "2026-10-11T01:28:13.000Z",
+      "fetched_at": "2026-10-11T16:04:51.537Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "清华xCMU TokenRouter：让大小模型接力推理",
+      "metrics": {
+        "collects": 39,
+        "comments": 1,
+        "likes": 39
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610120005/01ac421cca05dfefdd79d9059bc5fd1a/spectrum/1040g0k03265qkccs445g5p37m4gk4uih563m0k8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/58e92c71049f4cdc1af2dba4a64b389c/spectrum/1040g0k03265qkccs44005p37m4gk4uihmh3nqo8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/6500580397106a1e75c5622c89314a79/spectrum/1040g0k03265qkccs440g5p37m4gk4uih6h7dkf8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/63c50e39fa09197ed38b7875e1cbc7c2/spectrum/1040g0k03265qkccs44105p37m4gk4uihvs15o0o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/23aafcf31f3136cf2c2cb53cfb5d8dfa/spectrum/1040g0k03265qkccs441g5p37m4gk4uihjucj010!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/b3735cc1e4c28dc98b6625efda6f9e01/spectrum/1040g0k03265qkccs44205p37m4gk4uihau9l24g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/26ac7f472026d2e817385f1021782dda/spectrum/1040g0k03265qkccs442g5p37m4gk4uihivcpa3g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/fad96de6304219b78a50f4add13cf8bd/spectrum/1040g0k03265qkccs44305p37m4gk4uihvdi01oo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/6dc7a26add0a707fd7dab09b8c715a79/spectrum/1040g0k03265qkccs443g5p37m4gk4uihpublhd0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/47a6958d71085129b74397dd9673125b/spectrum/1040g0k03265qkccs44405p37m4gk4uihlonofd0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/2c0274dbf53387c7140f6d616dc7bd48/spectrum/1040g0k03265qkccs444g5p37m4gk4uihgast50g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120005/fd2ab715e1b2d15a87dcfc5c2f88a4a5/spectrum/1040g0k03265qkccs44505p37m4gk4uihusbn060!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109063941233979397",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "这就是把校验的成本从写的人转嫁给了审查的人，写的人自己变成了Agent和审查者的传声筒或者说另一种人肉agent",
+      "url": "https://x.com/dotey/status/2109063941233979397",
+      "created_at": "2026-10-10T23:30:02.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 99,
+        "replies": 102,
+        "retweets": 7,
+        "views": 40599
+      }
+    },
+    {
+      "id": "twitter:2109062246152503794",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Codex 今天重置，正好用完😂",
+      "url": "https://x.com/dotey/status/2109062246152503794",
+      "created_at": "2026-10-10T23:23:18.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 34,
+        "replies": 46,
+        "retweets": 1,
+        "views": 24066
+      }
+    },
+    {
+      "id": "twitter:2108972823440220375",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @yetone: 这条推文的建议很好，但\"把压缩调到 400K\"对每个人都成立吗？不一定。\n\n这就是 magpie 要做本地 agent 可观测性分析的原因。每个 agent 都有自己独特的行为，每个用户也有自己的使用习惯，任务难度也因人而异，所以不存在一份对所有人都最优…",
+      "url": "https://x.com/dotey/status/2108972823440220375",
+      "created_at": "2026-10-10T17:27:58.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 20,
+        "views": 770
+      }
+    },
+    {
+      "id": "twitter:2108971987750298094",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果 https://t.co/OAvvNSF16p",
+      "url": "https://x.com/op7418/status/2108971987750298094",
+      "created_at": "2026-10-10T17:24:39.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "retweets": 0,
+        "views": 2645
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUSS17kbAAAaFGG.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108966708740505828",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Grok bot 帮我拉取了所有内容：\n\n不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。\n\n在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息",
+      "url": "https://x.com/op7418/status/2108966708740505828",
+      "created_at": "2026-10-10T17:03:40.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 72,
+        "replies": 49,
+        "retweets": 8,
+        "views": 14164
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUSNUMibAAEVOgy.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108961526635983040",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "给我的 Grok Bot 换个新头像 https://t.co/B6fvHb0tLg",
+      "url": "https://x.com/op7418/status/2108961526635983040",
+      "created_at": "2026-10-10T16:43:05.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 15,
+        "replies": 15,
+        "retweets": 0,
+        "views": 10586
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108961427117789184/img/6burQxyJ16CkwNK1.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108917380600791463",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "谁能想到只播了 5 期 订阅就超 7000 了 https://t.co/xDleKal8K9",
+      "url": "https://x.com/op7418/status/2108917380600791463",
+      "created_at": "2026-10-10T13:47:39.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 27,
+        "replies": 21,
+        "retweets": 1,
+        "views": 8663
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HURhLVcawAAvsfP.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108808129534169212",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Codex 就是 300K 左右的上下文\nhttps://t.co/I8oX40iXEt",
+      "url": "https://x.com/dotey/status/2108808129534169212",
+      "created_at": "2026-10-10T06:33:32.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "retweets": 0,
+        "views": 5560
+      }
+    },
+    {
+      "id": "twitter:2108794629172682783",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "REA：让 AI 智能体帮你逆向没有源码的软件\n\n开源项目 REA（Reverse Engineer Anything）把逆向分析工具接到了 Claude Code、Codex、Cursor 这类 AI 编程智能体上。看到别人 App 里有个好功能，可以让智能体去拆这个程序，讲清楚功能是怎么实现的，附上证据，再在你自己的项目里写一个类似的。逆向分析指的是手里没有源代码，从编译好的程序反推它是怎么写的。\n\nREA 本身是一个 MCP 服务。MCP 是 AI 智能体调用外部工具的通用接口，接上以后，智能体在对话里就能直接调用 REA 的分析功能。安装只需一行命令 npx rea-agents setup，它会注册到 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等智能体里，改配置前会先备份并让你确认。不用智能体的话，也可以在终端里直接跑命令。\n\n能分析的东西很多。原生程序（直接编译成机器码的软件）要借助 Hopper、Ghidra 或 IDA 这几款反汇编工具，把机器码还原成汇编和近似 C 语言的伪代码。Electron 应用（用网页技术做的桌面软件，比如 Notion）可以直接拆开安装包里的 ASAR 归档文件，理清模块和进程间通信，不需要额外工具。此外还支持 .NET 程序、安卓 APK、固件、网站、抓包记录、以太坊合约字节码，以及在 Linux 和 macOS 上记录程序运行时的行为。\n\n分析在本机进行，REA 不上传目标程序，但分析结果会交给智能体背后的模型服务商，数据怎么处理看各家政策。\n\n项目给了三个案例。一是经典打砖块游戏 DX-Ball：从一次播放音效的调用，追到根据球的位置计算左右声道的函数，把不完整的伪代码还原成 C 代码，3205 组测试结果和原版一致，编译出的 63 个字节也和原版完全相同。二是 Notion 桌面版：追踪复制粘贴从界面一路经过预加载脚本、进程间通信到主进程的完整链路。三是日本老电脑 PC-98 上的游戏《东方幻想乡》（TH04）：从 16 位指令里还原出弹幕子弹环的角度算法。\n\n对安全研究员、做老游戏复刻和软件保存的人来说，以前要自己对着反汇编工具一行行读、一层层追调用，现在可以让智能体先追，人来核对它给出的证据。普通开发者想研究竞品某个功能的做法，也多了一条路。\n\nREADME 显示项目在 GitHub 上已有 5 万星。npm 包今年 7 月首次发布，最新的 6.3.0 版今天刚发。\n\n使用前注意两点。项目声明只支持合法的逆向研究，授权和合规由使用者自己负责，逆向别人的软件可能违反用户协议或版权法规。项目还说明从未发行或背书任何加密货币，借用 REA 名字的代币都与它无关。\n\nhttps://t.co/I6ZzxyeHhC",
+      "url": "https://x.com/dotey/status/2108794629172682783",
+      "created_at": "2026-10-10T05:39:53.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 816,
+        "replies": 135,
+        "retweets": 136,
+        "views": 183450
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUPxZzJXAAEn8rZ.jpg"
+      ]
+    },
+    {
+      "id": "xhs:6ac9b3b900000000020135b3",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "LeCun 和 NYU 等机构的新论文《H-JEPA: END-TO-END LEARNING OF HIERARCHICAL WORLD MODELS FOR VISUAL PLANNING》，想让世界模型学会一件我们很自然会做的事：先看地图，再看脚下。 机器人走迷宫，既要决定去哪个路口，又要控制每条腿怎么动。如果始终在同一种细节丰富的表征里预测未来，路线、姿势和动作就会挤在一起，越往远处规划越难。 H-JEPA 的办法是分层。低层保留短时间内的精细变化；高层在自己的表征空间里预测更远的未来。规划时，上层给子目标，下层逐步细化，最后落到动作。 有趣的是，高层会逐渐“忘掉”一些细节。在 AntMaze 里，腿部姿态变得难以恢复，但机器人在迷宫中的位置仍被保留。像地图省略每片树叶，却留下路口和通道。 在 Visual AntMaze 仿真中，三层模型把成功率从约 18% 提高到约 73%，并改善了规划成功率与计算量的取舍。 但层数并不是越多越好，Push-T 的三层模型反而变差。 到了真实机器人视频 DROID，稳定的背景又可能让模型忽略机械臂。作者加入逆动力学监督，要求从前后状态预测动作，迫使表征保留行动相关信息。 这里在 16 个选定片段上改善的是离线轨迹保真度，尚未验证实体机器人的闭环任务成功率。 我觉得值得关注的问题是：做长程决策，模型该保留多少世界？ 看地图时抓住方向，走路时补回细节。这种分工，也许会是世界模型走向长期行动的一条有价值的路线。 #HJEPA #世界模型 #LeCun #JEPA #具身智能 #大模型 #AI反常识howto #机器人 #论文解读 #人工智能",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac9b3b900000000020135b3?xsec_token=ABJBBoZfkmlULLHVzVjnxee48wW6b7fvwTcTogUDyT1Vw=&xsec_source=pc_user",
+      "created_at": "2026-10-10T04:41:01.000Z",
+      "fetched_at": "2026-10-10T20:10:02.856Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "LeCun 新论文H-JEPA：让世界模型先看看脚下",
+      "metrics": {
+        "collects": 37,
+        "comments": 2,
+        "likes": 30
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610110409/2ba9beae9c7715281186a69d44ab8226/spectrum/1040g0k03264lbfoakacg5p37m4gk4uihsmnr2l8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/f82b896005f1914cc63176237bfa94cd/spectrum/1040g0k03264lbfoaka705p37m4gk4uihluu90t8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/5e9fd77007c8cfefc88e4b96ec3c224a/spectrum/1040g0k03264lbfoaka7g5p37m4gk4uihmimjnig!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/af87612163fe20baf6e3c8c4f85cf44b/spectrum/1040g0k03264lbfoaka805p37m4gk4uihg85d078!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/ac5eff1ed097c5321913e4b3662c0ebb/spectrum/1040g0k03264lbfoaka8g5p37m4gk4uihaat1028!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/c37506033a31a70c166b736665828cdf/spectrum/1040g0k03264lbfoaka905p37m4gk4uih34g9l9o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/dfcead1ecdb78b3c94d8704027024a54/spectrum/1040g0k03264lbfoaka9g5p37m4gk4uihqv08v98!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/6b66edad39be6a36b3871bfcb01c678e/spectrum/1040g0k03264lbfoakaa05p37m4gk4uihkuab3r8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/d5d84e192f45ecebe0ab20dd1ba2a105/spectrum/1040g0k03264lbfoakaag5p37m4gk4uihap9fk80!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/1c20e6314b83443c4daa0010298ea9d2/spectrum/1040g0k03264lbfoakab05p37m4gk4uiha7em5uo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/69e9b9544763ff23cc66ea56b4271eab/spectrum/1040g0k03264lbfoakabg5p37m4gk4uih883tluo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/1fb204b27622092405bb39337dc91de2/spectrum/1040g0k03264lbfoakac05p37m4gk4uihpmuhg38!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2108763409357721644",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @Michaelzsguo: 敏捷开发年代，“两张披萨团队”（two-pizza team）非常时髦：两张披萨够吃差不多八到十个人。\n\n到了 AI 时代，Dan Shipper 开始提出“两块披萨团队”（two-slice team）了：一两个人就够。\n\n他给这两个人安排…",
+      "url": "https://x.com/dotey/status/2108763409357721644",
+      "created_at": "2026-10-10T03:35:50.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 818
+      }
+    },
+    {
+      "id": "twitter:2108751060344905924",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "也并不是所有修改都要写技术方案，很多功能比如那些以修改 UI 为主的可以直接从修改原型开始，原型好了后可以用 Agent 内置的浏览器的“标记”工具，在要修改的地方标记，然后去写评论。\n\n原型完成后，可以在同一会话，让它把对原型的修改，同步到正式的代码中。\n\n通常我会用 Fable 帮我设计，然后让 Opus 去执行，最后 Fable 验收。",
+      "url": "https://x.com/dotey/status/2108751060344905924",
+      "created_at": "2026-10-10T02:46:46.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 5,
+        "replies": 3,
+        "retweets": 1,
+        "views": 4526
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUPHqnSWwAAsgxp.jpg",
+        "https://pbs.twimg.com/media/HUPJLnFXwAAZ6GA.jpg",
+        "https://pbs.twimg.com/media/HUPJqGTXoAApO60.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108750890480078899",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Midjourney 终于要有 MCP 了",
+      "url": "https://x.com/op7418/status/2108750890480078899",
+      "created_at": "2026-10-10T02:46:05.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 25,
+        "replies": 23,
+        "retweets": 1,
+        "views": 6692
+      }
+    },
+    {
+      "id": "twitter:2108745745721413678",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "有个用 Claude Dashboard 的用法，就是下载你的 X 数据，然后从 Artifacts（https://t.co/3zHAHh3MSQ）新建 Dashboard 发给 Claude Dashboard 去分析。\n\n从 https://t.co/TBJtujil8o 获取账号数据，把每个 Tab 能下载到的数据都下载下来，然后作为附件上传到 Claude Dashboard。\n\n提示词参考：\n> 帮我分析一下我的推文数据，看看哪些推文更受欢迎，怎么优化",
+      "url": "https://x.com/dotey/status/2108745745721413678",
+      "created_at": "2026-10-10T02:25:39.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 63,
+        "replies": 51,
+        "retweets": 4,
+        "views": 16462
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUPE6u9XwAA0SRQ.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108712677971206387",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "据 Business Insider 援引知情人士报道，Google 内部在测试新模型 Carbon，有员工说编码能力“感觉像 Opus 5.5”\n\nCarbon 部署在 Google 内部的 AI 编程工具 Jetski 上。报道说，Google 9 月 30 日发布的 Gemini 4 Argon 用的是另一个内部版本 Barium-B，Carbon 是在它之后训练出来的新版本。Carbon 会作为 Argon 的升级推出，还是单独作为新模型发布，目前还不清楚。\n\nOpus 5.5 是这次的参照对象，因为编程是 Gemini 目前的短板。Bloomberg 此前报道，有 Google 员工反映 Argon 跑分好看，真拿来写代码却不如预期。在第三方编程测试 Terminal Bench 4 上，Argon 得分 57%，低于 Anthropic 的 Claude Sonnet 5.5（64%）、Claude Opus 5.5（60%）和 OpenAI 的 GPT-6 Astra（59%）。Google 9 月还放开了内部限制，允许全体工程师用 Claude 写代码。\n\n如果 Carbon 真能做到 Opus 5.5 的水平，用 Gemini 写代码的开发者会直接受益。不过“感觉像”只是一位匿名员工的主观评价，Carbon 没有公开跑分，也没有发布时间，Google 拒绝评论内部路线图。眼下外界能用的只有 Argon，而且它也只开放给了部分网络安全合作伙伴，付费 API 用户和 Google AI Ultra 订阅用户还要再等。",
+      "url": "https://x.com/dotey/status/2108712677971206387",
+      "created_at": "2026-10-10T00:14:15.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 85,
+        "replies": 82,
+        "retweets": 7,
+        "views": 35651
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUOm7T6WsAAXs4G.jpg"
+      ]
+    },
+    {
+      "id": "xhs:6ac90a69000000000200fa16",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "腾讯云开源了 Octop，一个支持多用户、多 Agent 的自托管 AI 助手。大家可以给自己组一支能干活的 AI 专家团队了。 它不只是一个开源的聊天机器人，更像是一个可以自己部署的 AI 工作室：创建不同的 AI 专家，给它们配置模型、Skills、工具、知识库和长期记忆，再让它们协作完成任务。 有几个设计值得关注： 1. AI 专家可以共享和复用 每个专家有自己的角色、工具和工作区。配置好的专家可以分享给其他用户，成熟的能力也能通过模板和技能池复用。 这意味着好的 AI 工作方法，不必每个人从头搭建。 2. 多 Agent 组成专家团队 Octop 提供 AgentTeams（Beta），由主持专家负责理解需求、拆解任务，再分派给不同专家并行执行，最后汇总结果。 比较有意思的是，用户可以在团队会话中看到各个专家的工作过程，而不只是最后的答案。 3. AI 不再局限于聊天框 支持 Web、桌面客户端、各种 IM 入口，还能通过定时任务主动执行工作。 工具方面，支持 MCP 连接器、浏览器自动化、终端操作和远程桌面。 通过 ACP，还能把编程任务委派给 OpenCode、Claude Code、Codex 等 Coding Agent。 4. 适用场景？ 比如搭建个人 AI 研究助手，定时搜集论文、整理行业动态；创建内容工作室，让不同专家负责研究、写作和代码；也可以给小团队共享专业知识和自动化工具。 当然，具体场景还需要配置相应的工具和工作流程。 还有值得借鉴的是它的产品设计。 一个 Agent 不应该只是 Prompt，而应该是角色、能力、记忆、工作区的组合；成熟的工作方法可以沉淀成可复用资产，多 Agent 协作也应该让用户看得见、能介入。 目前 Octop 仍面向个人和小团队，AgentTeams 还在 Beta，自进化、Project 级共享工作区等能力也尚在规划中。 另外，腾讯云还把背后的 Octop Harness、Memory、Browser、Gateway 四个核心组件独立开源，全部采用 MIT 协议。 接下来我准备逐个拆解，看看有哪些值得借鉴的工程实现。 #Octop #腾讯开源 #AgentTeams #Harness #开源项目 #AI助手 #AI搞学习howto #Agent开发 #办公神器howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ac90a69000000000200fa16?xsec_token=ABJBBoZfkmlULLHVzVjnxee9buMbdpjtEsOhqOZjz6xDs=&xsec_source=pc_user",
+      "created_at": "2026-10-09T23:57:00.000Z",
+      "fetched_at": "2026-10-10T20:10:02.856Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "腾讯开源Octop：多Agent协作+专家共享",
+      "metrics": {
+        "collects": 39,
+        "comments": 9,
+        "likes": 23
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610110409/5d0c6eeb15c38f68292c0bf071f109ac/spectrum/1040g0k032640l431kc3g5p37m4gk4uih0p1cd9o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/209ffed9baa8da55d816bebe2287f50a/spectrum/1040g0k032640l431kc005p37m4gk4uihdkp13kg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/313de866363ad216023e468b7d1055c9/spectrum/1040g0k032640l431kc0g5p37m4gk4uihv4vg0do!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/2e4e65b127af52ab568d2a7d3a27392e/spectrum/1040g0k032640l431kc105p37m4gk4uihp47v068!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/a614d7eeb485086f36880c7f0642a258/spectrum/1040g0k032640l431kc1g5p37m4gk4uihitnqh68!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/47fe63ac2447951a21d2514f7986c946/spectrum/1040g0k032640l431kc205p37m4gk4uiheg2a8og!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/ea0ccd05dee6b5946ac77cd5e4e1c99a/spectrum/1040g0k032640l431kc2g5p37m4gk4uihe61kpag!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/321df32b7fd928bd2933799fd0adc983/spectrum/1040g0k032640l431kc305p37m4gk4uihlohdpvo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/5d0c6eeb15c38f68292c0bf071f109ac/spectrum/1040g0k032640l431kc3g5p37m4gk4uih0p1cd9o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610110409/209ffed9baa8da55d816bebe2287f50a/spectrum/1040g0k032640l431kc005p37m4gk4uihdkp13kg!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2108701555058790506",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Claude Code Projects 向候补名单上的 Pro 和 Max 用户全部开放\n\nAnthropic 把 Claude Code Projects 候补名单上的 Pro 和 Max 用户全部放了进来。这个功能目前是公开测试版，还在分批推送，Team 和 Enterprise 计划暂时用不了。\n\nClaude Code Projects 我最近用的比较多，很不错的设计，既可以像个人助理一样，不停的在主会话发消息分派任务，又可以通过 Thread 看到每个子任务的执行情况，留有记录，还可以后续跟进。\n\n推荐看看这条视频，解释的很清楚。\n\n我之前有个帖子解释了 Codex Project 和 Claude Projects 啥不同：\n\n> 如果你还记得当年的论坛（Forum）的话，Codex Project 就像一个论坛的板块，像是一个容器，或者一个分类，跟这个板块/项目相关的内容都在这里，你可以不停的新开会话。\n\n> Claude Projects（新的）就像 Slack 的 Channel，也是一个分类或者容器，但是所有的消息都在一起，想到啥都往里面扔，但是如果你想对某个子话题深入讨论，那么就新开 Thread，然后基于 Thread 可以展开讨论。\n\n> 论坛呢，就是容易歪楼，讨论着讨论就偏离主题了，上下文乱一些，只有最近的回帖看的清楚。\n\n> Slack 呢就是简单方便，不用想属于哪个话题，只要是这个 Channel 的就都往里面发就好了，上下文乱一点没关系，可以通过 Thread 聚焦\n\nProjects 管的是“同时开好几个 Claude Code 会话，谁来协调”这件事。以前想并行干几件活，你得自己给每个会话分任务、每次重新交代背景、挨个回去看谁做完了。现在你只跟一个“项目对话”说话，Claude 在里面当协调者，把目标拆成小任务，每个任务开一个“线程”去做。\n\n每个线程都是一个完整的 Claude Code 会话，默认跑在云端，在自己的 Git 分支上干活。合上笔记本，活照样在干，用手机也能看进度。某个任务要用本机的数据库、模拟器或内网接口，可以让这个线程改到你自己电脑上跑（通过 Remote Control 远程连接，电脑得开着）。\n\n写代码的线程做完改动会自己开 PR（拉取请求，提交给仓库合并的代码改动），之后继续盯着：自动化测试没通过就提交修复，有人留了审查意见就去改。官方演示的例子是排查一个网站的性能问题：几个线程各修一处，最后生成一份前后性能对比报告，再设一个每天运行的例行检查，发现性能退步就自动开线程排查，等你下次进来处理。\n\n适合放进项目的，是一次会话装不下、会不断冒出新任务的活，比如把应用迁出一个已废弃的依赖包，或者在 API、网页端、移动端几个仓库里同步改同一个接口。也可以完全不碰代码，上传一批合同或客服工单，反复提问。\n\n所有线程共享项目说明和项目记忆。你说一次“以后都从 main 分支开 PR”，后面每个线程都照做。\n\n【用量要注意】\n\n每个线程都是完整会话，还能同时跑好几个，所以项目消耗套餐额度比单个会话快，官方提醒 Pro 用户尤其会更早用到上限。新建项目默认全部用 Opus，线程的推理强度（effort，模型每一步思考投入多少）默认是高。Claude Code 团队的建议是：协调者保持默认的低强度，它主要负责派活，调高没什么用；线程默认换小一点的模型，遇到复杂任务再单独切大模型。你也可以直接告诉 Claude 同时最多跑几个线程，或者先给你看计划再动手。\n\n线程用到额度上限后，会等额度重置再自动继续，没管的活会用掉你下一个时段的额度。不想这样，可以在项目设置里暂停整个项目。\n\n【怎么用】\n\n在 https://t.co/sbZmtUyM2q、桌面版 Claude 的 Code 标签页或 Claude 手机 App 的侧边栏里看到 Projects，就说明已经开通；没看到可以加入候补名单。终端命令行、VS Code 和 JetBrains 插件里用不了。代码要托管在 https://t.co/xB9lzfWBfe 上，仓库要装 Claude GitHub App。项目只属于你一个人，暂时不能分享给别人。\n\nhttps://t.co/vefasn3rYt 聊天里原来那个“项目”功能（把对话和参考文件归到一起）照常保留，等新版推到这些账号再切换。",
+      "url": "https://x.com/dotey/status/2108701555058790506",
+      "created_at": "2026-10-09T23:30:03.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 151,
+        "replies": 43,
+        "retweets": 11,
+        "views": 34957
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108700199136759808/img/RMsS-GasyorA9Im2.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108695019846619424",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Claude Managed Agents 上线“动态工作流”：一个智能体调度上千个智能体\n\nAnthropic 的 Claude Managed Agents 开放了“动态工作流”（dynamic workflows）公测：主智能体先写好计划，再把活分阶段派给一大批智能体并行去做，最后汇总结果。单次运行最多能调度 1000 个智能体。\n\nClaude Managed Agents 是 Anthropic 面向开发者的托管智能体服务。开发者不用自己搭智能体循环和沙箱，配好模型、工具和提示词，智能体就在 Anthropic 的云端环境里跑，适合几分钟到几小时的长任务。\n\n它之前就支持“子智能体”：主智能体自己派活，再逐个读子智能体的汇报，一个会话最多同时挂 25 个。动态工作流的做法不同，主智能体写出一段程序，由服务器在后台按阶段执行，智能体之间的上下文和结果靠程序传递。主智能体腾出手来，可以继续跟用户对话、随时汇报进度。\n\nAnthropic 给了一组测试数据：在一个 11.6 万行的代码库里埋了 70 个 bug，单个智能体跑 3 次，分别找到 14、15、27 个，结果波动很大；用工作流跑 3 次，每次都找到 66 个。\n\n适合它的是能拆成很多块的活：审计大代码库、批量迁移代码、读几百份合同、调研时交叉核对多个来源。官方文档举的例子是合同审查，一两份让智能体自己看，多了才开工作流并行读。\n\n用法是在智能体配置里把 multiagent 类型设为 multiagent_20261001（这个类型下工作流默认开启），然后让 Claude “跑一个工作流”，计划和调度都由它来做。在 Claude Code 里输入 /claude-api managed-agents-onboard bug-hunter 可以直接上手，https://t.co/UkKzzKVvfH 上也有模板。\n\n要留意费用。工作流里每个智能体都在消耗 Token，几百上千个一起跑，账单涨得很快。Anthropic 建议先拿一个范围小的任务试，再逐步加大复杂度。文档还建议创建会话时设一个“会话预算”，花到上限工作流会自动暂停，调高额度后继续；这个预算只能在创建会话时设，事后加不上。\n\n工作流里临时定义的智能体默认和主智能体用同一个模型，想把部分活交给更便宜的模型，得先单独创建这些智能体，再列进配置。",
+      "url": "https://x.com/dotey/status/2108695019846619424",
+      "created_at": "2026-10-09T23:04:05.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 101,
+        "replies": 48,
+        "retweets": 15,
+        "views": 21090
+      }
+    },
+    {
+      "id": "twitter:2108693220674650363",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Grokbot 能连接 X 还是很有优势，这样可以让它帮你推送 X 上值得关注的 AI 资讯 https://t.co/AMof2vK0l6",
+      "url": "https://x.com/dotey/status/2108693220674650363",
+      "created_at": "2026-10-09T22:56:56.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 141,
+        "replies": 51,
+        "retweets": 7,
+        "views": 37610
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUOVEx9XkAAo4eh.jpg",
+        "https://pbs.twimg.com/media/HUOVSfYWEAAVjlu.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108692268257534283",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "GrokBot 的邮箱可以申请了，先要有一个 Grokbot 账号，然后绑定你的 X，去 X 上 @bot 告诉 bot 你要的邮箱，然后你的 Grokbot 就会收到消息，要你授权，如果被占用还可以修改。\n\n参考申请消息：\n&gt; @bot get me my mail jim@mail.grokbot.com https://t.co/lGQOOjXoUn",
+      "url": "https://x.com/dotey/status/2108692268257534283",
+      "created_at": "2026-10-09T22:53:09.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 246,
+        "replies": 80,
+        "retweets": 35,
+        "views": 59437
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUOUIMKXgAAeX27.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108690833008640006",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @Yuchenj_UW: Saw a video yesterday:\n\nA math PhD and her advisor spent 6 months proving a theorem. Before publishing, they asked ChatGPT.…",
+      "url": "https://x.com/dotey/status/2108690833008640006",
+      "created_at": "2026-10-09T22:47:26.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 210,
+        "views": 776
+      }
+    },
+    {
+      "id": "twitter:2108687806549897630",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "看到有网友说：\n&gt; vibe 之后游戏玩不动了，小说看不下去了，不过 vibe 的东西也没人用，迷茫\n\n像极了钓鱼佬钓了好多鱼到处送人，根本吃不完",
+      "url": "https://x.com/dotey/status/2108687806549897630",
+      "created_at": "2026-10-09T22:35:25.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 101,
+        "replies": 43,
+        "retweets": 8,
+        "views": 28146
+      }
+    },
+    {
+      "id": "twitter:2108686483645206726",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Claude 创业扶持计划上线三天就停了两项福利\n\nAnthropic 的 Claude Startups 创业扶持计划，10 月 6 日升级后刚三天，就暂停发放两项最值钱的福利：免费一年的 Claude Team 套餐，和 1000 美元 API 额度。\n\n原因是申请量远超预期。Anthropic 员工 Sarah Wolf 在 X 上说，新版上线头 48 小时收到的申请，是此前 5 个月总和的 21 倍。Claude 官方账号随后补充，申请人已经有几十万。\n\n新版的门槛是：成立不满五年，或者最近两年拿过融资。通过后能拿到一年 Claude Team（Claude 的团队付费版，最多 5 个席位）、1000 美元 API 额度、一批合作伙伴的折扣，再加 Anthropic 应用 AI 团队的答疑。官方当时说，Claude 产品和额度加起来最高值 7000 美元。\n\nWolf 说，问题出在一开始没把审核标准调好，很多不是创业公司的申请也被批了。\n\n现在分三种情况处理。已经领到 Team 套餐和 API 额度的，照常保留在账户里。申请通过但还没领的，会收到邮件，申请要重新审核，有些人可能最终拿不到。所有成员的 Startup Stack（合作伙伴提供的折扣和额度，官网写最高值 4.5 万美元，包括 ElevenLabs、ClickHouse、Granola 等）、每两周一次的应用 AI 团队线上答疑和活动，都照常保留。\n\n对创业者来说，上周已经点了领取的，不用担心；通过了还没领的，先看邮箱，等复审结果；还没申请的，眼下能拿到的主要是合作伙伴折扣和答疑。另外，被 Anthropic 合作风投投资的公司，官网仍写着可以通过投资方申请最高 10 万美元的额外 API 额度，这部分没有提到暂停。\n\n福布斯报道说，不少刚拿到通过通知的创业者在网上抱怨福利被收回。",
+      "url": "https://x.com/dotey/status/2108686483645206726",
+      "created_at": "2026-10-09T22:30:09.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 44,
+        "replies": 16,
+        "retweets": 0,
+        "views": 30754
+      }
+    },
+    {
+      "id": "twitter:2108671364970447139",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "our engineers have been busy, and we're passing on the savings down to customers.\n\nthe more you buy the more you save!",
+      "url": "https://x.com/soumithchintala/status/2108671364970447139",
+      "created_at": "2026-10-09T21:30:05.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Soumith Chintala",
+      "metrics": {
+        "likes": 332,
+        "replies": 14,
+        "retweets": 20,
+        "views": 28122
+      }
+    },
+    {
+      "id": "twitter:2108669987338551776",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "微软发布 Microsoft-Decision-1：专做“选择题”的 AI 模型，基于 Qwen3.5-9B 后训练\n\n微软推出新模型 Microsoft-Decision-1。它不写文章也不聊天，只做一件事：给定几个选项，快速判断该选哪个，并给每个选项打一个概率分。Satya Nadella 在 X 上宣布了这个模型，它已在微软的 AI 开发平台 Microsoft Foundry 上线，之后还会上 OpenRouter（一个聚合多家模型的 API 平台）。\n\n微软把这类模型叫“决策模型”。大语言模型擅长生成文字、推理复杂问题，但软件里很多 AI 调用其实只是在做判断：这条用户反馈属于哪一类？这个请求该交给哪个模型处理？智能体下一步该继续、重试，还是交给人？这类问题的答案都在固定选项里，拿大模型来答又慢又贵。决策模型直接输出结构化结果，程序拿到就能用。\n\n它是在阿里开源模型 Qwen3.5-9B 的基础上后训练出来的，只算一遍就出结果。支持是/否题、多选题和打分，也能按评分标准给 AI 的回答或智能体的动作打分。微软说之后会换到自家 MAI 模型和 OpenAI 的模型上重新训练。\n\n它输出的概率是“校准过”的：模型说有 90% 把握时，实际大约十次能对九次。开发者可以据此设门槛，把握高就自动执行，把握低就转人工审核。\n\n以下性能数据都来自微软自己的测试。在 36 个基准、近 15 万道题的对比里，它的准确率最高。速度上，它比第二名 Quyet-1.0-Large 快 4.5 倍，比 GPT-6 Sol 快约 35 倍。微软还测了稳定性：把同一个请求换种说法、打乱选项顺序等，一共八种改动，判断结果平均只有 1.3% 会变，打乱选项顺序时一次都没变。\n\n速度之所以重要，是因为智能体干活经常要连着做几十个小判断。每个判断慢 100 毫秒，20 步下来就要多等 2 秒。\n\n微软内部已经在用。Xbox 研究团队用它把 1 万多条玩家反馈和评论按主题归类，质量和 GPT-6 Sol 相当，速度快 14 倍以上，成本低 200 倍。Copilot 团队用它给回答质量打分，效果接近 GPT5.6 Luna，速度快 100 倍。\n\n对开发者来说，它适合那些答案在有限选项里的环节，比如模型路由、意图识别、内容审核、数据打标签、给 AI 输出当评委，以及让 AI 操作电脑时选下一步点哪里。把这些环节从大模型换成它，延迟和账单都能降下来。\n\n价格是每百万输入 Token 0.042 美元，输出免费。现在就可以在 Microsoft Foundry 的模型目录里调用。",
+      "url": "https://x.com/dotey/status/2108669987338551776",
+      "created_at": "2026-10-09T21:24:36.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 126,
+        "replies": 10,
+        "retweets": 15,
+        "views": 24249
+      }
+    },
+    {
+      "id": "twitter:2108669008283402744",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "建议你的 Claude Code 约束一下自动压缩的上下文长度，400k 左右是个比较合理的长度，我自己是设置的 300k，这个值足够了。\n\n/autocompact 400k\n\n另外我以前建议过禁用 1M， \"CLAUDE_CODE_DISABLE_1M_CONTEXT\"（~/.claude/settings.json），现在没必要了，请删除，否则最多也只能到 200k。",
+      "url": "https://x.com/dotey/status/2108669008283402744",
+      "created_at": "2026-10-09T21:20:43.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 303,
+        "replies": 139,
+        "retweets": 31,
+        "views": 63231
+      }
+    },
+    {
+      "id": "twitter:2108665314619675011",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "我的每一个功能开发、bug 修复都是上面那样的一个 loop（循环），这个循环每一个环节，无论是 Agent 还是我自己，都可以很快拿到反馈，所以这个 loop 转的很快，loop 转的越快，你的效率就越高。\n\n当你的 Loop 转起来以后，你就可以尝试多个任务并行，任务，因为大部分时间还是 Agent 在生成和验证，所以其实你完全有空闲，继续把重点放在定义问题和验证上。\n\n现在主要的瓶颈是我电脑设备不够多和 Token 不够用，否则能并行做的事情更多。后面我还是要习惯多在云端开任务，这样可以缓解设备不足的问题。",
+      "url": "https://x.com/dotey/status/2108665314619675011",
+      "created_at": "2026-10-09T21:06:02.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 5,
+        "replies": 4,
+        "retweets": 2,
+        "views": 7154
+      }
+    },
+    {
+      "id": "twitter:2108663149301846497",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "我这篇文章的方法论有完整的应用在我自己的开源项目 baocut （https://t.co/wldDX9MSVR ）上，涵盖系统设计、原型和 UI 设计、编码、验证和发布。\n\n比如说我刚完善了字幕样式的功能，添加了更丰富的字幕样式。\n\n第一件事就是写技术方案文档（参考图1）\n\nAgent 根据我的要求，做了分析调研后，先写成一份技术方案文档，我仔细看了它的文档，然后再提出一些要求，反复几次就能定稿。\n参考文档：https://t.co/ST2vgL0ZVq\n\n第二件事就是 Agent 会按照设计稿做原型和 UI 设计（图2）\n\n如果技术设计是为了确定技术方向，那么原型就是确定 UI 和交互，之所以不一上来就改代码，就是因为原型实现成本低，修改起来也容易，你可以很快看到最终是什么样子，Agent 可以很快从你这里拿到反馈。\n\n如果是要直接在最终代码上实现，如果要修改，无论是时间成本还是 Token 成本都会高很多。\n\n注意，原型设计和 UI 设计最好是合二为一，越保真越好，可以保证后续实现的时候不怎么需要返工。所以如果你看我的原型的话，基本上和正式 UI 没啥差别，只是后台接的逻辑代码有差别，原型都是模拟的逻辑代码，很简单，bug 也很多，但没关系。\n\n第三件事才是去实现代码\n\n当技术方案定了，UI 设计定了，实现就相对容易了，如果前期考虑的成分，这里基本上不需要什么返工，可以一次性把功能完成。\n\n第四件事就是测试验收\n\n通常 Agent 会自己帮我验收，我后来把技术栈还是改回了 Electron，就是 Electron 的 App，Agent 通过浏览器就可以验证绝大部分功能，都不用 Computer Use，复杂一点的才 Computer Use 辅助，验证效率很高。\n\nAgent 拿反馈越快，整个 Loop 就会转的越快，开发效率会越高。\n\nAgent 测试完我自己要运行测试一遍，边边角角都试试，重点是测试刚改的这个功能，比如我测试就发现字幕样式预览的文字太靠上了，直接告诉 Agent，让它修复就好。（图3）\n\n最后测试没问题就可以了，这期间大部分活都是 Agent 在干，人重点还是在两头：定义问题和验收。其他的都让 Agent 去做，哪怕调一点样式位置这种小事，节约下来的时间我都够写这样一篇推文了。",
+      "url": "https://x.com/dotey/status/2108663149301846497",
+      "created_at": "2026-10-09T20:57:26.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 189,
+        "replies": 20,
+        "retweets": 38,
+        "views": 27459
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUN1m02WMAEF1S5.jpg",
+        "https://pbs.twimg.com/media/HUN2X8uW0AEi6eT.jpg",
+        "https://pbs.twimg.com/media/HUN4qv5XkAAgPqX.jpg",
+        "https://pbs.twimg.com/media/HUN4zVRWIAAyqUd.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108649799486447645",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: That melody stuck in your head deserves better than your voice memos folder. 🎙️\n\nDylan Ho, Gilberto Tumangday, and Le-Tao…",
+      "url": "https://x.com/StabilityAI/status/2108649799486447645",
+      "created_at": "2026-10-09T20:04:23.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 1358
+      }
+    },
+    {
+      "id": "twitter:2108649243301081319",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Grok Bot 的邮箱正式推出了，推荐让你的 Bot 赶紧领一下你需要的对应前缀的邮箱\n\n直接在评论区 @ 或者把这个推特发给他就行",
+      "url": "https://x.com/op7418/status/2108649243301081319",
+      "created_at": "2026-10-09T20:02:11.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 119,
+        "replies": 113,
+        "retweets": 12,
+        "views": 59840
+      }
+    },
     {
       "id": "twitter:2108637293368242291",
       "platform": "twitter",
@@ -54,6 +758,73 @@
       }
     },
     {
+      "id": "twitter:2108608837175701514",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "I like Qwen3.5-35B-A3B for this, wondering what else is out there that might be a bit more recent and pack a little more of a punch",
+      "url": "https://x.com/simonw/status/2108608837175701514",
+      "created_at": "2026-10-09T17:21:37.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 58,
+        "replies": 20,
+        "retweets": 0,
+        "views": 11096
+      }
+    },
+    {
+      "id": "twitter:2108608482442449261",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "What's the best open weight Mixture-of-Experts LLM for coding that fits in less than 60GB of RAM?\n\nI think MoE might be necessary to get reasonably interactive speeds on the hardware I have access to - I want something faster than 12 tokens/second",
+      "url": "https://x.com/simonw/status/2108608482442449261",
+      "created_at": "2026-10-09T17:20:12.000Z",
+      "fetched_at": "2026-10-11T00:14:09.849Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 303,
+        "replies": 140,
+        "retweets": 7,
+        "views": 54915
+      }
+    },
+    {
+      "id": "twitter:2108604561753874568",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "已经站起来蹬了",
+      "url": "https://x.com/op7418/status/2108604561753874568",
+      "created_at": "2026-10-09T17:04:38.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 4986
+      }
+    },
+    {
+      "id": "twitter:2108604299383337210",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "顺便再次感叹一下老马的豪横！\n\n我这几天疯狂拿 Grok 做视频（就是代码类的视频），看了一下，每周的用量才消耗了 15%。\n\n我这个是之前 99 美元买的 Grok 会员 https://t.co/m1gFusje7a",
+      "url": "https://x.com/op7418/status/2108604299383337210",
+      "created_at": "2026-10-09T17:03:35.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 73,
+        "replies": 23,
+        "retweets": 3,
+        "views": 34767
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUNEVrcbEAEMm32.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108602998377283603",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -69,6 +840,25 @@
         "retweets": 2,
         "views": 213
       }
+    },
+    {
+      "id": "twitter:2108599286984561073",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个 https://t.co/iOquMK90CL",
+      "url": "https://x.com/op7418/status/2108599286984561073",
+      "created_at": "2026-10-09T16:43:40.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 59,
+        "replies": 26,
+        "retweets": 4,
+        "views": 48606
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108599185364934656/img/Pifjdqo2MQmCJolW.jpg"
+      ]
     },
     {
       "id": "twitter:2108579846129647963",
@@ -103,6 +893,95 @@
         "retweets": 2,
         "views": 318
       }
+    },
+    {
+      "id": "twitter:2108566650350170411",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "我把这个流程直接做成了一个 bot 并发布了。\n\n你现在可以一键安装了：https://t.co/QGDZDyOunM",
+      "url": "https://x.com/op7418/status/2108566650350170411",
+      "created_at": "2026-10-09T14:33:59.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 100,
+        "replies": 11,
+        "retweets": 10,
+        "views": 20902
+      }
+    },
+    {
+      "id": "twitter:2108566423115350121",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "my Grok @bot turns my AI newsletter into a 2-min video now. \n\nmade it a template so you can steal it\n\nhttps://t.co/QGDZDyOunM https://t.co/xggoTSzrCZ",
+      "url": "https://x.com/op7418/status/2108566423115350121",
+      "created_at": "2026-10-09T14:33:05.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 21,
+        "replies": 7,
+        "retweets": 2,
+        "views": 8633
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108566338734321664/img/up3AzpeD3w4_hKr1.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108547654083039700",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Example prompt: https://t.co/qSsBnLwly5",
+      "url": "https://x.com/simonw/status/2108547654083039700",
+      "created_at": "2026-10-09T13:18:30.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 40,
+        "replies": 7,
+        "retweets": 3,
+        "views": 11687
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUMQ6TaaIAALjU-.png"
+      ]
+    },
+    {
+      "id": "twitter:2108547065634844839",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "I built a new feature for my blog entirely by voice with Codex Desktop, while I was cooking dinner https://t.co/dQwOlgFeKT",
+      "url": "https://x.com/simonw/status/2108547065634844839",
+      "created_at": "2026-10-09T13:16:10.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 357,
+        "replies": 188,
+        "retweets": 15,
+        "views": 43029
+      }
+    },
+    {
+      "id": "twitter:2108545983647023493",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "有了 Grok bot 以后，真的以前特别懒得干但应该干的事，都开始去做了。\n\n比如说让 Grok bot 给我在 Notion 里做了一个自媒体的看板。\n\n做自媒体干了这么长时间，都没有监控过自己的一些数据，刚才跟他花了 15 分钟一起就把这些东西建起来了。 https://t.co/ixa0ZKIU11",
+      "url": "https://x.com/op7418/status/2108545983647023493",
+      "created_at": "2026-10-09T13:11:52.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 179,
+        "replies": 46,
+        "retweets": 12,
+        "views": 34966
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUMPK6IaYAAjmjC.jpg"
+      ]
     },
     {
       "id": "xhs:6ac8b405000000001500eccf",
@@ -199,6 +1078,25 @@
       }
     },
     {
+      "id": "twitter:2108430748101570855",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "在野外跟 Grok bot 搏斗 https://t.co/eBLSYa9ovm",
+      "url": "https://x.com/op7418/status/2108430748101570855",
+      "created_at": "2026-10-09T05:33:57.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 23,
+        "replies": 15,
+        "retweets": 1,
+        "views": 7612
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUKmklUbwAAt33a.jpg"
+      ]
+    },
+    {
       "id": "xhs:6ac85b4e0000000018005084",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -282,6 +1180,60 @@
       }
     },
     {
+      "id": "twitter:2108377835970953349",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Grok Bot 自动给跑的 AI 早报视频定时任务执行了，效果不错的 https://t.co/kODdU42CuI",
+      "url": "https://x.com/op7418/status/2108377835970953349",
+      "created_at": "2026-10-09T02:03:42.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 38,
+        "replies": 18,
+        "retweets": 5,
+        "views": 11241
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108377721009217536/img/mqQb_U32jMbpU-Lu.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108376628820943258",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "B 站：https://t.co/b84ptTEHJZ\n\n小宇宙：https://t.co/ksgTtluFuR",
+      "url": "https://x.com/op7418/status/2108376628820943258",
+      "created_at": "2026-10-09T01:58:54.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3143
+      }
+    },
+    {
+      "id": "twitter:2108376538056212876",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。\n\n我们继续聊了聊关于 personal agent 的话题：\n• 为什么 Dots 这么难用\n• 为什么国内 personal agent 可能不成立\n\n也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。\n\n第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！",
+      "url": "https://x.com/op7418/status/2108376538056212876",
+      "created_at": "2026-10-09T01:58:33.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 37,
+        "replies": 16,
+        "retweets": 3,
+        "views": 22994
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUJ0zZXawAAbmpN.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108362528753643958",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -328,6 +1280,54 @@
         "replies": 1,
         "retweets": 0,
         "views": 2480
+      }
+    },
+    {
+      "id": "twitter:2108347087985480107",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Admittedly I guess this is a pretty incredible troll targeted at people who say \"it shouldn't be called artificial intelligent because it's not actually intelligent\"\n\nDo they now feel obliged to defend the old name against the new one?",
+      "url": "https://x.com/simonw/status/2108347087985480107",
+      "created_at": "2026-10-09T00:01:31.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 36,
+        "replies": 5,
+        "retweets": 1,
+        "views": 10184
+      }
+    },
+    {
+      "id": "twitter:2108346352090636583",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Note that their press release from when he pleaded guilty back on March 19th used \"North Carolina Man Pleads Guilty To Music Streaming Fraud Aided By Artificial Intelligence\" because of course it did https://t.co/iJktn2sq2a",
+      "url": "https://x.com/simonw/status/2108346352090636583",
+      "created_at": "2026-10-08T23:58:36.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 38,
+        "replies": 2,
+        "retweets": 0,
+        "views": 12651
+      }
+    },
+    {
+      "id": "twitter:2108346075874734127",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "This \"Super Intelligence\" thing is just so, so, so stupid\n\nI can't even",
+      "url": "https://x.com/simonw/status/2108346075874734127",
+      "created_at": "2026-10-08T23:57:30.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 1844,
+        "replies": 150,
+        "retweets": 79,
+        "views": 108293
       }
     },
     {
@@ -384,6 +1384,26 @@
       }
     },
     {
+      "id": "twitter:2108312246745280602",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "RT @funcOfJoe: @simonw 🤣\n\nI couldn't help myself.\n\n\"Generate an SVG of a walrus playing the bagpipes\" https://t.co/cVr4bczfJk",
+      "url": "https://x.com/simonw/status/2108312246745280602",
+      "created_at": "2026-10-08T21:43:04.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 2128
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUI0uKFaMAAzxX7.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108296444662910980",
       "platform": "twitter",
       "handle": "huggingface",
@@ -433,6 +1453,25 @@
         "retweets": 22,
         "views": 2171
       }
+    },
+    {
+      "id": "twitter:2108278193316630711",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "What if making video-based world models smaller isn't just about better compression, but about making their representations easier to predict?\n\nRecent approaches to video generation explore building scenes from coarse to fine. The first few tokens capture the big picture, like a person playing a guitar, while later tokens progressively add visual details.\n\nOur Interactive Research team just published SemanTok, which takes this idea further. By making those early tokens more semantically meaningful, we give the model a clearer understanding of what's happening in a scene, making the representation easier to predict and video generation more efficient.\n\nThe result: a model using SemanTok matches or beats the performance of a model more than three times its size.\n\nRead the full paper: https://t.co/uBHxvEaAi9",
+      "url": "https://x.com/StabilityAI/status/2108278193316630711",
+      "created_at": "2026-10-08T19:27:45.000Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "author": "Stability AI",
+      "metrics": {
+        "likes": 81,
+        "replies": 1,
+        "retweets": 10,
+        "views": 10405
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108278099779452928/img/rxD12G1R9Lj3Ar1G.jpg"
+      ]
     },
     {
       "id": "twitter:2108272910209351910",
@@ -647,6 +1686,25 @@
       ]
     },
     {
+      "id": "twitter:2108229061529239705",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "3D 这一块还是 GPT-6 Astra 牛皮啊\n\n让它读取了一下我的 Memory，根据我的喜好，用 Blender 建模的几个模型做了张海报\n\n模型的细节、材质、光影都能做得很好 https://t.co/ObeHi3oU0Z",
+      "url": "https://x.com/op7418/status/2108229061529239705",
+      "created_at": "2026-10-08T16:12:31.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 74,
+        "replies": 19,
+        "retweets": 5,
+        "views": 12665
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUHuRrNawAAlgyt.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108225596199149849",
       "platform": "twitter",
       "handle": "huggingface",
@@ -701,6 +1759,38 @@
       }
     },
     {
+      "id": "twitter:2108225180111896660",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "A÷小伎俩",
+      "url": "https://x.com/op7418/status/2108225180111896660",
+      "created_at": "2026-10-08T15:57:06.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3061
+      }
+    },
+    {
+      "id": "twitter:2108225028299034638",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "AWS have a new open source sandbox too, must be something in the air",
+      "url": "https://x.com/simonw/status/2108225028299034638",
+      "created_at": "2026-10-08T15:56:30.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 32,
+        "replies": 10,
+        "retweets": 1,
+        "views": 6205
+      }
+    },
+    {
       "id": "twitter:2108224577809658208",
       "platform": "twitter",
       "handle": "huggingface",
@@ -752,6 +1842,54 @@
       }
     },
     {
+      "id": "twitter:2108221358228512809",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "模型强该用用，怎么公司还说不得了，我寻思那些人应该也没 A÷股份啊",
+      "url": "https://x.com/op7418/status/2108221358228512809",
+      "created_at": "2026-10-08T15:41:55.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 24,
+        "replies": 7,
+        "retweets": 0,
+        "views": 3801
+      }
+    },
+    {
+      "id": "twitter:2108220832422228202",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话",
+      "url": "https://x.com/op7418/status/2108220832422228202",
+      "created_at": "2026-10-08T15:39:49.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 27,
+        "replies": 6,
+        "retweets": 0,
+        "views": 4666
+      }
+    },
+    {
+      "id": "twitter:2108218301654749218",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Related new project from Microsoft is Quicksand, a Python library that bundles QEMU and uses it to run eg an Alpine Linux container - this one is really neat, I've tried it on macOS and Windows and Linux: https://t.co/AcYTphiwRN",
+      "url": "https://x.com/simonw/status/2108218301654749218",
+      "created_at": "2026-10-08T15:29:46.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 62,
+        "replies": 14,
+        "retweets": 8,
+        "views": 10392
+      }
+    },
+    {
       "id": "twitter:2108216895329497200",
       "platform": "twitter",
       "handle": "GoogleDeepMind",
@@ -766,6 +1904,22 @@
         "replies": 0,
         "retweets": 50,
         "views": 7699
+      }
+    },
+    {
+      "id": "twitter:2108216753604248000",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "New open source cross-platform (Windows, macOS, Linux) sandboxing library from Microsoft - looks very promising, uses processcontainer/bubblewrap/seatbelt under the hood https://t.co/WMW0AXeBoG",
+      "url": "https://x.com/simonw/status/2108216753604248000",
+      "created_at": "2026-10-08T15:23:37.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 1122,
+        "replies": 141,
+        "retweets": 103,
+        "views": 68549
       }
     },
     {
@@ -907,6 +2061,44 @@
       }
     },
     {
+      "id": "twitter:2108197180133798142",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "当然也可以打开两个狗头军师帮我参谋 https://t.co/5aVCqX6ULA",
+      "url": "https://x.com/op7418/status/2108197180133798142",
+      "created_at": "2026-10-08T14:05:50.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3281
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUHSJ-zaoAA5wDq.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108195841949446528",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Grok bot 跟折叠屏手机真是绝配，左边跟他聊天，右边直接就发布了 https://t.co/5lpt8WRJGP",
+      "url": "https://x.com/op7418/status/2108195841949446528",
+      "created_at": "2026-10-08T14:00:31.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 20,
+        "replies": 19,
+        "retweets": 1,
+        "views": 13737
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUHQ8GmbkAEGoGF.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108188508632625227",
       "platform": "twitter",
       "handle": "huggingface",
@@ -977,6 +2169,220 @@
       ]
     },
     {
+      "id": "twitter:2108162445760217200",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "还有个邪修玩法：https://t.co/sNDY2xP9Qm",
+      "url": "https://x.com/op7418/status/2108162445760217200",
+      "created_at": "2026-10-08T11:47:49.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "retweets": 1,
+        "views": 5985
+      }
+    },
+    {
+      "id": "twitter:2108162381000093893",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "再分享个邪修用法：\n\n在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。\n\n然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了",
+      "url": "https://x.com/op7418/status/2108162381000093893",
+      "created_at": "2026-10-08T11:47:34.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 82,
+        "replies": 23,
+        "retweets": 3,
+        "views": 24271
+      }
+    },
+    {
+      "id": "twitter:2108161410517930397",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "顺便，Grok Bot 的模型不会已经是 Opus 5.5 了吧，复杂任务效果巨好",
+      "url": "https://x.com/op7418/status/2108161410517930397",
+      "created_at": "2026-10-08T11:43:42.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 28,
+        "replies": 19,
+        "retweets": 4,
+        "views": 14867
+      }
+    },
+    {
+      "id": "twitter:2108156015225290865",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "你也可以直接在这里 @ 你的 bot，让它加入到你的每日任务",
+      "url": "https://x.com/op7418/status/2108156015225290865",
+      "created_at": "2026-10-08T11:22:16.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "retweets": 1,
+        "views": 7013
+      }
+    },
+    {
+      "id": "twitter:2108150460037444094",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Muse、Dots 或者其他有云端电脑的 Agent 都可以用",
+      "url": "https://x.com/op7418/status/2108150460037444094",
+      "created_at": "2026-10-08T11:00:11.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 23,
+        "replies": 5,
+        "retweets": 1,
+        "views": 11045
+      }
+    },
+    {
+      "id": "twitter:2108148604447883464",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！\n\n全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。\n\n我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务\n\n提示词太长放下面了 https://t.co/dYDB0JrsEd",
+      "url": "https://x.com/op7418/status/2108148604447883464",
+      "created_at": "2026-10-08T10:52:49.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 365,
+        "replies": 106,
+        "retweets": 48,
+        "views": 131449
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108148339204382720/img/3xsxx3VnE20b3QfW.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108126537044353334",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "怎么这么多精神 Anthropic 公司人\n\n我发这个信息说了句降价，这个定价专门用来狙击国产模型，说了句恶心，一堆人来骂\n\n好像这模型一便宜就忘了 Anthropic 之前干过啥了",
+      "url": "https://x.com/op7418/status/2108126537044353334",
+      "created_at": "2026-10-08T09:25:08.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 127,
+        "replies": 90,
+        "retweets": 2,
+        "views": 26662
+      }
+    },
+    {
+      "id": "twitter:2108124981473206739",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "那些就因为我说了几句 Anthropic 恶心，就在下面逼逼赖赖的人，希望封你们号的时候，别骂噢",
+      "url": "https://x.com/op7418/status/2108124981473206739",
+      "created_at": "2026-10-08T09:18:57.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 23,
+        "replies": 2,
+        "retweets": 0,
+        "views": 7696
+      }
+    },
+    {
+      "id": "twitter:2108117505478939112",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "谨慎领取，有可能是钓鱼执法",
+      "url": "https://x.com/op7418/status/2108117505478939112",
+      "created_at": "2026-10-08T08:49:14.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "retweets": 0,
+        "views": 2550
+      }
+    },
+    {
+      "id": "twitter:2108113214944985394",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "妈的，当时为了抢那 99 美元的额度，用的另一个账号买的 Gork Bot，导致现在我的 Twitter @它，它不回我",
+      "url": "https://x.com/op7418/status/2108113214944985394",
+      "created_at": "2026-10-08T08:32:11.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 27,
+        "replies": 17,
+        "retweets": 0,
+        "views": 22435
+      }
+    },
+    {
+      "id": "twitter:2108110101076902078",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "笑死，你永远不知道一个设计师会在产品的哪个地方开始抠细节，做着做着就跑偏了。\n\n把“关于”页面这个罗盘做成 3D 的，细节非常丰富，设计比较现代，而且指针还会跟随你的鼠标去转动 https://t.co/NEem6zwvfS",
+      "url": "https://x.com/op7418/status/2108110101076902078",
+      "created_at": "2026-10-08T08:19:49.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 10,
+        "replies": 2,
+        "retweets": 1,
+        "views": 6294
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108109906008240128/img/uuLYSGJD9pWnD_kW.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108108208074305707",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "哦，知道为啥没反应了，因为绑定的不是我这个推特账号",
+      "url": "https://x.com/op7418/status/2108108208074305707",
+      "created_at": "2026-10-08T08:12:18.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3785
+      }
+    },
+    {
+      "id": "twitter:2108104962911928376",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "嘿 @bot  我能为我的机器人要 guziang@mail.grokbot.com 吗？",
+      "url": "https://x.com/op7418/status/2108104962911928376",
+      "created_at": "2026-10-08T07:59:24.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 7,
+        "replies": 3,
+        "retweets": 0,
+        "views": 16692
+      }
+    },
+    {
       "id": "twitter:2108071104472592724",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -1012,6 +2418,41 @@
       ]
     },
     {
+      "id": "twitter:2108052862572138938",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来",
+      "url": "https://x.com/op7418/status/2108052862572138938",
+      "created_at": "2026-10-08T04:32:22.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3396
+      }
+    },
+    {
+      "id": "twitter:2108050013054271544",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Opus 5.5 做的奇门遁甲排盘教学网站上线了！\n\n本来是自己做着玩的，没想到大家还真有需求，优化了一下加了一些题目和讲解，更像学习网站了\n\nhttps://t.co/B7GCJuTKaN https://t.co/BOKYVAiDES",
+      "url": "https://x.com/op7418/status/2108050013054271544",
+      "created_at": "2026-10-08T04:21:03.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 151,
+        "replies": 35,
+        "retweets": 22,
+        "views": 30118
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2108049766559203329/img/VspbFWRCRNU218wz.jpg"
+      ]
+    },
+    {
       "id": "xhs:6ac70e05000000001203a7af",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -1039,6 +2480,62 @@
       ]
     },
     {
+      "id": "twitter:2108025814227009681",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Codex 今天送重置卡",
+      "url": "https://x.com/op7418/status/2108025814227009681",
+      "created_at": "2026-10-08T02:44:53.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 8,
+        "replies": 4,
+        "retweets": 0,
+        "views": 8758
+      }
+    },
+    {
+      "id": "twitter:2108017913030717443",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！\n\n我对比了一下它和几个中国竞品的价格和测试评分\n\n从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜\n\n从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 flash 高一分，也跟 5.3 flash 相同，比其他两个更高",
+      "url": "https://x.com/op7418/status/2108017913030717443",
+      "created_at": "2026-10-08T02:13:30.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 343,
+        "replies": 131,
+        "retweets": 28,
+        "views": 157184
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUEvHYZacAACZ-K.jpg",
+        "https://pbs.twimg.com/media/HUEvHYcbwAAseee.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108015400286048474",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Anthropic 这个决定真是王炸\n\n他们现在会给每个 Max 和 Team 用户直接送对应额度的 API 金额\n\n我把对应额度和怎么领取做了两张图\n\n这个 API 你在哪里用都行，只要这个产品支持输入 API\n\n结合昨天晚上发布的 haiku 5.5 的价格，这 100 美金相当够用了\n\n这下轮到 OpenAI 难受了 https://t.co/rE2a0YjWLN",
+      "url": "https://x.com/op7418/status/2108015400286048474",
+      "created_at": "2026-10-08T02:03:31.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 128,
+        "replies": 29,
+        "retweets": 16,
+        "views": 36564
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUEs1H0a4AAhZzP.jpg",
+        "https://pbs.twimg.com/media/HUEs1H0bsAAeMhj.jpg"
+      ]
+    },
+    {
       "id": "twitter:2108011269806760285",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -1057,6 +2554,22 @@
       "media": [
         "https://pbs.twimg.com/media/HUEbkD8bQAEwhZy.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108010689889767493",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Grok bot 最近真猛啊！\n\n现在可以搜索、阅读甚至监控指定的推特内容\n\n比如你可以让他在 tibo 重置 Codex 额度的时候通知你\n\n这些都是免费的，不通过以前的 xapi 实现",
+      "url": "https://x.com/op7418/status/2108010689889767493",
+      "created_at": "2026-10-08T01:44:48.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 81,
+        "replies": 23,
+        "retweets": 5,
+        "views": 44528
+      }
     },
     {
       "id": "twitter:2108005474641838500",
@@ -1235,6 +2748,25 @@
       ]
     },
     {
+      "id": "twitter:2107939154122404015",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Haiku 5.5 is SO MUCH better at drawing pelicans riding bicycles than Claude Haiku 4.5, released almost a year ago and costing 10x more. Here's Haiku 4.5's attempt: https://t.co/2TxatCzXfz",
+      "url": "https://x.com/simonw/status/2107939154122404015",
+      "created_at": "2026-10-07T21:00:32.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 29,
+        "replies": 13,
+        "retweets": 1,
+        "views": 10873
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDnfMaacAAQZYQ.png"
+      ]
+    },
+    {
       "id": "twitter:2107938889004396561",
       "platform": "twitter",
       "handle": "emollick",
@@ -1248,6 +2780,22 @@
         "replies": 53,
         "retweets": 20,
         "views": 29681
+      }
+    },
+    {
+      "id": "twitter:2107938675405586713",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Pelicans and a bunch of notes on the pricing of the new Claude Haiku 5.5 https://t.co/F3Sob8WvsG",
+      "url": "https://x.com/simonw/status/2107938675405586713",
+      "created_at": "2026-10-07T20:58:38.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 244,
+        "replies": 93,
+        "retweets": 14,
+        "views": 35342
       }
     },
     {
@@ -2033,6 +3581,54 @@
       ]
     },
     {
+      "id": "twitter:2107794249051951205",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
+      "url": "https://x.com/op7418/status/2107794249051951205",
+      "created_at": "2026-10-07T11:24:44.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 50,
+        "replies": 13,
+        "retweets": 1,
+        "views": 28700
+      }
+    },
+    {
+      "id": "twitter:2107793626705355111",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。",
+      "url": "https://x.com/op7418/status/2107793626705355111",
+      "created_at": "2026-10-07T11:22:16.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 3,
+        "retweets": 0,
+        "views": 7430
+      }
+    },
+    {
+      "id": "twitter:2107788042929160367",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。",
+      "url": "https://x.com/op7418/status/2107788042929160367",
+      "created_at": "2026-10-07T11:00:04.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 121,
+        "replies": 52,
+        "retweets": 3,
+        "views": 63757
+      }
+    },
+    {
       "id": "twitter:2107766611646038216",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -2064,6 +3660,25 @@
         "retweets": 1,
         "views": 481
       }
+    },
+    {
+      "id": "twitter:2107696000899158404",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "尝试让 Opus 5.5 做个网站解释奇门遁甲 https://t.co/1A2C36q226",
+      "url": "https://x.com/op7418/status/2107696000899158404",
+      "created_at": "2026-10-07T04:54:20.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 77,
+        "replies": 30,
+        "retweets": 4,
+        "views": 41491
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUAKQ1YaAAAS1xV.jpg"
+      ]
     },
     {
       "id": "twitter:2107689326847123520",
@@ -2113,6 +3728,22 @@
         "replies": 0,
         "retweets": 1,
         "views": 444
+      }
+    },
+    {
+      "id": "twitter:2107676475336044892",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "重置了居然！",
+      "url": "https://x.com/op7418/status/2107676475336044892",
+      "created_at": "2026-10-07T03:36:45.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 28,
+        "replies": 11,
+        "retweets": 0,
+        "views": 15180
       }
     },
     {
@@ -2183,6 +3814,22 @@
       }
     },
     {
+      "id": "twitter:2107630159927062921",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "I released an LLM plugin for sending prompts to OpenAI's new Jev-clone decision model that's based on GPT-6 Luna https://t.co/rsnHCKpk84",
+      "url": "https://x.com/simonw/status/2107630159927062921",
+      "created_at": "2026-10-07T00:32:42.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 260,
+        "replies": 85,
+        "retweets": 12,
+        "views": 31819
+      }
+    },
+    {
       "id": "xhs:6ac51b8c000000001a0239f8",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -2242,6 +3889,22 @@
         "replies": 205,
         "retweets": 172,
         "views": 213358
+      }
+    },
+    {
+      "id": "twitter:2107615251818750390",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "One thing I'd LOVE to understand is how Claude \"knows\" what the music from Secret of Monkey Island sounds like\n\nMaybe Anthropic crawled a whole bunch of online music discussion forums with text-based renditions of classic game music?",
+      "url": "https://x.com/simonw/status/2107615251818750390",
+      "created_at": "2026-10-06T23:33:28.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 28,
+        "replies": 13,
+        "retweets": 0,
+        "views": 6491
       }
     },
     {
@@ -2629,6 +4292,25 @@
       }
     },
     {
+      "id": "twitter:2107523062619054174",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！\n\n会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！\n\n整体非常漂亮，而且细节很丰富，那些动效非常的细腻。\n\n然后他们左侧这个卡片也很有意思，它是 AI 自定义的。而且\n\n不知道现在还有没有？我是前几天就申请了，所以上来就送了",
+      "url": "https://x.com/op7418/status/2107523062619054174",
+      "created_at": "2026-10-06T17:27:08.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 171,
+        "replies": 31,
+        "retweets": 22,
+        "views": 48891
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT9tBIxaEAAtLIh.jpg"
+      ]
+    },
+    {
       "id": "twitter:2107521440300032204",
       "platform": "twitter",
       "handle": "huggingface",
@@ -2663,6 +4345,60 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2107512251146227712/img/Nz7_z_IEOm9rENX0.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107516463250821166",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Here's a benchmark that uses Lilypond https://t.co/6yWiT7tG9e",
+      "url": "https://x.com/simonw/status/2107516463250821166",
+      "created_at": "2026-10-06T17:00:55.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 33,
+        "replies": 8,
+        "retweets": 2,
+        "views": 15000
+      }
+    },
+    {
+      "id": "twitter:2107515877977698568",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
+      "url": "https://x.com/op7418/status/2107515877977698568",
+      "created_at": "2026-10-06T16:58:35.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3886
+      }
+    },
+    {
+      "id": "twitter:2107515249360597365",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "谷歌发布了 Nano Banana 2.1 图像模型\n\n中文的文字清晰度和错字问题大幅改善！\n\n中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！\n\n它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！\n\n当然，价格还是挺贵的。 https://t.co/L4Q2FB2hTB",
+      "url": "https://x.com/op7418/status/2107515249360597365",
+      "created_at": "2026-10-06T16:56:05.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 213,
+        "replies": 26,
+        "retweets": 27,
+        "views": 44342
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT9kW-CbIAALhow.jpg",
+        "https://pbs.twimg.com/media/HT9lOJhasAAekOr.jpg",
+        "https://pbs.twimg.com/media/HT9lm1tboAArkcj.jpg",
+        "https://pbs.twimg.com/media/HT9l8DBbwAAXh27.jpg"
       ]
     },
     {
@@ -2706,6 +4442,22 @@
       ]
     },
     {
+      "id": "twitter:2107496114299822393",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Anyone know when the models started being able to compose competent music? I had Opus 5.5 \"write some computer game music for me\" and the results were much better than I had expected\nhttps://t.co/vFhfgHh7B3",
+      "url": "https://x.com/simonw/status/2107496114299822393",
+      "created_at": "2026-10-06T15:40:03.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 310,
+        "replies": 133,
+        "retweets": 17,
+        "views": 38275
+      }
+    },
+    {
       "id": "twitter:2107489752349892677",
       "platform": "twitter",
       "handle": "emollick",
@@ -2720,6 +4472,25 @@
         "retweets": 65,
         "views": 77639
       }
+    },
+    {
+      "id": "twitter:2107479817780400577",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Mistral can pelican now! https://t.co/Mvtss5e5ay https://t.co/A2GQpvhEF0",
+      "url": "https://x.com/simonw/status/2107479817780400577",
+      "created_at": "2026-10-06T14:35:18.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 757,
+        "replies": 81,
+        "retweets": 29,
+        "views": 31842
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT9FubFbgAAtrZF.jpg"
+      ]
     },
     {
       "id": "twitter:2107475672004497466",
@@ -2856,6 +4627,25 @@
         "https://pbs.twimg.com/media/HT7TdFAWwAAnHAo.png",
         "https://pbs.twimg.com/media/HT7Vn5gXAAAd5Zi.png",
         "https://pbs.twimg.com/media/HT7VpDkXkAAn1zD.png"
+      ]
+    },
+    {
+      "id": "twitter:2107291622539251838",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Next Token 04 在小宇宙正式一万播放了\n\n作为一个新播客，冷启动相当成功，可能也跟大家国庆出游没时间看手机开车和走路需要听点东西有关\n\nB 站的视频播客这一期播放量也不低 https://t.co/iYbAvRjVhU",
+      "url": "https://x.com/op7418/status/2107291622539251838",
+      "created_at": "2026-10-06T02:07:29.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 21,
+        "replies": 19,
+        "retweets": 2,
+        "views": 8103
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT6Z8xtbgAARcBq.jpg"
       ]
     },
     {
@@ -3125,6 +4915,26 @@
         "retweets": 4,
         "views": 3284
       }
+    },
+    {
+      "id": "twitter:2107158711798218848",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "I re-ran an experiment @colin_fraser ran against GPT-4o a while back to see how good it was at adding long numbers, only this time I tried Qwen 3.8 27B running locally in both reasoning and non-reasoning modes https://t.co/IOufJIA4N9 https://t.co/4kB33NCPcO",
+      "url": "https://x.com/simonw/status/2107158711798218848",
+      "created_at": "2026-10-05T17:19:20.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 475,
+        "replies": 115,
+        "retweets": 30,
+        "views": 51845
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT4heuKbgAALs6T.jpg",
+        "https://pbs.twimg.com/media/HT4hogfbYAAxtet.png"
+      ]
     },
     {
       "id": "twitter:2107145927127609752",
@@ -3442,6 +5252,25 @@
       }
     },
     {
+      "id": "twitter:2107057203274461508",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "M5 Stack Stop Watch + Muse Gadgets + MiniMax API\n\n用视频演示一下，基于 Muse Gadgets 做的硬件。\n\n我做了一些 UI 优化，更改了语言、加上了语音输出，并且可以磁吸在电脑屏幕旁边。 https://t.co/a9tcmIXwAU",
+      "url": "https://x.com/op7418/status/2107057203274461508",
+      "created_at": "2026-10-05T10:35:59.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 48,
+        "replies": 107,
+        "retweets": 1,
+        "views": 15367
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107056681679216640/img/QK4ssTdwOSBK348Y.jpg"
+      ]
+    },
+    {
       "id": "xhs:6ac33f22000000001b022f25",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -3469,6 +5298,101 @@
         "https://sns-webpic-qc.xhscdn.com/202610081057/b7159a6514a7f85f8b30d1b9a2a9d0af/spectrum/1040g0k0325ubik74k6405p37m4gk4uihe6o6cbo!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610081057/fe3351e20d970f337160f6f4fc8ae916/spectrum/1040g0k0325ubik74k64g5p37m4gk4uihri3msv0!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610081057/25d5a013621706c6b701c4a895ef2d8b/spectrum/1040g0k0325ubik74k6505p37m4gk4uih9afv2q0!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2107022693359030282",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "它现在这样直接磁吸在我的显示屏右边，我随时就可以拿下来了，然后 Muse 有一些主动通知也能直接看到 https://t.co/0ODQfsOpZt",
+      "url": "https://x.com/op7418/status/2107022693359030282",
+      "created_at": "2026-10-05T08:18:51.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "retweets": 0,
+        "views": 3564
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT2l9kqbEAA5JOh.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107017257763426381",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "神奇，没想到即览在国区限免结束之后还有人购买，确实说明确实有用。\n\n回本了，起码把苹果开发者的 100 美元注册费用挣回来了 https://t.co/jMLCMLgQr4",
+      "url": "https://x.com/op7418/status/2107017257763426381",
+      "created_at": "2026-10-05T07:57:15.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 47,
+        "replies": 25,
+        "retweets": 0,
+        "views": 23149
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT2g9FobEAA964G.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107015036493615446",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "它原始的 Muse Gadgets SDK 在这个设备上的设计有点问题，就是太臃肿、太拥挤了，而且默认也不是中文。\n\n然后我就改了一下，整个 UI 看着更协调，同时界面改成了中文，还把中间的形象换成了和我 Muse 一样的那个橘猫 https://t.co/4ldlh2neoq",
+      "url": "https://x.com/op7418/status/2107015036493615446",
+      "created_at": "2026-10-05T07:48:25.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 19,
+        "replies": 14,
+        "retweets": 0,
+        "views": 8957
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT2eyxZb0AAOU6e.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2106976063620632944",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "专门为安卓折叠屏做了一个模仿 iPhone Duo那个半折状态下的屏保应用。\n\n考虑到实在是没几个人用，所以就没发，有需要的话我开源一下 https://t.co/HMJbByMRqn",
+      "url": "https://x.com/op7418/status/2106976063620632944",
+      "created_at": "2026-10-05T05:13:33.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 6,
+        "replies": 9,
+        "retweets": 0,
+        "views": 9599
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT17jeXa8AASNwS.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2106974366722662786",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "搞定了 Muse 那个小玩具 哈哈\n\n我用的 M5 Stack 的 Stop Watch Meta 搞得\n\n这个 Muse Gadgets SDK 真的很方便\n\n而且已经内置了好几个常见 ESP 32 设备的固件，直接刷进去就行 https://t.co/FvtRqacZ6w",
+      "url": "https://x.com/op7418/status/2106974366722662786",
+      "created_at": "2026-10-05T05:06:49.000Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 97,
+        "replies": 37,
+        "retweets": 11,
+        "views": 44859
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT14pDaa0AAdmLV.jpg"
       ]
     },
     {
@@ -3500,6 +5424,23 @@
         "https://sns-webpic-qc.xhscdn.com/202610070005/3ef90c60948790bf26f7afb473edbc0a/spectrum/1040g0k0325u2sdlul84g5ookkb64gcbjloqf33o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610070005/74423ecc3a6016a791d0beb63fd8ac96/spectrum/1040g0k0325u2sdlul8505ookkb64gcbjnkmgjd8!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2106907968205980102",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "RT @cHHillee: There's an interesting distortion in inference pricing that appears to be driven by openrouter's routing. \n\nNamely, ridiculou…",
+      "url": "https://x.com/soumithchintala/status/2106907968205980102",
+      "created_at": "2026-10-05T00:42:58.000Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "author": "Soumith Chintala",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 38,
+        "views": 596
+      }
     },
     {
       "id": "xhs:6ac24e21000000001802b11c",
@@ -3863,14 +5804,14 @@
       "text": "RT @biilmann: @simonw That was one of the components in our switch to credit based pricing at Netlify a year ago.",
       "url": "https://x.com/simonw/status/2106550840773509149",
       "created_at": "2026-10-04T01:03:52.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
       "author": "Simon Willison",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 1688
+        "views": 2394
       }
     },
     {
@@ -4459,13 +6400,13 @@
       "text": "他妈的，现在评论区的伪人是真的多，而且他们的 AI 回复的调教都是一样的，都从哪儿买的提示词和课",
       "url": "https://x.com/op7418/status/2106351873372615020",
       "created_at": "2026-10-03T11:53:15.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
       "author": "歸藏(guizang.ai)",
       "metrics": {
-        "likes": 103,
-        "replies": 97,
+        "likes": 116,
+        "replies": 115,
         "retweets": 1,
-        "views": 31892
+        "views": 42233
       }
     },
     {
@@ -4938,13 +6879,13 @@
       "text": "Many thanks to The Information for sitting down with our Executive Chairman Sean Parker and CEO @premakkaraju to talk about our work building tools for music professionals.",
       "url": "https://x.com/StabilityAI/status/2106148130731467187",
       "created_at": "2026-10-02T22:23:39.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-11T16:03:57.854Z",
       "author": "Stability AI",
       "metrics": {
-        "likes": 7,
-        "replies": 3,
+        "likes": 12,
+        "replies": 4,
         "retweets": 0,
-        "views": 8848
+        "views": 12261
       }
     },
     {
@@ -5880,13 +7821,13 @@
       "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
       "url": "https://x.com/karpathy/status/2105909609487872075",
       "created_at": "2026-10-02T06:35:51.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-11T20:09:10.057Z",
       "author": "Andrej Karpathy",
       "metrics": {
-        "likes": 18212,
-        "replies": 512,
-        "retweets": 1003,
-        "views": 1163329
+        "likes": 18721,
+        "replies": 662,
+        "retweets": 1037,
+        "views": 1338444
       }
     },
     {
@@ -6050,14 +7991,14 @@
       "text": "RT @ekzhang1: So I would like to share my analysis of PD disagg that I've run by Horace and many folks at Thinky\n\nYou may have heard that P…",
       "url": "https://x.com/soumithchintala/status/2105830132359528559",
       "created_at": "2026-10-02T01:20:02.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-11T00:14:09.850Z",
       "author": "Soumith Chintala",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 51,
-        "views": 592
+        "retweets": 50,
+        "views": 619
       }
     },
     {

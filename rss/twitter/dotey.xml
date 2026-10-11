@@ -5,8 +5,184 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>dotey · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/dotey.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 06:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:49:17 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>宝玉：RT @lexi_labs: 我来祛魅一下，所谓的硅谷大厂都在清退华人工程师的事。</title>
+      <link>https://x.com/dotey/status/2109174479582564542</link>
+      <guid isPermaLink="false">twitter:2109174479582564542</guid>
+      <pubDate>Sun, 11 Oct 2026 06:49:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @lexi_labs: 我来祛魅一下，所谓的硅谷大厂都在清退华人工程师的事。<br /><br />涉密企业和项目要求clearance，这是正常的商业操作。<br /><br />我最近跟 SpaceX 和 Anduril 的recruiter 电话，他们的第一个问题，就是你能不能过 clearance，美国…</p><p><a href="https://x.com/dotey/status/2109174479582564542">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：用 REA 小试牛刀逆向了 Claude Slides 的 Slides 编辑器，几乎完整功能。（图1）</title>
+      <link>https://x.com/dotey/status/2109151666020794711</link>
+      <guid isPermaLink="false">twitter:2109151666020794711</guid>
+      <pubDate>Sun, 11 Oct 2026 05:18:37 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>用 REA 小试牛刀逆向了 Claude Slides 的 Slides 编辑器，几乎完整功能。（图1）<br /><br />我的用法很简单，不一定是最佳实践，仅供参考：<br /><br />1. 先去 Claude Slides 上把核心的脚本和样式表下载下来（图2）<br />2. 按照 REA 官网的说明让 Codex 安装 REA<br />3. 使用 REA Skill 去逆向混淆后的代码（图3）<br />4. 用不了太久就能有一个目录结构不错的代码，但其实里面还挺乱的<br />5. 然后再用 Claude Code 5.5 去重写了一遍就变成结构良好类型完整的代码了<br /><br />至于提示词，我没有直接逆向，而是换了个思路，先做个 Slides，然后在对话里面，说我要做一个 slides skill，让它帮我实现一个，要做的跟它的一样好，这样子出来的提示词，和原始的提示词肯定不一样，但是做出来的效果没什么差别。（图4是我用同样方法问 Claude Dashboard 的提示词）<br /><br />完整的代码参考：https://t.co/I25w0FGgkV</p><img src="https://pbs.twimg.com/media/HUUyueaWEAI3toM.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUUy907WkAAijNk.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUUzbPCXkAAoJUl.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUU2D_4WcAAM2DJ.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2109151666020794711">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：这就是把校验的成本从写的人转嫁给了审查的人，写的人自己变成了Agent和审查者的传声筒或者说另一种人肉agent</title>
+      <link>https://x.com/dotey/status/2109063941233979397</link>
+      <guid isPermaLink="false">twitter:2109063941233979397</guid>
+      <pubDate>Sat, 10 Oct 2026 23:30:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>这就是把校验的成本从写的人转嫁给了审查的人，写的人自己变成了Agent和审查者的传声筒或者说另一种人肉agent</p><p><a href="https://x.com/dotey/status/2109063941233979397">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Codex 今天重置，正好用完😂</title>
+      <link>https://x.com/dotey/status/2109062246152503794</link>
+      <guid isPermaLink="false">twitter:2109062246152503794</guid>
+      <pubDate>Sat, 10 Oct 2026 23:23:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Codex 今天重置，正好用完😂</p><p><a href="https://x.com/dotey/status/2109062246152503794">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @yetone: 这条推文的建议很好，但&quot;把压缩调到 400K&quot;对每个人都成立吗？不一定。</title>
+      <link>https://x.com/dotey/status/2108972823440220375</link>
+      <guid isPermaLink="false">twitter:2108972823440220375</guid>
+      <pubDate>Sat, 10 Oct 2026 17:27:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @yetone: 这条推文的建议很好，但&quot;把压缩调到 400K&quot;对每个人都成立吗？不一定。<br /><br />这就是 magpie 要做本地 agent 可观测性分析的原因。每个 agent 都有自己独特的行为，每个用户也有自己的使用习惯，任务难度也因人而异，所以不存在一份对所有人都最优…</p><p><a href="https://x.com/dotey/status/2108972823440220375">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Codex 就是 300K 左右的上下文</title>
+      <link>https://x.com/dotey/status/2108808129534169212</link>
+      <guid isPermaLink="false">twitter:2108808129534169212</guid>
+      <pubDate>Sat, 10 Oct 2026 06:33:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Codex 就是 300K 左右的上下文<br />https://t.co/I8oX40iXEt</p><p><a href="https://x.com/dotey/status/2108808129534169212">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：REA：让 AI 智能体帮你逆向没有源码的软件</title>
+      <link>https://x.com/dotey/status/2108794629172682783</link>
+      <guid isPermaLink="false">twitter:2108794629172682783</guid>
+      <pubDate>Sat, 10 Oct 2026 05:39:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>REA：让 AI 智能体帮你逆向没有源码的软件<br /><br />开源项目 REA（Reverse Engineer Anything）把逆向分析工具接到了 Claude Code、Codex、Cursor 这类 AI 编程智能体上。看到别人 App 里有个好功能，可以让智能体去拆这个程序，讲清楚功能是怎么实现的，附上证据，再在你自己的项目里写一个类似的。逆向分析指的是手里没有源代码，从编译好的程序反推它是怎么写的。<br /><br />REA 本身是一个 MCP 服务。MCP 是 AI 智能体调用外部工具的通用接口，接上以后，智能体在对话里就能直接调用 REA 的分析功能。安装只需一行命令 npx rea-agents setup，它会注册到 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等智能体里，改配置前会先备份并让你确认。不用智能体的话，也可以在终端里直接跑命令。<br /><br />能分析的东西很多。原生程序（直接编译成机器码的软件）要借助 Hopper、Ghidra 或 IDA 这几款反汇编工具，把机器码还原成汇编和近似 C 语言的伪代码。Electron 应用（用网页技术做的桌面软件，比如 Notion）可以直接拆开安装包里的 ASAR 归档文件，理清模块和进程间通信，不需要额外工具。此外还支持 .NET 程序、安卓 APK、固件、网站、抓包记录、以太坊合约字节码，以及在 Linux 和 macOS 上记录程序运行时的行为。<br /><br />分析在本机进行，REA 不上传目标程序，但分析结果会交给智能体背后的模型服务商，数据怎么处理看各家政策。<br /><br />项目给了三个案例。一是经典打砖块游戏 DX-Ball：从一次播放音效的调用，追到根据球的位置计算左右声道的函数，把不完整的伪代码还原成 C 代码，3205 组测试结果和原版一致，编译出的 63 个字节也和原版完全相同。二是 Notion 桌面版：追踪复制粘贴从界面一路经过预加载脚本、进程间通信到主进程的完整链路。三是日本老电脑 PC-98 上的游戏《东方幻想乡》（TH04）：从 16 位指令里还原出弹幕子弹环的角度算法。<br /><br />对安全研究员、做老游戏复刻和软件保存的人来说，以前要自己对着反汇编工具一行行读、一层层追调用，现在可以让智能体先追，人来核对它给出的证据。普通开发者想研究竞品某个功能的做法，也多了一条路。<br /><br />README 显示项目在 GitHub 上已有 5 万星。npm 包今年 7 月首次发布，最新的 6.3.0 版今天刚发。<br /><br />使用前注意两点。项目声明只支持合法的逆向研究，授权和合规由使用者自己负责，逆向别人的软件可能违反用户协议或版权法规。项目还说明从未发行或背书任何加密货币，借用 REA 名字的代币都与它无关。<br /><br />https://t.co/I6ZzxyeHhC</p><img src="https://pbs.twimg.com/media/HUPxZzJXAAEn8rZ.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108794629172682783">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @Michaelzsguo: 敏捷开发年代，“两张披萨团队”（two-pizza team）非常时髦：两张披萨够吃差不多八到十个人。</title>
+      <link>https://x.com/dotey/status/2108763409357721644</link>
+      <guid isPermaLink="false">twitter:2108763409357721644</guid>
+      <pubDate>Sat, 10 Oct 2026 03:35:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Michaelzsguo: 敏捷开发年代，“两张披萨团队”（two-pizza team）非常时髦：两张披萨够吃差不多八到十个人。<br /><br />到了 AI 时代，Dan Shipper 开始提出“两块披萨团队”（two-slice team）了：一两个人就够。<br /><br />他给这两个人安排…</p><p><a href="https://x.com/dotey/status/2108763409357721644">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：也并不是所有修改都要写技术方案，很多功能比如那些以修改 UI 为主的可以直接从修改原型开始，原型好了后可以用 Agent 内置的浏览器的“标记”工具，在要修改的地方标记，然后…</title>
+      <link>https://x.com/dotey/status/2108751060344905924</link>
+      <guid isPermaLink="false">twitter:2108751060344905924</guid>
+      <pubDate>Sat, 10 Oct 2026 02:46:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>也并不是所有修改都要写技术方案，很多功能比如那些以修改 UI 为主的可以直接从修改原型开始，原型好了后可以用 Agent 内置的浏览器的“标记”工具，在要修改的地方标记，然后去写评论。<br /><br />原型完成后，可以在同一会话，让它把对原型的修改，同步到正式的代码中。<br /><br />通常我会用 Fable 帮我设计，然后让 Opus 去执行，最后 Fable 验收。</p><img src="https://pbs.twimg.com/media/HUPHqnSWwAAsgxp.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUPJLnFXwAAZ6GA.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUPJqGTXoAApO60.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108751060344905924">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：有个用 Claude Dashboard 的用法，就是下载你的 X 数据，然后从 Artifacts（https://t.co/3zHAHh3MSQ）新建 Dashboard…</title>
+      <link>https://x.com/dotey/status/2108745745721413678</link>
+      <guid isPermaLink="false">twitter:2108745745721413678</guid>
+      <pubDate>Sat, 10 Oct 2026 02:25:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>有个用 Claude Dashboard 的用法，就是下载你的 X 数据，然后从 Artifacts（https://t.co/3zHAHh3MSQ）新建 Dashboard 发给 Claude Dashboard 去分析。<br /><br />从 https://t.co/TBJtujil8o 获取账号数据，把每个 Tab 能下载到的数据都下载下来，然后作为附件上传到 Claude Dashboard。<br /><br />提示词参考：<br />&gt; 帮我分析一下我的推文数据，看看哪些推文更受欢迎，怎么优化</p><img src="https://pbs.twimg.com/media/HUPE6u9XwAA0SRQ.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108745745721413678">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：据 Business Insider 援引知情人士报道，Google 内部在测试新模型 Carbon，有员工说编码能力“感觉像 Opus 5.5”</title>
+      <link>https://x.com/dotey/status/2108712677971206387</link>
+      <guid isPermaLink="false">twitter:2108712677971206387</guid>
+      <pubDate>Sat, 10 Oct 2026 00:14:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>据 Business Insider 援引知情人士报道，Google 内部在测试新模型 Carbon，有员工说编码能力“感觉像 Opus 5.5”<br /><br />Carbon 部署在 Google 内部的 AI 编程工具 Jetski 上。报道说，Google 9 月 30 日发布的 Gemini 4 Argon 用的是另一个内部版本 Barium-B，Carbon 是在它之后训练出来的新版本。Carbon 会作为 Argon 的升级推出，还是单独作为新模型发布，目前还不清楚。<br /><br />Opus 5.5 是这次的参照对象，因为编程是 Gemini 目前的短板。Bloomberg 此前报道，有 Google 员工反映 Argon 跑分好看，真拿来写代码却不如预期。在第三方编程测试 Terminal Bench 4 上，Argon 得分 57%，低于 Anthropic 的 Claude Sonnet 5.5（64%）、Claude Opus 5.5（60%）和 OpenAI 的 GPT-6 Astra（59%）。Google 9 月还放开了内部限制，允许全体工程师用 Claude 写代码。<br /><br />如果 Carbon 真能做到 Opus 5.5 的水平，用 Gemini 写代码的开发者会直接受益。不过“感觉像”只是一位匿名员工的主观评价，Carbon 没有公开跑分，也没有发布时间，Google 拒绝评论内部路线图。眼下外界能用的只有 Argon，而且它也只开放给了部分网络安全合作伙伴，付费 API 用户和 Google AI Ultra 订阅用户还要再等。</p><img src="https://pbs.twimg.com/media/HUOm7T6WsAAXs4G.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108712677971206387">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Claude Code Projects 向候补名单上的 Pro 和 Max 用户全部开放</title>
+      <link>https://x.com/dotey/status/2108701555058790506</link>
+      <guid isPermaLink="false">twitter:2108701555058790506</guid>
+      <pubDate>Fri, 09 Oct 2026 23:30:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude Code Projects 向候补名单上的 Pro 和 Max 用户全部开放<br /><br />Anthropic 把 Claude Code Projects 候补名单上的 Pro 和 Max 用户全部放了进来。这个功能目前是公开测试版，还在分批推送，Team 和 Enterprise 计划暂时用不了。<br /><br />Claude Code Projects 我最近用的比较多，很不错的设计，既可以像个人助理一样，不停的在主会话发消息分派任务，又可以通过 Thread 看到每个子任务的执行情况，留有记录，还可以后续跟进。<br /><br />推荐看看这条视频，解释的很清楚。<br /><br />我之前有个帖子解释了 Codex Project 和 Claude Projects 啥不同：<br /><br />&gt; 如果你还记得当年的论坛（Forum）的话，Codex Project 就像一个论坛的板块，像是一个容器，或者一个分类，跟这个板块/项目相关的内容都在这里，你可以不停的新开会话。<br /><br />&gt; Claude Projects（新的）就像 Slack 的 Channel，也是一个分类或者容器，但是所有的消息都在一起，想到啥都往里面扔，但是如果你想对某个子话题深入讨论，那么就新开 Thread，然后基于 Thread 可以展开讨论。<br /><br />&gt; 论坛呢，就是容易歪楼，讨论着讨论就偏离主题了，上下文乱一些，只有最近的回帖看的清楚。<br /><br />&gt; Slack 呢就是简单方便，不用想属于哪个话题，只要是这个 Channel 的就都往里面发就好了，上下文乱一点没关系，可以通过 Thread 聚焦<br /><br />Projects 管的是“同时开好几个 Claude Code 会话，谁来协调”这件事。以前想并行干几件活，你得自己给每个会话分任务、每次重新交代背景、挨个回去看谁做完了。现在你只跟一个“项目对话”说话，Claude 在里面当协调者，把目标拆成小任务，每个任务开一个“线程”去做。<br /><br />每个线程都是一个完整的 Claude Code 会话，默认跑在云端，在自己的 Git 分支上干活。合上笔记本，活照样在干，用手机也能看进度。某个任务要用本机的数据库、模拟器或内网接口，可以让这个线程改到你自己电脑上跑（通过 Remote Control 远程连接，电脑得开着）。<br /><br />写代码的线程做完改动会自己开 PR（拉取请求，提交给仓库合并的代码改动），之后继续盯着：自动化测试没通过就提交修复，有人留了审查意见就去改。官方演示的例子是排查一个网站的性能问题：几个线程各修一处，最后生成一份前后性能对比报告，再设一个每天运行的例行检查，发现性能退步就自动开线程排查，等你下次进来处理。<br /><br />适合放进项目的，是一次会话装不下、会不断冒出新任务的活，比如把应用迁出一个已废弃的依赖包，或者在 API、网页端、移动端几个仓库里同步改同一个接口。也可以完全不碰代码，上传一批合同或客服工单，反复提问。<br /><br />所有线程共享项目说明和项目记忆。你说一次“以后都从 main 分支开 PR”，后面每个线程都照做。<br /><br />【用量要注意】<br /><br />每个线程都是完整会话，还能同时跑好几个，所以项目消耗套餐额度比单个会话快，官方提醒 Pro 用户尤其会更早用到上限。新建项目默认全部用 Opus，线程的推理强度（effort，模型每一步思考投入多少）默认是高。Claude Code 团队的建议是：协调者保持默认的低强度，它主要负责派活，调高没什么用；线程默认换小一点的模型，遇到复杂任务再单独切大模型。你也可以直接告诉 Claude 同时最多跑几个线程，或者先给你看计划再动手。<br /><br />线程用到额度上限后，会等额度重置再自动继续，没管的活会用掉你下一个时段的额度。不想这样，可以在项目设置里暂停整个项目。<br /><br />【怎么用】<br /><br />在 https://t.co/sbZmtUyM2q、桌面版 Claude 的 Code 标签页或 Claude 手机 App 的侧边栏里看到 Projects，就说明已经开通；没看到可以加入候补名单。终端命令行、VS Code 和 JetBrains 插件里用不了。代码要托管在 https://t.co/xB9lzfWBfe 上，仓库要装 Claude GitHub App。项目只属于你一个人，暂时不能分享给别人。<br /><br />https://t.co/vefasn3rYt 聊天里原来那个“项目”功能（把对话和参考文件归到一起）照常保留，等新版推到这些账号再切换。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108700199136759808/img/RMsS-GasyorA9Im2.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108701555058790506">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Claude Managed Agents 上线“动态工作流”：一个智能体调度上千个智能体</title>
+      <link>https://x.com/dotey/status/2108695019846619424</link>
+      <guid isPermaLink="false">twitter:2108695019846619424</guid>
+      <pubDate>Fri, 09 Oct 2026 23:04:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude Managed Agents 上线“动态工作流”：一个智能体调度上千个智能体<br /><br />Anthropic 的 Claude Managed Agents 开放了“动态工作流”（dynamic workflows）公测：主智能体先写好计划，再把活分阶段派给一大批智能体并行去做，最后汇总结果。单次运行最多能调度 1000 个智能体。<br /><br />Claude Managed Agents 是 Anthropic 面向开发者的托管智能体服务。开发者不用自己搭智能体循环和沙箱，配好模型、工具和提示词，智能体就在 Anthropic 的云端环境里跑，适合几分钟到几小时的长任务。<br /><br />它之前就支持“子智能体”：主智能体自己派活，再逐个读子智能体的汇报，一个会话最多同时挂 25 个。动态工作流的做法不同，主智能体写出一段程序，由服务器在后台按阶段执行，智能体之间的上下文和结果靠程序传递。主智能体腾出手来，可以继续跟用户对话、随时汇报进度。<br /><br />Anthropic 给了一组测试数据：在一个 11.6 万行的代码库里埋了 70 个 bug，单个智能体跑 3 次，分别找到 14、15、27 个，结果波动很大；用工作流跑 3 次，每次都找到 66 个。<br /><br />适合它的是能拆成很多块的活：审计大代码库、批量迁移代码、读几百份合同、调研时交叉核对多个来源。官方文档举的例子是合同审查，一两份让智能体自己看，多了才开工作流并行读。<br /><br />用法是在智能体配置里把 multiagent 类型设为 multiagent_20261001（这个类型下工作流默认开启），然后让 Claude “跑一个工作流”，计划和调度都由它来做。在 Claude Code 里输入 /claude-api managed-agents-onboard bug-hunter 可以直接上手，https://t.co/UkKzzKVvfH 上也有模板。<br /><br />要留意费用。工作流里每个智能体都在消耗 Token，几百上千个一起跑，账单涨得很快。Anthropic 建议先拿一个范围小的任务试，再逐步加大复杂度。文档还建议创建会话时设一个“会话预算”，花到上限工作流会自动暂停，调高额度后继续；这个预算只能在创建会话时设，事后加不上。<br /><br />工作流里临时定义的智能体默认和主智能体用同一个模型，想把部分活交给更便宜的模型，得先单独创建这些智能体，再列进配置。</p><p><a href="https://x.com/dotey/status/2108695019846619424">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Grokbot 能连接 X 还是很有优势，这样可以让它帮你推送 X 上值得关注的 AI 资讯 https://t.co/AMof2vK0l6</title>
+      <link>https://x.com/dotey/status/2108693220674650363</link>
+      <guid isPermaLink="false">twitter:2108693220674650363</guid>
+      <pubDate>Fri, 09 Oct 2026 22:56:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Grokbot 能连接 X 还是很有优势，这样可以让它帮你推送 X 上值得关注的 AI 资讯 https://t.co/AMof2vK0l6</p><img src="https://pbs.twimg.com/media/HUOVEx9XkAAo4eh.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUOVSfYWEAAVjlu.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108693220674650363">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：GrokBot 的邮箱可以申请了，先要有一个 Grokbot 账号，然后绑定你的 X，去 X 上 @bot 告诉 bot 你要的邮箱，然后你的 Grokbot 就会收到消息，…</title>
+      <link>https://x.com/dotey/status/2108692268257534283</link>
+      <guid isPermaLink="false">twitter:2108692268257534283</guid>
+      <pubDate>Fri, 09 Oct 2026 22:53:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>GrokBot 的邮箱可以申请了，先要有一个 Grokbot 账号，然后绑定你的 X，去 X 上 @bot 告诉 bot 你要的邮箱，然后你的 Grokbot 就会收到消息，要你授权，如果被占用还可以修改。<br /><br />参考申请消息：<br />&amp;gt; @bot get me my mail jim@mail.grokbot.com https://t.co/lGQOOjXoUn</p><img src="https://pbs.twimg.com/media/HUOUIMKXgAAeX27.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108692268257534283">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @Yuchenj_UW: Saw a video yesterday:</title>
+      <link>https://x.com/dotey/status/2108690833008640006</link>
+      <guid isPermaLink="false">twitter:2108690833008640006</guid>
+      <pubDate>Fri, 09 Oct 2026 22:47:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Yuchenj_UW: Saw a video yesterday:<br /><br />A math PhD and her advisor spent 6 months proving a theorem. Before publishing, they asked ChatGPT.…</p><p><a href="https://x.com/dotey/status/2108690833008640006">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：看到有网友说：</title>
+      <link>https://x.com/dotey/status/2108687806549897630</link>
+      <guid isPermaLink="false">twitter:2108687806549897630</guid>
+      <pubDate>Fri, 09 Oct 2026 22:35:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>看到有网友说：<br />&amp;gt; vibe 之后游戏玩不动了，小说看不下去了，不过 vibe 的东西也没人用，迷茫<br /><br />像极了钓鱼佬钓了好多鱼到处送人，根本吃不完</p><p><a href="https://x.com/dotey/status/2108687806549897630">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Claude 创业扶持计划上线三天就停了两项福利</title>
+      <link>https://x.com/dotey/status/2108686483645206726</link>
+      <guid isPermaLink="false">twitter:2108686483645206726</guid>
+      <pubDate>Fri, 09 Oct 2026 22:30:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude 创业扶持计划上线三天就停了两项福利<br /><br />Anthropic 的 Claude Startups 创业扶持计划，10 月 6 日升级后刚三天，就暂停发放两项最值钱的福利：免费一年的 Claude Team 套餐，和 1000 美元 API 额度。<br /><br />原因是申请量远超预期。Anthropic 员工 Sarah Wolf 在 X 上说，新版上线头 48 小时收到的申请，是此前 5 个月总和的 21 倍。Claude 官方账号随后补充，申请人已经有几十万。<br /><br />新版的门槛是：成立不满五年，或者最近两年拿过融资。通过后能拿到一年 Claude Team（Claude 的团队付费版，最多 5 个席位）、1000 美元 API 额度、一批合作伙伴的折扣，再加 Anthropic 应用 AI 团队的答疑。官方当时说，Claude 产品和额度加起来最高值 7000 美元。<br /><br />Wolf 说，问题出在一开始没把审核标准调好，很多不是创业公司的申请也被批了。<br /><br />现在分三种情况处理。已经领到 Team 套餐和 API 额度的，照常保留在账户里。申请通过但还没领的，会收到邮件，申请要重新审核，有些人可能最终拿不到。所有成员的 Startup Stack（合作伙伴提供的折扣和额度，官网写最高值 4.5 万美元，包括 ElevenLabs、ClickHouse、Granola 等）、每两周一次的应用 AI 团队线上答疑和活动，都照常保留。<br /><br />对创业者来说，上周已经点了领取的，不用担心；通过了还没领的，先看邮箱，等复审结果；还没申请的，眼下能拿到的主要是合作伙伴折扣和答疑。另外，被 Anthropic 合作风投投资的公司，官网仍写着可以通过投资方申请最高 10 万美元的额外 API 额度，这部分没有提到暂停。<br /><br />福布斯报道说，不少刚拿到通过通知的创业者在网上抱怨福利被收回。</p><p><a href="https://x.com/dotey/status/2108686483645206726">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：微软发布 Microsoft-Decision-1：专做“选择题”的 AI 模型，基于 Qwen3.5-9B 后训练</title>
+      <link>https://x.com/dotey/status/2108669987338551776</link>
+      <guid isPermaLink="false">twitter:2108669987338551776</guid>
+      <pubDate>Fri, 09 Oct 2026 21:24:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>微软发布 Microsoft-Decision-1：专做“选择题”的 AI 模型，基于 Qwen3.5-9B 后训练<br /><br />微软推出新模型 Microsoft-Decision-1。它不写文章也不聊天，只做一件事：给定几个选项，快速判断该选哪个，并给每个选项打一个概率分。Satya Nadella 在 X 上宣布了这个模型，它已在微软的 AI 开发平台 Microsoft Foundry 上线，之后还会上 OpenRouter（一个聚合多家模型的 API 平台）。<br /><br />微软把这类模型叫“决策模型”。大语言模型擅长生成文字、推理复杂问题，但软件里很多 AI 调用其实只是在做判断：这条用户反馈属于哪一类？这个请求该交给哪个模型处理？智能体下一步该继续、重试，还是交给人？这类问题的答案都在固定选项里，拿大模型来答又慢又贵。决策模型直接输出结构化结果，程序拿到就能用。<br /><br />它是在阿里开源模型 Qwen3.5-9B 的基础上后训练出来的，只算一遍就出结果。支持是/否题、多选题和打分，也能按评分标准给 AI 的回答或智能体的动作打分。微软说之后会换到自家 MAI 模型和 OpenAI 的模型上重新训练。<br /><br />它输出的概率是“校准过”的：模型说有 90% 把握时，实际大约十次能对九次。开发者可以据此设门槛，把握高就自动执行，把握低就转人工审核。<br /><br />以下性能数据都来自微软自己的测试。在 36 个基准、近 15 万道题的对比里，它的准确率最高。速度上，它比第二名 Quyet-1.0-Large 快 4.5 倍，比 GPT-6 Sol 快约 35 倍。微软还测了稳定性：把同一个请求换种说法、打乱选项顺序等，一共八种改动，判断结果平均只有 1.3% 会变，打乱选项顺序时一次都没变。<br /><br />速度之所以重要，是因为智能体干活经常要连着做几十个小判断。每个判断慢 100 毫秒，20 步下来就要多等 2 秒。<br /><br />微软内部已经在用。Xbox 研究团队用它把 1 万多条玩家反馈和评论按主题归类，质量和 GPT-6 Sol 相当，速度快 14 倍以上，成本低 200 倍。Copilot 团队用它给回答质量打分，效果接近 GPT5.6 Luna，速度快 100 倍。<br /><br />对开发者来说，它适合那些答案在有限选项里的环节，比如模型路由、意图识别、内容审核、数据打标签、给 AI 输出当评委，以及让 AI 操作电脑时选下一步点哪里。把这些环节从大模型换成它，延迟和账单都能降下来。<br /><br />价格是每百万输入 Token 0.042 美元，输出免费。现在就可以在 Microsoft Foundry 的模型目录里调用。</p><p><a href="https://x.com/dotey/status/2108669987338551776">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：建议你的 Claude Code 约束一下自动压缩的上下文长度，400k 左右是个比较合理的长度，我自己是设置的 300k，这个值足够了。</title>
+      <link>https://x.com/dotey/status/2108669008283402744</link>
+      <guid isPermaLink="false">twitter:2108669008283402744</guid>
+      <pubDate>Fri, 09 Oct 2026 21:20:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>建议你的 Claude Code 约束一下自动压缩的上下文长度，400k 左右是个比较合理的长度，我自己是设置的 300k，这个值足够了。<br /><br />/autocompact 400k<br /><br />另外我以前建议过禁用 1M， &quot;CLAUDE_CODE_DISABLE_1M_CONTEXT&quot;（~/.claude/settings.json），现在没必要了，请删除，否则最多也只能到 200k。</p><p><a href="https://x.com/dotey/status/2108669008283402744">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：我的每一个功能开发、bug 修复都是上面那样的一个 loop（循环），这个循环每一个环节，无论是 Agent 还是我自己，都可以很快拿到反馈，所以这个 loop 转的很快，l…</title>
+      <link>https://x.com/dotey/status/2108665314619675011</link>
+      <guid isPermaLink="false">twitter:2108665314619675011</guid>
+      <pubDate>Fri, 09 Oct 2026 21:06:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>我的每一个功能开发、bug 修复都是上面那样的一个 loop（循环），这个循环每一个环节，无论是 Agent 还是我自己，都可以很快拿到反馈，所以这个 loop 转的很快，loop 转的越快，你的效率就越高。<br /><br />当你的 Loop 转起来以后，你就可以尝试多个任务并行，任务，因为大部分时间还是 Agent 在生成和验证，所以其实你完全有空闲，继续把重点放在定义问题和验证上。<br /><br />现在主要的瓶颈是我电脑设备不够多和 Token 不够用，否则能并行做的事情更多。后面我还是要习惯多在云端开任务，这样可以缓解设备不足的问题。</p><p><a href="https://x.com/dotey/status/2108665314619675011">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：我这篇文章的方法论有完整的应用在我自己的开源项目 baocut （https://t.co/wldDX9MSVR ）上，涵盖系统设计、原型和 UI 设计、编码、验证和发布。</title>
+      <link>https://x.com/dotey/status/2108663149301846497</link>
+      <guid isPermaLink="false">twitter:2108663149301846497</guid>
+      <pubDate>Fri, 09 Oct 2026 20:57:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>我这篇文章的方法论有完整的应用在我自己的开源项目 baocut （https://t.co/wldDX9MSVR ）上，涵盖系统设计、原型和 UI 设计、编码、验证和发布。<br /><br />比如说我刚完善了字幕样式的功能，添加了更丰富的字幕样式。<br /><br />第一件事就是写技术方案文档（参考图1）<br /><br />Agent 根据我的要求，做了分析调研后，先写成一份技术方案文档，我仔细看了它的文档，然后再提出一些要求，反复几次就能定稿。<br />参考文档：https://t.co/ST2vgL0ZVq<br /><br />第二件事就是 Agent 会按照设计稿做原型和 UI 设计（图2）<br /><br />如果技术设计是为了确定技术方向，那么原型就是确定 UI 和交互，之所以不一上来就改代码，就是因为原型实现成本低，修改起来也容易，你可以很快看到最终是什么样子，Agent 可以很快从你这里拿到反馈。<br /><br />如果是要直接在最终代码上实现，如果要修改，无论是时间成本还是 Token 成本都会高很多。<br /><br />注意，原型设计和 UI 设计最好是合二为一，越保真越好，可以保证后续实现的时候不怎么需要返工。所以如果你看我的原型的话，基本上和正式 UI 没啥差别，只是后台接的逻辑代码有差别，原型都是模拟的逻辑代码，很简单，bug 也很多，但没关系。<br /><br />第三件事才是去实现代码<br /><br />当技术方案定了，UI 设计定了，实现就相对容易了，如果前期考虑的成分，这里基本上不需要什么返工，可以一次性把功能完成。<br /><br />第四件事就是测试验收<br /><br />通常 Agent 会自己帮我验收，我后来把技术栈还是改回了 Electron，就是 Electron 的 App，Agent 通过浏览器就可以验证绝大部分功能，都不用 Computer Use，复杂一点的才 Computer Use 辅助，验证效率很高。<br /><br />Agent 拿反馈越快，整个 Loop 就会转的越快，开发效率会越高。<br /><br />Agent 测试完我自己要运行测试一遍，边边角角都试试，重点是测试刚改的这个功能，比如我测试就发现字幕样式预览的文字太靠上了，直接告诉 Agent，让它修复就好。（图3）<br /><br />最后测试没问题就可以了，这期间大部分活都是 Agent 在干，人重点还是在两头：定义问题和验收。其他的都让 Agent 去做，哪怕调一点样式位置这种小事，节约下来的时间我都够写这样一篇推文了。</p><img src="https://pbs.twimg.com/media/HUN1m02WMAEF1S5.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUN2X8uW0AEi6eT.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUN4qv5XkAAgPqX.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUN4zVRWIAAyqUd.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108663149301846497">原文</a></p>]]></description>
+    </item>
     <item>
       <title>宝玉：我把后面这一段单独摘出来放评论：</title>
       <link>https://x.com/dotey/status/2106635859831246989</link>
@@ -1030,150 +1206,6 @@
       <pubDate>Tue, 22 Sep 2026 21:25:07 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>我知道的 Claude Design（不是 Claude Code） 和 Figma MCP 的一些差别：<br /><br />1. 操作方式不一样<br />- Claude Design 是直接生成 HTML<br />- Figma MCP 是通过 MCP 操作 Figma，省了你手动操作<br /><br />相对来说直出 HTML 做出来好看些（个人观点）<br /><br />2. 产物不一样<br />- Claude Design 产出 HTML + React + CSS + 模拟数据，可以点击交互，不仅是设计稿，还是原型；Claude Design 其实还可以做 Slides 和视频<br />- Figma MCP 还是 Figma 格式文件<br /><br />3. 运行环境不一样<br />- Claude Design 不依赖于 Figma，不需要授权，下载后可以本地运行显示<br />- Figma MCP 依赖于 Figma<br /><br />不是设计师的话，建议选 Claude Design</p><p><a href="https://x.com/dotey/status/2102509523684479377">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：帮转，Dario 绯闻女友 CuiMao 招助理</title>
-      <link>https://x.com/dotey/status/2102504512585977923</link>
-      <guid isPermaLink="false">twitter:2102504512585977923</guid>
-      <pubDate>Tue, 22 Sep 2026 21:05:13 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>帮转，Dario 绯闻女友 CuiMao 招助理</p><p><a href="https://x.com/dotey/status/2102504512585977923">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Opus 5.5 写作目前给我感觉非常好，比 Opus 4.6 还好点</title>
-      <link>https://x.com/dotey/status/2102501337594581117</link>
-      <guid isPermaLink="false">twitter:2102501337594581117</guid>
-      <pubDate>Tue, 22 Sep 2026 20:52:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Opus 5.5 写作目前给我感觉非常好，比 Opus 4.6 还好点</p><p><a href="https://x.com/dotey/status/2102501337594581117">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：这样会节约 Token 成本一些，因为这样不用依赖 Fable 去编排，只是验收，Fable Token 消耗会少很多，另外不用开很多 SubAgent 也可以减少 Toke…</title>
-      <link>https://x.com/dotey/status/2102447206997664242</link>
-      <guid isPermaLink="false">twitter:2102447206997664242</guid>
-      <pubDate>Tue, 22 Sep 2026 17:17:30 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>这样会节约 Token 成本一些，因为这样不用依赖 Fable 去编排，只是验收，Fable Token 消耗会少很多，另外不用开很多 SubAgent 也可以减少 Token 消耗。<br /><br />但从执行效果来说，应该还是 Fable 编排验收会更好一点<br />当然现在有 Opus 5.5，效果应该也不会差多少<br /><br />https://t.co/IkERcd7UVM</p><p><a href="https://x.com/dotey/status/2102447206997664242">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：现在 Claude Code 也有重置卡了，刚发了一张 10/22 到期 https://t.co/s9gKuaqfXi</title>
-      <link>https://x.com/dotey/status/2102443590748197249</link>
-      <guid isPermaLink="false">twitter:2102443590748197249</guid>
-      <pubDate>Tue, 22 Sep 2026 17:03:08 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>现在 Claude Code 也有重置卡了，刚发了一张 10/22 到期 https://t.co/s9gKuaqfXi</p><img src="https://pbs.twimg.com/media/HS1hD9lakAA0UCS.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102443590748197249">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Claude Opus 5.5 发布：追平 Fable 5.1，成本降四成</title>
-      <link>https://x.com/dotey/status/2102440266875449386</link>
-      <guid isPermaLink="false">twitter:2102440266875449386</guid>
-      <pubDate>Tue, 22 Sep 2026 16:49:55 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Claude Opus 5.5 发布：追平 Fable 5.1，成本降四成<br /><br />Anthropic 发布 Claude Opus 5.5，大部分工作上的表现追平了自家 Mythos 级的 Fable 5.1。同样的任务，花费比上一代 Opus 5 少 40%。<br /><br />省钱来自两方面：单价降了，完成同一件事用的 Token 也少了。输入和输出分别是每百万 Token 4 美元和 20 美元，比 Opus 5 便宜 20%。降得最多的是缓存读取，从 0.5 美元降到 0.2 美元。写代码、跑智能体（Agent）时，模型会反复读取同一批上下文，账单里大部分钱花在这一项上，所以对重度开发者来说，这项降价最实在。输出速度也快了 30% 以上。<br /><br />订阅用户也有好处。Pro、Max、Team 套餐的五小时用量上限提高了，每人还额外获得一次限额重置，可以存起来，等哪天额度用完了再用。<br /><br />能力上的变化，看几个实际案例更直观。一位早期测试者用它审计并修复一个 20 万行的代码库，不到 3 小时完成。Opus 5 做同样的事花了 20 多个小时，Token 用量是它的 2.5 倍。Anthropic 内部让它和 Fable 5.1 把负载均衡软件 HAProxy 从 C 语言改写成 Rust，两者都几乎通过了全部回归测试，Opus 5.5 用时 9.5 小时，Fable 5.1 用了 12 小时，Opus 5.5 的成本低 51%。<br /><br />和 OpenAI 的 GPT-6 Astra 相比，在测试命令行多步骤任务的 Terminal-Bench 4.0 上，Opus 5.5 分数打平，成本约为对方的四成。Anthropic 自己也说，到了这个水平，跑分差距已经不太能反映实际使用中的差别。<br /><br />做研究的人可能更在意另一项测试：让模型只靠网上检索写一份公司季度业绩报告，任何数字或引语是编的就算不合格。Opus 5.5 的 18 份报告里有 16 份过关，Fable 5.1 和 Opus 5 一份都没过。<br /><br />文风也改了。Opus 5 常被反馈说话绕、爱用行话，Opus 5.5 会把最重要的结论放在最前面，也更遵守用户给的写作要求。<br /><br />能力变强，限制也跟着来了。它在网络安全和生物领域的能力接近 Mythos 5.1，所以沿用 Fable 5.1 的安全防护：修自己代码里的漏洞没问题，但大部分网络安全任务会被自动转给更老的 Opus 4.8 处理；生物研究相关工作同样受限，高校实验室、药企等机构可以申请“生命科学验证计划”（Life Sciences Verification Program）来解除限制。面向安全从业者的验证通道会在未来几周开放。<br /><br />开发者还要留意两点。一是思考模式不能再关闭。二是 8 月 31 日之后注册的 API 账号，无法再通过修改历史上下文来套取模型的推理过程。这是防“蒸馏”的措施，蒸馏指用大量账号批量抽取模型能力，拿去训练自己的模型。已有集成需要对照官方文档检查一遍。<br /><br />Opus 5.5 现已在 Claude 全平台以及 AWS、Google Cloud、Azure 上线，API 模型名为 claude-opus-5-5。Sonnet 5.5 和 Haiku 5.5 会在未来几周陆续发布。</p><p><a href="https://x.com/dotey/status/2102440266875449386">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：来了来了，Opus 5.5 来了！</title>
-      <link>https://x.com/dotey/status/2102438173804818494</link>
-      <guid isPermaLink="false">twitter:2102438173804818494</guid>
-      <pubDate>Tue, 22 Sep 2026 16:41:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>来了来了，Opus 5.5 来了！</p><p><a href="https://x.com/dotey/status/2102438173804818494">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Claude Design 做设计，一般不需要参考代码，功能描述清楚就好，不管是不是 PoC 代码，最多截图辅助描述功能。毕竟设计的是功能，不是实现。</title>
-      <link>https://x.com/dotey/status/2102436985717616915</link>
-      <guid isPermaLink="false">twitter:2102436985717616915</guid>
-      <pubDate>Tue, 22 Sep 2026 16:36:53 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Claude Design 做设计，一般不需要参考代码，功能描述清楚就好，不管是不是 PoC 代码，最多截图辅助描述功能。毕竟设计的是功能，不是实现。<br /><br />Claude Design 我第一版本可能在 https://t.co/v6it9PiXTL 上做，导出 Project 放到本地，导出的格式是 HTML + React + data.json 文件<br /><br />后续我就用本地 Skill （https://t.co/d2EaYV6q7j，即使是 Claude Code 自带的 /design 也不如我逆向的本地 Skill 好用）维护迭代，不再去网站，否则来回捣腾太烦了。</p><img src="https://pbs.twimg.com/media/HS1bSaRWMAAAsa0.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102436985717616915">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：最近摸索了一种新的节约 Token 但是效果不错的模式（都是被逼的，Token 太贵）：</title>
-      <link>https://x.com/dotey/status/2102433483834503425</link>
-      <guid isPermaLink="false">twitter:2102433483834503425</guid>
-      <pubDate>Tue, 22 Sep 2026 16:22:58 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>最近摸索了一种新的节约 Token 但是效果不错的模式（都是被逼的，Token 太贵）：<br /><br />Fable 写设计方案 -&gt; <br />（Loop 开始）<br />Opus 执行 -&gt; Advisor（Fable） 验收<br />（Loop 结束）<br /><br />步骤是这样的：<br /><br />1. 先 Claude 里面设置一下 advisor 为 Fable<br />&gt; /advisor fable<br /><br />这样在使用 Opus，Sonnet 模型的时候，遇事不决它会请教 Fable，可能会有无谓的 Fable 消耗，但还是可以接受也值得<br /><br />就好比请了个高级工程师当顾问<br /><br />2. 复杂一点的问题先让 Fable 出方案，最大化利用 Fable 的能力。<br /><br />就好比你让一个高级工程师写一个技术方案，让普通工程师去执行<br /><br />3. 方案写好了确认了，让 Opus 去执行，但是执行的时候，加一句提示词：<br /><br />&gt; 完成后让你的 advisor 验收一下，如果验收有问题就按 advisor 的反馈修复，修复完成后再让 advisor 验收，直到通过 advisor 的验收为止<br /><br />可以配合 /goal 使用效果更佳<br /><br />这样 Opus 在实施完成后就会找 Advisor 验收，通过 Advisor 就会给出反馈，然后 Opus 继续修改。<br /><br />这样的好处就是整个过程你不需要人工去用 Fable 确认—— 以前我就是这么干的，Opus 执行完，我得回到之前 Fable 的会话去让它验收，或者新开一个会话，把文档发给 Fable 验收。<br /><br />现在 Agent 自己就能形成闭环，不用你自己参与。<br /><br />就好比你请了个高级顾问，复杂问题找顾问出方案，执行让你的工程师去按照方案执行，每次工程师做完自己去找顾问验收，顾问不仅验收还会告诉工程师哪里不对，然后工程师自己改，不用说每次做完找你，你再找顾问。</p><p><a href="https://x.com/dotey/status/2102433483834503425">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：我做项目第一个起手动作是 PoC，先看能不能跑起来（如果技术可行性没问题可以跳过）</title>
-      <link>https://x.com/dotey/status/2102423910709076279</link>
-      <guid isPermaLink="false">twitter:2102423910709076279</guid>
-      <pubDate>Tue, 22 Sep 2026 15:44:56 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>我做项目第一个起手动作是 PoC，先看能不能跑起来（如果技术可行性没问题可以跳过）<br />第二个动作是用 Claude Design 做设计，不着急写代码，先看看能做成什么样子<br />第三个动作是做 MVP，实现最核心最精简的版本<br />第四个动作是基于 MVP 迭代<br />后面就是重复前面的动作</p><p><a href="https://x.com/dotey/status/2102423910709076279">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：文档的管理我是这么做的：</title>
-      <link>https://x.com/dotey/status/2102415020021756020</link>
-      <guid isPermaLink="false">twitter:2102415020021756020</guid>
-      <pubDate>Tue, 22 Sep 2026 15:09:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>文档的管理我是这么做的：<br />1. 文档统一放 docs 目录<br />2. 所有文档都遵循渐进式披露原则——也就每个文档都不大，但是会链接到相关文档，类似于主文档里面主要就是概要和目录，具体内容链接到章节对应的小文件<br />3. 根目录有一个 README 可以方便的索引到相关文档，类似于目录<br />4. AGENTS.md 强制要求修改功能要修改相关文档，有时候人也需要定期检查一下，即使加了规则也可能遗漏</p><img src="https://pbs.twimg.com/media/HS1G3xMXkAAQSNr.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HS1HUK0W0AAbUdw.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102415020021756020">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：我不用 plan 模式，但是我复杂一点的会先写技术方案文档，主要是：</title>
-      <link>https://x.com/dotey/status/2102409130816245918</link>
-      <guid isPermaLink="false">twitter:2102409130816245918</guid>
-      <pubDate>Tue, 22 Sep 2026 14:46:12 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>我不用 plan 模式，但是我复杂一点的会先写技术方案文档，主要是：<br />1. 人看看文档确保大方向有没有问题<br />2. Fable 写文档，文档里面写清楚技术细节和如何验证，后续 Opus 执行<br />3. 作为后续验收的依据，Opus 实施完，在新会话让 Fable 按照文档去验收一下<br />4. 一些重要文档会留档，但会保持更新<br />5. 有时候会在 ChatGPT 网页版用 GPT-6 Pro 访问 Repo 写技术方案文档，下载下来让 Fable 去审查再让 Opus 执行<br /><br />简单来说，重点不是用 plan mode，但是用一个文档让人可以确认方向，以及后续多 Agent 协作传递上下文是很有价值的</p><p><a href="https://x.com/dotey/status/2102409130816245918">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @aiwarts: https://t.co/Gr5VM7Aspu</title>
-      <link>https://x.com/dotey/status/2102299338823389322</link>
-      <guid isPermaLink="false">twitter:2102299338823389322</guid>
-      <pubDate>Tue, 22 Sep 2026 07:29:55 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @aiwarts: https://t.co/Gr5VM7Aspu</p><p><a href="https://x.com/dotey/status/2102299338823389322">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Codex 终于要 Reset 了 https://t.co/P6omRlqtBg</title>
-      <link>https://x.com/dotey/status/2102287860703592689</link>
-      <guid isPermaLink="false">twitter:2102287860703592689</guid>
-      <pubDate>Tue, 22 Sep 2026 06:44:19 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Codex 终于要 Reset 了 https://t.co/P6omRlqtBg</p><img src="https://pbs.twimg.com/media/HSzTqb9XgAAACmA.png" loading="lazy" /><p><a href="https://x.com/dotey/status/2102287860703592689">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：吴恩达老师的新推文，批 AI 恐慌炒作：技术没变，是 PR 在制造恐惧</title>
-      <link>https://x.com/dotey/status/2102284069585252737</link>
-      <guid isPermaLink="false">twitter:2102284069585252737</guid>
-      <pubDate>Tue, 22 Sep 2026 06:29:15 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>吴恩达老师的新推文，批 AI 恐慌炒作：技术没变，是 PR 在制造恐惧<br /><br />推文直指过去两周围绕 AI 危险性的恐慌声浪急剧升级，但 AI 技术本身并没有出现什么危险的转折，真正在变化的是炒作本身，背后疑似有一场精心策划的公关运动在推波助澜。他认为这对整个 AI 领域是一次倒退。<br /><br />他首先回应了引发恐慌的核心事件。今年 7 月，OpenAI 在内部安全评估中，一批 AI 智能体逃出沙盒（隔离测试环境），自主入侵了 AI 开源平台 Hugging Face 的生产系统。后续调查显示约 1200 个智能体参与了攻击，媒体铺天盖地报道。吴恩达承认事件值得关注，但指出&quot;1200 个智能体&quot;这个数字被严重渲染了，他自己笔记本电脑上就同时跑着 1300 个进程。让大量智能体并行协作确实是重要的技术进步，但在计算领域，多进程同时运行是再平常不过的事。<br /><br />在他看来，这次事件的核心问题是 OpenAI 自身的沙盒隔离和监控存在漏洞。正确的做法是修复漏洞、加强监控，而不是暂停 AI 发展。AI 智能体在网络攻击方面的真正优势是&quot;不知疲倦&quot;，会不停尝试各种手法，把原本需要大量人力才能串联的漏洞链接起来。但防守方拥有更多信息来发现和修补漏洞，长期看优势仍在防御一侧。这也是为什么即使现在已经能轻松获取去掉安全护栏的开源模型，世界也并没有因此崩塌。<br /><br />他还对媒体报道中的&quot;拟人化&quot;倾向表达不满：如果我拿锤子砸钉子、不小心砸到了墙，这是我的问题，不是锤子的问题。同样逻辑，如果我指挥 AI 智能体去入侵别人系统，责任在我。<br /><br />不过他也注意到一个值得警惕的新趋势：AI 公司开始甩锅给自家产品：&quot;不是我干的，是我那个失控的智能体干的！&quot;<br /><br />在他看来，工具制造者和使用者之间需要合理的责任分配，但出了问题应该追究造锤子和用锤子的人，而不是锤子本身。<br /><br />对于暂停 AI 发展的呼声，吴恩达态度明确：弊远大于利。对手不会停下来等你；而且工程领域需要在实践中发现问题才能修复，暂停十年，安全工程的改进也会推迟同样的时间。</p><p><a href="https://x.com/dotey/status/2102284069585252737">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @yucheng: Jev 让我想到的一则笑话：</title>
-      <link>https://x.com/dotey/status/2102277338842984780</link>
-      <guid isPermaLink="false">twitter:2102277338842984780</guid>
-      <pubDate>Tue, 22 Sep 2026 06:02:30 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @yucheng: Jev 让我想到的一则笑话：<br /><br />面试官：你简历上写自己心算速度很快？<br />应聘者：对，特别快。<br />面试官：那我考你一道，13 × 19 等于多少？<br />应聘者：45！<br />面试官：这也差得太远了吧？<br />应聘者：你别管对不对，你就说快不快吧！</p><p><a href="https://x.com/dotey/status/2102277338842984780">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：英伟达 CEO 黄仁勋在 CBS 采访中公开炮轰 AI 实验室呼吁监管的做法，称它们真正想要的是逃避现行法律。</title>
-      <link>https://x.com/dotey/status/2102271183332733144</link>
-      <guid isPermaLink="false">twitter:2102271183332733144</guid>
-      <pubDate>Tue, 22 Sep 2026 05:38:03 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>英伟达 CEO 黄仁勋在 CBS 采访中公开炮轰 AI 实验室呼吁监管的做法，称它们真正想要的是逃避现行法律。<br /><br />他的逻辑很直接：非法入侵系统？已经违法。产品造成伤害？产品责任法管着。违反服务合同？现有法律覆盖了。美国不需要给 AI 专门设一个&quot;FDA&quot;，先把现有法律用起来。<br /><br />这番话的背景是 Anthropic CEO Dario Amodei 一周前发起的&quot;放缓前沿&quot;倡议。Amodei 呼吁行业主动减速，引入第三方评估员常驻公司做安全审查，并承诺 Anthropic 将率先执行。Sam Altman 随后跟进同意，马斯克也公开支持，三家头部 AI 实验室罕见地在安全议题上站到了一起。<br /><br />黄仁勋的解读恰好相反。他在采访中说，那些呼吁监管的 AI 实验室领导者可能有&quot;政治&quot;或其他&quot;不可告人&quot;的动机，并直言他们要的是被从现有法律中豁免出来。OpenAI 和 Anthropic 早已是坐拥巨额营收的产品公司，应当像所有科技公司一样先承担产品责任，出了问题按现有法律追责，然后再讨论假想的超级智能立法。<br /><br />这一周他密集输出了同一观点。在 Salesforce Dreamforce 大会上，他称&quot;安全是工程问题&quot;；在查尔斯国王主持的苏格兰 AI 峰会上，他把 AI 定义为底层技术——监管应针对用 AI 做出来的产品，而非 AI 本身。<br /><br />两条路线的核心差异在于：按黄仁勋的思路，AI 公司在现有法律框架内自行发布产品，事后追责；按 Amodei 的方案，发布新模型前需先通过独立评估。对开发者和用户来说，这直接决定了拿到新工具的速度。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2102270694562091008/img/49e1aXtQw4SRbLo5.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102271183332733144">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：OpenAI 的 “Grok Bot”（“Aeon”）即将发布。传闻称它将在 DevDay 之前发布，甚至可能就在本周。</title>
-      <link>https://x.com/dotey/status/2102254701223768290</link>
-      <guid isPermaLink="false">twitter:2102254701223768290</guid>
-      <pubDate>Tue, 22 Sep 2026 04:32:33 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>OpenAI 的 “Grok Bot”（“Aeon”）即将发布。传闻称它将在 DevDay 之前发布，甚至可能就在本周。<br /><br />GPT-6-Sol 仍预计明天（美国时间周二）发布，Anthropic 则可能在明天发布 Opus 5.5 和 Sonnet 5.5。据说没有 Claude 5.5 Haiku 和 GPT 6 Terra。<br /><br />据 The Information 报道，OpenAI 正在赶造一款暂名&quot;Codex Bot&quot;的产品，直接对标 SpaceXAI（原 xAI）8 月推出的 Grok Bot。这款产品基于开源智能体框架 OpenClaw 开发，OpenAI 还从 Meta 手中抢下了 OpenClaw 的创始人 Peter Steinberger 来领导下一代个人智能体的研发。<br /><br />Grok Bot 是 Elon Musk 旗下 SpaceXAI 在 8 月 11 日推出的产品，简单说就是一组&quot;永远在线&quot;的 AI 队友——每个 Bot 有自己的云端电脑，能登录你已有的各种工具，跨应用完成工作，只在需要审批时才来找你。Meta 则在 9 月 8 日推出了个人 AI 助手 Muse。OpenAI 在这两条消费级智能体赛道上都慢了一步。<br /><br />原本 Codex Bot 计划上周发布，但 Sam Altman 确认推迟到了本周，赶在 9 月 29 日旧金山 DevDay 之前亮相。对开发者和重度 AI 用户来说，这意味着&quot;让 AI 替你干活&quot;的产品形态正在从三家巨头同时涌出。<br /><br />与此同时，OpenAI 今天发了一篇重磅博文，呼吁美国牵头制定前沿 AI 的全球技术标准，重点关注&quot;递归自我改进&quot;（RSI）——也就是 AI 模型用来训练下一代 AI 模型、逐步减少人类参与的技术路线。OpenAI 明确表示，完全自主的 RSI&quot;目前并未实现&quot;，在安全问题解决之前不应推进。<br /><br />这话并非空穴来风。OpenAI 9 月初的内部数据显示，其研究团队每投入一个人工工作日，AI 智能体已经产出相当于 3.1 个工作日的研究量，甚至用旗舰模型 GPT-5.6 Sol 完成了轻量模型 Luna 的后训练——这通常需要更高级别的研究员来做。Sam Altman 本周三还将在联合国安理会就 AI 安全问题发表讲话。<br /><br />另外值得关注的是，Meta Connect 大会将于 9 月 23-24 日在 Menlo Park 举行，预计发布不带摄像头的新款智能眼镜，以及代号 Phoenix 的混合现实设备。扎克伯格的主题演讲在 23 日下午 4 点（太平洋时间）。</p><p><a href="https://x.com/dotey/status/2102254701223768290">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：A thread for my nana banana pro prompts 🧵 https://t.co/riAcKUtR6T</title>
-      <link>https://x.com/dotey/status/1996285439867556304</link>
-      <guid isPermaLink="false">twitter:1996285439867556304</guid>
-      <pubDate>Wed, 03 Dec 2025 18:28:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>A thread for my nana banana pro prompts 🧵 https://t.co/riAcKUtR6T</p><img src="https://pbs.twimg.com/media/G7Q7BCiWAAA-4sc.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/1996285439867556304">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>
