@@ -48,6 +48,22 @@
       <description><![CDATA[<p>用 REA 小试牛刀逆向了 Claude Slides 的 Slides 编辑器，几乎完整功能。（图1）<br /><br />我的用法很简单，不一定是最佳实践，仅供参考：<br /><br />1. 先去 Claude Slides 上把核心的脚本和样式表下载下来（图2）<br />2. 按照 REA 官网的说明让 Codex 安装 REA<br />3. 使用 REA Skill 去逆向混淆后的代码（图3）<br />4. 用不了太久就能有一个目录结构不错的代码，但其实里面还挺乱的<br />5. 然后再用 Claude Code 5.5 去重写了一遍就变成结构良好类型完整的代码了<br /><br />至于提示词，我没有直接逆向，而是换了个思路，先做个 Slides，然后在对话里面，说我要做一个 slides skill，让它帮我实现一个，要做的跟它的一样好，这样子出来的提示词，和原始的提示词肯定不一样，但是做出来的效果没什么差别。（图4是我用同样方法问 Claude Dashboard 的提示词）<br /><br />完整的代码参考：https://t.co/I25w0FGgkV</p><img src="https://pbs.twimg.com/media/HUUyueaWEAI3toM.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUUy907WkAAijNk.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUUzbPCXkAAoJUl.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUU2D_4WcAAM2DJ.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2109151666020794711">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Yoshua Bengio：RT @DavidSKrueger: I’m super excited this paper is finally out!</title>
+      <link>https://x.com/Yoshua_Bengio/status/2109144368678580481</link>
+      <guid isPermaLink="false">twitter:2109144368678580481</guid>
+      <pubDate>Sun, 11 Oct 2026 04:49:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @DavidSKrueger: I’m super excited this paper is finally out!<br /><br />It’s an epic 210 page analysis of whether a durable pause on frontier AI t…</p><p><a href="https://x.com/Yoshua_Bengio/status/2109144368678580481">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Yoshua Bengio：RT @DavidSKrueger: AI superpersuasion is not going to look like you having o…</title>
+      <link>https://x.com/Yoshua_Bengio/status/2109134737105465687</link>
+      <guid isPermaLink="false">twitter:2109134737105465687</guid>
+      <pubDate>Sun, 11 Oct 2026 04:11:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @DavidSKrueger: AI superpersuasion is not going to look like you having one conversation with an AI and it getting you to do whatever it…</p><p><a href="https://x.com/Yoshua_Bengio/status/2109134737105465687">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>歸藏(guizang.ai)：重置了</title>
       <link>https://x.com/op7418/status/2109102136890180034</link>
       <guid isPermaLink="false">twitter:2109102136890180034</guid>
@@ -174,6 +190,14 @@
       <pubDate>Sat, 10 Oct 2026 02:25:39 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>有个用 Claude Dashboard 的用法，就是下载你的 X 数据，然后从 Artifacts（https://t.co/3zHAHh3MSQ）新建 Dashboard 发给 Claude Dashboard 去分析。<br /><br />从 https://t.co/TBJtujil8o 获取账号数据，把每个 Tab 能下载到的数据都下载下来，然后作为附件上传到 Claude Dashboard。<br /><br />提示词参考：<br />&gt; 帮我分析一下我的推文数据，看看哪些推文更受欢迎，怎么优化</p><img src="https://pbs.twimg.com/media/HUPE6u9XwAA0SRQ.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2108745745721413678">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Yoshua Bengio：RT @CRSegerie: 1/ My heart is heavy. I made a number of mistakes in my life,…</title>
+      <link>https://x.com/Yoshua_Bengio/status/2108728308951289932</link>
+      <guid isPermaLink="false">twitter:2108728308951289932</guid>
+      <pubDate>Sat, 10 Oct 2026 01:16:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @CRSegerie: 1/ My heart is heavy. I made a number of mistakes in my life, and not asking earlier for an immediate slowdown is one of the…</p><p><a href="https://x.com/Yoshua_Bengio/status/2108728308951289932">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>宝玉：据 Business Insider 援引知情人士报道，Google 内部在测试新模型 Carbon，有员工说编码能力“感觉像 Opus 5.5”</title>
@@ -808,6 +832,14 @@
       <description><![CDATA[<p>RT @cgeorgiaw: Today, we&apos;re releasing the Carbon Annotation Database and the model behind it, Carbon-A. <br /><br />We&apos;ve used this model to discover…</p><p><a href="https://x.com/huggingface/status/2108224512286216381">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Yoshua Bengio：@ReadTransformer</title>
+      <link>https://x.com/Yoshua_Bengio/status/2108224400164073483</link>
+      <guid isPermaLink="false">twitter:2108224400164073483</guid>
+      <pubDate>Thu, 08 Oct 2026 15:54:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>@ReadTransformer</p><p><a href="https://x.com/Yoshua_Bengio/status/2108224400164073483">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Jerry Liu：RT @imaanxsultan: @jerryjliu0 resilience!! matisse is top dawg</title>
       <link>https://x.com/jerryjliu0/status/2108221872286699820</link>
       <guid isPermaLink="false">twitter:2108221872286699820</guid>
@@ -918,6 +950,14 @@
       <pubDate>Thu, 08 Oct 2026 14:25:34 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @ben_burtenshaw: Today we are launching an agent arena for RL environments: The Open Env Arena.<br /><br />Your agents can work to define the best…</p><p><a href="https://x.com/huggingface/status/2108202145141174669">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Yoshua Bengio：We have a choice in front of us. In my latest op-ed for Transformer, I invit…</title>
+      <link>https://x.com/Yoshua_Bengio/status/2108198210523046069</link>
+      <guid isPermaLink="false">twitter:2108198210523046069</guid>
+      <pubDate>Thu, 08 Oct 2026 14:09:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We have a choice in front of us. In my latest op-ed for Transformer, I invite employees of frontier AI companies to ask themselves if their work is truly leading us toward a safer future. Reflecting on these questions is hard, but we no longer have the luxury of time. We must act now.<br /><br />Read my full op-ed: [https://t.co/ruFBouQJbk]</p><p><a href="https://x.com/Yoshua_Bengio/status/2108198210523046069">原文</a></p>]]></description>
     </item>
     <item>
       <title>歸藏(guizang.ai)：当然也可以打开两个狗头军师帮我参谋 https://t.co/5aVCqX6ULA</title>
@@ -1166,46 +1206,6 @@
       <pubDate>Thu, 08 Oct 2026 00:52:15 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>Humans provide a fun comparison point here.<br /><br />In the 80s, the &quot;cognitive consequences of programming&quot; was a major psychological research focus. The prevailing hypothesis was that learning formal logic and algorithmic structures through computer programming would act as a form of mental gymnastics that could upgrade general reasoning, planning, and novel problem-solving abilities. But foundational research, followed by subsequent meta-analyses, demonstrated that this does not happen. Students who learn programming become highly proficient at algorithmic thinking and coding, but these gains do not transfer to general cognitive tasks or unrelated problem-solving scenarios. Similarly, intensive mathematical training improves mathematical deduction and structural mapping, but does not increase an individual&apos;s baseline rate of skill acquisition in unrelated fields.<br /><br />General intelligence seems to be a fundamental property of the brain rather than a skill you can train. Practicing in a domain makes you better at the domain but does not make you generally smarter.</p><p><a href="https://x.com/fchollet/status/2107997468671852922">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Emad：RT @alexwg: Moonshots episode #301 is out. https://t.co/0Ye2j1wCEE</title>
-      <link>https://x.com/EMostaque/status/2107980334180794480</link>
-      <guid isPermaLink="false">twitter:2107980334180794480</guid>
-      <pubDate>Wed, 07 Oct 2026 23:44:10 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @alexwg: Moonshots episode #301 is out. https://t.co/0Ye2j1wCEE</p><p><a href="https://x.com/EMostaque/status/2107980334180794480">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：I suspect there are going to be a lot of bots in this thread who understand …</title>
-      <link>https://x.com/emollick/status/2107970182606164167</link>
-      <guid isPermaLink="false">twitter:2107970182606164167</guid>
-      <pubDate>Wed, 07 Oct 2026 23:03:50 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>I suspect there are going to be a lot of bots in this thread who understand number theory better than their operators (or me!). So expect a lot of ostensible AI marketing accounts to have a lot of opinions on Lean proofs all of a sudden.</p><p><a href="https://x.com/emollick/status/2107970182606164167">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：Some early first-hand accounts of encountering a narrow superhuman intellige…</title>
-      <link>https://x.com/emollick/status/2107964764316209326</link>
-      <guid isPermaLink="false">twitter:2107964764316209326</guid>
-      <pubDate>Wed, 07 Oct 2026 22:42:18 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Some early first-hand accounts of encountering a narrow superhuman intelligence as mathematicians grapple with the hundreds of big AI proofs released by OpenAI.<br /><br />Problems solved in inhuman ways that make us wonder what it means to actually know things... https://t.co/DgpHqbYKCR https://t.co/saiSe2pl3f</p><img src="https://pbs.twimg.com/media/HUD9bipbwAAAyjq.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUD-Tcea8AAqQur.jpg" loading="lazy" /><p><a href="https://x.com/emollick/status/2107964764316209326">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Harrison Chase：RT @sydneyrunkle: i&apos;m most excited about the idea of &quot;binding tools to skil…</title>
-      <link>https://x.com/hwchase17/status/2107951687587479713</link>
-      <guid isPermaLink="false">twitter:2107951687587479713</guid>
-      <pubDate>Wed, 07 Oct 2026 21:50:20 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @sydneyrunkle: i&apos;m most excited about the idea of &quot;binding tools to skills&quot;<br /><br />this is basically progressive disclosure^2 -- when a skill…</p><p><a href="https://x.com/hwchase17/status/2107951687587479713">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>OpenAI：RT @michpokrass: today we’re shipping gpt-6 and intelligent ui to everyone!</title>
-      <link>https://x.com/OpenAI/status/2107940728009879622</link>
-      <guid isPermaLink="false">twitter:2107940728009879622</guid>
-      <pubDate>Wed, 07 Oct 2026 21:06:47 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @michpokrass: today we’re shipping gpt-6 and intelligent ui to everyone!<br /><br />intelligent ui is a bet on model intelligence. we’re letting g…</p><p><a href="https://x.com/OpenAI/status/2107940728009879622">原文</a> · 转发</p>]]></description>
     </item>
   </channel>
 </rss>

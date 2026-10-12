@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-11T20:09:12.204Z",
+  "updated_at": "2026-10-12T00:13:58.891Z",
   "posts": [
     {
       "id": "twitter:2109361546505966046",
@@ -107,6 +107,40 @@
         "https://pbs.twimg.com/media/HUUzbPCXkAAoJUl.jpg",
         "https://pbs.twimg.com/media/HUU2D_4WcAAM2DJ.jpg"
       ]
+    },
+    {
+      "id": "twitter:2109144368678580481",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "RT @DavidSKrueger: I’m super excited this paper is finally out!\n\nIt’s an epic 210 page analysis of whether a durable pause on frontier AI t…",
+      "url": "https://x.com/Yoshua_Bengio/status/2109144368678580481",
+      "created_at": "2026-10-11T04:49:38.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 56,
+        "views": 504
+      }
+    },
+    {
+      "id": "twitter:2109134737105465687",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "RT @DavidSKrueger: AI superpersuasion is not going to look like you having one conversation with an AI and it getting you to do whatever it…",
+      "url": "https://x.com/Yoshua_Bengio/status/2109134737105465687",
+      "created_at": "2026-10-11T04:11:21.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 21,
+        "views": 471
+      }
     },
     {
       "id": "twitter:2109102136890180034",
@@ -416,6 +450,23 @@
       "media": [
         "https://pbs.twimg.com/media/HUPE6u9XwAA0SRQ.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108728308951289932",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "RT @CRSegerie: 1/ My heart is heavy. I made a number of mistakes in my life, and not asking earlier for an immediate slowdown is one of the…",
+      "url": "https://x.com/Yoshua_Bengio/status/2108728308951289932",
+      "created_at": "2026-10-10T01:16:21.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 104,
+        "views": 533
+      }
     },
     {
       "id": "twitter:2108712677971206387",
@@ -1825,6 +1876,22 @@
       }
     },
     {
+      "id": "twitter:2108224400164073483",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "@ReadTransformer",
+      "url": "https://x.com/Yoshua_Bengio/status/2108224400164073483",
+      "created_at": "2026-10-08T15:54:00.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "metrics": {
+        "likes": 26,
+        "replies": 3,
+        "retweets": 2,
+        "views": 5717
+      }
+    },
+    {
       "id": "twitter:2108221872286699820",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -2058,6 +2125,22 @@
         "replies": 0,
         "retweets": 43,
         "views": 2602
+      }
+    },
+    {
+      "id": "twitter:2108198210523046069",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "We have a choice in front of us. In my latest op-ed for Transformer, I invite employees of frontier AI companies to ask themselves if their work is truly leading us toward a safer future. Reflecting on these questions is hard, but we no longer have the luxury of time. We must act now.\n\nRead my full op-ed: [https://t.co/ruFBouQJbk]",
+      "url": "https://x.com/Yoshua_Bengio/status/2108198210523046069",
+      "created_at": "2026-10-08T14:09:56.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "metrics": {
+        "likes": 882,
+        "replies": 48,
+        "retweets": 200,
+        "views": 110200
       }
     },
     {
@@ -2907,6 +2990,38 @@
       ]
     },
     {
+      "id": "twitter:2107924677801001381",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
+      "url": "https://x.com/sama/status/2107924677801001381",
+      "created_at": "2026-10-07T20:03:01.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 793,
+        "replies": 193,
+        "retweets": 15,
+        "views": 148792
+      }
+    },
+    {
+      "id": "twitter:2107924408597950702",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "ChatGPT can now generate a custom UI for you!",
+      "url": "https://x.com/sama/status/2107924408597950702",
+      "created_at": "2026-10-07T20:01:57.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 11865,
+        "replies": 810,
+        "retweets": 543,
+        "views": 1711739
+      }
+    },
+    {
       "id": "twitter:2107922393016717725",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -3681,6 +3796,54 @@
       ]
     },
     {
+      "id": "twitter:2107691577015755196",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+      "url": "https://x.com/sama/status/2107691577015755196",
+      "created_at": "2026-10-07T04:36:45.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 3957,
+        "replies": 223,
+        "retweets": 126,
+        "views": 334228
+      }
+    },
+    {
+      "id": "twitter:2107691261776052633",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\"",
+      "url": "https://x.com/sama/status/2107691261776052633",
+      "created_at": "2026-10-07T04:35:30.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 12559,
+        "replies": 1194,
+        "retweets": 672,
+        "views": 1768058
+      }
+    },
+    {
+      "id": "twitter:2107691262795239805",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+      "url": "https://x.com/sama/status/2107691262795239805",
+      "created_at": "2026-10-07T04:35:30.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 3536,
+        "replies": 192,
+        "retweets": 99,
+        "views": 279835
+      }
+    },
+    {
       "id": "twitter:2107689326847123520",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -3889,6 +4052,22 @@
         "replies": 205,
         "retweets": 172,
         "views": 213358
+      }
+    },
+    {
+      "id": "twitter:2107623610483720463",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "We are entering a new era of discovery now:\n\nhttps://t.co/Ng8GquwN3r",
+      "url": "https://x.com/sama/status/2107623610483720463",
+      "created_at": "2026-10-07T00:06:41.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 10865,
+        "replies": 756,
+        "retweets": 959,
+        "views": 1966568
       }
     },
     {
@@ -4954,6 +5133,25 @@
       }
     },
     {
+      "id": "twitter:2107137278199906340",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "A dangerous myth has gained traction after the recent hacks perpetrated by the AI agents developed by leading companies: That these incidents are just cyber security problems, that it's only a matter of fixing the sandboxes in which they’re trained.\n\nIn my latest op-ed for the @FinancialTimes, I share why I believe listening to this narrow perspective would leave us exposed to more similar incidents, while offering solutions for an alternative safer path.\n\nRead my op-ed: [https://t.co/HV8KXkZO7X]",
+      "url": "https://x.com/Yoshua_Bengio/status/2107137278199906340",
+      "created_at": "2026-10-05T15:54:10.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "metrics": {
+        "likes": 458,
+        "replies": 39,
+        "retweets": 107,
+        "views": 31861
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107136855711928320/img/Ym1fcIIVS9-bGEGB.jpg"
+      ]
+    },
+    {
       "id": "twitter:2107134659276501372",
       "platform": "twitter",
       "handle": "JayAlammar",
@@ -5163,6 +5361,22 @@
       "media": [
         "https://pbs.twimg.com/media/HT30_-PakAAOyBi.jpg"
       ]
+    },
+    {
+      "id": "twitter:2107115683880259605",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "Multiple recent polls show that citizens do not agree with the current trajectory of AI development. According to a national poll conducted in the US by @QuinnipiacPoll last week:\n\n- 73% are concerned that future AI systems could potentially threaten human survival\n\n- 86% support requiring AI companies to meet independent safety standards, even if it slows down development\n\n- 81% believe safety is more important than staying at the forefront of innovation when it comes to AI\n\n- 77% believe we should slow down or stop developing powerful AI systems until their safety can be evaluated\n\nSuch decisions will most likely deeply transform our societies and human experience. Yet, just a few companies and governments are calling the shots without meaningful democratic input. This failure of representation cannot continue.\n\nhttps://t.co/re6MAQciow",
+      "url": "https://x.com/Yoshua_Bengio/status/2107115683880259605",
+      "created_at": "2026-10-05T14:28:22.000Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "author": "Yoshua Bengio",
+      "metrics": {
+        "likes": 309,
+        "replies": 25,
+        "retweets": 75,
+        "views": 36988
+      }
     },
     {
       "id": "twitter:2107099152161095955",
@@ -6384,13 +6598,13 @@
       "text": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
       "url": "https://x.com/sama/status/2106388373221118198",
       "created_at": "2026-10-03T14:18:17.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
       "author": "Sam Altman",
       "metrics": {
-        "likes": 23983,
-        "replies": 4418,
-        "retweets": 1630,
-        "views": 4134080
+        "likes": 29045,
+        "replies": 6286,
+        "retweets": 1957,
+        "views": 7113790
       }
     },
     {
@@ -6847,13 +7061,13 @@
       "text": "Je suis honoré d’avoir été sélectionné par le premier ministre @MarkJCarney pour rejoindre le nouveau Conseil national sur l’intelligence artificielle, qui aura pour mission de soutenir le Gouvernement du Canada afin de rendre l’IA plus sécuritaire, protéger notre démocratie et façonner une trajectoire de l’IA plus bénéfique pour la population.\n\n[https://t.co/5dMKgb57Bq]\n\n***\n\nHonoured to have been selected by Prime Minister @MarkJCarney to join the new National Council on Artificial Intelligence, which will support the Government of Canada on making AI safer, protecting our democracy, and shaping a more beneficial AI trajectory for Canadians.\n\n[https://t.co/ueJqdfs9YU]",
       "url": "https://x.com/Yoshua_Bengio/status/2106154362921795605",
       "created_at": "2026-10-02T22:48:25.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-12T00:13:55.170Z",
       "author": "Yoshua Bengio",
       "metrics": {
-        "likes": 175,
-        "replies": 23,
+        "likes": 181,
+        "replies": 22,
         "retweets": 18,
-        "views": 8473
+        "views": 9975
       }
     },
     {
