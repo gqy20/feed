@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-12T00:13:58.891Z",
+  "updated_at": "2026-10-13T00:56:55.577Z",
   "posts": [
     {
       "id": "twitter:2109361546505966046",
@@ -141,6 +141,36 @@
         "retweets": 21,
         "views": 471
       }
+    },
+    {
+      "id": "xhs:6acafee9000000000b004e3a",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "今天下午，清华人工智能研究院学术年会，其中「基础模型论坛」姚远讲的是我觉得最硬核、最有启发的 主题是「全模态大模型技术探索」，总结了几个特别有态度的观点： 1. 交互性必须原生，不能靠pipeline拼凑。 2. 感知的边界，就是智能的边界。 3. 结构不支持就做不到，结构支持后交给数据。 4. 有什么样的数据，模型就能做什么样的事。 5. 交互性会和智能一起scale，这是第二增长曲线。 观点总结图 P6，干货ppt我放最后了 印象很深还有一个比喻：传统多模态模型一旦开始说话，就像“捂住眼睛、闭住耳朵”，非要生成几百个 token 念完，外界发生什么都和它无关。 这也是我自己用 AI 很强的一个感受，AI 的倾听感和对象感不够，对话之间的割裂感很强 而姚远老师他们做的 MiniCPM-Omni 4.5，是端到端全模态，边看、边听、主动说 OmniFlow 把不同模态信息按毫秒级时间戳对齐，1 秒内切成微切片，输入输出不阻塞，全双工并行 不需要 VAD 小工具判断该不该说话，模型自己在高频微轮次里判断：说不说、说几个 token 所以能及时回复、打断、插话，也能在后台伴随感知，就像电梯到几层、微波炉叮好了没有，模型能随时响应 现场 demo 特别有意思：数电梯楼层、看白板、用哪吒音色交互 端到端模型，还能在 system prompt 里加一段音频，让它学声线和性格。不是拼接 ASR/TTS，是原生能力 谈到的还有踩过的坑和教训：交互性必须和智能同步 scale，不能靠 pipeline 拼出来。 互联网音视频动态数据，最乐观挖掘了 10%，实际可能只有 5%。动态数据没经过人类提炼，信息密度低，但空间巨大 以及姚远关于 AGI 的最新判断：AI 的纯文本能力已接近人类优秀水平，但多模态真实世界感知是硬瓶颈：模型看不清图片，agent 也很难挖出来。所以感知的边界，就是智能发展的边界 他还说，同尺寸模型，他们一张 4090 甚至 Mac M5 普通版能跑，竞品要两张 A100。推理效率优化和开源演示系统，真的把门槛降低了很多 MiniCPM是我经常自己用的，听梳理完模型逻辑和发展脉络，好像用起来都更顺手、更有感觉了 hhh #清华大学 #全模态大模型 #姚远 #多模态 #AI前沿 #讲座 #面壁智能 #MiniCPM",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6acafee9000000000b004e3a?xsec_token=ABeKSzh48iEG3SCeNuuxDDJWBT-gD3H76FpLw2k6r6CCw=&xsec_source=pc_user",
+      "created_at": "2026-10-11T03:13:45.000Z",
+      "fetched_at": "2026-10-12T00:14:41.796Z",
+      "author": "AI异类弗兰克",
+      "title": "清华这场AI论坛，我看到AI交互的下一条曲线",
+      "metrics": {
+        "collects": 56,
+        "comments": 1,
+        "likes": 88
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610120814/27c066ca490f6f6e41c8decac872e65e/notes_uhdr/1040g3qg3265trc7ake405nm6daug8qkai1uf7a0!nd_dft_wgth_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/aad34f1f53100b2db469b3e7207a4744/1040g2sg3265tfmqj50e05nm6daug8qkag4gk74o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/4771fb85aed80b9cf075561c18563ed4/notes_uhdr/1040g3qg3265trc7ake005nm6daug8qka8214bf0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/e8a36e974b3465392319a7b46db6138d/notes_uhdr/1040g3qg3265trc7ake0g5nm6daug8qkaomspn1g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/52344f413b798169330206a5c298274c/notes_uhdr/1040g3qg3265trc7ake105nm6daug8qkatkr66q0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/1cf60e8efb719147ee5bfe67b0a27976/1040g2sg3265tfmqj50eg5nm6daug8qka0hqopt8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/8570021d6fdc136100cf52e9118f17aa/1040g2sg3265tfmqj50f05nm6daug8qka4usj548!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/7ee454f2a548969983cc84e52f40b72e/notes_uhdr/1040g3qg3265trc7ake1g5nm6daug8qkaj1l21t0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/9a3aa30f20f8ff623604276e4732bbf2/notes_uhdr/1040g3qg3265trc7ake205nm6daug8qkadjmj4u8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/5313a7e28145cc49bcd37329648bb56f/notes_uhdr/1040g3qg3265trc7ake2g5nm6daug8qkaqe7lpbo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/cf72144427cb21b6683ff3710410676a/notes_uhdr/1040g3qg3265trc7ake305nm6daug8qka6avte9o!nd_dft_wgth_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610120814/37716e06667db2eb07e908af57ccb9eb/notes_uhdr/1040g3qg3265trc7ake3g5nm6daug8qkau6qq5l8!nd_dft_wgth_webp_3"
+      ]
     },
     {
       "id": "twitter:2109102136890180034",
@@ -910,6 +940,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2108599185364934656/img/Pifjdqo2MQmCJolW.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108597112707686552",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+      "url": "https://x.com/amasad/status/2108597112707686552",
+      "created_at": "2026-10-09T16:35:02.000Z",
+      "fetched_at": "2026-10-13T00:56:51.306Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 450,
+        "replies": 299,
+        "retweets": 11,
+        "views": 49115
+      }
     },
     {
       "id": "twitter:2108579846129647963",
@@ -1941,6 +1987,23 @@
       }
     },
     {
+      "id": "twitter:2108220483015774315",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @databricks: A new @Replit integration with Databricks accelerates the development of business apps and deployment on live, governed ent…",
+      "url": "https://x.com/amasad/status/2108220483015774315",
+      "created_at": "2026-10-08T15:38:26.000Z",
+      "fetched_at": "2026-10-13T00:56:51.306Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 1749
+      }
+    },
+    {
       "id": "twitter:2108218301654749218",
       "platform": "twitter",
       "handle": "simonw",
@@ -2501,6 +2564,23 @@
       ]
     },
     {
+      "id": "twitter:2108053628821098770",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @paulg: Talking to Amjad yesterday, I realized Replit is more important than I'd previously thought. It's the way AI pervades organizati…",
+      "url": "https://x.com/amasad/status/2108053628821098770",
+      "created_at": "2026-10-08T04:35:25.000Z",
+      "fetched_at": "2026-10-13T00:56:51.306Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 80,
+        "views": 1456
+      }
+    },
+    {
       "id": "twitter:2108052862572138938",
       "platform": "twitter",
       "handle": "op7418",
@@ -2919,6 +2999,25 @@
       }
     },
     {
+      "id": "twitter:2107934939287273551",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Math was bound to fall first. The purer the field the easier it is for AI to crack. https://t.co/OETDJ1JSIz",
+      "url": "https://x.com/amasad/status/2107934939287273551",
+      "created_at": "2026-10-07T20:43:47.000Z",
+      "fetched_at": "2026-10-13T00:56:51.306Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 2201,
+        "replies": 130,
+        "retweets": 174,
+        "views": 96266
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUDjp8cbUAAMx5J.jpg"
+      ]
+    },
+    {
       "id": "twitter:2107929853676990731",
       "platform": "twitter",
       "handle": "huggingface",
@@ -2988,6 +3087,38 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2107913431617847296/img/UOrSCai2SNmgoumY.jpg"
       ]
+    },
+    {
+      "id": "twitter:2107927076926038273",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "That’s because Replit is not a consumer app. Most of our creators are building businesses or working on one.",
+      "url": "https://x.com/amasad/status/2107927076926038273",
+      "created_at": "2026-10-07T20:12:33.000Z",
+      "fetched_at": "2026-10-13T00:56:51.306Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 698,
+        "replies": 51,
+        "retweets": 30,
+        "views": 57778
+      }
+    },
+    {
+      "id": "twitter:2107926712277438503",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Desktop AI apps are great but expose users to supply-chain attacks and catastrophic mistakes by agents.\n\nWe’re building a powerful desktop experience with focus on security &amp; reliability.\n\nExcited to partner with @Microsoft on this and be an early adopter of @nvidia’s OpenShell.",
+      "url": "https://x.com/amasad/status/2107926712277438503",
+      "created_at": "2026-10-07T20:11:06.000Z",
+      "fetched_at": "2026-10-13T00:56:51.306Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 293,
+        "replies": 64,
+        "retweets": 21,
+        "views": 23293
+      }
     },
     {
       "id": "twitter:2107924677801001381",
@@ -3910,6 +4041,39 @@
       }
     },
     {
+      "id": "twitter:2107671204639465961",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "What’s happening in the AI-powered reverse engineering and decompilation is absolutely insane. Pretty soon all software will be de facto open-source.\n\nAI is coming for everything and everyone.",
+      "url": "https://x.com/amasad/status/2107671204639465961",
+      "created_at": "2026-10-07T03:15:48.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 11870,
+        "replies": 552,
+        "retweets": 1112,
+        "views": 1310362
+      }
+    },
+    {
+      "id": "twitter:2107656429649924513",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @samuel_spitz: Jev is now on Replit! (no API key required)\n\nBuild an app with classification built in, or wrap JEV to sell an API for se…",
+      "url": "https://x.com/amasad/status/2107656429649924513",
+      "created_at": "2026-10-07T02:17:05.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 1759
+      }
+    },
+    {
       "id": "twitter:2107648160604528897",
       "platform": "twitter",
       "handle": "emollick",
@@ -4296,6 +4460,39 @@
         "replies": 7,
         "retweets": 12,
         "views": 11904
+      }
+    },
+    {
+      "id": "twitter:2107544111482118237",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Full conversation here: https://t.co/aKn5QFuNO3",
+      "url": "https://x.com/amasad/status/2107544111482118237",
+      "created_at": "2026-10-06T18:50:47.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 218,
+        "replies": 15,
+        "retweets": 21,
+        "views": 59008
+      }
+    },
+    {
+      "id": "twitter:2107543892543553777",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @Replit: Replit now has context across all your projects.\n\nStart a new chat and ask Replit to find an existing project, add a feature, o…",
+      "url": "https://x.com/amasad/status/2107543892543553777",
+      "created_at": "2026-10-06T18:49:54.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 1348
       }
     },
     {
@@ -4788,6 +4985,23 @@
       }
     },
     {
+      "id": "twitter:2107383298335113472",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @karlmehta: Replit CEO Amjad Masad (@amasad) says friends told him someone left an AI agent running overnight and woke up to $10,000 of…",
+      "url": "https://x.com/amasad/status/2107383298335113472",
+      "created_at": "2026-10-06T08:11:46.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 1951
+      }
+    },
+    {
       "id": "twitter:2107356794410377510",
       "platform": "twitter",
       "handle": "emollick",
@@ -4844,6 +5058,23 @@
       }
     },
     {
+      "id": "twitter:2107275605033300321",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @guilleflorvs: BREAKING: Patrick Collison just told the Valley exactly where the next Stripe gets built.\n\nAnd it's not an AI lab.\n\nAsked…",
+      "url": "https://x.com/amasad/status/2107275605033300321",
+      "created_at": "2026-10-06T01:03:50.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 40,
+        "views": 1751
+      }
+    },
+    {
       "id": "xhs:6ac3c0430000000015008744",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -4892,6 +5123,22 @@
         "https://pbs.twimg.com/media/HT57LZcXsAABPK-.jpg",
         "https://pbs.twimg.com/media/HT57NPOXoAAoLqG.jpg"
       ]
+    },
+    {
+      "id": "twitter:2107252697162543255",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "“Promote my app on tiktok”",
+      "url": "https://x.com/amasad/status/2107252697162543255",
+      "created_at": "2026-10-05T23:32:48.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 148,
+        "replies": 27,
+        "retweets": 9,
+        "views": 17029
+      }
     },
     {
       "id": "twitter:2107252489393434965",
@@ -4976,6 +5223,75 @@
         "replies": 42,
         "retweets": 12,
         "views": 34210
+      }
+    },
+    {
+      "id": "twitter:2107225049313038520",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @MannyBernabe: Replit at #6 on a16z’s top consumer AI apps. 🙌 https://t.co/Gz5EZutjaB",
+      "url": "https://x.com/amasad/status/2107225049313038520",
+      "created_at": "2026-10-05T21:42:56.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 1722
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT4-A_-WEAE4YRz.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107222889946898893",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Really proud of how many family-run businesses are powered by Replit.",
+      "url": "https://x.com/amasad/status/2107222889946898893",
+      "created_at": "2026-10-05T21:34:21.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 189,
+        "replies": 17,
+        "retweets": 8,
+        "views": 17272
+      }
+    },
+    {
+      "id": "twitter:2107222443479966156",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @Replit: Press Play ▶️ This week, @amasad talks vibe coding, the lost joy of building with computers, and why AI doomerism misses the ac…",
+      "url": "https://x.com/amasad/status/2107222443479966156",
+      "created_at": "2026-10-05T21:32:35.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 1332
+      }
+    },
+    {
+      "id": "twitter:2107222388429766970",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "The US is catching up on open-weights models.",
+      "url": "https://x.com/amasad/status/2107222388429766970",
+      "created_at": "2026-10-05T21:32:22.000Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 397,
+        "replies": 47,
+        "retweets": 24,
+        "views": 26710
       }
     },
     {
@@ -5947,14 +6263,14 @@
       "text": "RT @beffjezos: How it feels like to vibe code with multiple parallel agents on @replit https://t.co/gQHgQajmJx",
       "url": "https://x.com/amasad/status/2106620041668248043",
       "created_at": "2026-10-04T05:38:51.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-13T00:56:51.307Z",
       "author": "Amjad Masad",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 5,
-        "views": 1003
+        "retweets": 8,
+        "views": 1876
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106406454756536321/img/6UnQrt4_UiOW6KCf.jpg"

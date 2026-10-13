@@ -64,6 +64,14 @@
       <description><![CDATA[<p>RT @DavidSKrueger: AI superpersuasion is not going to look like you having one conversation with an AI and it getting you to do whatever it…</p><p><a href="https://x.com/Yoshua_Bengio/status/2109134737105465687">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>AI异类弗兰克：清华这场AI论坛，我看到AI交互的下一条曲线</title>
+      <link>https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6acafee9000000000b004e3a?xsec_token=ABeKSzh48iEG3SCeNuuxDDJWBT-gD3H76FpLw2k6r6CCw=&amp;xsec_source=pc_user</link>
+      <guid isPermaLink="false">xhs:6acafee9000000000b004e3a</guid>
+      <pubDate>Sun, 11 Oct 2026 03:13:45 GMT</pubDate>
+      <category>xhs</category>
+      <description><![CDATA[<strong>清华这场AI论坛，我看到AI交互的下一条曲线</strong><p>今天下午，清华人工智能研究院学术年会，其中「基础模型论坛」姚远讲的是我觉得最硬核、最有启发的 主题是「全模态大模型技术探索」，总结了几个特别有态度的观点： 1. 交互性必须原生，不能靠pipeline拼凑。 2. 感知的边界，就是智能的边界。 3. 结构不支持就做不到，结构支持后交给数据。 4. 有什么样的数据，模型就能做什么样的事。 5. 交互性会和智能一起scale，这是第二增长曲线。 观点总结图 P6，干货ppt我放最后了 印象很深还有一个比喻：传统多模态模型一旦开始说话，就像“捂住眼睛、闭住耳朵”，非要生成几百个 token 念完，外界发生什么都和它无关。 这也是我自己用 AI 很强的一个感受，AI 的倾听感和对象感不够，对话之间的割裂感很强 而姚远老师他们做的 MiniCPM-Omni 4.5，是端到端全模态，边看、边听、主动说 OmniFlow 把不同模态信息按毫秒级时间戳对齐，1 秒内切成微切片，输入输出不阻塞，全双工并行 不需要 VAD 小工具判断该不该说话，模型自己在高频微轮次里判断：说不说、说几个 token 所以能及时回复、打断、插话，也能在后台伴随感知，就像电梯到几层、微波炉叮好了没有，模型能随时响应 现场 demo 特别有意思：数电梯楼层、看白板、用哪吒音色交互 端到端模型，还能在 system prompt 里加一段音频，让它学声线和性格。不是拼接 ASR/TTS，是原生能力 谈到的还有踩过的坑和教训：交互性必须和智能同步 scale，不能靠 pipeline 拼出来。 互联网音视频动态数据，最乐观挖掘了 10%，实际可能只有 5%。动态数据没经过人类提炼，信息密度低，但空间巨大 以及姚远关于 AGI 的最新判断：AI 的纯文本能力已接近人类优秀水平，但多模态真实世界感知是硬瓶颈：模型看不清图片，agent 也很难挖出来。所以感知的边界，就是智能发展的边界 他还说，同尺寸模型，他们一张 4090 甚至 Mac M5 普通版能跑，竞品要两张 A100。推理效率优化和开源演示系统，真的把门槛降低了很多 MiniCPM是我经常自己用的，听梳理完模型逻辑和发展脉络，好像用起来都更顺手、更有感觉了 hhh #清华大学 #全模态大模型 #姚远 #多模态 #AI前沿 #讲座 #面壁智能 #MiniCPM</p><img src="https://sns-webpic-qc.xhscdn.com/202610120814/27c066ca490f6f6e41c8decac872e65e/notes_uhdr/1040g3qg3265trc7ake405nm6daug8qkai1uf7a0!nd_dft_wgth_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/aad34f1f53100b2db469b3e7207a4744/1040g2sg3265tfmqj50e05nm6daug8qkag4gk74o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/4771fb85aed80b9cf075561c18563ed4/notes_uhdr/1040g3qg3265trc7ake005nm6daug8qka8214bf0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/e8a36e974b3465392319a7b46db6138d/notes_uhdr/1040g3qg3265trc7ake0g5nm6daug8qkaomspn1g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/52344f413b798169330206a5c298274c/notes_uhdr/1040g3qg3265trc7ake105nm6daug8qkatkr66q0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/1cf60e8efb719147ee5bfe67b0a27976/1040g2sg3265tfmqj50eg5nm6daug8qka0hqopt8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/8570021d6fdc136100cf52e9118f17aa/1040g2sg3265tfmqj50f05nm6daug8qka4usj548!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/7ee454f2a548969983cc84e52f40b72e/notes_uhdr/1040g3qg3265trc7ake1g5nm6daug8qkaj1l21t0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/9a3aa30f20f8ff623604276e4732bbf2/notes_uhdr/1040g3qg3265trc7ake205nm6daug8qkadjmj4u8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/5313a7e28145cc49bcd37329648bb56f/notes_uhdr/1040g3qg3265trc7ake2g5nm6daug8qkaqe7lpbo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/cf72144427cb21b6683ff3710410676a/notes_uhdr/1040g3qg3265trc7ake305nm6daug8qka6avte9o!nd_dft_wgth_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610120814/37716e06667db2eb07e908af57ccb9eb/notes_uhdr/1040g3qg3265trc7ake3g5nm6daug8qkau6qq5l8!nd_dft_wgth_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6acafee9000000000b004e3a?xsec_token=ABeKSzh48iEG3SCeNuuxDDJWBT-gD3H76FpLw2k6r6CCw=&amp;xsec_source=pc_user">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>歸藏(guizang.ai)：重置了</title>
       <link>https://x.com/op7418/status/2109102136890180034</link>
       <guid isPermaLink="false">twitter:2109102136890180034</guid>
@@ -398,6 +406,14 @@
       <pubDate>Fri, 09 Oct 2026 16:43:40 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频<br /><br />他给了我这个 https://t.co/iOquMK90CL</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108599185364934656/img/Pifjdqo2MQmCJolW.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2108599286984561073">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Amjad Masad：Some communities are excited by AI’s impact on their field. Others are petrifi…</title>
+      <link>https://x.com/amasad/status/2108597112707686552</link>
+      <guid isPermaLink="false">twitter:2108597112707686552</guid>
+      <pubDate>Fri, 09 Oct 2026 16:35:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?</p><p><a href="https://x.com/amasad/status/2108597112707686552">原文</a></p>]]></description>
     </item>
     <item>
       <title>Jerry Liu：RT @hwchase17: eval driven development</title>
@@ -864,6 +880,14 @@
       <description><![CDATA[<p>就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话</p><p><a href="https://x.com/op7418/status/2108220832422228202">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Amjad Masad：RT @databricks: A new @Replit integration with Databricks accelerates the deve…</title>
+      <link>https://x.com/amasad/status/2108220483015774315</link>
+      <guid isPermaLink="false">twitter:2108220483015774315</guid>
+      <pubDate>Thu, 08 Oct 2026 15:38:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @databricks: A new @Replit integration with Databricks accelerates the development of business apps and deployment on live, governed ent…</p><p><a href="https://x.com/amasad/status/2108220483015774315">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Simon Willison：Related new project from Microsoft is Quicksand, a Python library that bund…</title>
       <link>https://x.com/simonw/status/2108218301654749218</link>
       <guid isPermaLink="false">twitter:2108218301654749218</guid>
@@ -1120,6 +1144,14 @@
       <description><![CDATA[<p>having high agency is choosing to do a hot ones challenge with no spice tolerance and powering through 9 out of 10 wings <br /><br />s/o matisse https://t.co/jR9Um6fz55</p><img src="https://pbs.twimg.com/media/HUFZxaRaoAAmafe.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108064808172237025">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Amjad Masad：RT @paulg: Talking to Amjad yesterday, I realized Replit is more important tha…</title>
+      <link>https://x.com/amasad/status/2108053628821098770</link>
+      <guid isPermaLink="false">twitter:2108053628821098770</guid>
+      <pubDate>Thu, 08 Oct 2026 04:35:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @paulg: Talking to Amjad yesterday, I realized Replit is more important than I&apos;d previously thought. It&apos;s the way AI pervades organizati…</p><p><a href="https://x.com/amasad/status/2108053628821098770">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>歸藏(guizang.ai)：防杠，我也是菜逼，各路大师要是有其他见解可以自己搞哈，后面会把代码开源出来</title>
       <link>https://x.com/op7418/status/2108052862572138938</link>
       <guid isPermaLink="false">twitter:2108052862572138938</guid>
@@ -1174,38 +1206,6 @@
       <pubDate>Thu, 08 Oct 2026 01:47:06 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @EkoLovesYou: SI is helpful, but the kingdom is within https://t.co/2uh2jWYTRs</p><img src="https://pbs.twimg.com/media/HUEbkD8bQAEwhZy.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108011269806760285">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>歸藏(guizang.ai)：Grok bot 最近真猛啊！</title>
-      <link>https://x.com/op7418/status/2108010689889767493</link>
-      <guid isPermaLink="false">twitter:2108010689889767493</guid>
-      <pubDate>Thu, 08 Oct 2026 01:44:48 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Grok bot 最近真猛啊！<br /><br />现在可以搜索、阅读甚至监控指定的推特内容<br /><br />比如你可以让他在 tibo 重置 Codex 额度的时候通知你<br /><br />这些都是免费的，不通过以前的 xapi 实现</p><p><a href="https://x.com/op7418/status/2108010689889767493">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @RisingSayak: Was meant to be a Valentine&apos;s gift, but I&apos;m releasing it ear…</title>
-      <link>https://x.com/huggingface/status/2108005474641838500</link>
-      <guid isPermaLink="false">twitter:2108005474641838500</guid>
-      <pubDate>Thu, 08 Oct 2026 01:24:04 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @RisingSayak: Was meant to be a Valentine&apos;s gift, but I&apos;m releasing it early ❤️<br /><br />Wrote a long piece on KV caching in flow models for ima…</p><p><a href="https://x.com/huggingface/status/2108005474641838500">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: @cartesia coffee cart! :D</title>
-      <link>https://x.com/jerryjliu0/status/2107997726126600310</link>
-      <guid isPermaLink="false">twitter:2107997726126600310</guid>
-      <pubDate>Thu, 08 Oct 2026 00:53:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: @cartesia coffee cart! :D <br />got to order my drink using their sonic TTS model, very cool https://t.co/eZanOhgt4a</p><img src="https://pbs.twimg.com/media/HUEXEE_bkAALYRa.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUEXEE9agAEhWR_.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107997726126600310">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>François Chollet：Humans provide a fun comparison point here.</title>
-      <link>https://x.com/fchollet/status/2107997468671852922</link>
-      <guid isPermaLink="false">twitter:2107997468671852922</guid>
-      <pubDate>Thu, 08 Oct 2026 00:52:15 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Humans provide a fun comparison point here.<br /><br />In the 80s, the &quot;cognitive consequences of programming&quot; was a major psychological research focus. The prevailing hypothesis was that learning formal logic and algorithmic structures through computer programming would act as a form of mental gymnastics that could upgrade general reasoning, planning, and novel problem-solving abilities. But foundational research, followed by subsequent meta-analyses, demonstrated that this does not happen. Students who learn programming become highly proficient at algorithmic thinking and coding, but these gains do not transfer to general cognitive tasks or unrelated problem-solving scenarios. Similarly, intensive mathematical training improves mathematical deduction and structural mapping, but does not increase an individual&apos;s baseline rate of skill acquisition in unrelated fields.<br /><br />General intelligence seems to be a fundamental property of the brain rather than a skill you can train. Practicing in a domain makes you better at the domain but does not make you generally smarter.</p><p><a href="https://x.com/fchollet/status/2107997468671852922">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>
