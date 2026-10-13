@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-13T09:02:09.642Z",
+  "updated_at": "2026-10-13T16:01:57.039Z",
   "posts": [
     {
       "id": "twitter:2109795898909950247",
@@ -46,6 +46,40 @@
         "https://sns-webpic-qc.xhscdn.com/202610130857/700454207f28239dcd79da4835cf58bd/spectrum/1040g0k03267s039n444g5p37m4gk4uihcac2o1o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610130857/48a42ee53172e674451a628a0c427ec5/spectrum/1040g0k03267s039n44505p37m4gk4uihvlr3d08!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2109749450235318290",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @finkd: Introducing Muse Wonder, our new family of frontier models with state of the art performance for personal and professional agent…",
+      "url": "https://x.com/chrmanning/status/2109749450235318290",
+      "created_at": "2026-10-12T20:54:00.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2959,
+        "views": 262
+      }
+    },
+    {
+      "id": "twitter:2109748746640859629",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @minilek: Mike was my colleague at Berkeley, and he's been fairly skeptical of deep learning's trajectory for years. Most scientists are…",
+      "url": "https://x.com/chrmanning/status/2109748746640859629",
+      "created_at": "2026-10-12T20:51:13.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 190,
+        "views": 254
+      }
     },
     {
       "id": "twitter:2109738344011972893",
@@ -111,6 +145,22 @@
         "replies": 0,
         "retweets": 66,
         "views": 2945
+      }
+    },
+    {
+      "id": "twitter:2109681343382864013",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "It sure looks like LLMs’ models of the world and visual “world models” aren’t as different as some people think!",
+      "url": "https://x.com/chrmanning/status/2109681343382864013",
+      "created_at": "2026-10-12T16:23:22.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "metrics": {
+        "likes": 111,
+        "replies": 11,
+        "retweets": 11,
+        "views": 9939
       }
     },
     {
@@ -287,6 +337,23 @@
         "https://sns-webpic-qc.xhscdn.com/202610130857/f18ada3724c03313c8f73a7d5084f36e/spectrum/1040g0k03266jc7djl84g5p37m4gk4uih7q8vcr8!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610130857/c0e317a71a8dfca4424735ab43e2b874/spectrum/1040g0k03266jc7djl8505p37m4gk4uih3vg1sqo!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2109424106445897918",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @SciFi: Sherpa: Teaching LLMs to Teach Adaptively\n\nWeixian Xu, Yanzhe Zhang, Zora Zhiruo Wang, Changyu Chen, Diyi Yang\nhttps://t.co/GhnB…",
+      "url": "https://x.com/chrmanning/status/2109424106445897918",
+      "created_at": "2026-10-11T23:21:12.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 337
+      }
     },
     {
       "id": "twitter:2109361546505966046",
@@ -1242,6 +1309,23 @@
       }
     },
     {
+      "id": "twitter:2108623637058298183",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @maithra_raghu: We’re sharing new results showing that frontier AI models are able to outperform human experts on financial predictions…",
+      "url": "https://x.com/chrmanning/status/2108623637058298183",
+      "created_at": "2026-10-09T18:20:26.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 42,
+        "views": 341
+      }
+    },
+    {
       "id": "twitter:2108614125614162184",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -1868,6 +1952,23 @@
       }
     },
     {
+      "id": "twitter:2108352551951442233",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @Thom_Wolf: Scientists have sequenced the genomes of thousands of species. But for most of them, nobody knows *where the genes are*\n\nTod…",
+      "url": "https://x.com/chrmanning/status/2108352551951442233",
+      "created_at": "2026-10-09T00:23:14.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 33,
+        "views": 272
+      }
+    },
+    {
       "id": "twitter:2108352485140332758",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -2366,6 +2467,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2108230598179569664/img/T-gcqh5WMohNu05x.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108237049732235723",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "Engines by @hone: Exactly what the AI industry needs. A focus on creating real business value for customers.\n\nI remember @moritz_stephan super fondly as his advisor at Stanford and for his cool research there with @chelseabfinn.\n\nBest of luck on this new endeavor!",
+      "url": "https://x.com/chrmanning/status/2108237049732235723",
+      "created_at": "2026-10-08T16:44:16.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "metrics": {
+        "likes": 51,
+        "replies": 7,
+        "retweets": 1,
+        "views": 7498
+      }
     },
     {
       "id": "twitter:2108236575859753460",
@@ -5657,6 +5774,23 @@
       ]
     },
     {
+      "id": "twitter:2107512145466552616",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @sharonal_lee: Been seeing a lot of Astra for real2sim, but what you need for robotics: physics and affordance.\n\nOur SOTA recipe specifi…",
+      "url": "https://x.com/chrmanning/status/2107512145466552616",
+      "created_at": "2026-10-06T16:43:45.000Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 66,
+        "views": 334
+      }
+    },
+    {
       "id": "twitter:2107503998140023197",
       "platform": "twitter",
       "handle": "AravSrinivas",
@@ -8515,14 +8649,14 @@
       "text": "RT @CoreyGallon: A photorealistic walkthrough of a room and a simulation you can actually act inside of are not the same thing, and mixing…",
       "url": "https://x.com/chrmanning/status/2106145325065150692",
       "created_at": "2026-10-02T22:12:30.000Z",
-      "fetched_at": "2026-10-05T16:04:04.737Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
       "author": "Christopher Manning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 1,
-        "views": 323
+        "views": 345
       }
     },
     {
@@ -8571,14 +8705,14 @@
       "text": "RT @leononrails: @chrmanning @ziv_ravid @Hellisotherpe10 cs224n taught me more than any tutorial did. queueing this one for the commute",
       "url": "https://x.com/chrmanning/status/2106143595136999531",
       "created_at": "2026-10-02T22:05:37.000Z",
-      "fetched_at": "2026-10-05T16:04:04.738Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
       "author": "Christopher Manning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 298
+        "views": 320
       }
     },
     {
@@ -8588,14 +8722,14 @@
       "text": "RT @AravSrinivas: Your creativity is the limit in terms of what you can have Computer do for you. This is the kind of project that you can…",
       "url": "https://x.com/chrmanning/status/2106139400438755568",
       "created_at": "2026-10-02T21:48:57.000Z",
-      "fetched_at": "2026-10-05T16:04:04.738Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
       "author": "Christopher Manning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 56,
-        "views": 257
+        "retweets": 55,
+        "views": 277
       }
     },
     {
@@ -8605,14 +8739,14 @@
       "text": "RT @Thom_Wolf: Karpathy: disappears from X\n Ben Affleck: alright, gather round, so you'll want to freeze the base weights first, learning r…",
       "url": "https://x.com/chrmanning/status/2106139236789555505",
       "created_at": "2026-10-02T21:48:18.000Z",
-      "fetched_at": "2026-10-05T16:04:04.738Z",
+      "fetched_at": "2026-10-13T16:01:52.144Z",
       "author": "Christopher Manning",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 374,
-        "views": 213
+        "retweets": 375,
+        "views": 232
       }
     },
     {

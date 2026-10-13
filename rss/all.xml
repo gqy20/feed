@@ -24,6 +24,22 @@
       <description><![CDATA[<strong>阿里QwenGyre：超长任务Agent强化学习框架</strong><p>阿里的新论文《QWENGYRE: An Elastic Reinforcement Learning Framework for Training XLong-Horizon Agents》，研究当Agent在能连续工作几小时、调用数百次工具、处理几十万Token时，该怎么用强化学习继续提升能力。 实验结果是：单次Rollout可处理70万Token，在Qwen 3.8 2.4T模型上，仅经过48步训练，NL2RepoBench 通过率就从 52.48% 提升到 58.54%，部分实验的训练效率提升1.85 倍。 它主要解决两个问题： 第一个：Agent越能干，GPU越容易闲着 假设几十个Coding Agent同时开发项目。有的半小时完成，有的跑了四五个小时还没结束。 传统强化学习需要等待慢任务，或者提前将GPU分成推理池和训练池，资源利用率都不理想。 QwenGyre提出Elastic Scheduler（弹性调度器），让GPU根据任务负载，动态切换推理和训练角色。 GPU可以切换，但Agent不需要停下来。 系统通过模型代理和KV Cache迁移，让Agent持续执行任务，底层计算资源则灵活调整。 第二个：Agent执行轨迹越来越复杂 传统强化学习面对的是一条线性轨迹，但今天Agent 会调用 Sub-agent、压缩上下文、反复试错。 一次任务的执行历史，可能已经变成了一棵复杂的树。 QwenGyre 引入了 Trajectory Processor（轨迹处理器），通过TITO记录模型真实的输入输出 Token，再利用轨迹树复用共享上下文，减少重复训练。 它还支持 Partial Scoring。即使 Agent 超时，只要已完成的成果可以被可靠评测，仍然有机会提供训练信号。 最终，每次执行保留5条训练轨迹，就能获得接近完整轨迹的效果，同时节省约25%计算时间。 研究团队还直接使用CC作为Harness，由Qwen模型提供推理能力。 RL框架不需要重新实现复杂的 Agent 执行逻辑，只需要记录真实交互，再根据任务结果训练模型。 如何让模型从 Agent 长时间的真实工作过程中持续学习？未来Agent Harness不只是模型的执行环境，也会成为强化学习的重要组成部分。 #QwenGyre #强化学习#AgentHarness #CodingAgent #大模型 #Transformer</p><img src="https://sns-webpic-qc.xhscdn.com/202610130857/ed955c7511fef86741e5556f4df3b54f/spectrum/1040g0k03267s039n445g5p37m4gk4uihapj998g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/ae293f2414e395412b107e1b8b56bccb/spectrum/1040g0k03267s039n44005p37m4gk4uihdmnqnjg!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/2962ab1b078fe5c3f785a59a3abfcb50/spectrum/1040g0k03267s039n440g5p37m4gk4uih0gmg5r8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/dc6070d1eb380a9b78bc90c644bd0c54/spectrum/1040g0k03267s039n44105p37m4gk4uihrfmbfs8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/8db64a3624a23906e2c2353d9372b70b/spectrum/1040g0k03267s039n441g5p37m4gk4uih2e7s56g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/6af44c891a05fe0d0b815e13b9c25d6b/spectrum/1040g0k03267s039n44205p37m4gk4uih1kfh2r0!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/4784a64d4de85d026cf5e7fd03387376/spectrum/1040g0k03267s039n442g5p37m4gk4uihoqtkg0g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/39be5eef3a8ba51c3795dadadae5724f/spectrum/1040g0k03267s039n44305p37m4gk4uihha652po!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/d1edcd6d0efe039af7d9c76ef03fe08f/spectrum/1040g0k03267s039n443g5p37m4gk4uih93sqh0o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/0df51a01109d3fa07dda8d3db9e81e49/spectrum/1040g0k03267s039n44405p37m4gk4uihjc40huo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/700454207f28239dcd79da4835cf58bd/spectrum/1040g0k03267s039n444g5p37m4gk4uihcac2o1o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/48a42ee53172e674451a628a0c427ec5/spectrum/1040g0k03267s039n44505p37m4gk4uihvlr3d08!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6accfe2e0000000014000502?xsec_token=ABWBnOJdCyCNTxLTc1WT-voIeOdDUDn-tfgJ5U90ZsoPA=&amp;xsec_source=pc_user">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Christopher Manning：RT @finkd: Introducing Muse Wonder, our new family of frontier models …</title>
+      <link>https://x.com/chrmanning/status/2109749450235318290</link>
+      <guid isPermaLink="false">twitter:2109749450235318290</guid>
+      <pubDate>Mon, 12 Oct 2026 20:54:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @finkd: Introducing Muse Wonder, our new family of frontier models with state of the art performance for personal and professional agent…</p><p><a href="https://x.com/chrmanning/status/2109749450235318290">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Christopher Manning：RT @minilek: Mike was my colleague at Berkeley, and he&apos;s been fairly s…</title>
+      <link>https://x.com/chrmanning/status/2109748746640859629</link>
+      <guid isPermaLink="false">twitter:2109748746640859629</guid>
+      <pubDate>Mon, 12 Oct 2026 20:51:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @minilek: Mike was my colleague at Berkeley, and he&apos;s been fairly skeptical of deep learning&apos;s trajectory for years. Most scientists are…</p><p><a href="https://x.com/chrmanning/status/2109748746640859629">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Aravind Srinivas：Every Perplexity Project is a Git repo. We built a Git forge for agents, …</title>
       <link>https://x.com/AravSrinivas/status/2109738344011972893</link>
       <guid isPermaLink="false">twitter:2109738344011972893</guid>
@@ -54,6 +70,14 @@
       <pubDate>Mon, 12 Oct 2026 17:01:58 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @MollySOShea: FYI: Aravind Srinivas (@AravSrinivas) says there’s a 1-person company spending **~$1M/year** on Perplexity<br /><br />“There’s 1 sol…</p><p><a href="https://x.com/AravSrinivas/status/2109691057147724106">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Christopher Manning：It sure looks like LLMs’ models of the world and visual “world models”…</title>
+      <link>https://x.com/chrmanning/status/2109681343382864013</link>
+      <guid isPermaLink="false">twitter:2109681343382864013</guid>
+      <pubDate>Mon, 12 Oct 2026 16:23:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>It sure looks like LLMs’ models of the world and visual “world models” aren’t as different as some people think!</p><p><a href="https://x.com/chrmanning/status/2109681343382864013">原文</a></p>]]></description>
     </item>
     <item>
       <title>Aravind Srinivas：RT @sourceryy: Perplexity CEO Aravind Srinivas (@AravSrinivas) says &quot;curi…</title>
@@ -118,6 +142,14 @@
       <pubDate>Sun, 11 Oct 2026 23:53:00 GMT</pubDate>
       <category>xhs</category>
       <description><![CDATA[<strong>UCB x Sakana：多Agent自监督实现RSI</strong><p>Sakana AI 联合 UC Berkeley 发布新论文《RECURSIVE SELF-IMPROVEMENT THROUGH MULTIAGENT SELF-SUPERVISION》提出了 MASS（Multi-Agent Self-Supervision），探索如何利用多 Agent 的集体智慧，实现模型的递归自我改进（RSI）。 论文的思路是如果一个 AI 不够聪明，那就先让多个 AI 组成团队，再把团队积累的经验训练回模型。 传统的模型自我改进面临一个难题：如果模型已经足够强，甚至连人类专家都很难评价它的答案，那谁来指导它继续进步？ MASS 尝试通过两个循环解决这个问题。 第一个循环：优化 Agent 团队。 让同一个模型分别担任 Executor（执行者）、Optimizer（优化器）和 Evaluator（评价者）。 模型先组织多个 Agent 完成任务，再通过评价反馈，不断调整团队的角色分工、任务指令、信息交接契约和调用顺序，寻找更好的协作方式。 第二个循环：把团队经验训练回模型。 优化后的工作流会产生大量执行轨迹。系统从中筛选高质量样本，通过 SFT 更新模型参数。 最有意思的是，训练时会移除原本显式提供的工作流描述，让模型尝试自己学会如何组织和协调 Agent。 更新后的模型再次参与工作流优化，产生新的训练数据，从而形成递归循环。 实验结果基于 Qwen3.6-27B 进行了两轮迭代：四项开放式研究基准的单位输出 Token 得分达到原来的 1.2～1.6 倍。 第二轮模型相对于基础模型，在保留的科研测试任务上取得 69.9% 的外部评审胜率。 这意味着，多 Agent 协作产生的轨迹，可能比单个 Agent 的长程执行记录包含更有效的训练信号。 模型不仅学会了完成任务，也逐渐学会了任务拆解、委派和协作。即使没有显式提供工作流，训练后的模型也更倾向于主动调用其他 Agent。 AI 先通过团队协作解决更复杂的问题，再从自己的协作经验中学习，最终成为更好的执行者、优化器和评价者。 这或许会成为 RSI 的一条重要研究路线。 #SakanaAI #MASS #MultiAgent #RSI #递归自我改进 #自监督学习 #大模型 #人工智能 #Agent设计</p><img src="https://sns-webpic-qc.xhscdn.com/202610130857/e7eef439fe74782eccaddcf37b79a782/spectrum/1040g0k03266jc7irk60g5p37m4gk4uih135c7k8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/ec69f2c79b7a61e6cb7d44f9d3068d55/spectrum/1040g0k03266jc7djl8005p37m4gk4uih2ddkc2g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/199e0a09b81ceb6a818d9335763b40bd/spectrum/1040g0k03266jc7djl80g5p37m4gk4uihej035ko!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/f197a11faa99c7c78269e220e23fb1c0/spectrum/1040g0k03266jc7djl8105p37m4gk4uihav7eeko!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/66d58e9d0138b6b06e22306df6e773b7/spectrum/1040g0k03266jc7djl81g5p37m4gk4uihfgtu4ug!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/d44197b9e16e5ff03ebce4f1d5ae0138/spectrum/1040g0k03266jc7djl8205p37m4gk4uihmadjk9o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/6a3ce59eadd9525fbeb805327a60e9f0/spectrum/1040g0k03266jc7djl82g5p37m4gk4uihu5qgfvo!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/bd358e52929e9d713d9e45bf6ef3d044/spectrum/1040g0k03266jc7djl8305p37m4gk4uihpdshmg8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/7ab27e8544d6cb9d449c1800c65a41ff/spectrum/1040g0k03266jc7djl83g5p37m4gk4uihnpd11v8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/1e805696febf6223ffc4935ca16d1298/spectrum/1040g0k03266jc7djl8405p37m4gk4uihrdd7k88!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/f18ada3724c03313c8f73a7d5084f36e/spectrum/1040g0k03266jc7djl84g5p37m4gk4uih7q8vcr8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610130857/c0e317a71a8dfca4424735ab43e2b874/spectrum/1040g0k03266jc7djl8505p37m4gk4uih3vg1sqo!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acbb0390000000014001d37?xsec_token=ABHKWR2O7hu0Rvz-wD5wknB22yEHkX2vvzrtMbP8cTdjc=&amp;xsec_source=pc_user">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Christopher Manning：RT @SciFi: Sherpa: Teaching LLMs to Teach Adaptively</title>
+      <link>https://x.com/chrmanning/status/2109424106445897918</link>
+      <guid isPermaLink="false">twitter:2109424106445897918</guid>
+      <pubDate>Sun, 11 Oct 2026 23:21:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @SciFi: Sherpa: Teaching LLMs to Teach Adaptively<br /><br />Weixian Xu, Yanzhe Zhang, Zora Zhiruo Wang, Changyu Chen, Diyi Yang<br />https://t.co/GhnB…</p><p><a href="https://x.com/chrmanning/status/2109424106445897918">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Andrej Karpathy：Dusting off this tweet from April because this gap in shared understanding…</title>
@@ -528,6 +560,14 @@
       <description><![CDATA[<p>“During the beta, composer predictions are included at no additional cost for eligible Pro users”</p><p><a href="https://x.com/btibor91/status/2108629534673125784">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Christopher Manning：RT @maithra_raghu: We’re sharing new results showing that frontier AI …</title>
+      <link>https://x.com/chrmanning/status/2108623637058298183</link>
+      <guid isPermaLink="false">twitter:2108623637058298183</guid>
+      <pubDate>Fri, 09 Oct 2026 18:20:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @maithra_raghu: We’re sharing new results showing that frontier AI models are able to outperform human experts on financial predictions…</p><p><a href="https://x.com/chrmanning/status/2108623637058298183">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Jerry Liu：RT @LoganMarkewich: I think my biggest pet-peeve with AI usage is directly copy-…</title>
       <link>https://x.com/jerryjliu0/status/2108614125614162184</link>
       <guid isPermaLink="false">twitter:2108614125614162184</guid>
@@ -808,6 +848,14 @@
       <description><![CDATA[<p>RT @imaanxsultan: The Agent Economy Gala just maxed out at 400 guests  <br /><br />Here’s a breakdown: <br />- 203 founders ($1B+ raised combined) <br />- 67 f…</p><p><a href="https://x.com/jerryjliu0/status/2108362022593396884">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Christopher Manning：RT @Thom_Wolf: Scientists have sequenced the genomes of thousands of s…</title>
+      <link>https://x.com/chrmanning/status/2108352551951442233</link>
+      <guid isPermaLink="false">twitter:2108352551951442233</guid>
+      <pubDate>Fri, 09 Oct 2026 00:23:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Thom_Wolf: Scientists have sequenced the genomes of thousands of species. But for most of them, nobody knows *where the genes are*<br /><br />Tod…</p><p><a href="https://x.com/chrmanning/status/2108352551951442233">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Jerry Liu：fleet week makes me patriotic af</title>
       <link>https://x.com/jerryjliu0/status/2108352485140332758</link>
       <guid isPermaLink="false">twitter:2108352485140332758</guid>
@@ -1040,6 +1088,14 @@
       <description><![CDATA[<p>RT @imaanxsultan: how do i explain this to a non-tech person https://t.co/NGJiYEyL5f</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108230598179569664/img/T-gcqh5WMohNu05x.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2108240294210891968">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Christopher Manning：Engines by @hone: Exactly what the AI industry needs. A focus on creat…</title>
+      <link>https://x.com/chrmanning/status/2108237049732235723</link>
+      <guid isPermaLink="false">twitter:2108237049732235723</guid>
+      <pubDate>Thu, 08 Oct 2026 16:44:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Engines by @hone: Exactly what the AI industry needs. A focus on creating real business value for customers.<br /><br />I remember @moritz_stephan super fondly as his advisor at Stanford and for his cool research there with @chelseabfinn.<br /><br />Best of luck on this new endeavor!</p><p><a href="https://x.com/chrmanning/status/2108237049732235723">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Aravind Srinivas：Perplexity Decider ranks first on DecisionBench (and lowest cost too)</title>
       <link>https://x.com/AravSrinivas/status/2108236575859753460</link>
       <guid isPermaLink="false">twitter:2108236575859753460</guid>
@@ -1150,62 +1206,6 @@
       <pubDate>Thu, 08 Oct 2026 15:39:49 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>就这么说吧，就冲着他封了我那么多号还不退钱，我对这公司就不可能有好话</p><p><a href="https://x.com/op7418/status/2108220832422228202">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Amjad Masad：RT @databricks: A new @Replit integration with Databricks accelerates the deve…</title>
-      <link>https://x.com/amasad/status/2108220483015774315</link>
-      <guid isPermaLink="false">twitter:2108220483015774315</guid>
-      <pubDate>Thu, 08 Oct 2026 15:38:26 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @databricks: A new @Replit integration with Databricks accelerates the development of business apps and deployment on live, governed ent…</p><p><a href="https://x.com/amasad/status/2108220483015774315">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Simon Willison：Related new project from Microsoft is Quicksand, a Python library that bund…</title>
-      <link>https://x.com/simonw/status/2108218301654749218</link>
-      <guid isPermaLink="false">twitter:2108218301654749218</guid>
-      <pubDate>Thu, 08 Oct 2026 15:29:46 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Related new project from Microsoft is Quicksand, a Python library that bundles QEMU and uses it to run eg an Alpine Linux container - this one is really neat, I&apos;ve tried it on macOS and Windows and Linux: https://t.co/AcYTphiwRN</p><p><a href="https://x.com/simonw/status/2108218301654749218">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Google DeepMind：RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James M…</title>
-      <link>https://x.com/GoogleDeepMind/status/2108216895329497200</link>
-      <guid isPermaLink="false">twitter:2108216895329497200</guid>
-      <pubDate>Thu, 08 Oct 2026 15:24:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, &quot;Bending the Curve of Discovery&quot;.<br /><br />While…</p><p><a href="https://x.com/GoogleDeepMind/status/2108216895329497200">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Simon Willison：New open source cross-platform (Windows, macOS, Linux) sandboxing library f…</title>
-      <link>https://x.com/simonw/status/2108216753604248000</link>
-      <guid isPermaLink="false">twitter:2108216753604248000</guid>
-      <pubDate>Thu, 08 Oct 2026 15:23:37 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>New open source cross-platform (Windows, macOS, Linux) sandboxing library from Microsoft - looks very promising, uses processcontainer/bubblewrap/seatbelt under the hood https://t.co/WMW0AXeBoG</p><p><a href="https://x.com/simonw/status/2108216753604248000">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @osanseviero: Introducing EmbeddingGemma 2, our new open embeddings model …</title>
-      <link>https://x.com/huggingface/status/2108214664844767460</link>
-      <guid isPermaLink="false">twitter:2108214664844767460</guid>
-      <pubDate>Thu, 08 Oct 2026 15:15:19 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @osanseviero: Introducing EmbeddingGemma 2, our new open embeddings model for on-device use cases!<br /><br />👀 Code, image, video, audio, and tex…</p><p><a href="https://x.com/huggingface/status/2108214664844767460">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @lmoroney: Still running OCR over your PDFs before you can search them? Pe…</title>
-      <link>https://x.com/huggingface/status/2108213409430798428</link>
-      <guid isPermaLink="false">twitter:2108213409430798428</guid>
-      <pubDate>Thu, 08 Oct 2026 15:10:20 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @lmoroney: Still running OCR over your PDFs before you can search them? Perplexity&apos;s new open embedding models are built to skip that st…</p><p><a href="https://x.com/huggingface/status/2108213409430798428">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: Is there anything Reachy mini can’t do? https://t.co/eh0…</title>
-      <link>https://x.com/huggingface/status/2108213331106341207</link>
-      <guid isPermaLink="false">twitter:2108213331106341207</guid>
-      <pubDate>Thu, 08 Oct 2026 15:10:01 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: Is there anything Reachy mini can’t do? https://t.co/eh0SdAUmWR</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108212150036541440/img/-U1xnH_NGh04jV8p.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2108213331106341207">原文</a> · 转发</p>]]></description>
     </item>
   </channel>
 </rss>
