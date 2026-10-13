@@ -1,7 +1,217 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-13T16:03:02.577Z",
+  "updated_at": "2026-10-13T20:04:02.339Z",
   "posts": [
+    {
+      "id": "twitter:2110057883740373400",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @jackcheng: Another of my tests, starting with a photo of my toddler’s messy playroom: “Build a fun 3D racing game set in a child's play…",
+      "url": "https://x.com/danshipper/status/2110057883740373400",
+      "created_at": "2026-10-13T17:19:37.000Z",
+      "fetched_at": "2026-10-13T20:03:58.688Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 618
+      }
+    },
+    {
+      "id": "twitter:2110056016872427944",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "gemini 4 argon really struggles on our senior engineer benchmark task\n\ncomes in at 21% far below Sol 6 and even Muse: https://t.co/KrkcNrQ1DG https://t.co/Aj9lskuHFT",
+      "url": "https://x.com/danshipper/status/2110056016872427944",
+      "created_at": "2026-10-13T17:12:12.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 179,
+        "replies": 23,
+        "retweets": 8,
+        "views": 16805
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhso-DWMAAtmD2.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110041871594516951",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "case in point: \nhttps://t.co/qSSY4av6JA",
+      "url": "https://x.com/danshipper/status/2110041871594516951",
+      "created_at": "2026-10-13T16:15:59.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
+        "views": 1297
+      }
+    },
+    {
+      "id": "twitter:2110041552454287437",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @jackcheng: Here’s Gemini 4 Argon (high) at a prompt for a personal project: “Create an accurate, hyper-realistic 3D model in Blender of…",
+      "url": "https://x.com/danshipper/status/2110041552454287437",
+      "created_at": "2026-10-13T16:14:43.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 671
+      }
+    },
+    {
+      "id": "twitter:2110041516320362570",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @hammer_mt: My take after testing Argon 4 over the past week, is that Google is back in the running. It feels like the org was already A…",
+      "url": "https://x.com/danshipper/status/2110041516320362570",
+      "created_at": "2026-10-13T16:14:34.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 620
+      }
+    },
+    {
+      "id": "twitter:2110039608742285596",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @leeknowlton: gemini models have always had surprisingly good teaching and explanation skills. Looking forward to trying this",
+      "url": "https://x.com/danshipper/status/2110039608742285596",
+      "created_at": "2026-10-13T16:07:00.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 708
+      }
+    },
+    {
+      "id": "twitter:2110039595945710045",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @kieranklaassen: Google caught up.\n\nGemini 4 Argon isn't better than the others, but it's with the pack. Things I noticed:\n\n- It's basic…",
+      "url": "https://x.com/danshipper/status/2110039595945710045",
+      "created_at": "2026-10-13T16:06:56.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 608
+      }
+    },
+    {
+      "id": "twitter:2110039417650024592",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "VIBE CHECK: GEMINI 4—GOOGLE IS BACK https://t.co/0kIFnFJoxi",
+      "url": "https://x.com/danshipper/status/2110039417650024592",
+      "created_at": "2026-10-13T16:06:14.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 14,
+        "replies": 2,
+        "retweets": 3,
+        "views": 3465
+      }
+    },
+    {
+      "id": "twitter:2110038834205409332",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "BREAKING: Gemini 4 is OUT and it's SURPRISINGLY GOOD?? \n\nI admit I was ready to trash this model qhen I saw the benchmarks but six of us at @every spent the past week testing it across coding, writing, design, and knowledge work, and were pleasantly surprsied.\n\nIt’s a breakthrough if your company lives in Google’s ecosystem, and a strong option for frontier hoppers as a secondary model for certain tasks. I\n\nHere’s our vibe check:\n\nMy new favorite writing partner. DeepMind hired professional writers with red pens to stamp out AI slop, and it worked. I use it to untangle structure and sharpen metaphors; it also taught me something new tracing in a few of my favorite books. It's got a natural feel for structure and detailed explanations that Astra and Opus lack.\n\nShaky at refactors, fast on greenfield apps. At low effort on a from-scratch build, Gemini 4 built @kieranklaassen a working webcam heart-rate monitor in 35 minutes—matching Claude Opus 5.5’s quality and beating OpenAI’s models on that test. Where it cuts corners is self-verification and existing codebases. In 17 of Kieran’s 38 benchmark runs, it opened and closed its code-review step just 30 milliseconds apart instead of inspecting its changes. And on my Senior Engineer benchmark—refactoring a vibe coded slop codebase—it worked for four hours and 47 minutes and scored just 21% (versus 81% to 85% for GPT-6 Astra, Fable 5.1, Sonnet 5.5, and Opus 5.5). Not great.\n\nA 2026 model trapped in a 2025 harness. Antigravity, Google’s desktop agent app, feels six months to a year behind Claude Code and Codex—lacking cloud environments, SSH, a built-in browser, and smart permission checks (leaving you clicking constant pop-ups or using unrestricted \"Turbo\" mode). \n\nNet Result: I keep ChatGPT and Claude open day to day, and switch to Gemini 4 when I need an editorial partner to structure a tough essay, sharpen a metaphor, or close-read a book. Reach for it for live writing collaboration, fast low-effort prototypes, or steerable UI and dashboard design—ideally via Cursor or the API to skip Antigravity. \n\nWhen a model is good enough to force you to use a bad harness, it tells you something.\n\nState of Play: Google hadn’t shipped a major flagship upgrade since Gemini 3 Pro last November. For teams whose companies live in Google’s ecosystem, the model you can use inside your approved work tools finally belongs with the frontier pack. DeepMind closed the model gap; now Google needs to bring the app around it into 2026.\n\nRead our full vibe check: https://t.co/ZRITq2iFyl",
+      "url": "https://x.com/danshipper/status/2110038834205409332",
+      "created_at": "2026-10-13T16:03:55.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 280,
+        "replies": 47,
+        "retweets": 19,
+        "views": 53998
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110038507402018818/img/29IYQkGZrmsudNUs.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110030560429244461",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @hammer_mt: Testing Muse Wonder Full on my personal benchmark:",
+      "url": "https://x.com/danshipper/status/2110030560429244461",
+      "created_at": "2026-10-13T15:31:02.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 723
+      }
+    },
+    {
+      "id": "twitter:2110013838011564252",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "kicked off wonder full runs on our senior eng bench https://t.co/kTevkUEZCo",
+      "url": "https://x.com/danshipper/status/2110013838011564252",
+      "created_at": "2026-10-13T14:24:35.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 26,
+        "replies": 4,
+        "retweets": 0,
+        "views": 5193
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhGYzqXUAA3Cuw.png"
+      ]
+    },
+    {
+      "id": "twitter:2110009728059482159",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "EXCITED TO ANNOUNCE:\n\ni finally got a win in our Augmented Fantasy League (read: play fantasy football with your agent)\n\n@beckyisj still undefeated, she's obviously using some unreleased super model to be this good https://t.co/3LrgzZIEV1",
+      "url": "https://x.com/danshipper/status/2110009728059482159",
+      "created_at": "2026-10-13T14:08:15.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "retweets": 1,
+        "views": 3331
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhCe4LXYAAKQTM.jpg"
+      ]
+    },
     {
       "id": "xhs:6ace38bb000000001a0265c8",
       "platform": "xhs",
@@ -12,6 +222,41 @@
       "fetched_at": "2026-10-13T16:02:51.974Z",
       "author": "拆解AI",
       "title": "STEPX Neo 发布会"
+    },
+    {
+      "id": "twitter:2110005848890359960",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "we (@ArielleShipper) made the ultimate set of skills for running an automated hiring pipeline in Codex\n\navailable for on the @every github: https://t.co/85SAysNaFy https://t.co/1sg7xLlJGe",
+      "url": "https://x.com/danshipper/status/2110005848890359960",
+      "created_at": "2026-10-13T13:52:51.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 34,
+        "replies": 10,
+        "retweets": 2,
+        "views": 4642
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUg_Bp6WQAAzmLY.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109800647575146906",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "NOTE: this is Muse Wonder Standard. Wonder Full is, inexplicably, not available on the API. Will have a run shortly however",
+      "url": "https://x.com/danshipper/status/2109800647575146906",
+      "created_at": "2026-10-13T00:17:27.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 19,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3098
+      }
     },
     {
       "id": "twitter:2109795898909950247",
@@ -56,6 +301,77 @@
         "https://sns-webpic-qc.xhscdn.com/202610130857/0df51a01109d3fa07dda8d3db9e81e49/spectrum/1040g0k03267s039n44405p37m4gk4uihjc40huo!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610130857/700454207f28239dcd79da4835cf58bd/spectrum/1040g0k03267s039n444g5p37m4gk4uihcac2o1o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610130857/48a42ee53172e674451a628a0c427ec5/spectrum/1040g0k03267s039n44505p37m4gk4uihvlr3d08!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109782686953083311",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @hammer_mt: 👀",
+      "url": "https://x.com/danshipper/status/2109782686953083311",
+      "created_at": "2026-10-12T23:06:05.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 901
+      }
+    },
+    {
+      "id": "twitter:2109778026091209087",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "I used muse wonder to make a video explaining personal benchmarks..\n\nthis is ummm pretty rough\n\ninterestingly all of its videos so far are narrated in an Australian accent. I'll leave interpretation to the reader https://t.co/OULxzZFCxt",
+      "url": "https://x.com/danshipper/status/2109778026091209087",
+      "created_at": "2026-10-12T22:47:33.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 48,
+        "replies": 9,
+        "retweets": 1,
+        "views": 10869
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109777729495191552/img/p8Cb6P_k1jtLlwmc.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109776532503732624",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "and it's back up! still bad https://t.co/TiYMufHUT3",
+      "url": "https://x.com/danshipper/status/2109776532503732624",
+      "created_at": "2026-10-12T22:41:37.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "retweets": 0,
+        "views": 2480
+      }
+    },
+    {
+      "id": "twitter:2109773925291085906",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "disappointing showing for Muse Wonder on our senior engineer benchmark.\n\nit asks the model to rewrite a vibe coded slop codebase from scratch—good measure of its usefulness for real-world engineering\n\nMuse Wonder gets 52%—far behind event GPT-Sol 6.1 at 71%\nhttps://t.co/lyZsVCq2ng",
+      "url": "https://x.com/danshipper/status/2109773925291085906",
+      "created_at": "2026-10-12T22:31:16.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 381,
+        "replies": 64,
+        "retweets": 21,
+        "views": 39167
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUdsMTXXUAA_u5K.jpg"
       ]
     },
     {
@@ -106,6 +422,38 @@
         "replies": 75,
         "retweets": 40,
         "views": 34757
+      }
+    },
+    {
+      "id": "twitter:2109734104463769966",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "taking down my tweet about Muse's performance on our senior engineer benchmark! found a problem in the run, and going to restart it",
+      "url": "https://x.com/danshipper/status/2109734104463769966",
+      "created_at": "2026-10-12T19:53:02.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 109,
+        "replies": 9,
+        "retweets": 1,
+        "views": 14982
+      }
+    },
+    {
+      "id": "twitter:2109712978090287460",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "cracks are appearing in the frontier model duopoly!",
+      "url": "https://x.com/danshipper/status/2109712978090287460",
+      "created_at": "2026-10-12T18:29:05.000Z",
+      "fetched_at": "2026-10-13T20:03:58.689Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 190,
+        "replies": 25,
+        "retweets": 3,
+        "views": 16410
       }
     },
     {
