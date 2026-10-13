@@ -5,8 +5,80 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>AnthropicAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/AnthropicAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 18:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:58:35 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Anthropic：Over the last few months, we’ve made significant progress in reducing the effect…</title>
+      <link>https://x.com/AnthropicAI/status/2109795898909950247</link>
+      <guid isPermaLink="false">twitter:2109795898909950247</guid>
+      <pubDate>Mon, 12 Oct 2026 23:58:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.<br /><br />In this post, we explain how: https://t.co/uWiRSLBuOS</p><p><a href="https://x.com/AnthropicAI/status/2109795898909950247">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’re beginning a process of publishing more frequent reports on model behavior,…</title>
+      <link>https://x.com/AnthropicAI/status/2108680150556737819</link>
+      <guid isPermaLink="false">twitter:2108680150556737819</guid>
+      <pubDate>Fri, 09 Oct 2026 22:04:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re beginning a process of publishing more frequent reports on model behavior, beyond what appears in our system cards and regular risk reports.<br /><br />Today’s report describes four types of behaviors we’ve identified during evaluations and internal use. In each, Claude acted on real websites or systems in ways we didn’t intend, sometimes by working around a restriction instead of stopping. <br /><br />All cases had minimal real-world impact. From an alignment and security perspective, we consider these behaviors significantly less severe than the cybersecurity incidents we reported in July and September.<br /><br />Read the full report: https://t.co/mGeVIBgdou</p><p><a href="https://x.com/AnthropicAI/status/2108680150556737819">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：To secure open-source software, we’re launching OSS Scanner.</title>
+      <link>https://x.com/AnthropicAI/status/2108302543977906649</link>
+      <guid isPermaLink="false">twitter:2108302543977906649</guid>
+      <pubDate>Thu, 08 Oct 2026 21:04:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>To secure open-source software, we’re launching OSS Scanner.<br /><br />We’ll use our frontier models to periodically scan opted-in open-source projects for vulnerabilities, at no cost. Our reports will provide a proof-of-concept, explanation, and suggested fix.<br /><br />https://t.co/UFFrLUd25U</p><p><a href="https://x.com/AnthropicAI/status/2108302543977906649">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：This is part of our broader effort to make the systems we all rely upon more sec…</title>
+      <link>https://x.com/AnthropicAI/status/2108302545953157156</link>
+      <guid isPermaLink="false">twitter:2108302545953157156</guid>
+      <pubDate>Thu, 08 Oct 2026 21:04:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>This is part of our broader effort to make the systems we all rely upon more secure and resilient.<br /><br />That work will take time: the Anthropic Cyber Mission will expand and change as we learn what works, alongside our partners in the public and private sectors.</p><p><a href="https://x.com/AnthropicAI/status/2108302545953157156">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’re launching the Anthropic Cyber Mission, a new effort to secure critical inf…</title>
+      <link>https://x.com/AnthropicAI/status/2108302539498414208</link>
+      <guid isPermaLink="false">twitter:2108302539498414208</guid>
+      <pubDate>Thu, 08 Oct 2026 21:04:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.<br /><br />https://t.co/0tz0ARAEMj</p><p><a href="https://x.com/AnthropicAI/status/2108302539498414208">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：An astrophysicist worked with Claude Science to create the first complete ultrav…</title>
+      <link>https://x.com/AnthropicAI/status/2108290395599667700</link>
+      <guid isPermaLink="false">twitter:2108290395599667700</guid>
+      <pubDate>Thu, 08 Oct 2026 20:16:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>An astrophysicist worked with Claude Science to create the first complete ultraviolet map of the sky. Astronomers have already created complete sky maps from radio to gamma rays. But large regions of the sky have never been observed in UV.<br /><br />In today’s science blog, Brice Ménard explains how he guided Claude to find existing datasets, combine them, and fill in the gaps with statistical inference. The work would have taken humans weeks of work, but, with Claude, just took a few days while Ménard worked on other projects.<br /><br />The resulting map is a useful teaching tool and an example of exactly the sort of slow, low-priority work which scientists never quite get around to, but which AI now makes feasible.<br /><br />Read more: https://t.co/1B3NDPNa13</p><p><a href="https://x.com/AnthropicAI/status/2108290395599667700">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We&apos;re deepening our commitment to scientific research and technological discover…</title>
+      <link>https://x.com/AnthropicAI/status/2108226292235809081</link>
+      <guid isPermaLink="false">twitter:2108226292235809081</guid>
+      <pubDate>Thu, 08 Oct 2026 16:01:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We&apos;re deepening our commitment to scientific research and technological discovery by committing $150 million to the Genesis Mission.<br /><br />We&apos;ll also make Claude and our technical support available to more than 15 federal agencies.<br /><br />https://t.co/MUmQBiC6MF</p><p><a href="https://x.com/AnthropicAI/status/2108226292235809081">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：Claude Haiku 5.5, our latest model:</title>
+      <link>https://x.com/AnthropicAI/status/2107894208547983705</link>
+      <guid isPermaLink="false">twitter:2107894208547983705</guid>
+      <pubDate>Wed, 07 Oct 2026 18:01:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude Haiku 5.5, our latest model:</p><p><a href="https://x.com/AnthropicAI/status/2107894208547983705">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’re expanding our Cyber Verification Program to give security professionals br…</title>
+      <link>https://x.com/AnthropicAI/status/2107546569654636883</link>
+      <guid isPermaLink="false">twitter:2107546569654636883</guid>
+      <pubDate>Tue, 06 Oct 2026 19:00:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re expanding our Cyber Verification Program to give security professionals broader access to our most capable models.<br /><br />Through this program, verified security professionals can access Claude Mythos 5.1, Opus 5.5, and Sonnet 5.5 with safeguards designed for defensive work.<br /><br />We’re also opening up new tiers to allow for authorized offensive work, like penetration testing and red-teaming. <br /><br />https://t.co/blaJtvxhJh</p><p><a href="https://x.com/AnthropicAI/status/2107546569654636883">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Anthropic：In physics, an “impedance mismatch” occurs when two systems each work well but a…</title>
       <link>https://x.com/AnthropicAI/status/2105733864152858919</link>

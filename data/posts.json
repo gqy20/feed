@@ -1,7 +1,293 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-13T00:56:55.577Z",
+  "updated_at": "2026-10-13T09:02:09.642Z",
   "posts": [
+    {
+      "id": "twitter:2109795898909950247",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how: https://t.co/uWiRSLBuOS",
+      "url": "https://x.com/AnthropicAI/status/2109795898909950247",
+      "created_at": "2026-10-12T23:58:35.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 2957,
+        "replies": 357,
+        "retweets": 266,
+        "views": 566404
+      }
+    },
+    {
+      "id": "xhs:6accfe2e0000000014000502",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "阿里的新论文《QWENGYRE: An Elastic Reinforcement Learning Framework for Training XLong-Horizon Agents》，研究当Agent在能连续工作几小时、调用数百次工具、处理几十万Token时，该怎么用强化学习继续提升能力。 实验结果是：单次Rollout可处理70万Token，在Qwen 3.8 2.4T模型上，仅经过48步训练，NL2RepoBench 通过率就从 52.48% 提升到 58.54%，部分实验的训练效率提升1.85 倍。 它主要解决两个问题： 第一个：Agent越能干，GPU越容易闲着 假设几十个Coding Agent同时开发项目。有的半小时完成，有的跑了四五个小时还没结束。 传统强化学习需要等待慢任务，或者提前将GPU分成推理池和训练池，资源利用率都不理想。 QwenGyre提出Elastic Scheduler（弹性调度器），让GPU根据任务负载，动态切换推理和训练角色。 GPU可以切换，但Agent不需要停下来。 系统通过模型代理和KV Cache迁移，让Agent持续执行任务，底层计算资源则灵活调整。 第二个：Agent执行轨迹越来越复杂 传统强化学习面对的是一条线性轨迹，但今天Agent 会调用 Sub-agent、压缩上下文、反复试错。 一次任务的执行历史，可能已经变成了一棵复杂的树。 QwenGyre 引入了 Trajectory Processor（轨迹处理器），通过TITO记录模型真实的输入输出 Token，再利用轨迹树复用共享上下文，减少重复训练。 它还支持 Partial Scoring。即使 Agent 超时，只要已完成的成果可以被可靠评测，仍然有机会提供训练信号。 最终，每次执行保留5条训练轨迹，就能获得接近完整轨迹的效果，同时节省约25%计算时间。 研究团队还直接使用CC作为Harness，由Qwen模型提供推理能力。 RL框架不需要重新实现复杂的 Agent 执行逻辑，只需要记录真实交互，再根据任务结果训练模型。 如何让模型从 Agent 长时间的真实工作过程中持续学习？未来Agent Harness不只是模型的执行环境，也会成为强化学习的重要组成部分。 #QwenGyre #强化学习#AgentHarness #CodingAgent #大模型 #Transformer",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6accfe2e0000000014000502?xsec_token=ABWBnOJdCyCNTxLTc1WT-voIeOdDUDn-tfgJ5U90ZsoPA=&xsec_source=pc_user",
+      "created_at": "2026-10-12T23:47:00.000Z",
+      "fetched_at": "2026-10-13T00:58:39.007Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "阿里QwenGyre：超长任务Agent强化学习框架",
+      "metrics": {
+        "collects": 2,
+        "likes": 2
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610130857/ed955c7511fef86741e5556f4df3b54f/spectrum/1040g0k03267s039n445g5p37m4gk4uihapj998g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/ae293f2414e395412b107e1b8b56bccb/spectrum/1040g0k03267s039n44005p37m4gk4uihdmnqnjg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/2962ab1b078fe5c3f785a59a3abfcb50/spectrum/1040g0k03267s039n440g5p37m4gk4uih0gmg5r8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/dc6070d1eb380a9b78bc90c644bd0c54/spectrum/1040g0k03267s039n44105p37m4gk4uihrfmbfs8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/8db64a3624a23906e2c2353d9372b70b/spectrum/1040g0k03267s039n441g5p37m4gk4uih2e7s56g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/6af44c891a05fe0d0b815e13b9c25d6b/spectrum/1040g0k03267s039n44205p37m4gk4uih1kfh2r0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/4784a64d4de85d026cf5e7fd03387376/spectrum/1040g0k03267s039n442g5p37m4gk4uihoqtkg0g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/39be5eef3a8ba51c3795dadadae5724f/spectrum/1040g0k03267s039n44305p37m4gk4uihha652po!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/d1edcd6d0efe039af7d9c76ef03fe08f/spectrum/1040g0k03267s039n443g5p37m4gk4uih93sqh0o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/0df51a01109d3fa07dda8d3db9e81e49/spectrum/1040g0k03267s039n44405p37m4gk4uihjc40huo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/700454207f28239dcd79da4835cf58bd/spectrum/1040g0k03267s039n444g5p37m4gk4uihcac2o1o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/48a42ee53172e674451a628a0c427ec5/spectrum/1040g0k03267s039n44505p37m4gk4uihvlr3d08!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109738344011972893",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Every Perplexity Project is a Git repo. We built a Git forge for agents, without the GitHub bloat, since no human has to approve anything.\n\nEach agent gets its own short-lived sandbox and commits to a shared repo on S3. Fewer than 2% of submissions collide.\n\nAgents search with plain `ls` and `grep`. That beats semantic search 63% vs 37% on answer accuracy for financial document analysis.",
+      "url": "https://x.com/AravSrinivas/status/2109738344011972893",
+      "created_at": "2026-10-12T20:09:52.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 466,
+        "replies": 75,
+        "retweets": 40,
+        "views": 34757
+      }
+    },
+    {
+      "id": "twitter:2109709489935126752",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Congrats to Meta for training a frontier-grade model! Watermelon compares favorably to Fable 5.1 on WANDR evals.",
+      "url": "https://x.com/AravSrinivas/status/2109709489935126752",
+      "created_at": "2026-10-12T18:15:13.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 953,
+        "replies": 33,
+        "retweets": 34,
+        "views": 64599
+      }
+    },
+    {
+      "id": "twitter:2109708040664760544",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @perplexity_ai: This is how we built the filesystem behind Perplexity Projects as a Git forge for agents.\n\nEach agent works in its own s…",
+      "url": "https://x.com/AravSrinivas/status/2109708040664760544",
+      "created_at": "2026-10-12T18:09:28.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 42,
+        "views": 2134
+      }
+    },
+    {
+      "id": "twitter:2109691057147724106",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @MollySOShea: FYI: Aravind Srinivas (@AravSrinivas) says there’s a 1-person company spending **~$1M/year** on Perplexity\n\n“There’s 1 sol…",
+      "url": "https://x.com/AravSrinivas/status/2109691057147724106",
+      "created_at": "2026-10-12T17:01:58.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 66,
+        "views": 2945
+      }
+    },
+    {
+      "id": "twitter:2109678440148578331",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @sourceryy: Perplexity CEO Aravind Srinivas (@AravSrinivas) says \"curiosity\" is humanity’s last edge against AI:\n\n“You could argue that…",
+      "url": "https://x.com/AravSrinivas/status/2109678440148578331",
+      "created_at": "2026-10-12T16:11:50.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 12,
+        "views": 3097
+      }
+    },
+    {
+      "id": "twitter:2109675767185711555",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @apostraphi: what if you let music take control of motion? https://t.co/we5afT3z7v",
+      "url": "https://x.com/AravSrinivas/status/2109675767185711555",
+      "created_at": "2026-10-12T16:01:13.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 69,
+        "views": 2932
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109653404490539008/img/DmBCtMcToAkxH-yR.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109666949836017732",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Was a fun chat! Thanks for having me @MollySOShea!",
+      "url": "https://x.com/AravSrinivas/status/2109666949836017732",
+      "created_at": "2026-10-12T15:26:11.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 254,
+        "replies": 21,
+        "retweets": 18,
+        "views": 30957
+      }
+    },
+    {
+      "id": "twitter:2109654682021097828",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "\"there’s a chance that a version of Sora is coming back from the dead\"\n\nhttps://t.co/S57c1KDVy7",
+      "url": "https://x.com/btibor91/status/2109654682021097828",
+      "created_at": "2026-10-12T14:37:26.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 106,
+        "replies": 11,
+        "retweets": 3,
+        "views": 7890
+      }
+    },
+    {
+      "id": "xhs:6acc9d98000000001403ac8f",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "最近有个开源项目 REA（Reverse Engineer Anything）开源，顾名思义，就是「逆向分析一切」。 过去我们用 Claude Code、Codex，主要是让 AI 阅读代码、修改代码、执行测试。但如果没有源代码呢？ REA 就是想解决这个问题。它通过 MCP，把 Hopper、Ghidra、IDA 等专业逆向工具接入 AI Agent，让 Agent 能够自主调查软件的内部实现。 比如看到 Notion 的富文本复制功能很不错，就可以让 Agent 分析它的 JavaScript 模块、IPC 通信和调用关系，再尝试实现类似功能。 它能分析的东西支持原生程序、Electron / JavaScript、Web 网站、Android APK：类、方法、资源和调用关系、.NET、固件、EVM 字节码等。 官方还有几个很有意思的案例。 比如逆向一款经典游戏 DX-Ball，研究 Notion 的富文本剪贴板是如何实现的。 那 REA 还能怎么玩？ 比如给童年经典游戏做一次代码考古；研究喜欢的网站为什么交互那么丝滑；分析两个软件版本究竟改了什么；甚至给没有源代码的老软件「续命」。 还有一个更有意思的玩法：用一个 Agent，研究另一个 Agent。 当然，REA 也不是万能的。它无法保证恢复完整源代码，更不可能仅凭客户端就还原云端模型。 另外，我觉得 REA 有个设计特别值得学习：Evidence-first（证据优先）。 Agent 的调查结果会区分观察、推断和未知，并尽可能保留来源证据，避免分析变成一本正经地猜测。 这也是我看好它的地方。 未来的 Coding Agent，可能不仅会写代码，还能借助各种专业工具，主动研究自己不了解的软件，寻找线索、验证假设，再把研究结果转化为实现。 AI 正在从会写软件，逐渐走向会研究软件。 #REA #Codex #AIAgent #逆向工程 #CodingAgent #开源项目 #MCP #AI编程 #AI反常识howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acc9d98000000001403ac8f?xsec_token=ABWBnOJdCyCNTxLTc1WT-voH5bXbmvlZPiUQMH3mqZ8Pk=&xsec_source=pc_user",
+      "created_at": "2026-10-12T09:41:01.000Z",
+      "fetched_at": "2026-10-13T00:58:39.007Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "REA火了：AI学会逆向工程，软件开发怎么办",
+      "metrics": {
+        "collects": 16,
+        "comments": 1,
+        "likes": 15
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610130857/7a09c6d178deaa7008b8e0bbd932d908/spectrum/1040g0k03267gar3a4a4g5p37m4gk4uihpm23t0o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/c29fac136696c0d5033b9cd7a614b57e/spectrum/1040g0k03267gar3a4a005p37m4gk4uihpnce72g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/c74f92e1dfec62313eb351c160178b53/spectrum/1040g0k03267gar3a4a0g5p37m4gk4uih5jm728g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/2b0d003f0ffeff83e0299c89a483d9a8/spectrum/1040g0k03267gar3a4a105p37m4gk4uihs99vs98!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/3ad2b33165f6d880a3ad1a023cf6ff8c/spectrum/1040g0k03267gar3a4a1g5p37m4gk4uiha800k6o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/dde1b8e0b7aed5e7b73fb192aa0829d9/spectrum/1040g0k03267gar3a4a205p37m4gk4uih1rlqgk8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/88f092c0b948ceeb1deaca95fc1fab83/spectrum/1040g0k03267gar3a4a2g5p37m4gk4uih02nvqfg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/fad467d4442ead8cd32bb8502fcb3464/spectrum/1040g0k03267gar3a4a305p37m4gk4uihqjncm1g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/eacc01bcdcca8cad6f4d7a6002949d1b/spectrum/1040g0k03267gar3a4a3g5p37m4gk4uihkgq5ijo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/451c08e318ddfd37ff862f07dd6b5dcf/spectrum/1040g0k03267gar3a4a405p37m4gk4uih35il2vo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/7a09c6d178deaa7008b8e0bbd932d908/spectrum/1040g0k03267gar3a4a4g5p37m4gk4uihpm23t0o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/c29fac136696c0d5033b9cd7a614b57e/spectrum/1040g0k03267gar3a4a005p37m4gk4uihpnce72g!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109574476929150982",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "RT @maxxrubin_: Haven't heard anyone mention this today but you can set ChatGPT to open directly to your Dot!\n\nHuge quality of life improve…",
+      "url": "https://x.com/btibor91/status/2109574476929150982",
+      "created_at": "2026-10-12T09:18:43.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 839
+      }
+    },
+    {
+      "id": "xhs:6acc49260000000014038f90",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "阶跃星辰新出的 Step 5 Preview，我前前后后测了一圈 官方给它的定位，叫往前推一步帕累托前沿 听着挺学术，翻成人话就是，能力差不多的模型里，它想做花钱最少的那个，同样一件活，别家要花 10 块，它想 3、4 块就干完 看到官方材料里给了几个数字。跑同一个任务，它的成本大约是 Claude Opus 5 的八分之一，是 GLM-5.3 和 Kimi K3 的 35% 10 月 8 日上线 OpenRouter，在 12 小时内 Step 5 Preview 就登顶了 Trending 第一。 能力这边，它在 Artificial Analysis 的智能指数上拿了 44 分，官方的说法是全球开源模型前三 便宜这么多，到底能不能干活？ 作为清华一名文科生，我想拿自己日常的开发项目试一试！ #Step5Preview #阶跃星辰 #howto手搓skill #AI异类弗兰克 #ai #vibecoding #step5preview",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6acc49260000000014038f90?xsec_token=ABWBnOJdCyCNTxLTc1WT-voEY4V0mzPc_Rgh-iQFbklII=&xsec_source=pc_user",
+      "created_at": "2026-10-12T02:42:46.000Z",
+      "fetched_at": "2026-10-13T05:04:49.262Z",
+      "author": "AI异类弗兰克",
+      "title": "Coding用Step5Preview，复杂任务效果如何",
+      "metrics": {
+        "collects": 2,
+        "likes": 9
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610131304/5953b7c7c47c09ab4522dacf89535443/spectrum/1040g0k0326762jjmk6305nm6daug8qkatt64fb0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/025c87845d3b9db64503ccaed8301a05/spectrum/1040g0k0326762jf14a005nm6daug8qka6qqead8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/1605df5dbe85c5a04ca9941a9b4fec19/spectrum/1040g0k0326762jf14a0g5nm6daug8qkacomi5og!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/c5c94b7721d42cea6a804f786ec8c94d/spectrum/1040g0k0326762jf14a105nm6daug8qka1eptkb0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/838dc531e91d113abcf729c249871ba8/spectrum/1040g0k0326762jf14a1g5nm6daug8qka2annii8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/f73cea2ca54cac6f95286de409c5520d/spectrum/1040g0k0326762jf14a205nm6daug8qkaltcmju8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/251b4e6dd184f07bcc6e6e1d951c69ec/spectrum/1040g0k0326762jf14a2g5nm6daug8qkaj7p1e28!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/fca7931200b4b5760b69b580492e577a/spectrum/1040g0k0326762jf14a305nm6daug8qkakq8r1hg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/a7086e2b0ee57e3203873275a51f6658/spectrum/1040g0k0326762jf14a3g5nm6daug8qkatdcl4d8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/f68846b2faa0cdb067d9a7b4730f768a/spectrum/1040g0k0326762jf14a405nm6daug8qkag1l97dg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/eb6d14cb0cc5ce06e2d7d672fa9f99e1/spectrum/1040g0k0326762jf14a4g5nm6daug8qka4vbv7vg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610131304/8db43f78f81ca10e5de5e202c397935e/spectrum/1040g0k0326762jf14a505nm6daug8qkackmj0s0!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "xhs:6acbb0390000000014001d37",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "Sakana AI 联合 UC Berkeley 发布新论文《RECURSIVE SELF-IMPROVEMENT THROUGH MULTIAGENT SELF-SUPERVISION》提出了 MASS（Multi-Agent Self-Supervision），探索如何利用多 Agent 的集体智慧，实现模型的递归自我改进（RSI）。 论文的思路是如果一个 AI 不够聪明，那就先让多个 AI 组成团队，再把团队积累的经验训练回模型。 传统的模型自我改进面临一个难题：如果模型已经足够强，甚至连人类专家都很难评价它的答案，那谁来指导它继续进步？ MASS 尝试通过两个循环解决这个问题。 第一个循环：优化 Agent 团队。 让同一个模型分别担任 Executor（执行者）、Optimizer（优化器）和 Evaluator（评价者）。 模型先组织多个 Agent 完成任务，再通过评价反馈，不断调整团队的角色分工、任务指令、信息交接契约和调用顺序，寻找更好的协作方式。 第二个循环：把团队经验训练回模型。 优化后的工作流会产生大量执行轨迹。系统从中筛选高质量样本，通过 SFT 更新模型参数。 最有意思的是，训练时会移除原本显式提供的工作流描述，让模型尝试自己学会如何组织和协调 Agent。 更新后的模型再次参与工作流优化，产生新的训练数据，从而形成递归循环。 实验结果基于 Qwen3.6-27B 进行了两轮迭代：四项开放式研究基准的单位输出 Token 得分达到原来的 1.2～1.6 倍。 第二轮模型相对于基础模型，在保留的科研测试任务上取得 69.9% 的外部评审胜率。 这意味着，多 Agent 协作产生的轨迹，可能比单个 Agent 的长程执行记录包含更有效的训练信号。 模型不仅学会了完成任务，也逐渐学会了任务拆解、委派和协作。即使没有显式提供工作流，训练后的模型也更倾向于主动调用其他 Agent。 AI 先通过团队协作解决更复杂的问题，再从自己的协作经验中学习，最终成为更好的执行者、优化器和评价者。 这或许会成为 RSI 的一条重要研究路线。 #SakanaAI #MASS #MultiAgent #RSI #递归自我改进 #自监督学习 #大模型 #人工智能 #Agent设计",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acbb0390000000014001d37?xsec_token=ABHKWR2O7hu0Rvz-wD5wknB22yEHkX2vvzrtMbP8cTdjc=&xsec_source=pc_user",
+      "created_at": "2026-10-11T23:53:00.000Z",
+      "fetched_at": "2026-10-13T00:58:39.007Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "UCB x Sakana：多Agent自监督实现RSI",
+      "metrics": {
+        "collects": 50,
+        "comments": 2,
+        "likes": 38
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610130857/e7eef439fe74782eccaddcf37b79a782/spectrum/1040g0k03266jc7irk60g5p37m4gk4uih135c7k8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/ec69f2c79b7a61e6cb7d44f9d3068d55/spectrum/1040g0k03266jc7djl8005p37m4gk4uih2ddkc2g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/199e0a09b81ceb6a818d9335763b40bd/spectrum/1040g0k03266jc7djl80g5p37m4gk4uihej035ko!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/f197a11faa99c7c78269e220e23fb1c0/spectrum/1040g0k03266jc7djl8105p37m4gk4uihav7eeko!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/66d58e9d0138b6b06e22306df6e773b7/spectrum/1040g0k03266jc7djl81g5p37m4gk4uihfgtu4ug!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/d44197b9e16e5ff03ebce4f1d5ae0138/spectrum/1040g0k03266jc7djl8205p37m4gk4uihmadjk9o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/6a3ce59eadd9525fbeb805327a60e9f0/spectrum/1040g0k03266jc7djl82g5p37m4gk4uihu5qgfvo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/bd358e52929e9d713d9e45bf6ef3d044/spectrum/1040g0k03266jc7djl8305p37m4gk4uihpdshmg8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/7ab27e8544d6cb9d449c1800c65a41ff/spectrum/1040g0k03266jc7djl83g5p37m4gk4uihnpd11v8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/1e805696febf6223ffc4935ca16d1298/spectrum/1040g0k03266jc7djl8405p37m4gk4uihrdd7k88!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/f18ada3724c03313c8f73a7d5084f36e/spectrum/1040g0k03266jc7djl84g5p37m4gk4uih7q8vcr8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610130857/c0e317a71a8dfca4424735ab43e2b874/spectrum/1040g0k03266jc7djl8505p37m4gk4uih3vg1sqo!nd_dft_wlteh_webp_3"
+      ]
+    },
     {
       "id": "twitter:2109361546505966046",
       "platform": "twitter",
@@ -16,6 +302,40 @@
         "replies": 337,
         "retweets": 542,
         "views": 168818
+      }
+    },
+    {
+      "id": "twitter:2109308431350071474",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @AskPerplexity: Computer can enrich public-domain stories like Shakespeare's plays with illustrations, embedded videos, archival photos,…",
+      "url": "https://x.com/AravSrinivas/status/2109308431350071474",
+      "created_at": "2026-10-11T15:41:33.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 3219
+      }
+    },
+    {
+      "id": "twitter:2109248028326379613",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "RT @Angaisb_: I've always found it funny that OpenAI has the most active employees on here, I've talked to so many of them, yet it's imposs…",
+      "url": "https://x.com/btibor91/status/2109248028326379613",
+      "created_at": "2026-10-11T11:41:32.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 21,
+        "views": 836
       }
     },
     {
@@ -46,6 +366,41 @@
         "https://sns-webpic-qc.xhscdn.com/202610120005/89a9c16ac67fa7ff9bea10baeef19405/spectrum/1040g0k032663gicek44g5p37m4gk4uih12nb85o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610120005/83af662cafcebea6b682a2893229ff65/spectrum/1040g0k032663gicek4005p37m4gk4uihp15mfto!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2109211203847495798",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "OpenAI and Anthropic this week: GPT-6 for all, Haiku 5.5, UV sky map, Cyber Mission (Week 41, 2026)\n\nOpenAI is shipping one Codex and ChatGPT Work improvement a day for 28 days, or a full usage reset on days without one\n\nGPT-6 with Intelligent UI is rolling out to everyone in the ChatGPT Chat tab, Sol for paid plans and Luna for Free and Go\n\nUltrafast mode for GPT-6.1 Sol runs up to 8 times faster than Sol Standard in the API, Codex, and ChatGPT Work\n\nOpenAI's paid API tiers collapse from five to three, and paid ChatGPT plans can now upload audio files for transcripts and summaries\n\nOpenAI will test labeled visual ads during image generation for Free and Go users, starting later this month in the US\n\nThree safety researchers OpenAI let go say they were fired for putting safety first, and OpenAI says they broke its rules on handling sensitive information\n\nAnthropic released Claude Haiku 5.5 at 10 cents per million input tokens for prompts up to 100K, with a 1 million token context window and the first adjustable effort setting on a Haiku model\n\nClaude now works inside Google Docs, Sheets, and Slides as a sidebar add-on that edits in place, in beta on paid plans\n\nClaude Docs, Slides, and Design are out of beta on every plan, including Free\n\nClaude Startups expanded with a free year of Claude Team and 1,000 dollars in API credits, then paused those offers after 21x as many applications in 48 hours as in the previous five months\n\nAnthropic's new Cyber Mission adds a Critical Infrastructure Defense Program and a free opt-in vulnerability scanner for eligible open-source projects\n\nAstrophysicist Brice Ménard built the first complete ultraviolet sky map with Claude Science, inferring roughly a third of the sky never observed in UV, and more",
+      "url": "https://x.com/btibor91/status/2109211203847495798",
+      "created_at": "2026-10-11T09:15:12.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 35,
+        "replies": 12,
+        "retweets": 4,
+        "views": 5601
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109211117906231296/img/VDsxbKu9KNHpUuTz.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109203875945210151",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "https://t.co/974egEpOjf",
+      "url": "https://x.com/btibor91/status/2109203875945210151",
+      "created_at": "2026-10-11T08:46:05.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 10,
+        "replies": 2,
+        "retweets": 1,
+        "views": 9207
+      }
     },
     {
       "id": "twitter:2109174479582564542",
@@ -669,6 +1024,22 @@
       }
     },
     {
+      "id": "twitter:2108680150556737819",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "We’re beginning a process of publishing more frequent reports on model behavior, beyond what appears in our system cards and regular risk reports.\n\nToday’s report describes four types of behaviors we’ve identified during evaluations and internal use. In each, Claude acted on real websites or systems in ways we didn’t intend, sometimes by working around a restriction instead of stopping. \n\nAll cases had minimal real-world impact. From an alignment and security perspective, we consider these behaviors significantly less severe than the cybersecurity incidents we reported in July and September.\n\nRead the full report: https://t.co/mGeVIBgdou",
+      "url": "https://x.com/AnthropicAI/status/2108680150556737819",
+      "created_at": "2026-10-09T22:04:59.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 4501,
+        "replies": 650,
+        "retweets": 434,
+        "views": 1309787
+      }
+    },
+    {
       "id": "twitter:2108671364970447139",
       "platform": "twitter",
       "handle": "soumithchintala",
@@ -755,6 +1126,23 @@
       ]
     },
     {
+      "id": "twitter:2108654408703553769",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "RT @keyanzhang: we made a simple thing, people internally *really* like it, and we hope you like it too\n\nthe little composer that could, fr…",
+      "url": "https://x.com/btibor91/status/2108654408703553769",
+      "created_at": "2026-10-09T20:22:42.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 870
+      }
+    },
+    {
       "id": "twitter:2108649799486447645",
       "platform": "twitter",
       "handle": "StabilityAI",
@@ -785,6 +1173,22 @@
         "replies": 113,
         "retweets": 12,
         "views": 59840
+      }
+    },
+    {
+      "id": "twitter:2108639328716939604",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "https://t.co/35F17HMh5I",
+      "url": "https://x.com/btibor91/status/2108639328716939604",
+      "created_at": "2026-10-09T19:22:47.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 13,
+        "replies": 1,
+        "retweets": 1,
+        "views": 1895
       }
     },
     {
@@ -819,6 +1223,22 @@
         "replies": 0,
         "retweets": 1,
         "views": 219
+      }
+    },
+    {
+      "id": "twitter:2108629534673125784",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "“During the beta, composer predictions are included at no additional cost for eligible Pro users”",
+      "url": "https://x.com/btibor91/status/2108629534673125784",
+      "created_at": "2026-10-09T18:43:52.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 158,
+        "replies": 11,
+        "retweets": 2,
+        "views": 14397
       }
     },
     {
@@ -868,6 +1288,23 @@
         "replies": 140,
         "retweets": 7,
         "views": 54915
+      }
+    },
+    {
+      "id": "twitter:2108607886050124052",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @sanchitmonga22: More cool EVE demos coming every day.\n\n128 questions across a lease and an offer letter, all in a single request per do…",
+      "url": "https://x.com/AravSrinivas/status/2108607886050124052",
+      "created_at": "2026-10-09T17:17:50.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 3346
       }
     },
     {
@@ -958,6 +1395,40 @@
       }
     },
     {
+      "id": "twitter:2108593116701970715",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @perplexitydevs: pplx-decider-v1.1-27b scores the highest on Decision Bench for accuracy, with the lowest cost.\n\nIt reached 94.5% accura…",
+      "url": "https://x.com/AravSrinivas/status/2108593116701970715",
+      "created_at": "2026-10-09T16:19:09.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 25,
+        "views": 3274
+      }
+    },
+    {
+      "id": "twitter:2108586087732097036",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @AskPerplexity: Computer's new website editor lets you queue up requested changes to specific elements on the page.\n\nOnce you submit you…",
+      "url": "https://x.com/AravSrinivas/status/2108586087732097036",
+      "created_at": "2026-10-09T15:51:13.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 3168
+      }
+    },
+    {
       "id": "twitter:2108579846129647963",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -1027,6 +1498,23 @@
       ]
     },
     {
+      "id": "twitter:2108562787756843403",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @TweetsByTBI: How @perplexity_ai’s design team used its own agent platform, Computer, to build the tools behind its identity refresh.\n\nR…",
+      "url": "https://x.com/AravSrinivas/status/2108562787756843403",
+      "created_at": "2026-10-09T14:18:38.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 3370
+      }
+    },
+    {
       "id": "twitter:2108547654083039700",
       "platform": "twitter",
       "handle": "simonw",
@@ -1079,6 +1567,22 @@
       "media": [
         "https://pbs.twimg.com/media/HUMPK6IaYAAjmjC.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108508003775496402",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "It's frightening that models this capable can still make such stupid mistakes, even in auto mode\n\nAnd I'm saying that as someone who still loves using Opus/Fable together with Sol/Astra",
+      "url": "https://x.com/btibor91/status/2108508003775496402",
+      "created_at": "2026-10-09T10:40:56.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 109,
+        "replies": 18,
+        "retweets": 6,
+        "views": 10559
+      }
     },
     {
       "id": "xhs:6ac8b405000000001500eccf",
@@ -1380,6 +1884,23 @@
       }
     },
     {
+      "id": "twitter:2108349175482270175",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @AskPerplexity: Computer created explainer videos for all 722 preprints in OpenAI's mathematical manuscript release, totaling 93 hours o…",
+      "url": "https://x.com/AravSrinivas/status/2108349175482270175",
+      "created_at": "2026-10-09T00:09:49.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 74,
+        "views": 2843
+      }
+    },
+    {
       "id": "twitter:2108347087985480107",
       "platform": "twitter",
       "handle": "simonw",
@@ -1501,6 +2022,54 @@
       ]
     },
     {
+      "id": "twitter:2108302543977906649",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "To secure open-source software, we’re launching OSS Scanner.\n\nWe’ll use our frontier models to periodically scan opted-in open-source projects for vulnerabilities, at no cost. Our reports will provide a proof-of-concept, explanation, and suggested fix.\n\nhttps://t.co/UFFrLUd25U",
+      "url": "https://x.com/AnthropicAI/status/2108302543977906649",
+      "created_at": "2026-10-08T21:04:31.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 2513,
+        "replies": 109,
+        "retweets": 249,
+        "views": 567410
+      }
+    },
+    {
+      "id": "twitter:2108302545953157156",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "This is part of our broader effort to make the systems we all rely upon more secure and resilient.\n\nThat work will take time: the Anthropic Cyber Mission will expand and change as we learn what works, alongside our partners in the public and private sectors.",
+      "url": "https://x.com/AnthropicAI/status/2108302545953157156",
+      "created_at": "2026-10-08T21:04:31.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 317,
+        "replies": 8,
+        "retweets": 5,
+        "views": 72853
+      }
+    },
+    {
+      "id": "twitter:2108302539498414208",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "We’re launching the Anthropic Cyber Mission, a new effort to secure critical infrastructure and open-source software.\n\nhttps://t.co/0tz0ARAEMj",
+      "url": "https://x.com/AnthropicAI/status/2108302539498414208",
+      "created_at": "2026-10-08T21:04:30.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 2642,
+        "replies": 264,
+        "retweets": 287,
+        "views": 311305
+      }
+    },
+    {
       "id": "twitter:2108296444662910980",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1549,6 +2118,22 @@
         "replies": 0,
         "retweets": 22,
         "views": 2171
+      }
+    },
+    {
+      "id": "twitter:2108290395599667700",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "An astrophysicist worked with Claude Science to create the first complete ultraviolet map of the sky. Astronomers have already created complete sky maps from radio to gamma rays. But large regions of the sky have never been observed in UV.\n\nIn today’s science blog, Brice Ménard explains how he guided Claude to find existing datasets, combine them, and fill in the gaps with statistical inference. The work would have taken humans weeks of work, but, with Claude, just took a few days while Ménard worked on other projects.\n\nThe resulting map is a useful teaching tool and an example of exactly the sort of slow, low-priority work which scientists never quite get around to, but which AI now makes feasible.\n\nRead more: https://t.co/1B3NDPNa13",
+      "url": "https://x.com/AnthropicAI/status/2108290395599667700",
+      "created_at": "2026-10-08T20:16:15.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 4686,
+        "replies": 256,
+        "retweets": 510,
+        "views": 633932
       }
     },
     {
@@ -1783,6 +2368,22 @@
       ]
     },
     {
+      "id": "twitter:2108236575859753460",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Perplexity Decider ranks first on DecisionBench (and lowest cost too)",
+      "url": "https://x.com/AravSrinivas/status/2108236575859753460",
+      "created_at": "2026-10-08T16:42:23.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 330,
+        "replies": 45,
+        "retweets": 34,
+        "views": 40025
+      }
+    },
+    {
       "id": "twitter:2108229061529239705",
       "platform": "twitter",
       "handle": "op7418",
@@ -1800,6 +2401,22 @@
       "media": [
         "https://pbs.twimg.com/media/HUHuRrNawAAlgyt.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108226292235809081",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "We're deepening our commitment to scientific research and technological discovery by committing $150 million to the Genesis Mission.\n\nWe'll also make Claude and our technical support available to more than 15 federal agencies.\n\nhttps://t.co/MUmQBiC6MF",
+      "url": "https://x.com/AnthropicAI/status/2108226292235809081",
+      "created_at": "2026-10-08T16:01:31.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 3018,
+        "replies": 233,
+        "retweets": 226,
+        "views": 233232
+      }
     },
     {
       "id": "twitter:2108225596199149849",
@@ -2105,6 +2722,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2108212150036541440/img/-U1xnH_NGh04jV8p.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108211672028704842",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "perplexity’s open weights decision model the best quality and lowest cost for clinical decisions",
+      "url": "https://x.com/AravSrinivas/status/2108211672028704842",
+      "created_at": "2026-10-08T15:03:25.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 353,
+        "replies": 43,
+        "retweets": 27,
+        "views": 33675
+      }
     },
     {
       "id": "twitter:2108209559345205430",
@@ -2842,6 +3475,22 @@
       ]
     },
     {
+      "id": "twitter:2107960494757929146",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Cool demo of Perplexity Decider!",
+      "url": "https://x.com/AravSrinivas/status/2107960494757929146",
+      "created_at": "2026-10-07T22:25:20.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 227,
+        "replies": 19,
+        "retweets": 12,
+        "views": 46766
+      }
+    },
+    {
       "id": "twitter:2107951687587479713",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -2856,6 +3505,40 @@
         "replies": 0,
         "retweets": 11,
         "views": 692
+      }
+    },
+    {
+      "id": "twitter:2107945000701235562",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @OpenRouter: Perplexity Decider v1.1 is now on OpenRouter\n\n@perplexity_ai's open-weights multimodal decision model takes text, JSON, or…",
+      "url": "https://x.com/AravSrinivas/status/2107945000701235562",
+      "created_at": "2026-10-07T21:23:46.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 26,
+        "views": 2774
+      }
+    },
+    {
+      "id": "twitter:2107942941365023150",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @perplexitydevs: pplx-decider-v1.1-27b is now available on OpenRouter.",
+      "url": "https://x.com/AravSrinivas/status/2107942941365023150",
+      "created_at": "2026-10-07T21:15:35.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 2901
       }
     },
     {
@@ -3137,6 +3820,22 @@
       }
     },
     {
+      "id": "twitter:2107924563493621977",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "AI is the work operating system",
+      "url": "https://x.com/AravSrinivas/status/2107924563493621977",
+      "created_at": "2026-10-07T20:02:33.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 220,
+        "replies": 25,
+        "retweets": 9,
+        "views": 38003
+      }
+    },
+    {
       "id": "twitter:2107924408597950702",
       "platform": "twitter",
       "handle": "sama",
@@ -3269,6 +3968,22 @@
         "replies": 0,
         "retweets": 14,
         "views": 688
+      }
+    },
+    {
+      "id": "twitter:2107904455002018089",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "GPT‑6 Instant and Intelligent UI in ChatGPT",
+      "url": "https://x.com/btibor91/status/2107904455002018089",
+      "created_at": "2026-10-07T18:42:39.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 124,
+        "replies": 8,
+        "retweets": 7,
+        "views": 7159
       }
     },
     {
@@ -3519,6 +4234,22 @@
       }
     },
     {
+      "id": "twitter:2107894208547983705",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "Claude Haiku 5.5, our latest model:",
+      "url": "https://x.com/AnthropicAI/status/2107894208547983705",
+      "created_at": "2026-10-07T18:01:56.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 7493,
+        "replies": 286,
+        "retweets": 305,
+        "views": 436492
+      }
+    },
+    {
       "id": "twitter:2107891092762890588",
       "platform": "twitter",
       "handle": "huggingface",
@@ -3569,6 +4300,38 @@
         "replies": 0,
         "retweets": 3,
         "views": 427
+      }
+    },
+    {
+      "id": "twitter:2107873825123971327",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "https://t.co/mpnJFWzjog",
+      "url": "https://x.com/btibor91/status/2107873825123971327",
+      "created_at": "2026-10-07T16:40:56.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 33,
+        "replies": 0,
+        "retweets": 1,
+        "views": 5394
+      }
+    },
+    {
+      "id": "twitter:2107871834205196784",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can use these to index multimodal data with 9B, and query on device with 0.6B. This also enables you to search over PDF pages with no OCR. And scores 92.4% on MADQA, 64% on BrowseComp+. Weights available on @huggingface now.",
+      "url": "https://x.com/AravSrinivas/status/2107871834205196784",
+      "created_at": "2026-10-07T16:33:02.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 858,
+        "replies": 90,
+        "retweets": 82,
+        "views": 53117
       }
     },
     {
@@ -3689,6 +4452,22 @@
         "replies": 0,
         "retweets": 3,
         "views": 447
+      }
+    },
+    {
+      "id": "twitter:2107842595183575127",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "We’re living in incredible times!",
+      "url": "https://x.com/AravSrinivas/status/2107842595183575127",
+      "created_at": "2026-10-07T14:36:51.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 237,
+        "replies": 31,
+        "retweets": 17,
+        "views": 37697
       }
     },
     {
@@ -3889,6 +4668,25 @@
         "retweets": 6,
         "views": 16989
       }
+    },
+    {
+      "id": "twitter:2107765800035873147",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "ChatGPT release notes have been updated with \"Audio uploads in ChatGPT\" for paid ChatGPT subscriptions and workspaces, to create transcripts, summarize recordings and ask questions about their contents (now removed again) https://t.co/yEpe0O5AEx",
+      "url": "https://x.com/btibor91/status/2107765800035873147",
+      "created_at": "2026-10-07T09:31:41.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 303,
+        "replies": 8,
+        "retweets": 18,
+        "views": 15763
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUBJ0k1akAAgVMA.jpg"
+      ]
     },
     {
       "id": "twitter:2107701357054763399",
@@ -4103,6 +4901,23 @@
         "replies": 150,
         "retweets": 218,
         "views": 216438
+      }
+    },
+    {
+      "id": "twitter:2107644723527885244",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @danielywang4: Let Computer in Email schedule meetings for you - it knows your schedule and preferences. \n\nSimple but delightful! https:…",
+      "url": "https://x.com/AravSrinivas/status/2107644723527885244",
+      "created_at": "2026-10-07T01:30:34.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 3295
       }
     },
     {
@@ -4396,6 +5211,38 @@
       }
     },
     {
+      "id": "twitter:2107573198145663233",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Also, Perplexity Decision API pricing was cut by half, now to 2 cents per million input tokens. Enjoy!",
+      "url": "https://x.com/AravSrinivas/status/2107573198145663233",
+      "created_at": "2026-10-06T20:46:21.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 370,
+        "replies": 36,
+        "retweets": 14,
+        "views": 37289
+      }
+    },
+    {
+      "id": "twitter:2107570346459353257",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Engineering Design as a service",
+      "url": "https://x.com/AravSrinivas/status/2107570346459353257",
+      "created_at": "2026-10-06T20:35:02.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 452,
+        "replies": 28,
+        "retweets": 21,
+        "views": 63393
+      }
+    },
+    {
       "id": "twitter:2107567211238088714",
       "platform": "twitter",
       "handle": "JayAlammar",
@@ -4460,6 +5307,22 @@
         "replies": 7,
         "retweets": 12,
         "views": 11904
+      }
+    },
+    {
+      "id": "twitter:2107546569654636883",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "We’re expanding our Cyber Verification Program to give security professionals broader access to our most capable models.\n\nThrough this program, verified security professionals can access Claude Mythos 5.1, Opus 5.5, and Sonnet 5.5 with safeguards designed for defensive work.\n\nWe’re also opening up new tiers to allow for authorized offensive work, like penetration testing and red-teaming. \n\nhttps://t.co/blaJtvxhJh",
+      "url": "https://x.com/AnthropicAI/status/2107546569654636883",
+      "created_at": "2026-10-06T19:00:33.000Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 5818,
+        "replies": 501,
+        "retweets": 625,
+        "views": 1316584
       }
     },
     {
@@ -4687,6 +5550,22 @@
       ]
     },
     {
+      "id": "twitter:2107522748167954442",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Perplexity wins on Hugging Face Decision Index (benchmark for decision models). Our model is open-weights and accessible to all!",
+      "url": "https://x.com/AravSrinivas/status/2107522748167954442",
+      "created_at": "2026-10-06T17:25:53.000Z",
+      "fetched_at": "2026-10-13T09:02:06.231Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 605,
+        "replies": 56,
+        "retweets": 36,
+        "views": 46868
+      }
+    },
+    {
       "id": "twitter:2107521440300032204",
       "platform": "twitter",
       "handle": "huggingface",
@@ -4778,6 +5657,23 @@
       ]
     },
     {
+      "id": "twitter:2107503998140023197",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @AskPerplexity: Computer can build interactive charts to help traders understand options positioning.\n\nUsing QuantWheel data, it charted…",
+      "url": "https://x.com/AravSrinivas/status/2107503998140023197",
+      "created_at": "2026-10-06T16:11:23.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 3185
+      }
+    },
+    {
       "id": "twitter:2107502289652982118",
       "platform": "twitter",
       "handle": "GoogleDeepMind",
@@ -4834,6 +5730,22 @@
       }
     },
     {
+      "id": "twitter:2107490495492743571",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Perplexity Decider is the best decision model",
+      "url": "https://x.com/AravSrinivas/status/2107490495492743571",
+      "created_at": "2026-10-06T15:17:44.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 413,
+        "replies": 38,
+        "retweets": 30,
+        "views": 42229
+      }
+    },
+    {
       "id": "twitter:2107489752349892677",
       "platform": "twitter",
       "handle": "emollick",
@@ -4866,6 +5778,25 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HT9FubFbgAAtrZF.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107477001108078661",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "We got Computer playing StarCraft against Computer, in real time. No pausing. The game keeps running while each agent thinks.\n\nBlue 2 – Red 5\n\nFinal match. Blue builds up safely, reaches 41 Dragoons, and moves out. Red is waiting with High Templar and hits the army with Psionic Storm. Blue hadn’t scouted what Red was building.\n\nComputer assembled the whole setup: an OpenBW-based Brood War runtime on a VPS, a C++ bridge, and four gameplay tools per agent. Each agent receives its own fog-of-war-limited game state. Recording and camera control run separately; the agents aren’t given video input.",
+      "url": "https://x.com/AravSrinivas/status/2107477001108078661",
+      "created_at": "2026-10-06T14:24:06.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 301,
+        "replies": 58,
+        "retweets": 23,
+        "views": 37512
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2107476955432202240/img/ur2agmsey0VW_9E4.jpg"
       ]
     },
     {
@@ -5161,6 +6092,22 @@
       ]
     },
     {
+      "id": "twitter:2107250838553182453",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "A spatial canvas for heavy duty multi-tasking.",
+      "url": "https://x.com/AravSrinivas/status/2107250838553182453",
+      "created_at": "2026-10-05T23:25:25.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 137,
+        "replies": 28,
+        "retweets": 3,
+        "views": 37337
+      }
+    },
+    {
       "id": "twitter:2107248468800733571",
       "platform": "twitter",
       "handle": "emollick",
@@ -5344,6 +6291,40 @@
         "replies": 0,
         "retweets": 73,
         "views": 311
+      }
+    },
+    {
+      "id": "twitter:2107180251663262205",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "RT @axeldelafosse: Pro tip: you can now edit the model and/or reasoning effort of your scheduled tasks directly from the \"Edit task\" modal…",
+      "url": "https://x.com/btibor91/status/2107180251663262205",
+      "created_at": "2026-10-05T18:44:56.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 884
+      }
+    },
+    {
+      "id": "twitter:2107169357638119906",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @AskPerplexity: Computer can build a simple browser game to prototype and test an idea.\n\nUsing Light effort mode, it built this flight s…",
+      "url": "https://x.com/AravSrinivas/status/2107169357638119906",
+      "created_at": "2026-10-05T18:01:38.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 3185
       }
     },
     {
@@ -5569,6 +6550,25 @@
         "retweets": 31,
         "views": 2924
       }
+    },
+    {
+      "id": "twitter:2107127767951388938",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "OpenAI is rolling out text watermarking for the EU AI Act - opt-in for API customers globally for select models starting today, ChatGPT and Codex text in the EU gets an invisible watermark over the coming weeks\n\ntextGrain adds an invisible statistical signal to the model's word choices, matched or beat SynthID for text in OpenAI's tests with no meaningful quality hit and is going open source\n\nhttps://t.co/iuP1YFtNZW",
+      "url": "https://x.com/btibor91/status/2107127767951388938",
+      "created_at": "2026-10-05T15:16:23.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 311,
+        "replies": 47,
+        "retweets": 34,
+        "views": 124030
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT4FiT4asAANWA-.jpg"
+      ]
     },
     {
       "id": "twitter:2107123546002747768",
@@ -5798,6 +6798,25 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2107056681679216640/img/QK4ssTdwOSBK348Y.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2107052193102934220",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "OpenAI is testing a new visual ad format in ChatGPT during image generation, starting later this month in the US\n\nhttps://t.co/Uu0OmBNywM https://t.co/yjx6bnhFP5",
+      "url": "https://x.com/btibor91/status/2107052193102934220",
+      "created_at": "2026-10-05T10:16:04.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 227,
+        "replies": 29,
+        "retweets": 12,
+        "views": 19202
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HT3AzcgbAAAfRR4.jpg"
       ]
     },
     {
@@ -6110,6 +7129,22 @@
       ]
     },
     {
+      "id": "twitter:2106826752169312760",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "You can build custom vertical AI apps inside Computer, eg: guess spatial location of an image with 3D and satellite view.",
+      "url": "https://x.com/AravSrinivas/status/2106826752169312760",
+      "created_at": "2026-10-04T19:20:15.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 346,
+        "replies": 34,
+        "retweets": 24,
+        "views": 39047
+      }
+    },
+    {
       "id": "twitter:2106807635593064619",
       "platform": "twitter",
       "handle": "EMostaque",
@@ -6166,13 +7201,13 @@
       "text": "OpenAI and Anthropic weekly: DevDay 2026, Sonnet 5.5, FTC probe, Australia apology (Week 40, 2026)\n\nOpenAI announced over 20 updates at DevDay 2026, led by dots, always-on agents on GPT-6 Astra with their own cloud computer and browser, rolling out to Pro and Business Premium in eligible markets\n\nGPT-6.1 Sol arrived in the API, ChatGPT Work and Codex at a fifth of Astra's price, but not yet in Chat\n\nThe Ultrafast tier brings up to 8 times faster token generation in Codex, and a new 500 dollar a month Pro 500 plan is the only Pro tier that gets it\n\nOpenAI apologized to Australia after an experimental internal-only model gained unauthorized access to government websites during training, admitting it should have shared preliminary findings sooner and pausing tool-use training for its most capable models\n\nReuters reports the FTC opened a probe into Anthropic, OpenAI and other labs over rogue AI agents\n\nAnthropic launched Claude Sonnet 5.5, the second Claude 5.5 model, at the same price as Sonnet 5 but over 30 percent faster and up to 30 percent cheaper per task, with thinking always on and cyber safeguards that fall back to Sonnet 5 on higher-risk tasks, a first for Sonnet\n\nClaude Code gained mods, small TypeScript functions in plugins that rewrite prompts or swap out built-in features, plus a You should know plugin that flags information you might otherwise miss\n\nAnthropic found Zhipu AI's open-weight GLM-5.3 close to Claude Mythos Preview at building end-to-end cyber exploits but released without meaningful safeguards\n\nAnthropic's robot exposure index finds robots can already do 74 percent of physical tasks in the US but are cost-competitive for just 0.3 percent of all work, and more",
       "url": "https://x.com/btibor91/status/2106719933292073092",
       "created_at": "2026-10-04T12:15:47.000Z",
-      "fetched_at": "2026-10-04T16:04:41.876Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
       "author": "Tibor Blaho",
       "metrics": {
-        "likes": 9,
+        "likes": 11,
         "replies": 2,
-        "retweets": 1,
-        "views": 2905
+        "retweets": 4,
+        "views": 5014
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2106719843651358721/img/n5NtNRSXXGUDKCYd.jpg"
@@ -6185,14 +7220,33 @@
       "text": "https://t.co/wlDblvUooy",
       "url": "https://x.com/btibor91/status/2106705002228011451",
       "created_at": "2026-10-04T11:16:27.000Z",
-      "fetched_at": "2026-10-04T16:04:41.876Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
       "author": "Tibor Blaho",
       "metrics": {
-        "likes": 9,
-        "replies": 5,
+        "likes": 10,
+        "replies": 6,
         "retweets": 0,
-        "views": 5058
+        "views": 8826
       }
+    },
+    {
+      "id": "twitter:2106688463542333795",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Pokémon FireRed’s Elite Four + Champion, cleared in one shot - with decision-making powered by Perplexity’s Decisions API.\n\nThe actual run stats:\n\n592 ms median API response \n987 ms p95 - 96.4% of responses under one second \n$0.028 estimated inference cost, 137 live API calls https://t.co/xM40AY34dv",
+      "url": "https://x.com/AravSrinivas/status/2106688463542333795",
+      "created_at": "2026-10-04T10:10:44.000Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 324,
+        "replies": 60,
+        "retweets": 17,
+        "views": 39688
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2106687547573252096/img/th1tp7XbY-MS5z4H.jpg"
+      ]
     },
     {
       "id": "xhs:6ac1eac0000000001a032d9e",
@@ -6639,13 +7693,13 @@
       "text": "Try “Visualize….” in Computer and ask for whatever you want to learn visually. You will now get an inline viz with rich educative and interactive widgets and animations! Have fun! Best experienced on Standard or High effort.",
       "url": "https://x.com/AravSrinivas/status/2106463779131167189",
       "created_at": "2026-10-03T19:17:55.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-13T09:02:06.232Z",
       "author": "Aravind Srinivas",
       "metrics": {
-        "likes": 539,
-        "replies": 30,
-        "retweets": 37,
-        "views": 43457
+        "likes": 827,
+        "replies": 41,
+        "retweets": 62,
+        "views": 71977
       }
     },
     {
@@ -8945,13 +9999,13 @@
       "text": "In physics, an “impedance mismatch” occurs when two systems each work well but are poorly matched.\n\nIn this Science Blog guest post, Harvard physicist Matthew Schwartz argues that something similar is happening with AI and science. LLMs are capable at many things, but working with them as you would with a human collaborator isn’t currently the best way to elicit their scientific strengths.\n\nTo address this mismatch, Schwartz created a toolkit for exact calculations in quantitative science. Because similar calculations often emerge in very different areas of science, Claude found connections to ecology, population genetics, and a dozen other fields, and Schwartz worked with domain experts to steer it towards interesting questions.\n\nRead more about these projects here: https://t.co/UpgSwMCz7h",
       "url": "https://x.com/AnthropicAI/status/2105733864152858919",
       "created_at": "2026-10-01T18:57:30.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-13T04:59:13.167Z",
       "author": "Anthropic",
       "metrics": {
-        "likes": 3546,
-        "replies": 356,
-        "retweets": 398,
-        "views": 565681
+        "likes": 3723,
+        "replies": 471,
+        "retweets": 422,
+        "views": 668573
       }
     },
     {
@@ -12620,13 +13674,13 @@
       "text": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had the insight that rigorous skills measurements would be important. With recent advances in AI, this is now more true than ever. Workera's technologies for rigorously measuring people's skills in different tasks and job roles are helping many businesses understand where their employees are strong and where there are areas for development. \n\nWith Workera and Pearson combining forces, I'm delighted that under @omarabbosh and Kian's leadership. Workera now has the potential to support an even larger number of people and businesses. Thank you, Kian and the Workera team for having me serve as the company's chairman, for launching Workera out of https://t.co/zpIxRSuky4 and AI Fund, for your friendship over the years, and for your important work advancing assessments.",
       "url": "https://x.com/AndrewYNg/status/2104967263757713432",
       "created_at": "2026-09-29T16:11:18.000Z",
-      "fetched_at": "2026-10-04T07:42:13.865Z",
+      "fetched_at": "2026-10-13T04:59:13.166Z",
       "author": "Andrew Ng",
       "metrics": {
-        "likes": 196,
-        "replies": 59,
-        "retweets": 17,
-        "views": 74912
+        "likes": 234,
+        "replies": 82,
+        "retweets": 20,
+        "views": 89516
       }
     },
     {

@@ -5,8 +5,264 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>AravSrinivas · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/AravSrinivas.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Oct 2026 19:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:09:52 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Aravind Srinivas：Every Perplexity Project is a Git repo. We built a Git forge for agents, …</title>
+      <link>https://x.com/AravSrinivas/status/2109738344011972893</link>
+      <guid isPermaLink="false">twitter:2109738344011972893</guid>
+      <pubDate>Mon, 12 Oct 2026 20:09:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Every Perplexity Project is a Git repo. We built a Git forge for agents, without the GitHub bloat, since no human has to approve anything.<br /><br />Each agent gets its own short-lived sandbox and commits to a shared repo on S3. Fewer than 2% of submissions collide.<br /><br />Agents search with plain `ls` and `grep`. That beats semantic search 63% vs 37% on answer accuracy for financial document analysis.</p><p><a href="https://x.com/AravSrinivas/status/2109738344011972893">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Congrats to Meta for training a frontier-grade model! Watermelon compares…</title>
+      <link>https://x.com/AravSrinivas/status/2109709489935126752</link>
+      <guid isPermaLink="false">twitter:2109709489935126752</guid>
+      <pubDate>Mon, 12 Oct 2026 18:15:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Congrats to Meta for training a frontier-grade model! Watermelon compares favorably to Fable 5.1 on WANDR evals.</p><p><a href="https://x.com/AravSrinivas/status/2109709489935126752">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @perplexity_ai: This is how we built the filesystem behind Perplexity …</title>
+      <link>https://x.com/AravSrinivas/status/2109708040664760544</link>
+      <guid isPermaLink="false">twitter:2109708040664760544</guid>
+      <pubDate>Mon, 12 Oct 2026 18:09:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @perplexity_ai: This is how we built the filesystem behind Perplexity Projects as a Git forge for agents.<br /><br />Each agent works in its own s…</p><p><a href="https://x.com/AravSrinivas/status/2109708040664760544">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @MollySOShea: FYI: Aravind Srinivas (@AravSrinivas) says there’s a 1-p…</title>
+      <link>https://x.com/AravSrinivas/status/2109691057147724106</link>
+      <guid isPermaLink="false">twitter:2109691057147724106</guid>
+      <pubDate>Mon, 12 Oct 2026 17:01:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @MollySOShea: FYI: Aravind Srinivas (@AravSrinivas) says there’s a 1-person company spending **~$1M/year** on Perplexity<br /><br />“There’s 1 sol…</p><p><a href="https://x.com/AravSrinivas/status/2109691057147724106">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @sourceryy: Perplexity CEO Aravind Srinivas (@AravSrinivas) says &quot;curi…</title>
+      <link>https://x.com/AravSrinivas/status/2109678440148578331</link>
+      <guid isPermaLink="false">twitter:2109678440148578331</guid>
+      <pubDate>Mon, 12 Oct 2026 16:11:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sourceryy: Perplexity CEO Aravind Srinivas (@AravSrinivas) says &quot;curiosity&quot; is humanity’s last edge against AI:<br /><br />“You could argue that…</p><p><a href="https://x.com/AravSrinivas/status/2109678440148578331">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @apostraphi: what if you let music take control of motion? https://t.c…</title>
+      <link>https://x.com/AravSrinivas/status/2109675767185711555</link>
+      <guid isPermaLink="false">twitter:2109675767185711555</guid>
+      <pubDate>Mon, 12 Oct 2026 16:01:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @apostraphi: what if you let music take control of motion? https://t.co/we5afT3z7v</p><img src="https://pbs.twimg.com/amplify_video_thumb/2109653404490539008/img/DmBCtMcToAkxH-yR.jpg" loading="lazy" /><p><a href="https://x.com/AravSrinivas/status/2109675767185711555">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Was a fun chat! Thanks for having me @MollySOShea!</title>
+      <link>https://x.com/AravSrinivas/status/2109666949836017732</link>
+      <guid isPermaLink="false">twitter:2109666949836017732</guid>
+      <pubDate>Mon, 12 Oct 2026 15:26:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Was a fun chat! Thanks for having me @MollySOShea!</p><p><a href="https://x.com/AravSrinivas/status/2109666949836017732">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @AskPerplexity: Computer can enrich public-domain stories like Shakesp…</title>
+      <link>https://x.com/AravSrinivas/status/2109308431350071474</link>
+      <guid isPermaLink="false">twitter:2109308431350071474</guid>
+      <pubDate>Sun, 11 Oct 2026 15:41:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AskPerplexity: Computer can enrich public-domain stories like Shakespeare&apos;s plays with illustrations, embedded videos, archival photos,…</p><p><a href="https://x.com/AravSrinivas/status/2109308431350071474">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @sanchitmonga22: More cool EVE demos coming every day.</title>
+      <link>https://x.com/AravSrinivas/status/2108607886050124052</link>
+      <guid isPermaLink="false">twitter:2108607886050124052</guid>
+      <pubDate>Fri, 09 Oct 2026 17:17:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sanchitmonga22: More cool EVE demos coming every day.<br /><br />128 questions across a lease and an offer letter, all in a single request per do…</p><p><a href="https://x.com/AravSrinivas/status/2108607886050124052">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @perplexitydevs: pplx-decider-v1.1-27b scores the highest on Decision …</title>
+      <link>https://x.com/AravSrinivas/status/2108593116701970715</link>
+      <guid isPermaLink="false">twitter:2108593116701970715</guid>
+      <pubDate>Fri, 09 Oct 2026 16:19:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @perplexitydevs: pplx-decider-v1.1-27b scores the highest on Decision Bench for accuracy, with the lowest cost.<br /><br />It reached 94.5% accura…</p><p><a href="https://x.com/AravSrinivas/status/2108593116701970715">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @AskPerplexity: Computer&apos;s new website editor lets you queue up reques…</title>
+      <link>https://x.com/AravSrinivas/status/2108586087732097036</link>
+      <guid isPermaLink="false">twitter:2108586087732097036</guid>
+      <pubDate>Fri, 09 Oct 2026 15:51:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AskPerplexity: Computer&apos;s new website editor lets you queue up requested changes to specific elements on the page.<br /><br />Once you submit you…</p><p><a href="https://x.com/AravSrinivas/status/2108586087732097036">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @TweetsByTBI: How @perplexity_ai’s design team used its own agent plat…</title>
+      <link>https://x.com/AravSrinivas/status/2108562787756843403</link>
+      <guid isPermaLink="false">twitter:2108562787756843403</guid>
+      <pubDate>Fri, 09 Oct 2026 14:18:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @TweetsByTBI: How @perplexity_ai’s design team used its own agent platform, Computer, to build the tools behind its identity refresh.<br /><br />R…</p><p><a href="https://x.com/AravSrinivas/status/2108562787756843403">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @AskPerplexity: Computer created explainer videos for all 722 preprint…</title>
+      <link>https://x.com/AravSrinivas/status/2108349175482270175</link>
+      <guid isPermaLink="false">twitter:2108349175482270175</guid>
+      <pubDate>Fri, 09 Oct 2026 00:09:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AskPerplexity: Computer created explainer videos for all 722 preprints in OpenAI&apos;s mathematical manuscript release, totaling 93 hours o…</p><p><a href="https://x.com/AravSrinivas/status/2108349175482270175">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Perplexity Decider ranks first on DecisionBench (and lowest cost too)</title>
+      <link>https://x.com/AravSrinivas/status/2108236575859753460</link>
+      <guid isPermaLink="false">twitter:2108236575859753460</guid>
+      <pubDate>Thu, 08 Oct 2026 16:42:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Perplexity Decider ranks first on DecisionBench (and lowest cost too)</p><p><a href="https://x.com/AravSrinivas/status/2108236575859753460">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：perplexity’s open weights decision model the best quality and lowest cost…</title>
+      <link>https://x.com/AravSrinivas/status/2108211672028704842</link>
+      <guid isPermaLink="false">twitter:2108211672028704842</guid>
+      <pubDate>Thu, 08 Oct 2026 15:03:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>perplexity’s open weights decision model the best quality and lowest cost for clinical decisions</p><p><a href="https://x.com/AravSrinivas/status/2108211672028704842">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Cool demo of Perplexity Decider!</title>
+      <link>https://x.com/AravSrinivas/status/2107960494757929146</link>
+      <guid isPermaLink="false">twitter:2107960494757929146</guid>
+      <pubDate>Wed, 07 Oct 2026 22:25:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Cool demo of Perplexity Decider!</p><p><a href="https://x.com/AravSrinivas/status/2107960494757929146">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @OpenRouter: Perplexity Decider v1.1 is now on OpenRouter</title>
+      <link>https://x.com/AravSrinivas/status/2107945000701235562</link>
+      <guid isPermaLink="false">twitter:2107945000701235562</guid>
+      <pubDate>Wed, 07 Oct 2026 21:23:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @OpenRouter: Perplexity Decider v1.1 is now on OpenRouter<br /><br />@perplexity_ai&apos;s open-weights multimodal decision model takes text, JSON, or…</p><p><a href="https://x.com/AravSrinivas/status/2107945000701235562">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @perplexitydevs: pplx-decider-v1.1-27b is now available on OpenRouter.</title>
+      <link>https://x.com/AravSrinivas/status/2107942941365023150</link>
+      <guid isPermaLink="false">twitter:2107942941365023150</guid>
+      <pubDate>Wed, 07 Oct 2026 21:15:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @perplexitydevs: pplx-decider-v1.1-27b is now available on OpenRouter.</p><p><a href="https://x.com/AravSrinivas/status/2107942941365023150">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：AI is the work operating system</title>
+      <link>https://x.com/AravSrinivas/status/2107924563493621977</link>
+      <guid isPermaLink="false">twitter:2107924563493621977</guid>
+      <pubDate>Wed, 07 Oct 2026 20:02:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>AI is the work operating system</p><p><a href="https://x.com/AravSrinivas/status/2107924563493621977">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text …</title>
+      <link>https://x.com/AravSrinivas/status/2107871834205196784</link>
+      <guid isPermaLink="false">twitter:2107871834205196784</guid>
+      <pubDate>Wed, 07 Oct 2026 16:33:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can use these to index multimodal data with 9B, and query on device with 0.6B. This also enables you to search over PDF pages with no OCR. And scores 92.4% on MADQA, 64% on BrowseComp+. Weights available on @huggingface now.</p><p><a href="https://x.com/AravSrinivas/status/2107871834205196784">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：We’re living in incredible times!</title>
+      <link>https://x.com/AravSrinivas/status/2107842595183575127</link>
+      <guid isPermaLink="false">twitter:2107842595183575127</guid>
+      <pubDate>Wed, 07 Oct 2026 14:36:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re living in incredible times!</p><p><a href="https://x.com/AravSrinivas/status/2107842595183575127">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @danielywang4: Let Computer in Email schedule meetings for you - it kn…</title>
+      <link>https://x.com/AravSrinivas/status/2107644723527885244</link>
+      <guid isPermaLink="false">twitter:2107644723527885244</guid>
+      <pubDate>Wed, 07 Oct 2026 01:30:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @danielywang4: Let Computer in Email schedule meetings for you - it knows your schedule and preferences. <br /><br />Simple but delightful! https:…</p><p><a href="https://x.com/AravSrinivas/status/2107644723527885244">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Also, Perplexity Decision API pricing was cut by half, now to 2 cents per…</title>
+      <link>https://x.com/AravSrinivas/status/2107573198145663233</link>
+      <guid isPermaLink="false">twitter:2107573198145663233</guid>
+      <pubDate>Tue, 06 Oct 2026 20:46:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Also, Perplexity Decision API pricing was cut by half, now to 2 cents per million input tokens. Enjoy!</p><p><a href="https://x.com/AravSrinivas/status/2107573198145663233">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Engineering Design as a service</title>
+      <link>https://x.com/AravSrinivas/status/2107570346459353257</link>
+      <guid isPermaLink="false">twitter:2107570346459353257</guid>
+      <pubDate>Tue, 06 Oct 2026 20:35:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Engineering Design as a service</p><p><a href="https://x.com/AravSrinivas/status/2107570346459353257">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Perplexity wins on Hugging Face Decision Index (benchmark for decision mo…</title>
+      <link>https://x.com/AravSrinivas/status/2107522748167954442</link>
+      <guid isPermaLink="false">twitter:2107522748167954442</guid>
+      <pubDate>Tue, 06 Oct 2026 17:25:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Perplexity wins on Hugging Face Decision Index (benchmark for decision models). Our model is open-weights and accessible to all!</p><p><a href="https://x.com/AravSrinivas/status/2107522748167954442">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @AskPerplexity: Computer can build interactive charts to help traders …</title>
+      <link>https://x.com/AravSrinivas/status/2107503998140023197</link>
+      <guid isPermaLink="false">twitter:2107503998140023197</guid>
+      <pubDate>Tue, 06 Oct 2026 16:11:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AskPerplexity: Computer can build interactive charts to help traders understand options positioning.<br /><br />Using QuantWheel data, it charted…</p><p><a href="https://x.com/AravSrinivas/status/2107503998140023197">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Perplexity Decider is the best decision model</title>
+      <link>https://x.com/AravSrinivas/status/2107490495492743571</link>
+      <guid isPermaLink="false">twitter:2107490495492743571</guid>
+      <pubDate>Tue, 06 Oct 2026 15:17:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Perplexity Decider is the best decision model</p><p><a href="https://x.com/AravSrinivas/status/2107490495492743571">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：We got Computer playing StarCraft against Computer, in real time. No paus…</title>
+      <link>https://x.com/AravSrinivas/status/2107477001108078661</link>
+      <guid isPermaLink="false">twitter:2107477001108078661</guid>
+      <pubDate>Tue, 06 Oct 2026 14:24:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We got Computer playing StarCraft against Computer, in real time. No pausing. The game keeps running while each agent thinks.<br /><br />Blue 2 – Red 5<br /><br />Final match. Blue builds up safely, reaches 41 Dragoons, and moves out. Red is waiting with High Templar and hits the army with Psionic Storm. Blue hadn’t scouted what Red was building.<br /><br />Computer assembled the whole setup: an OpenBW-based Brood War runtime on a VPS, a C++ bridge, and four gameplay tools per agent. Each agent receives its own fog-of-war-limited game state. Recording and camera control run separately; the agents aren’t given video input.</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107476955432202240/img/ur2agmsey0VW_9E4.jpg" loading="lazy" /><p><a href="https://x.com/AravSrinivas/status/2107477001108078661">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：A spatial canvas for heavy duty multi-tasking.</title>
+      <link>https://x.com/AravSrinivas/status/2107250838553182453</link>
+      <guid isPermaLink="false">twitter:2107250838553182453</guid>
+      <pubDate>Mon, 05 Oct 2026 23:25:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A spatial canvas for heavy duty multi-tasking.</p><p><a href="https://x.com/AravSrinivas/status/2107250838553182453">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：RT @AskPerplexity: Computer can build a simple browser game to prototype …</title>
+      <link>https://x.com/AravSrinivas/status/2107169357638119906</link>
+      <guid isPermaLink="false">twitter:2107169357638119906</guid>
+      <pubDate>Mon, 05 Oct 2026 18:01:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AskPerplexity: Computer can build a simple browser game to prototype and test an idea.<br /><br />Using Light effort mode, it built this flight s…</p><p><a href="https://x.com/AravSrinivas/status/2107169357638119906">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：You can build custom vertical AI apps inside Computer, eg: guess spatial …</title>
+      <link>https://x.com/AravSrinivas/status/2106826752169312760</link>
+      <guid isPermaLink="false">twitter:2106826752169312760</guid>
+      <pubDate>Sun, 04 Oct 2026 19:20:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>You can build custom vertical AI apps inside Computer, eg: guess spatial location of an image with 3D and satellite view.</p><p><a href="https://x.com/AravSrinivas/status/2106826752169312760">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aravind Srinivas：Pokémon FireRed’s Elite Four + Champion, cleared in one shot - with decis…</title>
+      <link>https://x.com/AravSrinivas/status/2106688463542333795</link>
+      <guid isPermaLink="false">twitter:2106688463542333795</guid>
+      <pubDate>Sun, 04 Oct 2026 10:10:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Pokémon FireRed’s Elite Four + Champion, cleared in one shot - with decision-making powered by Perplexity’s Decisions API.<br /><br />The actual run stats:<br /><br />592 ms median API response <br />987 ms p95 - 96.4% of responses under one second <br />$0.028 estimated inference cost, 137 live API calls https://t.co/xM40AY34dv</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106687547573252096/img/th1tp7XbY-MS5z4H.jpg" loading="lazy" /><p><a href="https://x.com/AravSrinivas/status/2106688463542333795">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Aravind Srinivas：Try “Visualize….” in Computer and ask for whatever you want to learn visu…</title>
       <link>https://x.com/AravSrinivas/status/2106463779131167189</link>
