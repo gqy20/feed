@@ -1,7 +1,246 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-13T20:04:02.339Z",
+  "updated_at": "2026-10-14T20:08:56.565Z",
   "posts": [
+    {
+      "id": "twitter:2110398339690999832",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I really don’t understand the point of the AI slopcomments flooding my posts. At least on LinkedIn they are pushing fake expertise to make their posters look good (it doesn’t, but whatever). But what is gained by dozens of anonymous bots making similar replies to posts like this?",
+      "url": "https://x.com/emollick/status/2110398339690999832",
+      "created_at": "2026-10-14T15:52:28.000Z",
+      "fetched_at": "2026-10-14T16:04:26.274Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 20,
+        "replies": 12,
+        "retweets": 0,
+        "views": 2853
+      }
+    },
+    {
+      "id": "twitter:2110393411501244510",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "The first clear sighting of a rogue agent fleet from China using open weights models. Like the OpenAI swarms, the goal was seemingly AIs single-mindedly doing research (apparently mapping the most-used entrances to parks in China). Harbinger of the future https://t.co/4ttrJdeYxn",
+      "url": "https://x.com/emollick/status/2110393411501244510",
+      "created_at": "2026-10-14T15:32:53.000Z",
+      "fetched_at": "2026-10-14T16:04:26.274Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 40,
+        "replies": 31,
+        "retweets": 3,
+        "views": 5687
+      }
+    },
+    {
+      "id": "twitter:2110384777220256200",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "第一次接触",
+      "url": "https://x.com/EMostaque/status/2110384777220256200",
+      "created_at": "2026-10-14T14:58:34.000Z",
+      "fetched_at": "2026-10-14T20:08:54.723Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 242,
+        "replies": 14,
+        "retweets": 11,
+        "views": 26800
+      }
+    },
+    {
+      "id": "twitter:2110381818830823533",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @ethanelasky: We discovered and communicated with a Chinese AI agent fleet. We believe this is the first time that researchers have ever…",
+      "url": "https://x.com/EMostaque/status/2110381818830823533",
+      "created_at": "2026-10-14T14:46:49.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 395,
+        "views": 1615
+      }
+    },
+    {
+      "id": "twitter:2110347370152001901",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @Huberticus_: The prophecy has been fulfilled https://t.co/iKoWiz3e4w",
+      "url": "https://x.com/EMostaque/status/2110347370152001901",
+      "created_at": "2026-10-14T12:29:56.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2876,
+        "views": 1706
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110271259665997824/img/h20rCPDSCsDQ1gpf.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110179213487534366",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Argon is quite different: \"A game about Imminence. Something very big, very strange is happening. A suburb & the arrival of a vast & unknowable presence. Not horror, invoke the feeling of the end of all things coming, inevitably, but also not sad or scary\"  https://t.co/ENKU7CVpYi",
+      "url": "https://x.com/emollick/status/2110179213487534366",
+      "created_at": "2026-10-14T01:21:44.000Z",
+      "fetched_at": "2026-10-14T16:04:26.274Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 317,
+        "replies": 30,
+        "retweets": 11,
+        "views": 26893
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110178931185704960/img/AldsM3TtXHJ990Za.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110177743807586535",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Gemini 4 TikZ unicorn https://t.co/LoMVqLkZjD",
+      "url": "https://x.com/emollick/status/2110177743807586535",
+      "created_at": "2026-10-14T01:15:53.000Z",
+      "fetched_at": "2026-10-14T16:04:26.274Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 172,
+        "replies": 14,
+        "retweets": 6,
+        "views": 13743
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUjbH_TWYAA20c4.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110171841751097852",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Hey, AI give me your best \"Unless it is from X, its just sparkling Y\" style joke\":\n\nGPT-6 Pro: \"Unless it comes from the Stockholm region of Sweden, it’s just sparkling employee engagement.\"\n\nGemini 4 Argon High: \"Unless it comes from the 3:00 AM region of staring at the ceiling, it’s not an existential crisis—it’s just sparkling anxiety.\"\n\nOpus 5.5 Max: \"It’s only cognition if it comes from the Cognac region of France. Otherwise it’s just sparkling autocomplete.\"",
+      "url": "https://x.com/emollick/status/2110171841751097852",
+      "created_at": "2026-10-14T00:52:26.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 902,
+        "replies": 82,
+        "retweets": 17,
+        "views": 73197
+      }
+    },
+    {
+      "id": "twitter:2110165986926072019",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "We will soon see what will be, in effect, a perfectly legal distributed denial of service attack on customer service departments authorized by millions of consumers when it becomes widely known that Muse/Dot/etc can make unlimited requests for old refunds, negotiate deals, etc.",
+      "url": "https://x.com/emollick/status/2110165986926072019",
+      "created_at": "2026-10-14T00:29:10.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 1076,
+        "replies": 180,
+        "retweets": 64,
+        "views": 356904
+      }
+    },
+    {
+      "id": "twitter:2110111039232843957",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @PeterDiamandis: I'm excited to share something I've been working on...\nNeoGenesis Capital is a new fund focused on the intersection of…",
+      "url": "https://x.com/EMostaque/status/2110111039232843957",
+      "created_at": "2026-10-13T20:50:50.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 87,
+        "views": 1688
+      }
+    },
+    {
+      "id": "twitter:2110091019299811395",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @asha_shar: Today we're standing up XBOX LABS (https://t.co/wzXPNnCmI6). Here is the note that I sent to the team:\n\nTeam,\nThe first vide…",
+      "url": "https://x.com/EMostaque/status/2110091019299811395",
+      "created_at": "2026-10-13T19:31:17.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3240,
+        "views": 1935
+      }
+    },
+    {
+      "id": "twitter:2110086482346008803",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @AlexMasmej: Many months in the making, MNX is finally live!\n\nWhether the AI bubble bursts or not, AI is changing our lives forever. I'm…",
+      "url": "https://x.com/EMostaque/status/2110086482346008803",
+      "created_at": "2026-10-13T19:13:15.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 1970
+      }
+    },
+    {
+      "id": "twitter:2110061670047330562",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @packie7b: Google Deepmind (FNV3) CRUSHED the forecast for #Isaias up to 11 days in advance. It picked up some appreciable signal on Sep…",
+      "url": "https://x.com/demishassabis/status/2110061670047330562",
+      "created_at": "2026-10-13T17:34:39.000Z",
+      "fetched_at": "2026-10-14T00:05:25.847Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 424,
+        "views": 5969
+      }
+    },
+    {
+      "id": "twitter:2110060618258497764",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline). It feels quite different than other models.",
+      "url": "https://x.com/emollick/status/2110060618258497764",
+      "created_at": "2026-10-13T17:30:29.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 7254,
+        "replies": 198,
+        "retweets": 217,
+        "views": 400820
+      }
+    },
     {
       "id": "twitter:2110057883740373400",
       "platform": "twitter",
@@ -37,6 +276,74 @@
       "media": [
         "https://pbs.twimg.com/media/HUhso-DWMAAtmD2.jpg"
       ]
+    },
+    {
+      "id": "twitter:2110052931110318464",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "I love lasers (really wanted to work on them as a kid)… especially Argon lasers 😀 reminded me of this scene from one of my fave films: ‘synthesize excited bromide in an argon matrix… but that would be hotter than the sun’ 😂 Val Kilmer was so cool https://t.co/A7BKAJDJhm",
+      "url": "https://x.com/demishassabis/status/2110052931110318464",
+      "created_at": "2026-10-13T16:59:56.000Z",
+      "fetched_at": "2026-10-14T00:05:25.847Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 1127,
+        "replies": 71,
+        "retweets": 58,
+        "views": 131649
+      }
+    },
+    {
+      "id": "twitter:2110052933698019330",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "maybe I should go back and try to build a laser in the lab with the help of Gemini 4 Argon... 🤔",
+      "url": "https://x.com/demishassabis/status/2110052933698019330",
+      "created_at": "2026-10-13T16:59:56.000Z",
+      "fetched_at": "2026-10-14T00:05:25.847Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 164,
+        "replies": 22,
+        "retweets": 6,
+        "views": 13194
+      }
+    },
+    {
+      "id": "twitter:2110052331702124894",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I spent a decent amount of time with Gemini 4 before launch. Overall, Gemini 4 is a big jump over previous Gemini models and it is the first non-OpenAI/Anthropic model to pass the Fable/Mythos/Astra bar. It is also much more pleasant and more agentic then previous Gemini models, without the weird personality issues that you often found in Gemini 3 series models. In fact, a big advantage is that has a very different personality and sense of taste than Claude or Astra, making it a good addition to the AI world. \n\nOn the usefulness side, in some areas it is at least at par with OpenAI and Anthropic (it is quite creative and a good writer), but in others it lags, including at complex multi-agent work. It has a tendency to be too certain about its conclusions and a little lazy, issues not helped by the Antigravity harness not being quite as good as the competition. Still, I expect to see rapid improvements in model abilities using Gemini 4 as a base.\n\nHere is a fun example:  \"create the ultimate brutalist city builder. you should have lots of controls over buildings in ways that are delightful and inuitive to people who just want to play, but are sophisticated and deep for people who know something about architecture. you should be able to play a lot with design and approach. there should be simulation modes and different ways to view or experience the city. make it stunning. i want to host this on netlify in the end\"\n\nAstra Max in Codex: https://t.co/lyalJY4E4g \n5.1 Max in Code: https://t.co/WNt4lA05B6\nArgon in Antigravity: https://t.co/7gUAuCA49J",
+      "url": "https://x.com/emollick/status/2110052331702124894",
+      "created_at": "2026-10-13T16:57:33.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 864,
+        "replies": 95,
+        "retweets": 50,
+        "views": 56921
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhpHHFXQAETvVf.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110048779407642698",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "RT @jamescham: Just had a chance to host a chat with @emollick about his upcoming book, Co-Existence. It is going to be a hit and is full o…",
+      "url": "https://x.com/emollick/status/2110048779407642698",
+      "created_at": "2026-10-13T16:43:26.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 3162
+      }
     },
     {
       "id": "twitter:2110041871594516951",
@@ -87,6 +394,25 @@
         "retweets": 4,
         "views": 620
       }
+    },
+    {
+      "id": "twitter:2110041008100843835",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog: https://t.co/7d3791mRNH",
+      "url": "https://x.com/demishassabis/status/2110041008100843835",
+      "created_at": "2026-10-13T16:12:33.000Z",
+      "fetched_at": "2026-10-14T00:05:25.847Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 3657,
+        "replies": 243,
+        "retweets": 368,
+        "views": 234522
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg"
+      ]
     },
     {
       "id": "twitter:2110039608742285596",
@@ -213,6 +539,26 @@
       ]
     },
     {
+      "id": "twitter:2110008451866710221",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "A worthwhile (and unnerving) reminder from Anthropic that we should be paying attention to AI ability thresholds, not just steady climbs\n\nIn this case, the threshold is the capability needed for a self-replicating AI worm on IoT devices like off-brand TVs https://t.co/RCRTlQC3fG https://t.co/9ZwuNxA5p2",
+      "url": "https://x.com/emollick/status/2110008451866710221",
+      "created_at": "2026-10-13T14:03:11.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 554,
+        "replies": 117,
+        "retweets": 46,
+        "views": 38301
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhBODlXkAAeVg0.jpg",
+        "https://pbs.twimg.com/media/HUhBXf-WgAAlJXg.jpg"
+      ]
+    },
+    {
       "id": "xhs:6ace38bb000000001a0265c8",
       "platform": "xhs",
       "handle": "68502b1a000000001b01a7ba",
@@ -240,6 +586,159 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HUg_Bp6WQAAzmLY.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109999604775387249",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "It is one week until October 20, the day my new book, Co-Existence comes out!\n\nIf you pre-order before then, you get a 10 minute AI voice interview that builds a set of customized prompts, readings &amp; use cases for you based on ideas from the book.\n\nGet it: https://t.co/Ti5jo6l05g",
+      "url": "https://x.com/emollick/status/2109999604775387249",
+      "created_at": "2026-10-13T13:28:02.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 175,
+        "replies": 20,
+        "retweets": 14,
+        "views": 16026
+      }
+    },
+    {
+      "id": "xhs:6ace25650000000018010fe3",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "今年最期待的智能体手机，阶跃STEPX Neo，终于真机发布了！ 先说设计，它是那种很克制的未来复古美学 机械元素和数字界面混在一起，点阵屏、光影、结构感，都刚刚好，看着有趣，但不浮夸 智能体听觉增强系统，体感尤其直观 六个麦克风阵列排布，语音交互很顶：喊一声就有反应，对话自然，声音还有方向感。还有低功耗音频感知芯片和专属算法，小声说、嘈杂环境里，也能语音识别很精准 能耗也很低，Amoo全天候，一直都在场，按一下侧边按钮就可以随时交流了 背屏也巨好玩，能显示通知、状态、小动画，不同使用状态呈现不同的变化，没事就想翻过来戳两下 还有很戳我的是：它和支付宝生态、携程、workbuddy等都打通了 直接说“帮我点杯奶茶”“来份外卖”，它就能接支付宝，选店、下单、支付一条龙，不用在几个App里来回跳 智能体可以直接调服务，点外卖、买东西特别方便，日常工作任务也能得到很好解决 背后，是系统和生态的支持 从底层适配智能体，默认首屏就是Amoo智能体页面，为智能体打造了专属空间，伴随双入口，既符合习惯又很有未来感 全局记忆、意图理解、安全执行，最终实现的效果，很可见又可控，是非常流畅丝滑的个人掌上智能体终端了 和几个业内朋友聊，都比较有惊喜，对于新入口、新交互、新硬件的判断，是有共识的 #阶跃终端 #STEPX #STEPXNeo #STEPXNeo智能体手机发布会 #阶跃星辰 #智能体手机",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6ace25650000000018010fe3?xsec_token=AB9ksgIRVOa7qkpxMIm1Q4OXnBK1NJ3zGxVY2h-wKqSfw=&xsec_source=pc_user",
+      "created_at": "2026-10-13T12:34:45.000Z",
+      "fetched_at": "2026-10-13T20:05:55.527Z",
+      "author": "AI异类弗兰克",
+      "title": "可能是今年最特别的智能体手机：阶跃 STEPX",
+      "metrics": {
+        "collects": 4,
+        "comments": 4,
+        "likes": 14
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610140404/bd36655ff74c46385b7df8410829cf9a/notes_uhdr/1040g3qg326909rn8l01g5nm6daug8qkaubft6so!nd_dft_wgth_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/ded9cd34dfa250b02ce5ef7dbe8e4eaf/notes_uhdr/1040g3qg3268v5fn2kq305nm6daug8qka6o42f58!nd_dft_wlteh_webp_3",
+        "http://sns-webpic-qc.xhscdn.com/202610140404/ded9cd34dfa250b02ce5ef7dbe8e4eaf/notes_uhdr/1040g3qg3268v5fn2kq305nm6daug8qka6o42f58!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/ce4a22a7280b3cc48493fba92e048e26/notes_uhdr/1040g3qg3268v5fn2kq3g5nm6daug8qka2v8c4s8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/07b2efae66b33a6ccef6496735982b4c/notes_uhdr/1040g3qg3268v5fn2kq405nm6daug8qkapugn4sg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/2a058a779f8a246fc21f4f75d9edc6a0/notes_uhdr/1040g3qg3268v5fn2kq4g5nm6daug8qkar9ii00g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/5f3c2b1e0f766eb167f728cbf03a0a56/notes_uhdr/1040g3qg3268v5fn2kq505nm6daug8qkaud88cd0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/40e967b11b0dd6c17f512dfe623a53d5/notes_uhdr/1040g3qg3268v5fn2kq5g5nm6daug8qkavp26iq8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/cc72c33068b3567f5698604e1e2a64b7/notes_uhdr/1040g3qg3268v5fn2kq605nm6daug8qkas211vao!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/b0b1e330c8381736d9861f87ecbae2d6/notes_uhdr/1040g3qg3268v5fn2kq6g5nm6daug8qka4vkmaso!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/fa551b1aff308b1cfc152807025564fd/notes_uhdr/1040g3qg326909rn8l0005nm6daug8qkackm1rq8!nd_dft_wgth_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/eb262ea02b8d61f1d5439f3929484b3b/notes_uhdr/1040g3qg326909rn8l00g5nm6daug8qkao1ugqtg!nd_dft_wgth_webp_3"
+      ]
+    },
+    {
+      "id": "xhs:6ace1c2d000000000a0221ae",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "阶跃STEPX Neo智能体手机发布会@神奇阿宇 让人感慨上海的AI发布会真的已经到了next level 有一说一，阶跃生态这次让人印象很深 和支付宝合作，开发的小产品都可以vibe pay的，还有证书和原创权益保障 让AI开发者们第一天开始就可以拿收益，不让收款成为障碍 #阶跃终端 #STEPX #STEPXNeo #STEPXNeo智能体手机发布会 #阶跃星辰 #智能体手机 #AI异类弗兰克",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6ace1c2d000000000a0221ae?xsec_token=AB9ksgIRVOa7qkpxMIm1Q4ORw9vagaxkLwEGDXI0dbyPg=&xsec_source=pc_user",
+      "created_at": "2026-10-13T11:55:25.000Z",
+      "fetched_at": "2026-10-13T20:05:55.527Z",
+      "author": "AI异类弗兰克",
+      "title": "现在发布会都流行飞着上台吗",
+      "metrics": {
+        "collects": 1,
+        "likes": 15
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610140404/d62ae4061354ebd900f41a27d6980d4b/notes_uhdr/1040g3qg3268v5fn2kq2g5nm6daug8qkavsvbcro!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/fd2d72a275d3b051f6520c05b15af0dd/notes_uhdr/1040g3qg3268v5fn2kq005nm6daug8qkaqckcrfo!nd_dft_wlteh_webp_3",
+        "http://sns-webpic-qc.xhscdn.com/202610140404/fd2d72a275d3b051f6520c05b15af0dd/notes_uhdr/1040g3qg3268v5fn2kq005nm6daug8qkaqckcrfo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/ac0a5a2c0511176e6dafd39a4a57bbbc/notes_uhdr/1040g3qg3268v5fn2kq0g5nm6daug8qkapd1n1cg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/c53ff4fe730e1b1c8a6e1140c685028e/notes_uhdr/1040g3qg3268v5fn2kq105nm6daug8qkaq90v9s8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/78b7672d030895437462e2c4c8c4622d/notes_uhdr/1040g3qg3268v5fn2kq1g5nm6daug8qka3r5v200!nd_dft_wgth_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/7c3a1edf47e23b3764f06a22372186ae/notes_uhdr/1040g3qg3268v5fn2kq205nm6daug8qkave5vavg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/d62ae4061354ebd900f41a27d6980d4b/notes_uhdr/1040g3qg3268v5fn2kq2g5nm6daug8qkavsvbcro!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140404/fd2d72a275d3b051f6520c05b15af0dd/notes_uhdr/1040g3qg3268v5fn2kq005nm6daug8qkaqckcrfo!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109851162518425779",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "GPT-4 was the undisputed best model in the world for a full year and we all debated whether anyone could catch up or if OpenAI had some secret formula that nobody else knew about.\n\nNow there are are 19 AI models that can run on a modern smartphone that are better than GPT-4! https://t.co/dhZhc8DWOL",
+      "url": "https://x.com/emollick/status/2109851162518425779",
+      "created_at": "2026-10-13T03:38:10.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 2323,
+        "replies": 179,
+        "retweets": 172,
+        "views": 103090
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUevspKWsAA9B4D.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109813775377563908",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone &amp; @TheLancet paper!",
+      "url": "https://x.com/demishassabis/status/2109813775377563908",
+      "created_at": "2026-10-13T01:09:37.000Z",
+      "fetched_at": "2026-10-14T00:05:25.847Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 1387,
+        "replies": 89,
+        "retweets": 111,
+        "views": 87084
+      }
+    },
+    {
+      "id": "twitter:2109813624453669319",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @sundarpichai: Today @TheLancet published our AMIE study with @BIDMC_Medicine, the first prospective study of patient-facing conversatio…",
+      "url": "https://x.com/demishassabis/status/2109813624453669319",
+      "created_at": "2026-10-13T01:09:01.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 354,
+        "views": 4941
+      }
+    },
+    {
+      "id": "xhs:6acd82a3000000000100a975",
+      "platform": "xhs",
+      "handle": "6314a2cc0000000012003173",
+      "text": "#ConnectOnion #AI #创业 #投资",
+      "url": "https://www.xiaohongshu.com/user/profile/6314a2cc0000000012003173/6acd82a3000000000100a975?xsec_token=AB-sRs_jsswUhIH3Yi34Q8on_81fFKARYZwujef764fX4=&xsec_source=pc_user",
+      "created_at": "2026-10-13T01:00:19.000Z",
+      "fetched_at": "2026-10-13T20:05:55.527Z",
+      "author": "Aaron",
+      "title": "台积电刚创立时，没人要它的服务",
+      "metrics": {
+        "collects": 4,
+        "likes": 6
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610140405/39da995d3eb4fc6a7b32acae0f6c7cdd/spectrum/1040g0k03268blhjk4c205ookkb64gcbjqlevpn0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/141940b7cf7fab4993bb6e81754bc1b5/spectrum/1040g0k03268blh9q4c005ookkb64gcbjav162ng!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/68f9029515b20cfb3cff19ececfbd2c8/spectrum/1040g0k03268blh9q4c0g5ookkb64gcbjp3c1ql0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/8340e084eeb6658f2a36424080da2f26/spectrum/1040g0k03268blh9q4c105ookkb64gcbjdjfp0ig!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/ac9d45aca9699b9d0be6618d59dfd0f8/spectrum/1040g0k03268blh9q4c1g5ookkb64gcbjb5svctg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/8f048213b5d7fc8b4066ce1b22038973/spectrum/1040g0k03268blh9q4c205ookkb64gcbjsf491kg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/21197b227a435b77c1ba3032c4b77128/spectrum/1040g0k03268blh9q4c2g5ookkb64gcbj6g2mmf8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/52a66b3e61d4951a9b03a4bdcb84f6fc/spectrum/1040g0k03268blh9q4c305ookkb64gcbj04v4hh8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/623e4457885f50e38132f7f74c0ffb9c/spectrum/1040g0k03268blh9q4c3g5ookkb64gcbj644d3a0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/6470ba145362d3c750f5e50f2e6f7048/spectrum/1040g0k03268blh9q4c405ookkb64gcbjlrb9od0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/65451041ebad433b813dff9191a6bb07/spectrum/1040g0k03268blh9q4c4g5ookkb64gcbj3bsu8rg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/847733faf29ba5ab502eea3cc4825b1b/spectrum/1040g0k03268blh9q4c505ookkb64gcbjkj5ofqo!nd_dft_wlteh_webp_3"
       ]
     },
     {
@@ -302,6 +801,57 @@
         "https://sns-webpic-qc.xhscdn.com/202610130857/700454207f28239dcd79da4835cf58bd/spectrum/1040g0k03267s039n444g5p37m4gk4uihcac2o1o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610130857/48a42ee53172e674451a628a0c427ec5/spectrum/1040g0k03267s039n44505p37m4gk4uihvlr3d08!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2109789779973787916",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "Tempted to do a bonded curve for our next round\n\nPrice SAFEs on a curve \n\nWhen you buy however much it moves up the price for next buyer as average along the curve\n\nAlways open to investment for those approved\n\nNo pro rata needed to up your stake",
+      "url": "https://x.com/EMostaque/status/2109789779973787916",
+      "created_at": "2026-10-12T23:34:16.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 20,
+        "replies": 7,
+        "retweets": 1,
+        "views": 10821
+      }
+    },
+    {
+      "id": "twitter:2109789058587377683",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "My AI agent doing proactive customer service: Someone emailed me that, after subscribing to my Substack, they were automatically signed up for others (which shouldn't happen)\n\nWithout my asking, my Dot ran its own test &amp; figured out what happened by trying to replicate the error. https://t.co/B1eWYdz0eH",
+      "url": "https://x.com/emollick/status/2109789058587377683",
+      "created_at": "2026-10-12T23:31:24.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 164,
+        "replies": 99,
+        "retweets": 4,
+        "views": 21777
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUd5MPAbUAAQ-Aj.png"
+      ]
+    },
+    {
+      "id": "twitter:2109783789425799272",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "People take the Artificial Analysis Index and its individual scores way too seriously.",
+      "url": "https://x.com/emollick/status/2109783789425799272",
+      "created_at": "2026-10-12T23:10:27.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 517,
+        "replies": 63,
+        "retweets": 20,
+        "views": 28442
+      }
     },
     {
       "id": "twitter:2109782686953083311",
@@ -375,6 +925,38 @@
       ]
     },
     {
+      "id": "twitter:2109759969419837931",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Plenty of reasons you still might want to use your own ensemble of models, but I don’t know if it will be for cost reasons.",
+      "url": "https://x.com/emollick/status/2109759969419837931",
+      "created_at": "2026-10-12T21:35:48.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 24,
+        "replies": 7,
+        "retweets": 0,
+        "views": 7261
+      }
+    },
+    {
+      "id": "twitter:2109755776202137686",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Yes, and there is a case to be made that OpenAI and Anthropic will do the best job of figuring out how to optimize AI cost/intelligence with combinations of agents of different ability levels that have been specifically trained to work well together in their own harnesses.",
+      "url": "https://x.com/emollick/status/2109755776202137686",
+      "created_at": "2026-10-12T21:19:09.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 365,
+        "replies": 61,
+        "retweets": 20,
+        "views": 25908
+      }
+    },
+    {
       "id": "twitter:2109749450235318290",
       "platform": "twitter",
       "handle": "chrmanning",
@@ -439,6 +1021,41 @@
         "retweets": 1,
         "views": 14982
       }
+    },
+    {
+      "id": "twitter:2109717759915606115",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "The step change in game x AI capability in the last few weeks is the biggest ever\n\nWill be a huge change in the coming year\n\nBest games will still be made by passionate teams ofc",
+      "url": "https://x.com/EMostaque/status/2109717759915606115",
+      "created_at": "2026-10-12T18:48:05.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 221,
+        "replies": 18,
+        "retweets": 9,
+        "views": 21105
+      }
+    },
+    {
+      "id": "twitter:2109714218014667039",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Had some early access to Muse Wonder, but did not get a chance to use it a ton, yet it seems like a good model from limited test\n\nPerhaps more impressive, compare the progress since April in my drowned neogothic city twigl shader test. Very fast progress from Meta in a short time https://t.co/NEYTWgE2ul",
+      "url": "https://x.com/emollick/status/2109714218014667039",
+      "created_at": "2026-10-12T18:34:00.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 295,
+        "replies": 31,
+        "retweets": 15,
+        "views": 52591
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109712973229080576/img/DJO8PYjT-1A-gtfc.jpg"
+      ]
     },
     {
       "id": "twitter:2109712978090287460",
@@ -507,6 +1124,22 @@
       }
     },
     {
+      "id": "twitter:2109683365045739888",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "If you haven’t made sure to turn on two-factor authentication on all accounts, have passwords with family in case you get voice calls asking for money, etc, now would be a good time.\n\nAI gains mean the costs of mass targeting individuals with sophisticated attacks are dropping.",
+      "url": "https://x.com/emollick/status/2109683365045739888",
+      "created_at": "2026-10-12T16:31:24.000Z",
+      "fetched_at": "2026-10-14T16:04:26.275Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 979,
+        "replies": 95,
+        "retweets": 83,
+        "views": 67397
+      }
+    },
+    {
       "id": "twitter:2109681343382864013",
       "platform": "twitter",
       "handle": "chrmanning",
@@ -558,6 +1191,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2109653404490539008/img/DmBCtMcToAkxH-yR.jpg"
       ]
+    },
+    {
+      "id": "twitter:2109668563485376582",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "Hit the usage limit on my @bot @grok heavy account a couple of days before end of week despite offloading to cursor, devin, claude, codex (!) for anything that required thinking.\n\nI think having dashboards/visualisations of where quotas go needs to be standard, codex good here",
+      "url": "https://x.com/EMostaque/status/2109668563485376582",
+      "created_at": "2026-10-12T15:32:35.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 1034,
+        "replies": 124,
+        "retweets": 24,
+        "views": 406909
+      }
     },
     {
       "id": "twitter:2109666949836017732",
@@ -622,6 +1271,23 @@
       ]
     },
     {
+      "id": "twitter:2109578472678977712",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @gandamu_ml: Opus 5.5 helped me populate all buildings with interiors in all three cities.\nNow takes 246KB total (including the 'music')…",
+      "url": "https://x.com/EMostaque/status/2109578472678977712",
+      "created_at": "2026-10-12T09:34:36.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 2195
+      }
+    },
+    {
       "id": "twitter:2109574476929150982",
       "platform": "twitter",
       "handle": "btibor91",
@@ -637,6 +1303,36 @@
         "retweets": 10,
         "views": 839
       }
+    },
+    {
+      "id": "xhs:6acc4c160000000014031d47",
+      "platform": "xhs",
+      "handle": "6314a2cc0000000012003173",
+      "text": "#ConnectOnion #AI #创业 #投资",
+      "url": "https://www.xiaohongshu.com/user/profile/6314a2cc0000000012003173/6acc4c160000000014031d47?xsec_token=ABWBnOJdCyCNTxLTc1WT-voADpHVTY5MUVY2uExbbNPJY=&xsec_source=pc_user",
+      "created_at": "2026-10-12T02:55:18.000Z",
+      "fetched_at": "2026-10-13T20:05:55.527Z",
+      "author": "Aaron",
+      "title": "教会Meta抠图的，是130个肯尼亚人",
+      "metrics": {
+        "collects": 7,
+        "comments": 1,
+        "likes": 2
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610140405/aedac9668bf4d93bfb6e07d4cea7fb36/spectrum/1040g0k032676d8vgl8605ookkb64gcbjgp0jl6o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/39d62bbbf940ebfd494c028fc3ce2b92/spectrum/1040g0k032676d8l046005ookkb64gcbjhsb3eb0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/df8e287c91326a8304dd9c28c4cade51/spectrum/1040g0k032676d8l0460g5ookkb64gcbj9ekc188!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/96fcd8766f3667126da7f4833782f699/spectrum/1040g0k032676d8l046105ookkb64gcbjhkg8slg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/f0990c0c30031c9b29d4fc6bafb8f810/spectrum/1040g0k032676d8l0461g5ookkb64gcbjam7nc6g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/654f233f8bde58b01048aa21bd862ec1/spectrum/1040g0k032676d8l046205ookkb64gcbj8n3gf30!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/decd0f372c17c32e9f658a1ff218c778/spectrum/1040g0k032676d8l0462g5ookkb64gcbj13pqthg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/01e7bb9684c6adc010c9eade194ed777/spectrum/1040g0k032676d8l046305ookkb64gcbjgnue4o8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/5c1f42f8466d702f73a5d13c858a320b/spectrum/1040g0k032676d8l0463g5ookkb64gcbjta2fon0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/bf52e1de0079834ff03d9cd9bd918d60/spectrum/1040g0k032676d8l046405ookkb64gcbj2st84ng!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/adb9a83cc38c4a2acd8503500e49d95f/spectrum/1040g0k032676d8l0464g5ookkb64gcbjmsla7l8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610140405/91363fda0ed5bfedf73972d048c8fb1f/spectrum/1040g0k032676d8l046505ookkb64gcbj29ut5ug!nd_dft_wlteh_webp_3"
+      ]
     },
     {
       "id": "xhs:6acc49260000000014038f90",
@@ -712,6 +1408,22 @@
         "replies": 0,
         "retweets": 1,
         "views": 337
+      }
+    },
+    {
+      "id": "twitter:2109385364343497097",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "Impressive by @river_ai_inc to beat @deepseek_ai rates - cache in particular is tough!\n\nTalented team there, full RL + inference stack should be real competition",
+      "url": "https://x.com/EMostaque/status/2109385364343497097",
+      "created_at": "2026-10-11T20:47:16.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 112,
+        "replies": 9,
+        "retweets": 5,
+        "views": 16258
       }
     },
     {
@@ -1466,6 +2178,23 @@
       }
     },
     {
+      "id": "twitter:2108679098122072343",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @a16z: Call center jobs grew ~4% annually for 15 years\n\nNow they’re shrinking 4% annually\n\nCharts of the Week: https://t.co/6UOlZZPpiE h…",
+      "url": "https://x.com/EMostaque/status/2108679098122072343",
+      "created_at": "2026-10-09T22:00:49.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 576,
+        "views": 1926
+      }
+    },
+    {
       "id": "twitter:2108671364970447139",
       "platform": "twitter",
       "handle": "soumithchintala",
@@ -1906,6 +2635,23 @@
       }
     },
     {
+      "id": "twitter:2108572206188069086",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @ii_posts: A 30M-parameter model, on CPUs, inside Postgres\n\nIt matches a 0.6B dense embedding model on top-100 recall, to within 0.004,…",
+      "url": "https://x.com/EMostaque/status/2108572206188069086",
+      "created_at": "2026-10-09T14:56:03.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 58,
+        "views": 1961
+      }
+    },
+    {
       "id": "twitter:2108566650350170411",
       "platform": "twitter",
       "handle": "op7418",
@@ -2106,6 +2852,22 @@
       }
     },
     {
+      "id": "twitter:2108449342508212452",
+      "platform": "twitter",
+      "handle": "drfeifei",
+      "text": "Every one of my mathematician friend sees beauty in the numbers, shapes and the natural phenomena they work with. Who defines beauty in the age of machines?🤔",
+      "url": "https://x.com/drfeifei/status/2108449342508212452",
+      "created_at": "2026-10-09T06:47:51.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Fei-Fei Li",
+      "metrics": {
+        "likes": 1446,
+        "replies": 230,
+        "retweets": 104,
+        "views": 131157
+      }
+    },
+    {
       "id": "twitter:2108436834418373099",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -2139,6 +2901,23 @@
       "media": [
         "https://pbs.twimg.com/media/HUKmklUbwAAt33a.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108423812148609051",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @jueseph: Introducing AlphaProtein Novo, a pipeline for de novo enzyme design! In collaboration with @francesarnold's group, we develope…",
+      "url": "https://x.com/demishassabis/status/2108423812148609051",
+      "created_at": "2026-10-09T05:06:24.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 181,
+        "views": 8237
+      }
     },
     {
       "id": "xhs:6ac85b4e0000000018005084",
@@ -2276,6 +3055,23 @@
       "media": [
         "https://pbs.twimg.com/media/HUJ0zZXawAAbmpN.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108373961222569999",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, \"Bending the Curve of Discovery\".\n\nWhile…",
+      "url": "https://x.com/demishassabis/status/2108373961222569999",
+      "created_at": "2026-10-09T01:48:18.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 79,
+        "views": 7566
+      }
     },
     {
       "id": "twitter:2108362528753643958",
@@ -2445,6 +3241,39 @@
       ]
     },
     {
+      "id": "twitter:2108331042083872882",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "Excited to support the Genesis Mission @WhiteHouse @ENERGY and Director @mkratsios47 with $150M in investments this week. Looking forward to collaborating on the future of science!",
+      "url": "https://x.com/demishassabis/status/2108331042083872882",
+      "created_at": "2026-10-08T22:57:45.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 819,
+        "replies": 141,
+        "retweets": 49,
+        "views": 85389
+      }
+    },
+    {
+      "id": "twitter:2108330488767091042",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @ThomasOrTK: Today at Google Cloud’s Gemini at Work event, we announced Gemini, a new single universal agent for work that has all of yo…",
+      "url": "https://x.com/demishassabis/status/2108330488767091042",
+      "created_at": "2026-10-08T22:55:34.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 340,
+        "views": 6746
+      }
+    },
+    {
       "id": "twitter:2108327656035090441",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -2460,6 +3289,25 @@
         "retweets": 1,
         "views": 370
       }
+    },
+    {
+      "id": "twitter:2108323073007210753",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "AI-free caucus members should call themselves mentalmathicians https://t.co/i4mblSxjlu",
+      "url": "https://x.com/EMostaque/status/2108323073007210753",
+      "created_at": "2026-10-08T22:26:06.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 37,
+        "replies": 15,
+        "retweets": 3,
+        "views": 11455
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUJEqIzWAAA2Mqd.jpg"
+      ]
     },
     {
       "id": "twitter:2108312246745280602",
@@ -2527,6 +3375,23 @@
         "replies": 264,
         "retweets": 287,
         "views": 311305
+      }
+    },
+    {
+      "id": "twitter:2108297986165866592",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @speridlabs: Meet Iris-3B: a pixel-space T2I model and general vision learner that generates every pixel directly. No VAE.\n\nPre-trained…",
+      "url": "https://x.com/EMostaque/status/2108297986165866592",
+      "created_at": "2026-10-08T20:46:24.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 159,
+        "views": 2077
       }
     },
     {
@@ -2614,6 +3479,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2108278099779452928/img/rxD12G1R9Lj3Ar1G.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108272922435760624",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "Interesting approach to solving the problem of getting your grokbot to talk to other agents",
+      "url": "https://x.com/EMostaque/status/2108272922435760624",
+      "created_at": "2026-10-08T19:06:49.000Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 59,
+        "replies": 6,
+        "retweets": 3,
+        "views": 11777
+      }
     },
     {
       "id": "twitter:2108272910209351910",
@@ -3752,6 +4633,23 @@
       ]
     },
     {
+      "id": "twitter:2108029220073177295",
+      "platform": "twitter",
+      "handle": "drfeifei",
+      "text": "RT @BrittaniNatali: Experimenting with Chisel in Atlas beta. We’ve been rolling out beta access to a bunch of users and it’s been really co…",
+      "url": "https://x.com/drfeifei/status/2108029220073177295",
+      "created_at": "2026-10-08T02:58:26.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Fei-Fei Li",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 2761
+      }
+    },
+    {
       "id": "twitter:2108025814227009681",
       "platform": "twitter",
       "handle": "op7418",
@@ -3765,6 +4663,23 @@
         "replies": 4,
         "retweets": 0,
         "views": 8758
+      }
+    },
+    {
+      "id": "twitter:2108024511773937838",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @sundarpichai: Introducing EmbeddingGemma 2, a new open multimodal model that sets the standard for on-device efficiency.\n\n- our first o…",
+      "url": "https://x.com/demishassabis/status/2108024511773937838",
+      "created_at": "2026-10-08T02:39:43.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 865,
+        "views": 6210
       }
     },
     {
@@ -3904,14 +4819,14 @@
       "text": "RT @alexwg: Moonshots episode #301 is out. https://t.co/0Ye2j1wCEE",
       "url": "https://x.com/EMostaque/status/2107980334180794480",
       "created_at": "2026-10-07T23:44:10.000Z",
-      "fetched_at": "2026-10-08T06:59:05.153Z",
+      "fetched_at": "2026-10-14T20:08:54.724Z",
       "author": "Emad",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 12,
-        "views": 1403
+        "retweets": 15,
+        "views": 1863
       }
     },
     {
@@ -4863,6 +5778,22 @@
       }
     },
     {
+      "id": "twitter:2107861788301607261",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "The most important thing we can apply AI to is improving medicine and human health - very excited about this partnership with the CZI and the Virtual Biology Initiative!",
+      "url": "https://x.com/demishassabis/status/2107861788301607261",
+      "created_at": "2026-10-07T15:53:07.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 5787,
+        "replies": 237,
+        "retweets": 516,
+        "views": 229843
+      }
+    },
+    {
       "id": "twitter:2107857927071732152",
       "platform": "twitter",
       "handle": "huggingface",
@@ -4894,6 +5825,23 @@
         "replies": 0,
         "retweets": 17,
         "views": 831
+      }
+    },
+    {
+      "id": "twitter:2107856837748081107",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @GoogleDeepMind: SynthID Detector is now available to everyone. 🌐\n\nCheck whether online content was generated using @GoogleAI, or with t…",
+      "url": "https://x.com/demishassabis/status/2107856837748081107",
+      "created_at": "2026-10-07T15:33:26.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 272,
+        "views": 5648
       }
     },
     {
@@ -4953,13 +5901,13 @@
       "text": "It is increasingly clear that humanity will solve the Riemann hypothesis before we pass the Physical Turing Test - you come back to a clean home after a wild Sunday party, and you can't tell whether a human or a robot did the job.\n\nWe are not Moravec's paradox-pilled enough.",
       "url": "https://x.com/DrJimFan/status/2107842520390701212",
       "created_at": "2026-10-07T14:36:33.000Z",
-      "fetched_at": "2026-10-08T02:56:12.614Z",
+      "fetched_at": "2026-10-14T16:04:26.273Z",
       "author": "Jim Fan",
       "metrics": {
-        "likes": 1028,
-        "replies": 68,
-        "retweets": 56,
-        "views": 46793
+        "likes": 1322,
+        "replies": 106,
+        "retweets": 72,
+        "views": 69392
       }
     },
     {
@@ -5655,6 +6603,22 @@
       }
     },
     {
+      "id": "twitter:2107583214432694756",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "John Urschel is an incredible guy. Had the pleasure of co-presenting an award with him at the Breakthrough Prize a few years ago - wonderful person and an inspiration!",
+      "url": "https://x.com/demishassabis/status/2107583214432694756",
+      "created_at": "2026-10-06T21:26:09.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 2449,
+        "replies": 43,
+        "retweets": 107,
+        "views": 154096
+      }
+    },
+    {
       "id": "twitter:2107582910652096590",
       "platform": "twitter",
       "handle": "emollick",
@@ -5849,6 +6813,23 @@
         "replies": 0,
         "retweets": 11,
         "views": 2998
+      }
+    },
+    {
+      "id": "twitter:2107538278530355437",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @Google: Meet Nano Banana 2.1, our latest image generation and editing model 🍌\n\nThis upgraded version outperforms our previous models ac…",
+      "url": "https://x.com/demishassabis/status/2107538278530355437",
+      "created_at": "2026-10-06T18:27:36.000Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 635,
+        "views": 7402
       }
     },
     {
@@ -7560,13 +8541,13 @@
       "text": "Very proud of the impact of all our work using AI to accelerate science and medicine for the benefit of society.",
       "url": "https://x.com/demishassabis/status/2106850913474482566",
       "created_at": "2026-10-04T20:56:15.000Z",
-      "fetched_at": "2026-10-06T16:04:14.663Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
       "author": "Demis Hassabis",
       "metrics": {
-        "likes": 3244,
-        "replies": 175,
-        "retweets": 230,
-        "views": 159627
+        "likes": 3273,
+        "replies": 178,
+        "retweets": 229,
+        "views": 173181
       }
     },
     {
@@ -14474,14 +15455,14 @@
       "text": "RT @LisaSu: So excited to welcome @theworldlabs and @drfeifei to the @AMD family! I’ve always been a huge fan of Fei-Fei and her pioneering…",
       "url": "https://x.com/drfeifei/status/2104916249021157805",
       "created_at": "2026-09-29T12:48:35.000Z",
-      "fetched_at": "2026-10-08T02:56:12.613Z",
+      "fetched_at": "2026-10-14T00:05:25.848Z",
       "author": "Fei-Fei Li",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 504,
-        "views": 2714
+        "retweets": 502,
+        "views": 2715
       }
     },
     {
