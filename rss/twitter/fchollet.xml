@@ -5,8 +5,152 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Oct 2026 00:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:35:20 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>François Chollet：You can&apos;t solve real-world physical tasks through autoregressive sampling…</title>
+      <link>https://x.com/fchollet/status/2110378929588752784</link>
+      <guid isPermaLink="false">twitter:2110378929588752784</guid>
+      <pubDate>Wed, 14 Oct 2026 14:35:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>You can&apos;t solve real-world physical tasks through autoregressive sampling alone. The physical world is entirely unforgiving to hallucination or approximate pattern matching. If we want actual autonomous robotics we have to engineer causality and discrete reasoning back into the loop.<br /><br />Biwei and the team at Aether AI is doing exactly the kind of foundational, non-consensus work the field actually needs right now.</p><p><a href="https://x.com/fchollet/status/2110378929588752784">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：String theory is what happens when an intelligent system is starved of se…</title>
+      <link>https://x.com/fchollet/status/2110377155079385477</link>
+      <guid isPermaLink="false">twitter:2110377155079385477</guid>
+      <pubDate>Wed, 14 Oct 2026 14:28:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>String theory is what happens when an intelligent system is starved of sensory input and starts hallucinating. Intelligence needs grounding.<br /><br />For this reason, intelligence is practically never the bottleneck to solving impactful problems. The bottleneck is iterated contact with reality.</p><p><a href="https://x.com/fchollet/status/2110377155079385477">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：The ideal outcome for science isn&apos;t a couple of labs using proprietary mo…</title>
+      <link>https://x.com/fchollet/status/2110214967228236242</link>
+      <guid isPermaLink="false">twitter:2110214967228236242</guid>
+      <pubDate>Wed, 14 Oct 2026 03:43:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The ideal outcome for science isn&apos;t a couple of labs using proprietary models and millions of dollars to crack trophy problems, it&apos;s to have millions of AI-aided human scientists who follow their curiosity and become way more ambitious</p><p><a href="https://x.com/fchollet/status/2110214967228236242">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：RT @arcprize: DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified)…</title>
+      <link>https://x.com/fchollet/status/2110067750026739830</link>
+      <guid isPermaLink="false">twitter:2110067750026739830</guid>
+      <pubDate>Tue, 13 Oct 2026 17:58:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):<br /><br />- ARC-AGI-3: 3.3%, $878 (provider adapter harness), 0.9%, $1.2k…</p><p><a href="https://x.com/fchollet/status/2110067750026739830">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Check it out: https://t.co/q1VHzkycgs</title>
+      <link>https://x.com/fchollet/status/2110050843462688769</link>
+      <guid isPermaLink="false">twitter:2110050843462688769</guid>
+      <pubDate>Tue, 13 Oct 2026 16:51:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Check it out: https://t.co/q1VHzkycgs</p><p><a href="https://x.com/fchollet/status/2110050843462688769">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：If an agent saves an engineer 2 hours to implement a feature but collecti…</title>
+      <link>https://x.com/fchollet/status/2110050795890827756</link>
+      <guid isPermaLink="false">twitter:2110050795890827756</guid>
+      <pubDate>Tue, 13 Oct 2026 16:51:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>If an agent saves an engineer 2 hours to implement a feature but collectively costs the team 3 hours in alignment and review, the ROI is negative.<br /><br />Isolated chats are suboptimal in team environments because they lack the context of what the team already discussed and decided. The Kylon app fixes this by running Claude Code and Codex in a shared, multiplayer environment. Agents gain real-time visibility into team consensus and architecture decisions.</p><p><a href="https://x.com/fchollet/status/2110050795890827756">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Congrats on the release! Looks like a fantastic model.</title>
+      <link>https://x.com/fchollet/status/2110042948821975317</link>
+      <guid isPermaLink="false">twitter:2110042948821975317</guid>
+      <pubDate>Tue, 13 Oct 2026 16:20:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Congrats on the release! Looks like a fantastic model.</p><p><a href="https://x.com/fchollet/status/2110042948821975317">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：If you explained agriculture to folks in SF, you&apos;d blow so many minds. It…</title>
+      <link>https://x.com/fchollet/status/2109802734899880280</link>
+      <guid isPermaLink="false">twitter:2109802734899880280</guid>
+      <pubDate>Tue, 13 Oct 2026 00:25:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>If you explained agriculture to folks in SF, you&apos;d blow so many minds. It&apos;s... self-replicating, recursively self-improving nanotech for the physical world. And it&apos;s all open-source!<br /><br />One instance can turn into hundreds of seeds, that turn into hundreds of instances. Next thing you know you have trillions of them. It&apos;s super-exponential</p><p><a href="https://x.com/fchollet/status/2109802734899880280">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：I&apos;ve been having a lot of fun trying a wide range of LLM post-training ex…</title>
+      <link>https://x.com/fchollet/status/2109096597011534242</link>
+      <guid isPermaLink="false">twitter:2109096597011534242</guid>
+      <pubDate>Sun, 11 Oct 2026 01:39:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>I&apos;ve been having a lot of fun trying a wide range of LLM post-training experiments using KerasHub + JAX + TPUs. Might open-source some of that</p><p><a href="https://x.com/fchollet/status/2109096597011534242">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：How AI shifted from a transductive paradigm (token-by-token answer comple…</title>
+      <link>https://x.com/fchollet/status/2108951977904517409</link>
+      <guid isPermaLink="false">twitter:2108951977904517409</guid>
+      <pubDate>Sat, 10 Oct 2026 16:05:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>How AI shifted from a transductive paradigm (token-by-token answer completion) to an inductive paradigm (on-the-fly reasoning chain synthesis), in one chart. This is the big story of 2025 and 2026. This is what made coding agents work. https://t.co/ThLm2AH127</p><img src="https://pbs.twimg.com/media/HUSAcpFbsAAevEh.png" loading="lazy" /><p><a href="https://x.com/fchollet/status/2108951977904517409">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：The real world abounds with recursively self-improving systems, but one i…</title>
+      <link>https://x.com/fchollet/status/2108617137241911723</link>
+      <guid isPermaLink="false">twitter:2108617137241911723</guid>
+      <pubDate>Fri, 09 Oct 2026 17:54:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The real world abounds with recursively self-improving systems, but one in particular deserves attention: Science, modeled as a system (perhaps even as an agent, with goals and resources). If you want to really understand AI RSI, science should be your reference point.<br /><br />Science is an intelligent system, and it is obviously recursively self-improving:<br /><br />1. Scientific discoveries unlock new technology that helps build better experimental tools. This is a top driver of progress in nearly all fields.<br />2. They unlock new conceptual advances (ideas, theories) that help solve more problems.<br />3. They increase society&apos;s economic output, leading to more resources flowing into science.<br />4. They unlock better faster tooling (e.g. more compute via better chip &amp; networking technology).<br /><br />As a result, many measures of scientific *input* grow exponentially:<br /><br />1. Headcount (doubles every ~15 years)<br />2. Global R&amp;D spending (doubles a bit faster, every ~13 years)<br />3. Papers and patents (technically this is a measure of headcount)<br />4. Compute dedicated to science (doubles every ~2 years)<br /><br />But is scientific progress exponential? Historically, the rate of scientific impact over time has remained roughly constant since the start of the industrial revolution (i.e. scientific progress is *linear*). 1850-1900 was about as dramatic as 1900-1950 or 1950-2000.<br /><br />1850–1900: Evolution, germ theory &amp; antiseptic surgery, thermodynamics, electromagnetic field equations, the periodic table, pharmaceuticals, electricity, telegraph and telephone, internal combustion engine, skyscrapers, mechanized agriculture...<br /><br />1900–1950: special and general relativity, quantum mechanics, nuclear fission &amp; atomic energy, antibiotics, genetic theory, electronic computers, information theory, synthetic polymers and plastics, the transistor, aviation...<br /><br />1950–2000: DNA, genetic engineering, integrated circuits, microprocessors &amp; personal computing, the Internet, crewed spaceflight, moon landing, satellite communications &amp; GPS, standard model of particle physics...<br /><br />In real terms, like life expectancy, which has increased in a remarkably linear fashion of roughly 3 months per year since 1840, progress is a straight line. This is especially apparent for fields where impact is easy to measure, like biology, medicine, and agriculture.<br /><br />I first wrote about this phenomenon and its causes in 2012, and a steady stream of research has confirmed it in the years since. Examples include the 2018 paper by Nielsen and Collison, &quot;Science Is Getting Less Bang for Its Buck,&quot; and the 2020 economic paper, &quot;Are Ideas Getting Harder to Find?&quot; (In fact, I believe the Nielsen paper stemmed from a conversation I had with him about this exact idea six months earlier)<br /><br />In short, the primary cause is that research solves the highest-impact, easiest problems first, and every subsequent problem is either harder or lower-impact. Exponentially so. The paper that presented information theory wasn&apos;t very hard to write (single author!) but you&apos;d have a hard time ever writing a CS paper that beats it in impact.<br /><br />This is why science as a system requires exponential resources (input) to produce linear impact (output). It gets exponentially harder over time.<br /><br />Worth thinking about if you&apos;re pondering RSI for AI. I fully believe AI RSI is already happening and will accelerate in the future. But I do not believe this leads to an &quot;intelligence explosion&quot; -- that would fly in the face of everything I know about intelligence and everything I know about recursively self-improving systems.</p><p><a href="https://x.com/fchollet/status/2108617137241911723">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Right now, using AI agents still feels very single-player. They do your w…</title>
+      <link>https://x.com/fchollet/status/2108596098277249441</link>
+      <guid isPermaLink="false">twitter:2108596098277249441</guid>
+      <pubDate>Fri, 09 Oct 2026 16:31:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Right now, using AI agents still feels very single-player. They do your work, but the results are trapped in isolated chat histories and nothing compounds.<br /><br />The Busabase team (@Busabase4agent) is launching an open-source (MIT) database and workspace for agents to fix this. Instead of losing work to ephemeral chats, your agents write directly to a structured workspace to turn their outputs into reusable data, docs, and skills your entire team can access.<br /><br />Details here: https://t.co/RdFPoAR10C</p><p><a href="https://x.com/fchollet/status/2108596098277249441">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：RT @arcprize: Announcing ARC Prize Research Summit 2026 Keynote Speaker</title>
+      <link>https://x.com/fchollet/status/2108579903767810463</link>
+      <guid isPermaLink="false">twitter:2108579903767810463</guid>
+      <pubDate>Fri, 09 Oct 2026 15:26:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: Announcing ARC Prize Research Summit 2026 Keynote Speaker<br /><br />Kenneth Stanley<br /><br />@kenneth0stanley is a pioneer in neuroevolution a…</p><p><a href="https://x.com/fchollet/status/2108579903767810463">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：RT @arcprize: Announcing ARC Prize Research Summit 2026 Research Speaker</title>
+      <link>https://x.com/fchollet/status/2108579868934066288</link>
+      <guid isPermaLink="false">twitter:2108579868934066288</guid>
+      <pubDate>Fri, 09 Oct 2026 15:26:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: Announcing ARC Prize Research Summit 2026 Research Speaker<br /><br />Kevin Murphy<br /><br />@sirbayes is a research scientist at Google DeepMin…</p><p><a href="https://x.com/fchollet/status/2108579868934066288">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：RT @arcprize: Announcing ARC Prize Research Summit 2026 Keynote Speaker</title>
+      <link>https://x.com/fchollet/status/2108579855847797203</link>
+      <guid isPermaLink="false">twitter:2108579855847797203</guid>
+      <pubDate>Fri, 09 Oct 2026 15:26:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: Announcing ARC Prize Research Summit 2026 Keynote Speaker<br /><br />Stephen Wolfram<br /><br />@stephen_wolfram is the creator of Mathematica, W…</p><p><a href="https://x.com/fchollet/status/2108579855847797203">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：RT @arcprize: New ARC Prize 2026 - ARC-AGI-3 High Score</title>
+      <link>https://x.com/fchollet/status/2108579658195521654</link>
+      <guid isPermaLink="false">twitter:2108579658195521654</guid>
+      <pubDate>Fri, 09 Oct 2026 15:25:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: New ARC Prize 2026 - ARC-AGI-3 High Score<br /><br />59.17% by Yi-Chia Chen<br /><br />They have taken the lead over @tufalabs https://t.co/lehLq…</p><p><a href="https://x.com/fchollet/status/2108579658195521654">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：We&apos;re reaching really good ARC-AGI-2 scores on Kaggle now!</title>
+      <link>https://x.com/fchollet/status/2108579538372612400</link>
+      <guid isPermaLink="false">twitter:2108579538372612400</guid>
+      <pubDate>Fri, 09 Oct 2026 15:25:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We&apos;re reaching really good ARC-AGI-2 scores on Kaggle now!</p><p><a href="https://x.com/fchollet/status/2108579538372612400">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Most measures of AI progress closely fit an exponential over the 2023-202…</title>
+      <link>https://x.com/fchollet/status/2108310747080208781</link>
+      <guid isPermaLink="false">twitter:2108310747080208781</guid>
+      <pubDate>Thu, 08 Oct 2026 21:37:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Most measures of AI progress closely fit an exponential over the 2023-2026 period. Meanwhile AI capex over the same period has been slightly super-exponential (i.e. the rate of growth itself is increasing).<br /><br />So if you model AI as a system that takes as input external investment and outputs AI progress, that system has a slightly sub-linear response.<br /><br />But super-exponential injection of *external* resources is not sustainable in the long-term. To achieve sustained exponential progress, the AI industry will need to achieve matching exponential profits -- it will need to close the resource loop.</p><p><a href="https://x.com/fchollet/status/2108310747080208781">原文</a></p>]]></description>
+    </item>
     <item>
       <title>François Chollet：Humans provide a fun comparison point here.</title>
       <link>https://x.com/fchollet/status/2107997468671852922</link>

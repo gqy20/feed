@@ -1,7 +1,111 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T20:08:56.565Z",
+  "updated_at": "2026-10-15T16:04:16.323Z",
   "posts": [
+    {
+      "id": "twitter:2110762690733895872",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @PeterWBattaglia: Last week, Hurricane Isaias made landfall in the Florida Panhandle. Our thoughts are with everyone affected and with t…",
+      "url": "https://x.com/GoogleDeepMind/status/2110762690733895872",
+      "created_at": "2026-10-15T16:00:16.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 3033
+      }
+    },
+    {
+      "id": "twitter:2110739249633087570",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…",
+      "url": "https://x.com/GoogleDeepMind/status/2110739249633087570",
+      "created_at": "2026-10-15T14:27:07.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 5709
+      }
+    },
+    {
+      "id": "twitter:2110715601454784965",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "SynthID has been named one of @TIME's Best Inventions of 2026.\n\nWith over 180 billion images and videos already watermarked, it’s making it easier for people to distinguish AI-generated content from other media → https://t.co/ClIEdQLgV1 https://t.co/STbjqj9iUu",
+      "url": "https://x.com/GoogleDeepMind/status/2110715601454784965",
+      "created_at": "2026-10-15T12:53:09.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 411,
+        "replies": 118,
+        "retweets": 42,
+        "views": 36450
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HUrEkcTXMAAqK5Y.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110421871103730104",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Argon also compressed the process of enzyme engineering into a matter of hours to design five lab-verified serine esterases. 🧬\nhttps://t.co/74xPM9LJPa",
+      "url": "https://x.com/GoogleDeepMind/status/2110421871103730104",
+      "created_at": "2026-10-14T17:25:58.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 90,
+        "replies": 5,
+        "retweets": 2,
+        "views": 15582
+      }
+    },
+    {
+      "id": "twitter:2110421873242861711",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "To advance more research with Gemini 4 Argon, we’re offering 10,000 scientists access to our highest usage tier in @GoogleAntigravity free of charge for 6 months.\n\nFind out more → https://t.co/A9F2OZi4OJ",
+      "url": "https://x.com/GoogleDeepMind/status/2110421873242861711",
+      "created_at": "2026-10-14T17:25:58.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 100,
+        "replies": 12,
+        "retweets": 6,
+        "views": 15106
+      }
+    },
+    {
+      "id": "twitter:2110421861435879476",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Gemini 4 Argon is already unlocking new scientific breakthroughs in quantum computing, nuclear fusion, protein design and beyond. 🧵",
+      "url": "https://x.com/GoogleDeepMind/status/2110421861435879476",
+      "created_at": "2026-10-14T17:25:56.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 2226,
+        "replies": 169,
+        "retweets": 278,
+        "views": 136923
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HUm4960WkAECy-M.jpg"
+      ]
+    },
     {
       "id": "twitter:2110398339690999832",
       "platform": "twitter",
@@ -68,6 +172,38 @@
       }
     },
     {
+      "id": "twitter:2110378929588752784",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "You can't solve real-world physical tasks through autoregressive sampling alone. The physical world is entirely unforgiving to hallucination or approximate pattern matching. If we want actual autonomous robotics we have to engineer causality and discrete reasoning back into the loop.\n\nBiwei and the team at Aether AI is doing exactly the kind of foundational, non-consensus work the field actually needs right now.",
+      "url": "https://x.com/fchollet/status/2110378929588752784",
+      "created_at": "2026-10-14T14:35:20.000Z",
+      "fetched_at": "2026-10-15T00:13:52.838Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 545,
+        "replies": 44,
+        "retweets": 57,
+        "views": 35908
+      }
+    },
+    {
+      "id": "twitter:2110377155079385477",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "String theory is what happens when an intelligent system is starved of sensory input and starts hallucinating. Intelligence needs grounding.\n\nFor this reason, intelligence is practically never the bottleneck to solving impactful problems. The bottleneck is iterated contact with reality.",
+      "url": "https://x.com/fchollet/status/2110377155079385477",
+      "created_at": "2026-10-14T14:28:17.000Z",
+      "fetched_at": "2026-10-15T00:13:52.838Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 8356,
+        "replies": 559,
+        "retweets": 848,
+        "views": 3141399
+      }
+    },
+    {
       "id": "twitter:2110347370152001901",
       "platform": "twitter",
       "handle": "EMostaque",
@@ -85,6 +221,41 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2110271259665997824/img/h20rCPDSCsDQ1gpf.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110214967228236242",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "The ideal outcome for science isn't a couple of labs using proprietary models and millions of dollars to crack trophy problems, it's to have millions of AI-aided human scientists who follow their curiosity and become way more ambitious",
+      "url": "https://x.com/fchollet/status/2110214967228236242",
+      "created_at": "2026-10-14T03:43:48.000Z",
+      "fetched_at": "2026-10-15T00:13:52.838Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 2341,
+        "replies": 148,
+        "retweets": 304,
+        "views": 72442
+      }
+    },
+    {
+      "id": "twitter:2110190101707858039",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Over half of reported crimes in Singapore use sophisticated social engineering.\n\nWith @GovTechSG, we’re building on-device fraud detection using our open model Gemma.\n\nBy fine-tuning it on local scam tactics, it identifies threats in real time without compromising personal privacy → https://t.co/VdCio2nrHC",
+      "url": "https://x.com/GoogleDeepMind/status/2110190101707858039",
+      "created_at": "2026-10-14T02:05:00.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 619,
+        "replies": 137,
+        "retweets": 56,
+        "views": 69999
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HUhw8WhWMAArsET.jpg"
       ]
     },
     {
@@ -123,6 +294,35 @@
       },
       "media": [
         "https://pbs.twimg.com/media/HUjbH_TWYAA20c4.jpg"
+      ]
+    },
+    {
+      "id": "xhs:6aced5cd000000001402cf59",
+      "platform": "xhs",
+      "handle": "6314a2cc0000000012003173",
+      "text": "#ConnectOnion #AI #创业 #投资",
+      "url": "https://www.xiaohongshu.com/user/profile/6314a2cc0000000012003173/6aced5cd000000001402cf59?xsec_token=AB9ksgIRVOa7qkpxMIm1Q4OczGgdM48CZk7_iNvgauTjM=&xsec_source=pc_user",
+      "created_at": "2026-10-14T01:07:25.000Z",
+      "fetched_at": "2026-10-14T20:10:10.402Z",
+      "author": "Aaron",
+      "title": "光刻机巨头ASML，曾被机器拖了9年",
+      "metrics": {
+        "collects": 2,
+        "likes": 5
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610150408/4ad715e7ec9184a90730c70d7cbc340c/spectrum/1040g0k03269lofnhk6305ookkb64gcbjluftaa8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/97b40bbb5635f7e15c753d7babc6db53/spectrum/1040g0k03269loe50k6005ookkb64gcbj6bsunc8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/08903ed5a295dc27490dc1d13c680833/spectrum/1040g0k03269loe50k60g5ookkb64gcbji8vchc0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/20b90bc8b6702a0f52b5de5f31d15c11/spectrum/1040g0k03269loe50k6105ookkb64gcbje45geko!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/b1bd8d302868d99da10edc4b6cf26d92/spectrum/1040g0k03269loe50k61g5ookkb64gcbjlkq5qpg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/881a57c568b73d4d1b2e41dede0fa639/spectrum/1040g0k03269loe50k6205ookkb64gcbjk0br26o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/12cc1d97c82b94a1ed38af534f95dc08/spectrum/1040g0k03269loe50k62g5ookkb64gcbjai5eung!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/0513316c1dacf8a3e38e91bc97ba3189/spectrum/1040g0k03269loe50k6305ookkb64gcbja4fh5o8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/a1f1812801dc6ce8e1a9a1b65852a9aa/spectrum/1040g0k03269loe50k63g5ookkb64gcbjbm7rnm8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/b7b904f221e021fb937206bbc5af6266/spectrum/1040g0k03269loe50k6405ookkb64gcbj1sdh2ag!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/6c1e454aae6f0bde7018641ff675d3f9/spectrum/1040g0k03269loe50k64g5ookkb64gcbjaub5sg0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150408/0e12eaecb4e97f17004f7557004ae2f6/spectrum/1040g0k03269loe50k6505ookkb64gcbj4mqerrg!nd_dft_wlteh_webp_3"
       ]
     },
     {
@@ -206,6 +406,74 @@
         "replies": 0,
         "retweets": 8,
         "views": 1970
+      }
+    },
+    {
+      "id": "twitter:2110080053409116660",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "@Apptronik By turning video into a training ground for physical AI, Argon compresses weeks of manual modeling into just a few hours. ↓\n\nhttps://t.co/8tQ2r21lcC",
+      "url": "https://x.com/GoogleDeepMind/status/2110080053409116660",
+      "created_at": "2026-10-13T18:47:42.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 105,
+        "replies": 15,
+        "retweets": 6,
+        "views": 23373
+      }
+    },
+    {
+      "id": "twitter:2110078384617464201",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Gemini 4 Argon taught a robot to play cornhole just by watching a video.\n\nIt mapped the physics, coded its own simulation, and taught @Apptronik's Apollo humanoid to sink 7 throws in a row. https://t.co/JIyoKnVc4q",
+      "url": "https://x.com/GoogleDeepMind/status/2110078384617464201",
+      "created_at": "2026-10-13T18:41:04.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 3334,
+        "replies": 277,
+        "retweets": 398,
+        "views": 247311
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUiDGGjXkAEkJi6.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110067750026739830",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "RT @arcprize: DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):\n\n- ARC-AGI-3: 3.3%, $878 (provider adapter harness), 0.9%, $1.2k…",
+      "url": "https://x.com/fchollet/status/2110067750026739830",
+      "created_at": "2026-10-13T17:58:49.000Z",
+      "fetched_at": "2026-10-15T00:13:52.838Z",
+      "author": "François Chollet",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 17,
+        "views": 2150
+      }
+    },
+    {
+      "id": "twitter:2110063893016096831",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2026 for a vulnerability that would affect an estimated 1 billion users.\n\nHighlights the opportunity for defenders to utilize these tools to secure their software to unprecedented levels:",
+      "url": "https://x.com/gdb/status/2110063893016096831",
+      "created_at": "2026-10-13T17:43:29.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 6032,
+        "replies": 233,
+        "retweets": 316,
+        "views": 559072
       }
     },
     {
@@ -329,6 +597,38 @@
       ]
     },
     {
+      "id": "twitter:2110050843462688769",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "Check it out: https://t.co/q1VHzkycgs",
+      "url": "https://x.com/fchollet/status/2110050843462688769",
+      "created_at": "2026-10-13T16:51:38.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 35,
+        "replies": 0,
+        "retweets": 0,
+        "views": 8002
+      }
+    },
+    {
+      "id": "twitter:2110050795890827756",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "If an agent saves an engineer 2 hours to implement a feature but collectively costs the team 3 hours in alignment and review, the ROI is negative.\n\nIsolated chats are suboptimal in team environments because they lack the context of what the team already discussed and decided. The Kylon app fixes this by running Claude Code and Codex in a shared, multiplayer environment. Agents gain real-time visibility into team consensus and architecture decisions.",
+      "url": "https://x.com/fchollet/status/2110050795890827756",
+      "created_at": "2026-10-13T16:51:27.000Z",
+      "fetched_at": "2026-10-15T00:13:52.838Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 651,
+        "replies": 98,
+        "retweets": 28,
+        "views": 974628
+      }
+    },
+    {
       "id": "twitter:2110048779407642698",
       "platform": "twitter",
       "handle": "emollick",
@@ -343,6 +643,22 @@
         "replies": 0,
         "retweets": 3,
         "views": 3162
+      }
+    },
+    {
+      "id": "twitter:2110042948821975317",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "Congrats on the release! Looks like a fantastic model.",
+      "url": "https://x.com/fchollet/status/2110042948821975317",
+      "created_at": "2026-10-13T16:20:16.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 414,
+        "replies": 16,
+        "retweets": 8,
+        "views": 39944
       }
     },
     {
@@ -465,6 +781,44 @@
       }
     },
     {
+      "id": "twitter:2110039277442682916",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Here’s how you can try it:\n🔵 Everyday users: In the @GeminiApp and AI Mode in Search for Google AI Pro and Ultra subscribers.\n🔵 Developers: Gemini API paid tier, plus @Antigravity and @GoogleAIStudio for Google AI Ultra subscribers.\n🔵 Scientists: Apply for the top usage tier in @Antigravity free of charge.\n🔵 Enterprises: Gemini for business and in Antigravity.\n\nFind out more → https://t.co/6nH9sCdObL",
+      "url": "https://x.com/GoogleDeepMind/status/2110039277442682916",
+      "created_at": "2026-10-13T16:05:41.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 325,
+        "replies": 38,
+        "retweets": 37,
+        "views": 142307
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HUhcjzyWYAE9Dt2.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110039274922131792",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "Gemini 4 Argon is now globally available.\n\nBuilt to solve your hardest problems from start to finish, the model brings frontier capabilities across coding, enterprise workflows, and cyber defense. https://t.co/N8tOQjwk0x",
+      "url": "https://x.com/GoogleDeepMind/status/2110039274922131792",
+      "created_at": "2026-10-13T16:05:40.000Z",
+      "fetched_at": "2026-10-15T16:04:12.674Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 6359,
+        "replies": 369,
+        "retweets": 661,
+        "views": 2437592
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110036236744237056/img/hNReq0FjAJTJUO4w.jpg"
+      ]
+    },
+    {
       "id": "twitter:2110038834205409332",
       "platform": "twitter",
       "handle": "danshipper",
@@ -481,6 +835,25 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2110038507402018818/img/29IYQkGZrmsudNUs.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110034327111131168",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "https://t.co/oADallGYuR",
+      "url": "https://x.com/GoogleDeepMind/status/2110034327111131168",
+      "created_at": "2026-10-13T15:46:00.000Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 3886,
+        "replies": 171,
+        "retweets": 323,
+        "views": 230701
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110033955000872960/img/ZGR0sr8uuMTWcqKg.jpg"
       ]
     },
     {
@@ -661,6 +1034,32 @@
       ]
     },
     {
+      "id": "xhs:6acdf7dc000000001a024ed2",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "让 AI 少算几步，还要保住视频生成质量，模型该怎么教？ 字节跳动与得州农工大学提出的 DMAD，把复杂的分布匹配，改写成了两道分类题，并在图像、视频和音视频生成上进行了验证。 可以把蒸馏理解成老师带学生：老师用很多步生成，学生学会用更少的步骤完成任务。过去的 DMD，需要分别估计目标分布和学生分布，再计算两者的差异。麻烦在于，学生一直在变化，还得额外训练一个辅助扩散模型，持续跟踪它。 为了让生成更省，训练过程反而背上了不少负担。 DMAD 的想法很巧：既然最终需要的是差异，为什么不直接学习差异？ 它让判别器判断样本来自目标还是学生。在理想的最优判别器条件下，其原始得分对输入的梯度，恰好能给出分布匹配需要的修改方向，从而省去辅助模型拟合学生分布的任务。 具体做法是设置两个共享骨干的判别头：一个比较教师作品与学生作品，另一个比较真实数据与学生作品。 学生既学习老师的生成能力，也接受真实数据的约束。可以理解为，老师的示范和真实世界的参照，都参与了这场训练。 成绩也很亮眼：四步 SDXL 在 COCO-10K 上的 FID 达到 14.47，四步 Wan2.1-14B 的 VBench 总分达到 85.15。 在 MiniMax-H3 音视频人评中，排除平局后，DMAD 相对 DMD2 和 rCM 的总体偏好率分别为 79.1% 和 84.6%。这些结果支持它的少步生成能力，但不能理解成所有能力都全面领先。 我觉得值得琢磨的，是它对训练问题的重新拆解：当我们真正需要的是两个分布的相对差异，就未必需要先把两边分别学一遍。 让模型少走几步，有时候要先给教它的方法减负。 #人工智能 #论文解读 #视频生成 #模型蒸馏 #扩散模型 #DMAD #AI搞学习howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acdf7dc000000001a024ed2?xsec_token=AB-sRs_jsswUhIH3Yi34Q8omPmxMuLdHkmEb-PJoEuEac=&xsec_source=pc_user",
+      "created_at": "2026-10-13T09:20:28.000Z",
+      "fetched_at": "2026-10-14T20:10:10.402Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "字节x得州农工 DMAD：四步生成视频更省训练",
+      "metrics": {
+        "collects": 32,
+        "likes": 26
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610150409/60c24cbf7dbb4410379a7663c2c96356/spectrum/1040g0k03268qi1e744305p37m4gk4uihgkk30oo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/4c7ebc6d3d0b0f7b335702625c945958/spectrum/1040g0k03268qi1e744005p37m4gk4uihr0kfae0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/d84e7356bb0e653cdb20f430e048170e/spectrum/1040g0k03268qi1e7440g5p37m4gk4uihph73k1g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/b137b596ea669d8cecf6daf31d57d7bc/spectrum/1040g0k03268qi1e744105p37m4gk4uihfuhk078!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/157059925e5aef6946852b77787daf5c/spectrum/1040g0k03268qi1e7441g5p37m4gk4uihattd5po!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/15f48db1bed84a84ba690bf987feb6be/spectrum/1040g0k03268qi1e744205p37m4gk4uihol2c2g0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/abe0a40307fe33c324b5134fd555454b/spectrum/1040g0k03268qi1e7442g5p37m4gk4uih9s0dblg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/60c24cbf7dbb4410379a7663c2c96356/spectrum/1040g0k03268qi1e744305p37m4gk4uihgkk30oo!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610150409/4c7ebc6d3d0b0f7b335702625c945958/spectrum/1040g0k03268qi1e744005p37m4gk4uihr0kfae0!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
       "id": "twitter:2109851162518425779",
       "platform": "twitter",
       "handle": "emollick",
@@ -740,6 +1139,22 @@
         "https://sns-webpic-qc.xhscdn.com/202610140405/65451041ebad433b813dff9191a6bb07/spectrum/1040g0k03268blh9q4c4g5ookkb64gcbj3bsu8rg!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610140405/847733faf29ba5ab502eea3cc4825b1b/spectrum/1040g0k03268blh9q4c505ookkb64gcbjkj5ofqo!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2109802734899880280",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "If you explained agriculture to folks in SF, you'd blow so many minds. It's... self-replicating, recursively self-improving nanotech for the physical world. And it's all open-source!\n\nOne instance can turn into hundreds of seeds, that turn into hundreds of instances. Next thing you know you have trillions of them. It's super-exponential",
+      "url": "https://x.com/fchollet/status/2109802734899880280",
+      "created_at": "2026-10-13T00:25:44.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 3255,
+        "replies": 177,
+        "retweets": 226,
+        "views": 96870
+      }
     },
     {
       "id": "twitter:2109800647575146906",
@@ -1682,6 +2097,22 @@
       }
     },
     {
+      "id": "twitter:2109096597011534242",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "I've been having a lot of fun trying a wide range of LLM post-training experiments using KerasHub + JAX + TPUs. Might open-source some of that",
+      "url": "https://x.com/fchollet/status/2109096597011534242",
+      "created_at": "2026-10-11T01:39:48.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 504,
+        "replies": 74,
+        "retweets": 24,
+        "views": 54944
+      }
+    },
+    {
       "id": "xhs:6acae62d000000001a02bd5a",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -1815,6 +2246,25 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2108961427117789184/img/6burQxyJ16CkwNK1.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2108951977904517409",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "How AI shifted from a transductive paradigm (token-by-token answer completion) to an inductive paradigm (on-the-fly reasoning chain synthesis), in one chart. This is the big story of 2025 and 2026. This is what made coding agents work. https://t.co/ThLm2AH127",
+      "url": "https://x.com/fchollet/status/2108951977904517409",
+      "created_at": "2026-10-10T16:05:08.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 1652,
+        "replies": 159,
+        "retweets": 177,
+        "views": 119352
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUSAcpFbsAAevEh.png"
       ]
     },
     {
@@ -2414,6 +2864,22 @@
       }
     },
     {
+      "id": "twitter:2108617137241911723",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "The real world abounds with recursively self-improving systems, but one in particular deserves attention: Science, modeled as a system (perhaps even as an agent, with goals and resources). If you want to really understand AI RSI, science should be your reference point.\n\nScience is an intelligent system, and it is obviously recursively self-improving:\n\n1. Scientific discoveries unlock new technology that helps build better experimental tools. This is a top driver of progress in nearly all fields.\n2. They unlock new conceptual advances (ideas, theories) that help solve more problems.\n3. They increase society's economic output, leading to more resources flowing into science.\n4. They unlock better faster tooling (e.g. more compute via better chip & networking technology).\n\nAs a result, many measures of scientific *input* grow exponentially:\n\n1. Headcount (doubles every ~15 years)\n2. Global R&D spending (doubles a bit faster, every ~13 years)\n3. Papers and patents (technically this is a measure of headcount)\n4. Compute dedicated to science (doubles every ~2 years)\n\nBut is scientific progress exponential? Historically, the rate of scientific impact over time has remained roughly constant since the start of the industrial revolution (i.e. scientific progress is *linear*). 1850-1900 was about as dramatic as 1900-1950 or 1950-2000.\n\n1850–1900: Evolution, germ theory & antiseptic surgery, thermodynamics, electromagnetic field equations, the periodic table, pharmaceuticals, electricity, telegraph and telephone, internal combustion engine, skyscrapers, mechanized agriculture...\n\n1900–1950: special and general relativity, quantum mechanics, nuclear fission & atomic energy, antibiotics, genetic theory, electronic computers, information theory, synthetic polymers and plastics, the transistor, aviation...\n\n1950–2000: DNA, genetic engineering, integrated circuits, microprocessors & personal computing, the Internet, crewed spaceflight, moon landing, satellite communications & GPS, standard model of particle physics...\n\nIn real terms, like life expectancy, which has increased in a remarkably linear fashion of roughly 3 months per year since 1840, progress is a straight line. This is especially apparent for fields where impact is easy to measure, like biology, medicine, and agriculture.\n\nI first wrote about this phenomenon and its causes in 2012, and a steady stream of research has confirmed it in the years since. Examples include the 2018 paper by Nielsen and Collison, \"Science Is Getting Less Bang for Its Buck,\" and the 2020 economic paper, \"Are Ideas Getting Harder to Find?\" (In fact, I believe the Nielsen paper stemmed from a conversation I had with him about this exact idea six months earlier)\n\nIn short, the primary cause is that research solves the highest-impact, easiest problems first, and every subsequent problem is either harder or lower-impact. Exponentially so. The paper that presented information theory wasn't very hard to write (single author!) but you'd have a hard time ever writing a CS paper that beats it in impact.\n\nThis is why science as a system requires exponential resources (input) to produce linear impact (output). It gets exponentially harder over time.\n\nWorth thinking about if you're pondering RSI for AI. I fully believe AI RSI is already happening and will accelerate in the future. But I do not believe this leads to an \"intelligence explosion\" -- that would fly in the face of everything I know about intelligence and everything I know about recursively self-improving systems.",
+      "url": "https://x.com/fchollet/status/2108617137241911723",
+      "created_at": "2026-10-09T17:54:36.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 1805,
+        "replies": 167,
+        "retweets": 211,
+        "views": 164876
+      }
+    },
+    {
       "id": "twitter:2108614125614162184",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -2567,6 +3033,22 @@
       }
     },
     {
+      "id": "twitter:2108596098277249441",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "Right now, using AI agents still feels very single-player. They do your work, but the results are trapped in isolated chat histories and nothing compounds.\n\nThe Busabase team (@Busabase4agent) is launching an open-source (MIT) database and workspace for agents to fix this. Instead of losing work to ephemeral chats, your agents write directly to a structured workspace to turn their outputs into reusable data, docs, and skills your entire team can access.\n\nDetails here: https://t.co/RdFPoAR10C",
+      "url": "https://x.com/fchollet/status/2108596098277249441",
+      "created_at": "2026-10-09T16:31:00.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 707,
+        "replies": 120,
+        "retweets": 71,
+        "views": 103584
+      }
+    },
+    {
       "id": "twitter:2108593116701970715",
       "platform": "twitter",
       "handle": "AravSrinivas",
@@ -2601,6 +3083,57 @@
       }
     },
     {
+      "id": "twitter:2108579903767810463",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "RT @arcprize: Announcing ARC Prize Research Summit 2026 Keynote Speaker\n\nKenneth Stanley\n\n@kenneth0stanley is a pioneer in neuroevolution a…",
+      "url": "https://x.com/fchollet/status/2108579903767810463",
+      "created_at": "2026-10-09T15:26:39.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 2473
+      }
+    },
+    {
+      "id": "twitter:2108579868934066288",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "RT @arcprize: Announcing ARC Prize Research Summit 2026 Research Speaker\n\nKevin Murphy\n\n@sirbayes is a research scientist at Google DeepMin…",
+      "url": "https://x.com/fchollet/status/2108579868934066288",
+      "created_at": "2026-10-09T15:26:30.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 2156
+      }
+    },
+    {
+      "id": "twitter:2108579855847797203",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "RT @arcprize: Announcing ARC Prize Research Summit 2026 Keynote Speaker\n\nStephen Wolfram\n\n@stephen_wolfram is the creator of Mathematica, W…",
+      "url": "https://x.com/fchollet/status/2108579855847797203",
+      "created_at": "2026-10-09T15:26:27.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 2172
+      }
+    },
+    {
       "id": "twitter:2108579846129647963",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -2632,6 +3165,39 @@
         "replies": 0,
         "retweets": 2,
         "views": 318
+      }
+    },
+    {
+      "id": "twitter:2108579658195521654",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "RT @arcprize: New ARC Prize 2026 - ARC-AGI-3 High Score\n\n59.17% by Yi-Chia Chen\n\nThey have taken the lead over @tufalabs https://t.co/lehLq…",
+      "url": "https://x.com/fchollet/status/2108579658195521654",
+      "created_at": "2026-10-09T15:25:40.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 2257
+      }
+    },
+    {
+      "id": "twitter:2108579538372612400",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "We're reaching really good ARC-AGI-2 scores on Kaggle now!",
+      "url": "https://x.com/fchollet/status/2108579538372612400",
+      "created_at": "2026-10-09T15:25:12.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 187,
+        "replies": 23,
+        "retweets": 20,
+        "views": 26732
       }
     },
     {
@@ -3330,6 +3896,22 @@
       ]
     },
     {
+      "id": "twitter:2108310747080208781",
+      "platform": "twitter",
+      "handle": "fchollet",
+      "text": "Most measures of AI progress closely fit an exponential over the 2023-2026 period. Meanwhile AI capex over the same period has been slightly super-exponential (i.e. the rate of growth itself is increasing).\n\nSo if you model AI as a system that takes as input external investment and outputs AI progress, that system has a slightly sub-linear response.\n\nBut super-exponential injection of *external* resources is not sustainable in the long-term. To achieve sustained exponential progress, the AI industry will need to achieve matching exponential profits -- it will need to close the resource loop.",
+      "url": "https://x.com/fchollet/status/2108310747080208781",
+      "created_at": "2026-10-08T21:37:07.000Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
+      "author": "François Chollet",
+      "metrics": {
+        "likes": 738,
+        "replies": 98,
+        "retweets": 63,
+        "views": 60673
+      }
+    },
+    {
       "id": "twitter:2108302543977906649",
       "platform": "twitter",
       "handle": "AnthropicAI",
@@ -4000,14 +4582,14 @@
       "text": "RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, \"Bending the Curve of Discovery\".\n\nWhile…",
       "url": "https://x.com/GoogleDeepMind/status/2108216895329497200",
       "created_at": "2026-10-08T15:24:11.000Z",
-      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "fetched_at": "2026-10-15T16:04:12.675Z",
       "author": "Google DeepMind",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 50,
-        "views": 7699
+        "retweets": 79,
+        "views": 9275
       }
     },
     {
@@ -4803,13 +5385,13 @@
       "text": "Humans provide a fun comparison point here.\n\nIn the 80s, the \"cognitive consequences of programming\" was a major psychological research focus. The prevailing hypothesis was that learning formal logic and algorithmic structures through computer programming would act as a form of mental gymnastics that could upgrade general reasoning, planning, and novel problem-solving abilities. But foundational research, followed by subsequent meta-analyses, demonstrated that this does not happen. Students who learn programming become highly proficient at algorithmic thinking and coding, but these gains do not transfer to general cognitive tasks or unrelated problem-solving scenarios. Similarly, intensive mathematical training improves mathematical deduction and structural mapping, but does not increase an individual's baseline rate of skill acquisition in unrelated fields.\n\nGeneral intelligence seems to be a fundamental property of the brain rather than a skill you can train. Practicing in a domain makes you better at the domain but does not make you generally smarter.",
       "url": "https://x.com/fchollet/status/2107997468671852922",
       "created_at": "2026-10-08T00:52:15.000Z",
-      "fetched_at": "2026-10-08T11:04:01.102Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
       "author": "François Chollet",
       "metrics": {
-        "likes": 838,
-        "replies": 65,
-        "retweets": 99,
-        "views": 37181
+        "likes": 1348,
+        "replies": 95,
+        "retweets": 136,
+        "views": 73493
       }
     },
     {
@@ -5401,13 +5983,13 @@
       "text": "Introducing Intelligent UI, a new capability in ChatGPT for answering quickly with fully interactive user interfaces:",
       "url": "https://x.com/gdb/status/2107899150247616531",
       "created_at": "2026-10-07T18:21:34.000Z",
-      "fetched_at": "2026-10-09T01:53:53.169Z",
+      "fetched_at": "2026-10-15T00:13:52.839Z",
       "author": "Greg Brockman",
       "metrics": {
-        "likes": 3818,
-        "replies": 220,
-        "retweets": 163,
-        "views": 386107
+        "likes": 3868,
+        "replies": 236,
+        "retweets": 169,
+        "views": 405635
       }
     },
     {
