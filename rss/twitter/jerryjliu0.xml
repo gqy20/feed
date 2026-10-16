@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>jerryjliu0 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/jerryjliu0.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 19:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:31:54 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: my takeaways from this movie without any spoilers:</title>
+      <link>https://x.com/jerryjliu0/status/2111102842497069382</link>
+      <guid isPermaLink="false">twitter:2111102842497069382</guid>
+      <pubDate>Fri, 16 Oct 2026 14:31:54 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: my takeaways from this movie without any spoilers:<br />- holy shit i don’t think I’ve watched anything this moving in a very…</p><p><a href="https://x.com/jerryjliu0/status/2111102842497069382">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: im so ready to watch what’s supposed to be the best movie of a…</title>
+      <link>https://x.com/jerryjliu0/status/2110945244766519442</link>
+      <guid isPermaLink="false">twitter:2110945244766519442</guid>
+      <pubDate>Fri, 16 Oct 2026 04:05:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: im so ready to watch what’s supposed to be the best movie of all time https://t.co/kNnvZTjnII</p><img src="https://pbs.twimg.com/media/HUuQnpFaYAAVl3m.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2110945244766519442">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：congrats on the launch!!</title>
+      <link>https://x.com/jerryjliu0/status/2110943928157671571</link>
+      <guid isPermaLink="false">twitter:2110943928157671571</guid>
+      <pubDate>Fri, 16 Oct 2026 04:00:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>congrats on the launch!!</p><p><a href="https://x.com/jerryjliu0/status/2110943928157671571">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：irl rocket league</title>
+      <link>https://x.com/jerryjliu0/status/2110938383061295238</link>
+      <guid isPermaLink="false">twitter:2110938383061295238</guid>
+      <pubDate>Fri, 16 Oct 2026 03:38:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>irl rocket league</p><p><a href="https://x.com/jerryjliu0/status/2110938383061295238">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @hexapode: Since OpenAI’s math release last week, GitHub contributors have be…</title>
+      <link>https://x.com/jerryjliu0/status/2110927409084260538</link>
+      <guid isPermaLink="false">twitter:2110927409084260538</guid>
+      <pubDate>Fri, 16 Oct 2026 02:54:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @hexapode: Since OpenAI’s math release last week, GitHub contributors have been driving down the kappa for integer multiplication, with…</p><p><a href="https://x.com/jerryjliu0/status/2110927409084260538">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：thought this was AI wtf</title>
+      <link>https://x.com/jerryjliu0/status/2110923500408246287</link>
+      <guid isPermaLink="false">twitter:2110923500408246287</guid>
+      <pubDate>Fri, 16 Oct 2026 02:39:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>thought this was AI wtf</p><p><a href="https://x.com/jerryjliu0/status/2110923500408246287">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：claude cowork really needs to let you fork a conversation</title>
+      <link>https://x.com/jerryjliu0/status/2110904164922589427</link>
+      <guid isPermaLink="false">twitter:2110904164922589427</guid>
+      <pubDate>Fri, 16 Oct 2026 01:22:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>claude cowork really needs to let you fork a conversation<br /><br />this feature exists in other apps (e.g. codex app, claude code cli). it&apos;s one of the main reasons i&apos;ve been using codex as a daily driver for the past few months</p><p><a href="https://x.com/jerryjliu0/status/2110904164922589427">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Document extraction is an arbitrarily complex reasoning problem for both frontie…</title>
+      <link>https://x.com/jerryjliu0/status/2110870554639204407</link>
+      <guid isPermaLink="false">twitter:2110870554639204407</guid>
+      <pubDate>Thu, 15 Oct 2026 23:08:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Document extraction is an arbitrarily complex reasoning problem for both frontier models and humans.<br /><br />✅ The schema encodes essentially hundreds of interrelated reasoning tasks<br />✅ A PDF can be hundreds or even thousands of pages - it’s an open-world information environment for LLMs to explore (similar to why gdp.pdf is hard)<br />✅ Solving even a single task is a hard reasoning problem over this environment, where the right dependencies must be reasoned over<br />✅ The information can be scattered across extraordinarily complex dimensions, from sections, tables, charts, diagrams, handwriting, and more.<br /><br />Document work is a microcosm of knowledge work as a whole. We’re invested in developing the hardest benchmarks that reflect real-world professional work, challenge the capabilities of frontier models, and incentivize specialized model development for document work.<br /><br />We released ExtractBench Pro today. Check out the below example as an example of a reasoning task that requires finding the right constraints, then pulling information from tables. https://t.co/bwxs86iS1d<br /><br />ExtractBench Pro: https://t.co/qrr3C1imM2</p><img src="https://pbs.twimg.com/media/HUtRdlcbIAAYeRM.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2110870554639204407">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @kemiisf: doc chai @llama_index launch this morning at corgi cafe!</title>
+      <link>https://x.com/jerryjliu0/status/2110865808012578989</link>
+      <guid isPermaLink="false">twitter:2110865808012578989</guid>
+      <pubDate>Thu, 15 Oct 2026 22:50:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @kemiisf: doc chai @llama_index launch this morning at corgi cafe!<br /><br />new drink, check it out <br /><br />@imaanxsultan with the vibes<br /><br />@UseCorgi @m…</p><p><a href="https://x.com/jerryjliu0/status/2110865808012578989">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @xujustinj: This was my first blog post at @llama_index! Go check out the coo…</title>
+      <link>https://x.com/jerryjliu0/status/2110854507487998189</link>
+      <guid isPermaLink="false">twitter:2110854507487998189</guid>
+      <pubDate>Thu, 15 Oct 2026 22:05:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @xujustinj: This was my first blog post at @llama_index! Go check out the cool diagrams and stuff https://t.co/VXUBNBkV1C</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110853771794538496/img/N0WJjyg_N0mOIfWp.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2110854507487998189">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @disiok: both of these are true:</title>
+      <link>https://x.com/jerryjliu0/status/2110836545238544868</link>
+      <guid isPermaLink="false">twitter:2110836545238544868</guid>
+      <pubDate>Thu, 15 Oct 2026 20:53:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @disiok: both of these are true:<br />1. frontier models are at the cusp of fully automating knowledge work<br />2. we are nowhere near the reliab…</p><p><a href="https://x.com/jerryjliu0/status/2110836545238544868">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Introducing ExtractBenchPro: the most challenging benchmark for real-world docum…</title>
+      <link>https://x.com/jerryjliu0/status/2110766726405411179</link>
+      <guid isPermaLink="false">twitter:2110766726405411179</guid>
+      <pubDate>Thu, 15 Oct 2026 16:16:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Introducing ExtractBenchPro: the most challenging benchmark for real-world document extraction.<br /><br />We see a massive long tail of document complexity in terms of use cases brought on from our customers, that are completely unsolved from a price-performance standpoint. These include trial balances, well logs, canvass binders, site plan reviews, duty reconciliations, loss runs, and more.<br /><br />Most existing extraction benchmarks are saturated by the frontier models (our cheapest modes now score 93%+ on ExtractBench). So there is enormous economic value in building a complex extraction benchmark that reflects this long-tail of knowledge work.<br /><br />We spent a long time curating the most complex elements that we saw from real world extraction use cases:<br />✅ Document conventions: containing legends or rules where the rest of the document should be interpreted<br />✅ Density of internal jargon: specific definitions that must be cross-referenced within a doc<br />✅ Aggregation and reasoning: beyond returning exact values on a page, infer values derived from aggregating multiple sources of information<br />✅ Drawn relations: complex diagrams like procedures and circuits<br />✅ Charts inside documents: read precise points within a chart<br />✅ Long chart sheets: some data series like well logs cram all this data into an extremely long page<br /><br />Within the industries where document extraction is relevant, even small mistakes can have enormous negative impacts. Therefore our headline evaluation metric is based on perfect documents: the proportion of docs with perfect (100%) value f1 score.<br />(Besides this we also measure value f1 and grounded f1)<br /><br />It’s an extremely hard task for even the latest frontier models to solve, topping out at ~58% or so in Value F1 score for Codex with Astra - which is quite good but extremely expensive (almost $1 per page!) Our LlamaParse agentic/agentic plus modes are 20-40% and cover the left side of the Pareto frontier, at price ranges that are feasible for full production use.<br /><br />ExtractBenchPro is available today as a website/technical blog, and also on Github and HuggingFace. Check it out!<br /><br />Blog: https://t.co/bwxs86iS1d<br />Website: https://t.co/uRrFNU1Fqo<br />Hugging Face: https://t.co/1VImPRTorq<br />Github (is ExtractBench): https://t.co/auzmOGhsaB</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110765298953682944/img/0PEz-hsd1wNb5Zyc.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2110766726405411179">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @amelia_metters: @jerryjliu0 @UseCorgi @imaanxsultan @llama_index Woo!</title>
+      <link>https://x.com/jerryjliu0/status/2110549041331482929</link>
+      <guid isPermaLink="false">twitter:2110549041331482929</guid>
+      <pubDate>Thu, 15 Oct 2026 01:51:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @amelia_metters: @jerryjliu0 @UseCorgi @imaanxsultan @llama_index Woo!</p><p><a href="https://x.com/jerryjliu0/status/2110549041331482929">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: my biggest philosophy about posting on here is &quot;don&apos;t be switz…</title>
+      <link>https://x.com/jerryjliu0/status/2110500367956099390</link>
+      <guid isPermaLink="false">twitter:2110500367956099390</guid>
+      <pubDate>Wed, 14 Oct 2026 22:37:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: my biggest philosophy about posting on here is &quot;don&apos;t be switzerland&quot;<br /><br />being neutral is SO boring. i feel like everyone o…</p><p><a href="https://x.com/jerryjliu0/status/2110500367956099390">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @UseCorgi: @jerryjliu0 @imaanxsultan @llama_index 🦙</title>
+      <link>https://x.com/jerryjliu0/status/2110490492484087949</link>
+      <guid isPermaLink="false">twitter:2110490492484087949</guid>
+      <pubDate>Wed, 14 Oct 2026 21:58:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @UseCorgi: @jerryjliu0 @imaanxsultan @llama_index 🦙</p><p><a href="https://x.com/jerryjliu0/status/2110490492484087949">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @zjearbear: Startups are built on relationships. That’s why IRL events are a …</title>
+      <link>https://x.com/jerryjliu0/status/2110490452537581919</link>
+      <guid isPermaLink="false">twitter:2110490452537581919</guid>
+      <pubDate>Wed, 14 Oct 2026 21:58:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @zjearbear: Startups are built on relationships. That’s why IRL events are a core part of our growth strategy at @lemma_ .<br /><br />We hosted ou…</p><p><a href="https://x.com/jerryjliu0/status/2110490452537581919">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: i&apos;ve been making vids on tiktok since high school and i kid yo…</title>
+      <link>https://x.com/jerryjliu0/status/2110422448051265875</link>
+      <guid isPermaLink="false">twitter:2110422448051265875</guid>
+      <pubDate>Wed, 14 Oct 2026 17:28:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: i&apos;ve been making vids on tiktok since high school and i kid you not, it was the highlight for every place i interviewed w…</p><p><a href="https://x.com/jerryjliu0/status/2110422448051265875">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: 900 people have rsvped to the chai party im throwing tomorrow …</title>
+      <link>https://x.com/jerryjliu0/status/2110412264692166729</link>
+      <guid isPermaLink="false">twitter:2110412264692166729</guid>
+      <pubDate>Wed, 14 Oct 2026 16:47:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: 900 people have rsvped to the chai party im throwing tomorrow lol https://t.co/3XbDsDzVEk</p><img src="https://pbs.twimg.com/media/HUmvWLZbgAAgHD8.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2110412264692166729">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @llama_index: There are more document parsing models than ever, and they’re g…</title>
+      <link>https://x.com/jerryjliu0/status/2110408276919930914</link>
+      <guid isPermaLink="false">twitter:2110408276919930914</guid>
+      <pubDate>Wed, 14 Oct 2026 16:31:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @llama_index: There are more document parsing models than ever, and they’re getting harder to tell apart.<br /><br />That’s why we built OpenDocRo…</p><p><a href="https://x.com/jerryjliu0/status/2110408276919930914">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @alexandr_wang: muse wonder sota on hard document ocr tasks</title>
+      <link>https://x.com/jerryjliu0/status/2110398787957231897</link>
+      <guid isPermaLink="false">twitter:2110398787957231897</guid>
+      <pubDate>Wed, 14 Oct 2026 15:54:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @alexandr_wang: muse wonder sota on hard document ocr tasks <br /><br />the more you know!</p><p><a href="https://x.com/jerryjliu0/status/2110398787957231897">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Jerry Liu：RT @imaanxsultan: i don&apos;t think you guys understand how big this is for tech bro…</title>
       <link>https://x.com/jerryjliu0/status/2108633631610884555</link>

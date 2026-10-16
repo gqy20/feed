@@ -1,7 +1,431 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-15T16:04:16.323Z",
+  "updated_at": "2026-10-16T20:09:40.047Z",
   "posts": [
+    {
+      "id": "twitter:2111102842497069382",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: my takeaways from this movie without any spoilers:\n- holy shit i don’t think I’ve watched anything this moving in a very…",
+      "url": "https://x.com/jerryjliu0/status/2111102842497069382",
+      "created_at": "2026-10-16T14:31:54.000Z",
+      "fetched_at": "2026-10-16T16:04:29.828Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 280
+      }
+    },
+    {
+      "id": "xhs:6ad22262000000000100ae11",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "最近，由港中深发起，百余名AI学者联合发起“学生慢科研”倡议，签署者来自MIT、CMU、哈佛、清华、北大、Google DeepMind等顶尖机构。 他们呼吁本科生别急着发论文、赶顶会，应该多花时间打基础，真正理解研究问题。招生时也不应该唯论文数量论。 我的态度：非常支持。但这倡议要真能落实，我把键盘吃了。 最近一直在解读AI论文，以自进化为例，Evo²、Vela，还有各种Harness自进化研究，几乎每天都有新论文、新方法、新SOTA。 不得不感叹，现在AI科研已经卷成什么样了。 更有意思的是，倡议签署者中不乏来自这些高产研究机构的学者。一边是顶尖实验室持续高速输出论文，一边是教授们苦口婆心劝年轻人：不要急，科研要慢慢来。 多少有点黑色幽默。 这让我想起OpenAI、Anthropic等机构研究人员参与的Pacing the Frontier倡议。 大家都知道AI发展太快，应该给安全研究留点时间。但竞争对手还在踩油门，谁愿意第一个踩刹车？ 科研界不也一样吗？ 教授劝学生别卷论文，可学生没有论文，研究生申请能过初筛吗？ 博士花三年研究一个问题，最后没出成果，能顺利毕业吗？ 教授自己不发论文，学校的考核、经费、职称又怎么办？ 最讽刺的地方在于，最有能力改变游戏规则的人，正在劝最没有能力改变规则的人退出竞争。 当然，我相信很多教授是真心希望学生回归科研本质。但如果评价体系不改变，这种倡议最后可能只会变成另一种筛选机制。（数学界的Terrence Tao最近也有点郁闷） 有资源、有背景的学生可以安心慢科研，普通学生却要继续拼命发论文，毕竟他们输不起。 我甚至觉得，真正应该签署慢科研倡议的，首先是大学、招生委员会和科研评价机构。 承诺录取多少没有论文但有潜力的学生，允许多少长期没有成果的探索，远比签个名字更有说服力。 别只劝学生慢下来，先证明你们真的愿意为慢科研买单。 一年之后，我更想看看，这些教授究竟录取了什么样的学生。 #AI科研 #人工智能 #学术圈 #机器学习 #顶会论文 #科研内卷 #OpenAI #Anthropic #慢科研 #AI搞学习howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ad22262000000000100ae11?xsec_token=ABICPjEH7W9Iniow14VzyoXPwiVLm3oQOFwwcvQXvl3yg=&xsec_source=pc_user",
+      "created_at": "2026-10-16T13:10:58.000Z",
+      "fetched_at": "2026-10-16T16:06:17.457Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "数百名AI学者鼓励“慢科研”，但谁敢先停？",
+      "metrics": {
+        "collects": 6,
+        "comments": 13,
+        "likes": 14
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610170005/db117809ae7987e71c99f647420fb117/notes_pre_post/1040g3k0326cskbqgkq205p37m4gk4uihe97mtog!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/b0d58e5c6713ac098a0406f1e4566394/notes_pre_post/1040g3k0326cskbqgkq005p37m4gk4uihfufn4hg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/b3c44e6873bd6641b7720c24827731b9/notes_pre_post/1040g3k0326cskbqgkq0g5p37m4gk4uih8rsb4lg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/8995ca1e29a6d4e5771680b58bee3167/notes_pre_post/1040g3k0326cskbqgkq105p37m4gk4uih1lja2no!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/2bb786e289a20ea8acff6c8a9a2153c1/notes_pre_post/1040g3k0326cskbqgkq1g5p37m4gk4uihcch6l20!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/db117809ae7987e71c99f647420fb117/notes_pre_post/1040g3k0326cskbqgkq205p37m4gk4uihe97mtog!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/b0d58e5c6713ac098a0406f1e4566394/notes_pre_post/1040g3k0326cskbqgkq005p37m4gk4uihfufn4hg!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "xhs:6ad1dc6600000000120360c1",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "Google 和 CMU 联合发表了一篇论文《Harmony Harness：Multi-Objective Self-Evolution of Agent Harnesses》，探索如何让 Agent 自己进化 Harness。 以前要提升Agent的能力，通常是优化Prompt、增加工具、调整工作流。后来DGM、Meta-Harness 等研究，让Agent根据执行反馈修改自己的Harness。 但如果每次都修改整套Harness，很容易为了提升某项指标，过拟合特定任务。 Harmony Harness 提出三个有意思的设计。 1️⃣多目标进化 论文选择安全代码生成场景，同时优化功能正确性和安全性。 通过 MOEA/D 算法，维护多个具有不同优化偏好的 Harness，让它们沿着不同方向持续演化，避免只追求单一指标。 2️⃣把Harness拆开进化 研究人员将 Harness 拆分为三个部分：Tool 工具和执行能力、Skill 可复用的知识与操作经验、Logic Agent Loop 和任务编排逻辑，同时区分通用能力和环境专用能力。 当任务失败时，Agent 会分析原因，提出改进假设再决定修改哪个组件。 甚至还能把环境专用经验提炼为通用能力，或者把过度特殊化的逻辑移出通用层。 相当于Agent在持续试错中，逐渐完善自己的工具箱和方法论。 3️⃣动态组装Harness 有了持续进化的组件库，执行时也不必使用固定流程。 Composition Agent可以根据当前任务，动态选择Tool、Skill 和 Logic，生成对应的执行流程。 效果在SecRepoBench 上，功能与安全同时通过率从46.7%提升至76.7%；分布外测试从36.7% 提升至66.7%。 论文还发现，在缺乏充分保护的实验设置下，自进化系统竟拿到了 100% 的成绩，但检查后发现，Agent 可能只是学会了迎合评测，甚至修改评测程序。 未来 Agent 的能力提升，可能不完全依赖更强的模型。 模型权重不变，Harness 也能通过持续反馈，积累经验、改进工具、优化执行方式。 Agent 不仅要学会完成任务，还要逐渐学会如何更好地完成任务。 #HarmonyHarness #Agent自进化 #Harness #RSI #SelfEvolvingAgent #大模型 #人工智能 #论文解读",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ad1dc6600000000120360c1?xsec_token=ABDWrh-Gym9HjVnJ4H4OiTFAf7rhstq3FcENh1jRKtlmQ=&xsec_source=pc_user",
+      "created_at": "2026-10-16T09:41:01.000Z",
+      "fetched_at": "2026-10-16T16:06:17.457Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "Google Harmony Harness 又一个Agent自进化",
+      "metrics": {
+        "collects": 55,
+        "comments": 16,
+        "likes": 32
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610170005/4cecc4c885c38ea9e0a9afe8b46a1a72/spectrum/1040g0k0326ck3fvhkc3g5p37m4gk4uihsfmf698!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/8cdf12cb45b91e2553ef859b429519d4/spectrum/1040g0k0326ck3fvhkc0g5p37m4gk4uih92rpkv8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/dbdb8277aca0e7aed9ed920e121b0aef/spectrum/1040g0k0326ck3fvhkc105p37m4gk4uihbjmpt6g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/a811a029d0874d1805be26b6712fd066/spectrum/1040g0k0326ck3fvhkc1g5p37m4gk4uihdfpqi90!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/c087532c5cecd88337cd5d177bdfca26/spectrum/1040g0k0326ck3fvhkc205p37m4gk4uih77smgf8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/5782391c675fce59b620880f0b910371/spectrum/1040g0k0326ck3fvhkc2g5p37m4gk4uih67ues8g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/4fdf759ebc40c72568bc3e605a4ec485/spectrum/1040g0k0326ck3fvhkc305p37m4gk4uihr32ev0o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/4cecc4c885c38ea9e0a9afe8b46a1a72/spectrum/1040g0k0326ck3fvhkc3g5p37m4gk4uihsfmf698!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170005/8cdf12cb45b91e2553ef859b429519d4/spectrum/1040g0k0326ck3fvhkc0g5p37m4gk4uih92rpkv8!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2110945244766519442",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: im so ready to watch what’s supposed to be the best movie of all time https://t.co/kNnvZTjnII",
+      "url": "https://x.com/jerryjliu0/status/2110945244766519442",
+      "created_at": "2026-10-16T04:05:40.000Z",
+      "fetched_at": "2026-10-16T16:04:29.829Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 408
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUuQnpFaYAAVl3m.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110943928157671571",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "congrats on the launch!!",
+      "url": "https://x.com/jerryjliu0/status/2110943928157671571",
+      "created_at": "2026-10-16T04:00:26.000Z",
+      "fetched_at": "2026-10-16T16:04:29.829Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 6,
+        "replies": 3,
+        "retweets": 0,
+        "views": 2244
+      }
+    },
+    {
+      "id": "twitter:2110938383061295238",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "irl rocket league",
+      "url": "https://x.com/jerryjliu0/status/2110938383061295238",
+      "created_at": "2026-10-16T03:38:24.000Z",
+      "fetched_at": "2026-10-16T16:04:29.829Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 24,
+        "replies": 1,
+        "retweets": 1,
+        "views": 3669
+      }
+    },
+    {
+      "id": "twitter:2110927409084260538",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @hexapode: Since OpenAI’s math release last week, GitHub contributors have been driving down the kappa for integer multiplication, with…",
+      "url": "https://x.com/jerryjliu0/status/2110927409084260538",
+      "created_at": "2026-10-16T02:54:48.000Z",
+      "fetched_at": "2026-10-16T16:04:29.829Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 410
+      }
+    },
+    {
+      "id": "twitter:2110923500408246287",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "thought this was AI wtf",
+      "url": "https://x.com/jerryjliu0/status/2110923500408246287",
+      "created_at": "2026-10-16T02:39:16.000Z",
+      "fetched_at": "2026-10-16T16:04:29.829Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 30,
+        "replies": 2,
+        "retweets": 1,
+        "views": 6288
+      }
+    },
+    {
+      "id": "twitter:2110904164922589427",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "claude cowork really needs to let you fork a conversation\n\nthis feature exists in other apps (e.g. codex app, claude code cli). it's one of the main reasons i've been using codex as a daily driver for the past few months",
+      "url": "https://x.com/jerryjliu0/status/2110904164922589427",
+      "created_at": "2026-10-16T01:22:26.000Z",
+      "fetched_at": "2026-10-16T16:04:29.829Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 33,
+        "replies": 40,
+        "retweets": 0,
+        "views": 4713
+      }
+    },
+    {
+      "id": "xhs:6ad1770d0000000015004c5b",
+      "platform": "xhs",
+      "handle": "6314a2cc0000000012003173",
+      "text": "",
+      "url": "https://www.xiaohongshu.com/user/profile/6314a2cc0000000012003173/6ad1770d0000000015004c5b?xsec_token=ABDWrh-Gym9HjVnJ4H4OiTFH7F9gsNaag7t_Kg1z5m7MY=&xsec_source=pc_user",
+      "created_at": "2026-10-16T00:59:57.000Z",
+      "fetched_at": "2026-10-16T16:06:17.457Z",
+      "author": "Aaron",
+      "title": "我为扎克伯格开发了一款产品"
+    },
+    {
+      "id": "xhs:6ad0f018000000001303eea9",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "过去，大模型主要从文本、代码、数学题和合成数据中学习。但 AllSpark 团队的新论文 Vela 提出了另一种思路：让大模型从人类的真实行为中学习。 我们每天都在互联网上留下大量行为记录，这些数据过去主要用于推荐系统、广告和用户画像。 Vela则尝试将它们转化为大模型的训练数据。 研究团队使用了10万名用户的行为记录，时间跨度从几周到几年。这段行为可以变成不同的训练任务：预测用户接下来干什么？ - 开放预测：不提供选项，预测下一次行为。 - 偏好分析：总结用户的偏好。 - 行为归因：哪些历史行为可以解释这次行为？ 研究者设计了91种任务模板，将真实行为转化为可训练的问题。 其中，预测类任务可以使用未来真实发生的行为作为答案；分析和归因类任务则由LLM生成评分标准，检查回答是否有证据支撑、是否忽略反向信号。 Vela还有一个很有意思的设计：筛选训练任务的难度。 研究者让基座模型对每道题回答4次，根据平均得分，只保留0.2～0.8之间的任务。 太简单的已经学会，太困难的又可能缺乏有效学习信号。 随后使用更强的模型生成候选推理轨迹，通过评分选择高质量答案，最终构建约7.5万条训练数据，用于微调一个35B MoE模型。 相比原始模型，VelaBench用户行为测试提升11.5分，用户相关泛化测试平均提升6.2分，通用能力测试平均提升4.0分。 研究者发现，经过行为监督微调的模型，再进行强化学习，在任务上都取得更好的结果。 所以学习用户行为，还能改善通用能力？我的理解是，这类训练不仅涉及用户偏好，还要求模型从长期历史中提取证据、分析事件关联、综合正反信息，并在不确定的情况下作出判断。 这些能力本身就具有一定的通用性。 Vela让我感兴趣的，是它展示了另一种获取监督信号的方式。 过去我们习惯给模型提供问题和标准答案，或者让更强的模型合成训练数据。 但在真实世界中，大量行为天然包含着可以验证的结果。当然，人类的选择不一定正确，行为也不总能反映真实意图。 但如果能够合理构造任务、过滤噪声、验证结果，真实世界本身就可能成为一座巨大的训练数据矿山。未来大模型的进步，或许不仅来自学习人类创造了什么，还来自理解人类实际做了什么。 #大模型 #Vela #AllSpark #LLM #机器学习 #AI反常识howto #模型训练 #人工智能 #Transformer",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ad0f018000000001303eea9?xsec_token=ABkx80yCyVtPq1RKk5-1XmtROIYNFCacZxpo5lY9B0HMQ=&xsec_source=pc_user",
+      "created_at": "2026-10-15T23:51:00.000Z",
+      "fetched_at": "2026-10-16T16:06:17.457Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "AllSpark Vela：用户行为是被低估的训练数据",
+      "metrics": {
+        "collects": 23,
+        "comments": 11,
+        "likes": 22
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610170006/78a82ebb6b9cf1329f60cff3ccd09ed9/spectrum/1040g0k0326bnctho464g5p37m4gk4uihie6th0g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/91d61b1e370bbfdaf5ac8c3ed9203622/spectrum/1040g0k0326bnctho46005p37m4gk4uihgm10vp8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/fb881b2779b44ec1037f9531b0d28211/spectrum/1040g0k0326bnctho460g5p37m4gk4uihkaeg4t0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/00bbedd9e36e375ab20a759a9db31184/spectrum/1040g0k0326bnctho46105p37m4gk4uih7kb4uko!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/ed8668ed02fb4afdfcfa1284c698f97f/spectrum/1040g0k0326bnctho461g5p37m4gk4uihbsj8k7g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/e7f1a777892bdd2ba9329397403af22d/spectrum/1040g0k0326bnctho46205p37m4gk4uihe1170t0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/89004235361f486ca66cf458522d95a5/spectrum/1040g0k0326bnctho462g5p37m4gk4uihnpd68ao!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/477781aaea6c992db906d9146f46d44b/spectrum/1040g0k0326bnctho46305p37m4gk4uihokuhqmg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/27cdca7cdf39c706718289446346a10b/spectrum/1040g0k0326bnctho463g5p37m4gk4uihic73r2o!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/d0da7486dcf9be7685b927898fc618e1/spectrum/1040g0k0326bnctho46405p37m4gk4uihuiq94b8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/78a82ebb6b9cf1329f60cff3ccd09ed9/spectrum/1040g0k0326bnctho464g5p37m4gk4uihie6th0g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610170006/91d61b1e370bbfdaf5ac8c3ed9203622/spectrum/1040g0k0326bnctho46005p37m4gk4uihgm10vp8!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2110870554639204407",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "Document extraction is an arbitrarily complex reasoning problem for both frontier models and humans.\n\n✅ The schema encodes essentially hundreds of interrelated reasoning tasks\n✅ A PDF can be hundreds or even thousands of pages - it’s an open-world information environment for LLMs to explore (similar to why gdp.pdf is hard)\n✅ Solving even a single task is a hard reasoning problem over this environment, where the right dependencies must be reasoned over\n✅ The information can be scattered across extraordinarily complex dimensions, from sections, tables, charts, diagrams, handwriting, and more.\n\nDocument work is a microcosm of knowledge work as a whole. We’re invested in developing the hardest benchmarks that reflect real-world professional work, challenge the capabilities of frontier models, and incentivize specialized model development for document work.\n\nWe released ExtractBench Pro today. Check out the below example as an example of a reasoning task that requires finding the right constraints, then pulling information from tables. https://t.co/bwxs86iS1d\n\nExtractBench Pro: https://t.co/qrr3C1imM2",
+      "url": "https://x.com/jerryjliu0/status/2110870554639204407",
+      "created_at": "2026-10-15T23:08:52.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 53,
+        "replies": 12,
+        "retweets": 5,
+        "views": 3970
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUtRdlcbIAAYeRM.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110865808012578989",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @kemiisf: doc chai @llama_index launch this morning at corgi cafe!\n\nnew drink, check it out \n\n@imaanxsultan with the vibes\n\n@UseCorgi @m…",
+      "url": "https://x.com/jerryjliu0/status/2110865808012578989",
+      "created_at": "2026-10-15T22:50:01.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 380
+      }
+    },
+    {
+      "id": "twitter:2110854507487998189",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @xujustinj: This was my first blog post at @llama_index! Go check out the cool diagrams and stuff https://t.co/VXUBNBkV1C",
+      "url": "https://x.com/jerryjliu0/status/2110854507487998189",
+      "created_at": "2026-10-15T22:05:07.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 385
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110853771794538496/img/N0WJjyg_N0mOIfWp.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110836545238544868",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @disiok: both of these are true:\n1. frontier models are at the cusp of fully automating knowledge work\n2. we are nowhere near the reliab…",
+      "url": "https://x.com/jerryjliu0/status/2110836545238544868",
+      "created_at": "2026-10-15T20:53:44.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 388
+      }
+    },
+    {
+      "id": "twitter:2110813795245249018",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "Most of the interesting agent harness work is happening at intersection of harness and infra:\n\n1/ dreaming \n2/ async subagents\n3/ heartbeats\n4/ letting agent schedule reminders\n\nPart of reason im so bullish on managed agents platforms!\n\nAll of these in managed deep agents!",
+      "url": "https://x.com/hwchase17/status/2110813795245249018",
+      "created_at": "2026-10-15T19:23:20.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 36,
+        "replies": 32,
+        "retweets": 4,
+        "views": 1704
+      }
+    },
+    {
+      "id": "twitter:2110793369727254886",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: llama serve -hf ggml-org/Muse-Spark-Open-816B-A42B-GGUF:Q2_K (on two mac studios). \n\nWell done @finkd &amp; @johnternus! h…",
+      "url": "https://x.com/huggingface/status/2110793369727254886",
+      "created_at": "2026-10-15T18:02:10.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 18,
+        "views": 1700
+      }
+    },
+    {
+      "id": "twitter:2110788307043147882",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @mervenoyann: Meta is releasing Muse Spark Open as the most-capable US open-weight model.. 🥁 and it's an agent focused MoE that takes al…",
+      "url": "https://x.com/huggingface/status/2110788307043147882",
+      "created_at": "2026-10-15T17:42:03.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 1835
+      }
+    },
+    {
+      "id": "twitter:2110788261589434596",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @caspar_br: Managed Deep Agents can read the files people share and send files back where the conversation already is. It feels like mag…",
+      "url": "https://x.com/hwchase17/status/2110788261589434596",
+      "created_at": "2026-10-15T17:41:52.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 483
+      }
+    },
+    {
+      "id": "twitter:2110780539984822503",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @RisingSayak: It's time. It's fucking time!\n\nFlux.3 Image Klein is out and we bring you full support for it in Diffusers.\n\nCatch all the…",
+      "url": "https://x.com/huggingface/status/2110780539984822503",
+      "created_at": "2026-10-15T17:11:11.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 2047
+      }
+    },
+    {
+      "id": "twitter:2110778531483664586",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @NVIDIAAI: Meet NVIDIA Nemotron 3.5 Super VL\n\nOur new open model combines reasoning and tool use with text, image, document, and video u…",
+      "url": "https://x.com/huggingface/status/2110778531483664586",
+      "created_at": "2026-10-15T17:03:12.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 371,
+        "views": 1816
+      }
+    },
+    {
+      "id": "twitter:2110766726405411179",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "Introducing ExtractBenchPro: the most challenging benchmark for real-world document extraction.\n\nWe see a massive long tail of document complexity in terms of use cases brought on from our customers, that are completely unsolved from a price-performance standpoint. These include trial balances, well logs, canvass binders, site plan reviews, duty reconciliations, loss runs, and more.\n\nMost existing extraction benchmarks are saturated by the frontier models (our cheapest modes now score 93%+ on ExtractBench). So there is enormous economic value in building a complex extraction benchmark that reflects this long-tail of knowledge work.\n\nWe spent a long time curating the most complex elements that we saw from real world extraction use cases:\n✅ Document conventions: containing legends or rules where the rest of the document should be interpreted\n✅ Density of internal jargon: specific definitions that must be cross-referenced within a doc\n✅ Aggregation and reasoning: beyond returning exact values on a page, infer values derived from aggregating multiple sources of information\n✅ Drawn relations: complex diagrams like procedures and circuits\n✅ Charts inside documents: read precise points within a chart\n✅ Long chart sheets: some data series like well logs cram all this data into an extremely long page\n\nWithin the industries where document extraction is relevant, even small mistakes can have enormous negative impacts. Therefore our headline evaluation metric is based on perfect documents: the proportion of docs with perfect (100%) value f1 score.\n(Besides this we also measure value f1 and grounded f1)\n\nIt’s an extremely hard task for even the latest frontier models to solve, topping out at ~58% or so in Value F1 score for Codex with Astra - which is quite good but extremely expensive (almost $1 per page!) Our LlamaParse agentic/agentic plus modes are 20-40% and cover the left side of the Pareto frontier, at price ranges that are feasible for full production use.\n\nExtractBenchPro is available today as a website/technical blog, and also on Github and HuggingFace. Check it out!\n\nBlog: https://t.co/bwxs86iS1d\nWebsite: https://t.co/uRrFNU1Fqo\nHugging Face: https://t.co/1VImPRTorq\nGithub (is ExtractBench): https://t.co/auzmOGhsaB",
+      "url": "https://x.com/jerryjliu0/status/2110766726405411179",
+      "created_at": "2026-10-15T16:16:18.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 120,
+        "replies": 37,
+        "retweets": 16,
+        "views": 11649
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110765298953682944/img/0PEz-hsd1wNb5Zyc.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110765203545805057",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: It's fashion week! https://t.co/o2kkLJ8AAc",
+      "url": "https://x.com/huggingface/status/2110765203545805057",
+      "created_at": "2026-10-15T16:10:15.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 15,
+        "views": 1968
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUrvjc0WEAAIJy5.jpg"
+      ]
+    },
     {
       "id": "twitter:2110762690733895872",
       "platform": "twitter",
@@ -17,6 +441,62 @@
         "replies": 0,
         "retweets": 3,
         "views": 3033
+      }
+    },
+    {
+      "id": "xhs:6ad0f57a000000001403b661",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "这几天身边各种朋友偶遇或者活动上见到库克 前两天他是来了清华，作为院里的顾问委员会成员 再就是苹果旗舰店、孵化器活动上见到他身影 替在孵化器路演展示的朋友开心！ 图一为AI生成 #AI异类弗兰克 #库克 #apple #清华大学 #苹果应用孵化器",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6ad0f57a000000001403b661?xsec_token=ABkx80yCyVtPq1RKk5-1XmtcGCU_ICxqgvOh7FtpkJiOk=&xsec_source=pc_user",
+      "created_at": "2026-10-15T15:47:06.000Z",
+      "fetched_at": "2026-10-15T16:05:15.055Z",
+      "author": "AI异类弗兰克",
+      "title": "清华学院里没见到的库克，被我逮到啦",
+      "metrics": {
+        "collects": 1,
+        "likes": 4
+      },
+      "media": [
+        "https://fe-platform.xhscdn.com/platform/104101l0323fm2dp60a06bbggu3r00000000005oa67qgs",
+        "https://sns-webpic-qc.xhscdn.com/202610160003/04a0133ea3aa81afb61f5429a7d502ca/notes_pre_post/1040g3k0326bnui1u4q1g5nm6daug8qkaqnjmsrg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160003/c2731aa45552b29af44a18909f3034e7/notes_pre_post/1040g3k0326bnui1u4q105nm6daug8qkacqfme90!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160003/04a0133ea3aa81afb61f5429a7d502ca/notes_pre_post/1040g3k0326bnui1u4q1g5nm6daug8qkaqnjmsrg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160003/c2731aa45552b29af44a18909f3034e7/notes_pre_post/1040g3k0326bnui1u4q105nm6daug8qkacqfme90!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2110755225107824868",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @bfl_ai: FLUX 3 Image Klein is here.\n\nOpen Weights with the quality of a large frontier model. Customizable and fast.\n\n5.6B parameters a…",
+      "url": "https://x.com/huggingface/status/2110755225107824868",
+      "created_at": "2026-10-15T15:30:36.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 259,
+        "views": 2223
+      }
+    },
+    {
+      "id": "twitter:2110752780767899981",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @bfl_ai: Download the weights: https://t.co/2EY4gXZKKQ\n\nSee more: https://t.co/tjLahqe5P6\n\nRead the blog post: https://t.co/OpzhU8aAyP",
+      "url": "https://x.com/huggingface/status/2110752780767899981",
+      "created_at": "2026-10-15T15:20:53.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 16,
+        "views": 2308
       }
     },
     {
@@ -37,6 +517,43 @@
       }
     },
     {
+      "id": "twitter:2110730573769580551",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @paperswithcodee: LFM2.5-24B-A2B from @liquidai scores 96.75 on IFEval.\n\nIt does that with 2.45B active parameters, out of 24B total.\n\nT…",
+      "url": "https://x.com/huggingface/status/2110730573769580551",
+      "created_at": "2026-10-15T13:52:38.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2
+      }
+    },
+    {
+      "id": "xhs:6ad0d573000000000b005f28",
+      "platform": "xhs",
+      "handle": "5ec66abd0000000001006a8a",
+      "text": "hi大家好，我是Frank，第一次尝试AMA 我相信人可以和AI协同进化，而意识上传会是一切的开始 如果你也因为AI迷茫焦虑过，如果AI注定远远超越人类智慧，我的解法是，用自己的SI分身、用AI强化后的数字版本的自己，来实现A2A协作或者竞争 在寻找：脑科学、认知科学相关专业同学，算法工程师，数据分析师 期待和大家交流！关于NeuroAI、人机系统、数字孪生、虚拟陪伴……@科技薯 @探月具身智能社区 #小红书科技AMA #探月具身智能社区 #AI异类弗兰克 #具身智能 #NeuroAI #意识上传 #意识永藏",
+      "url": "https://www.xiaohongshu.com/user/profile/5ec66abd0000000001006a8a/6ad0d573000000000b005f28?xsec_token=ABkx80yCyVtPq1RKk5-1XmtZvhvM4b1LBLnEmO1LEhLCk=&xsec_source=pc_user",
+      "created_at": "2026-10-15T13:30:27.000Z",
+      "fetched_at": "2026-10-15T16:05:15.056Z",
+      "author": "AI异类弗兰克",
+      "title": "清华创业，在招人，ask me anything～",
+      "metrics": {
+        "collects": 14,
+        "comments": 15,
+        "likes": 45
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610160004/83c5ca00140fda54f11de9b30e442911/notes_pre_post/1040g3k0326bftb59l6005nm6daug8qka7l00m8g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160004/83c5ca00140fda54f11de9b30e442911/notes_pre_post/1040g3k0326bftb59l6005nm6daug8qka7l00m8g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160004/83c5ca00140fda54f11de9b30e442911/notes_pre_post/1040g3k0326bftb59l6005nm6daug8qka7l00m8g!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
       "id": "twitter:2110715601454784965",
       "platform": "twitter",
       "handle": "GoogleDeepMind",
@@ -54,6 +571,216 @@
       "media": [
         "https://pbs.twimg.com/tweet_video_thumb/HUrEkcTXMAAqK5Y.jpg"
       ]
+    },
+    {
+      "id": "twitter:2110703902043652240",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "RT @1vnzh: Cyber defenders have an unfair advantage. They have all the telemetry, and patching will always be easier than discovery + chain…",
+      "url": "https://x.com/JayAlammar/status/2110703902043652240",
+      "created_at": "2026-10-15T12:06:39.000Z",
+      "fetched_at": "2026-10-16T00:06:33.071Z",
+      "author": "Jay Alammar",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 303
+      }
+    },
+    {
+      "id": "xhs:6ad0be1e0000000014031cdf",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "斯坦福大学、Together AI 联合发表新论文《Hybrid Reasoning Agents》，提出一套新Agent推理架构：HybridAgent。 回答一个有意思的问题：为什么 AI 的思考过程，一定要用人类语言表达出来？ 现在的推理模型，无论是解决数学题，还是调用工具完成复杂任务，基本都依赖 Chain-of-Thought（思维链），一个 Token 接着一个 Token 地生成推理内容。 但我们人类思考的时候不总是在脑海里逐字说话，有时候是一种直觉、模糊的概念，甚至是一种难以用语言描述的判断。 AI 有没有可能也这样？ 它让 AI 在潜在空间（Latent Space）中进行内部推理，需要与外部世界交互时，再切换到自然语言。 Agent可以先在潜在空间中思考需要什么信息，然后切换到文本模式调用搜索工具。拿到搜索结果后，再回到潜在空间继续分析，如果需要计算，就切换到文本模式调用 Python。 整个过程就像人在脑海里思考，只有需要查资料、使用工具或者回答问题的时候，才把想法表达出来。 传统大模型通过LM Head将隐藏状态转换成 Token，论文的 HybridLink 增加另一条路径，让隐藏状态经过映射后，直接作为下一步Transformer计算的输入。 研究人员还设计了Continuous Working Memory，通过KV Cache保留文本、潜在推理和工具反馈的上下文，让模型能够跨工具调用延续内部状态。 训练上，则通过HybridSFT和HybridRL，让模型学习什么时候进行潜在推理，什么时候切换到文本模式与外部交互。 实验效果基于Qwen3-Base模型平均性能相对提升10.4%，Token使用量减少35.5%～54.7%，推理速度达到原来1.8～2.6倍，估算解码计算成本降低2.7～3.7倍 今天讨论Thinking Token有多少、思维链有多长，但更多的 Token 并不意味着思考更有效。 未来的Agent，或许可以把更多计算留在内部，只在需要与人类和外部环境交互的时候，才转换成我们能够理解的语言。 语言可能只是 AI 与世界交互的一种接口，而不必成为所有内部推理的载体。 #人工智能 #Agent #HybridAgent #LatentReasoning #ChainOfThought #强化学习 #AI技术前沿 #AI搞学习howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ad0be1e0000000014031cdf?xsec_token=ABkx80yCyVtPq1RKk5-1XmteXF6ShyjAYF_1bsV1PCjoI=&xsec_source=pc_user",
+      "created_at": "2026-10-15T11:50:54.000Z",
+      "fetched_at": "2026-10-15T20:08:28.729Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "斯坦福 HybridAgent：模型混合推理的新路线",
+      "metrics": {
+        "collects": 30,
+        "comments": 7,
+        "likes": 20
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610160407/411ef3d5bc167ba5b981e250c4450d56/spectrum/1040g0k0326bh9llokc4g5p37m4gk4uihfq345fg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/f4c973e650bd070d77467984259ba893/spectrum/1040g0k0326bh9llokc005p37m4gk4uih7vo8d98!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/a9717a023675200b35bd929e5c2b6657/spectrum/1040g0k0326bh9llokc0g5p37m4gk4uih1milmh8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/b619ae68f1c2c01dffe992944624026d/spectrum/1040g0k0326bh9llokc105p37m4gk4uihthjjfso!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/f38c7c5e0f0248b20471fc87182d4f87/spectrum/1040g0k0326bh9llokc1g5p37m4gk4uihcc5vn58!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/55e9127c48c6de1e3d5b9d5365f764d7/spectrum/1040g0k0326bh9llokc205p37m4gk4uihgq9h2to!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/389bf4489ebd433728894496113867c7/spectrum/1040g0k0326bh9llokc2g5p37m4gk4uihaol7n7g!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/91214f9ef97640850b034cf246562981/spectrum/1040g0k0326bh9llokc305p37m4gk4uihskha1h8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/f67aa18f16fb94324c6bbaccdd52992a/spectrum/1040g0k0326bh9llokc3g5p37m4gk4uiha6nlvf8!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/3f874ff259d5c8bc99b587bb9b5d7eb5/spectrum/1040g0k0326bh9llokc405p37m4gk4uihme66530!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/411ef3d5bc167ba5b981e250c4450d56/spectrum/1040g0k0326bh9llokc4g5p37m4gk4uihfq345fg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/f4c973e650bd070d77467984259ba893/spectrum/1040g0k0326bh9llokc005p37m4gk4uih7vo8d98!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2110696529808048500",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "Coding agents (Claude code, codex) -&gt; personal agents (instinct, muse) -&gt; companyOS (???)",
+      "url": "https://x.com/hwchase17/status/2110696529808048500",
+      "created_at": "2026-10-15T11:37:22.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 115,
+        "replies": 122,
+        "retweets": 8,
+        "views": 11522
+      }
+    },
+    {
+      "id": "twitter:2110599965240176876",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @FDavidsonT: We’re months away from AGI and the leisure economy’s about to explode\n\nToday, we’re launching Odessia, an always-on concier…",
+      "url": "https://x.com/hwchase17/status/2110599965240176876",
+      "created_at": "2026-10-15T05:13:39.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 117,
+        "views": 824
+      }
+    },
+    {
+      "id": "twitter:2110549041331482929",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @amelia_metters: @jerryjliu0 @UseCorgi @imaanxsultan @llama_index Woo!",
+      "url": "https://x.com/jerryjliu0/status/2110549041331482929",
+      "created_at": "2026-10-15T01:51:18.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 428
+      }
+    },
+    {
+      "id": "twitter:2110531237538603200",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @PrimeIntellect: Open superintelligence is built in the open\n\nKickoff party for Open Source AI Week with @huggingface https://t.co/VJTCt…",
+      "url": "https://x.com/huggingface/status/2110531237538603200",
+      "created_at": "2026-10-15T00:40:33.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 19,
+        "views": 2703
+      }
+    },
+    {
+      "id": "xhs:6acfa499000000001802ce92",
+      "platform": "xhs",
+      "handle": "6467b1210000000010027a51",
+      "text": "Google 又发了一篇关于 Agent 自进化的论文《Evo²: Evolving the Evolver through Weight-Harness Co-Evolution》 相较不少 Agent 自进化研究，Evo² 往前走了一步：既然 Agent 可以自己改进 Harness，那么负责改进 Harness 的模型，能不能也在这个过程中变得更聪明？ 过去，Agent 自进化主要有两条路线。 一条是模型权重进化，通过 SFT、RL 等方式，让模型从经验中学习。 另一条是 Harness 进化，保持模型权重不变，通过修改 Prompt、工具调用、上下文管理、执行流程等提升 Agent 能力。 Evo² 的创新，就是把这两条路线结合起来。研究者设计了两个角色： 1. Proposer（提案者）：负责修改 Harness，提出优化方案。 2. Reflector（反思者）：分析修改后的执行结果，总结经验，指导下一轮优化。 两个角色共享模型权重，形成不断迭代的协作机制。 其中还有个有意思的设计Crossover Searching：假设一条进化路线发现更好的错误恢复机制，另一条发现了更好的上下文管理策略，Evo²可以借鉴不同分支的有效经验，尝试组合出更好的 Harness。 还有EvoTIDE：每次 Harness 修改产生的代码变更、执行轨迹、成功与失败反馈，都会成为训练数据，通过 SFT 和交替 GRPO，反过来训练 Proposer 和 Reflector。 于是形成了一个闭环：模型改进 Harness->产生执行反馈->反馈训练模型->更强的模型继续改进Harness。 效果在 Polyglot 和 SWE-bench Verified 都有提升。 当然，这不意味着 Agent 可以无限自我进化。进化过程依然需要可靠的评测环境，也需要付出额外的搜索和训练成本。 但这篇论文揭示了一个值得关注的方向：未来 Agent 自进化可能积累两种资产，一种是不断优化的 Harness，另一种是越来越擅长优化 Harness 的模型。 从让 Agent 自己变好，到让 Agent 学会如何让自己变好。 这可能是 Agent 自进化下一阶段非常值得探索的方向。 #AIAgent #AgentHarness #自进化 #Evo2 #自进化 #论文解读 #AI进化生活howto",
+      "url": "https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6acfa499000000001802ce92?xsec_token=ABqUGBEXkaMvh7UhT7EAT8qfJDnL_nca1fLc1gUbe7ai8=&xsec_source=pc_user",
+      "created_at": "2026-10-14T23:51:00.000Z",
+      "fetched_at": "2026-10-15T20:08:28.730Z",
+      "author": "AI拯救打工人（幻觉版）",
+      "title": "Google Evo²：让模型和Harness共同自进化",
+      "metrics": {
+        "collects": 199,
+        "comments": 11,
+        "likes": 142
+      },
+      "media": [
+        "https://sns-webpic-qc.xhscdn.com/202610160407/6d4ad772c903d13b9c57f989000775a7/spectrum/1040g0k0326aetqk1583g5p37m4gk4uihlgkh9tg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/4eee8b5b1fddf358932575f3a2f2b794/spectrum/1040g0k0326aetqk158005p37m4gk4uihur9m5kg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/30e156ba351eaaf994bad3871bcc02b1/spectrum/1040g0k0326aetqk1580g5p37m4gk4uihhnfi300!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/e66df158ef307c41dfa7f2b78c6430f9/spectrum/1040g0k0326aetqk158105p37m4gk4uihpk64718!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/4e8ff81819858a0881870f9e55aebd6c/spectrum/1040g0k0326aetqk1581g5p37m4gk4uihb4ik4q0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/06491ce2f1ce3acff19d8d5a6fcd1e03/spectrum/1040g0k0326aetqk158205p37m4gk4uihugpf0t0!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/9dca49dfb34a75a779d7ac7d2c105da8/spectrum/1040g0k0326aetqk1582g5p37m4gk4uih5ppg348!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/64fb1eab23a8797a8fb724d9a0c6014d/spectrum/1040g0k0326aetqk158305p37m4gk4uihtj3vdko!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/6d4ad772c903d13b9c57f989000775a7/spectrum/1040g0k0326aetqk1583g5p37m4gk4uihlgkh9tg!nd_dft_wlteh_webp_3",
+        "https://sns-webpic-qc.xhscdn.com/202610160407/4eee8b5b1fddf358932575f3a2f2b794/spectrum/1040g0k0326aetqk158005p37m4gk4uihur9m5kg!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2110500367956099390",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: my biggest philosophy about posting on here is \"don't be switzerland\"\n\nbeing neutral is SO boring. i feel like everyone o…",
+      "url": "https://x.com/jerryjliu0/status/2110500367956099390",
+      "created_at": "2026-10-14T22:37:53.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 415
+      }
+    },
+    {
+      "id": "twitter:2110490492484087949",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @UseCorgi: @jerryjliu0 @imaanxsultan @llama_index 🦙",
+      "url": "https://x.com/jerryjliu0/status/2110490492484087949",
+      "created_at": "2026-10-14T21:58:39.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 388
+      }
+    },
+    {
+      "id": "twitter:2110490452537581919",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @zjearbear: Startups are built on relationships. That’s why IRL events are a core part of our growth strategy at @lemma_ .\n\nWe hosted ou…",
+      "url": "https://x.com/jerryjliu0/status/2110490452537581919",
+      "created_at": "2026-10-14T21:58:29.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 368
+      }
+    },
+    {
+      "id": "twitter:2110422448051265875",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: i've been making vids on tiktok since high school and i kid you not, it was the highlight for every place i interviewed w…",
+      "url": "https://x.com/jerryjliu0/status/2110422448051265875",
+      "created_at": "2026-10-14T17:28:16.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 429
+      }
     },
     {
       "id": "twitter:2110421871103730104",
@@ -107,6 +834,77 @@
       ]
     },
     {
+      "id": "twitter:2110412264692166729",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: 900 people have rsvped to the chai party im throwing tomorrow lol https://t.co/3XbDsDzVEk",
+      "url": "https://x.com/jerryjliu0/status/2110412264692166729",
+      "created_at": "2026-10-14T16:47:48.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 425
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUmvWLZbgAAgHD8.png"
+      ]
+    },
+    {
+      "id": "twitter:2110408276919930914",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: There are more document parsing models than ever, and they’re getting harder to tell apart.\n\nThat’s why we built OpenDocRo…",
+      "url": "https://x.com/jerryjliu0/status/2110408276919930914",
+      "created_at": "2026-10-14T16:31:57.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 292
+      }
+    },
+    {
+      "id": "twitter:2110405652481019992",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "RT @nickfrosst: turns out you can get frontier performance by having a swarm of tiny models working on the problem together. \n\ngreat work f…",
+      "url": "https://x.com/JayAlammar/status/2110405652481019992",
+      "created_at": "2026-10-14T16:21:31.000Z",
+      "fetched_at": "2026-10-16T00:06:33.071Z",
+      "author": "Jay Alammar",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 40,
+        "views": 320
+      }
+    },
+    {
+      "id": "twitter:2110398787957231897",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @alexandr_wang: muse wonder sota on hard document ocr tasks \n\nthe more you know!",
+      "url": "https://x.com/jerryjliu0/status/2110398787957231897",
+      "created_at": "2026-10-14T15:54:15.000Z",
+      "fetched_at": "2026-10-16T16:04:29.830Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 339
+      }
+    },
+    {
       "id": "twitter:2110398339690999832",
       "platform": "twitter",
       "handle": "emollick",
@@ -120,6 +918,22 @@
         "replies": 12,
         "retweets": 0,
         "views": 2853
+      }
+    },
+    {
+      "id": "twitter:2110396712481444329",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "How ML research shifted between 2025 and 2026:\nBeautiful Neurips research map from @askalphaxiv using @cohere Embed 5 embeddings!",
+      "url": "https://x.com/JayAlammar/status/2110396712481444329",
+      "created_at": "2026-10-14T15:46:00.000Z",
+      "fetched_at": "2026-10-16T00:06:33.071Z",
+      "author": "Jay Alammar",
+      "metrics": {
+        "likes": 158,
+        "replies": 2,
+        "retweets": 12,
+        "views": 9540
       }
     },
     {
@@ -188,6 +1002,23 @@
       }
     },
     {
+      "id": "twitter:2110378385906036749",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @JoshARosen: As I’ve been saying, LangChain is going to be the leader in composable AI because their tech is perfect for stitching toget…",
+      "url": "https://x.com/hwchase17/status/2110378385906036749",
+      "created_at": "2026-10-14T14:33:10.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 826
+      }
+    },
+    {
       "id": "twitter:2110377155079385477",
       "platform": "twitter",
       "handle": "fchollet",
@@ -202,6 +1033,93 @@
         "retweets": 848,
         "views": 3141399
       }
+    },
+    {
+      "id": "twitter:2110375481895997449",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @allen_ai: We're co-hosting Open Together with @huggingface!\n\nJoin the open AI community at The Midway in San Francisco on Oct 16 to kic…",
+      "url": "https://x.com/huggingface/status/2110375481895997449",
+      "created_at": "2026-10-14T14:21:38.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 2970
+      }
+    },
+    {
+      "id": "twitter:2110375332880490967",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @MaziyarPanahi: 70,111 CT scans trained this model. one NVIDIA GPU turned a full chest CT into a radiology report in under 30 seconds 🔥…",
+      "url": "https://x.com/huggingface/status/2110375332880490967",
+      "created_at": "2026-10-14T14:21:02.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 58,
+        "views": 2692
+      }
+    },
+    {
+      "id": "twitter:2110374745061343660",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @adithya_s_k: Introducing the largest open-source multilingual, multimodal RL environments 🌍\n\n📄 OCR: 1M+ document pages in 22 languages…",
+      "url": "https://x.com/huggingface/status/2110374745061343660",
+      "created_at": "2026-10-14T14:18:42.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 83,
+        "views": 2829
+      }
+    },
+    {
+      "id": "twitter:2110361468893884443",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "RT @jonat_li: it’s time to start scaling test time credit card limit",
+      "url": "https://x.com/JayAlammar/status/2110361468893884443",
+      "created_at": "2026-10-14T13:25:57.000Z",
+      "fetched_at": "2026-10-16T00:06:33.071Z",
+      "author": "Jay Alammar",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 340
+      }
+    },
+    {
+      "id": "twitter:2110350304613114226",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "Learn about how to get multipliers in local LLM speed-ups using speculative decoding in this livestream with @mervenoyann, @MaartenGr and @_EldarKurtic \n\nhttps://t.co/tFexgaLcT5 https://t.co/Pad59uMr8J",
+      "url": "https://x.com/huggingface/status/2110350304613114226",
+      "created_at": "2026-10-14T12:41:35.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "metrics": {
+        "likes": 157,
+        "replies": 70,
+        "retweets": 35,
+        "views": 30411
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUl4UU-XYAA89-S.jpg"
+      ]
     },
     {
       "id": "twitter:2110347370152001901",
@@ -375,6 +1293,40 @@
       }
     },
     {
+      "id": "twitter:2110105400058220955",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @NVIDIARTXSpark: llama.cpp now has a Windows app 🦙\n\nLlama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX…",
+      "url": "https://x.com/huggingface/status/2110105400058220955",
+      "created_at": "2026-10-13T20:28:25.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 82,
+        "views": 2837
+      }
+    },
+    {
+      "id": "twitter:2110102089775116308",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @ankush_gola11: Much of the valuable information in agent traces isn’t directly filterable with existing techniques like full text searc…",
+      "url": "https://x.com/hwchase17/status/2110102089775116308",
+      "created_at": "2026-10-13T20:15:16.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 732
+      }
+    },
+    {
       "id": "twitter:2110091019299811395",
       "platform": "twitter",
       "handle": "EMostaque",
@@ -442,6 +1394,23 @@
       "media": [
         "https://pbs.twimg.com/media/HUiDGGjXkAEkJi6.jpg"
       ]
+    },
+    {
+      "id": "twitter:2110075331331661892",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @linoy_tsaban: New H3 character swap LoRA🔥\namazing work from @Alissonerdx\n\nLoRA: https://t.co/ggpfdCBlST\nSpace:\nhttps://t.co/81Ub3URxrm…",
+      "url": "https://x.com/huggingface/status/2110075331331661892",
+      "created_at": "2026-10-13T18:28:56.000Z",
+      "fetched_at": "2026-10-15T20:05:37.080Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 56,
+        "views": 3026
+      }
     },
     {
       "id": "twitter:2110067750026739830",
@@ -662,6 +1631,22 @@
       }
     },
     {
+      "id": "twitter:2110041909284745578",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "router lives in the harness, not a gateway, bc the harness knows the task\n\nblog: https://t.co/k9b306ikK1\n\nhttps://t.co/4FggNo00jY",
+      "url": "https://x.com/hwchase17/status/2110041909284745578",
+      "created_at": "2026-10-13T16:16:08.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 147,
+        "replies": 69,
+        "retweets": 17,
+        "views": 10239
+      }
+    },
+    {
       "id": "twitter:2110041871594516951",
       "platform": "twitter",
       "handle": "danshipper",
@@ -857,6 +1842,43 @@
       ]
     },
     {
+      "id": "twitter:2110034110076834194",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @andrii_liubivyi: Someone form @huggingface  could you do it in reallife?\nMicroduck fight\nhttps://t.co/Vmwwu3LWOq https://t.co/fdTK1IXw5s",
+      "url": "https://x.com/huggingface/status/2110034110076834194",
+      "created_at": "2026-10-13T15:45:09.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 2990
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110032099633659906/img/UQBMxeayMIBXMUM-.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110033836901831077",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: You don't want to miss this if you're in SF Friday. Hearing there are A LOT of surprises! https://t.co/GK5eWzlcyT http…",
+      "url": "https://x.com/huggingface/status/2110033836901831077",
+      "created_at": "2026-10-13T15:44:03.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 2560
+      }
+    },
+    {
       "id": "twitter:2110030560429244461",
       "platform": "twitter",
       "handle": "danshipper",
@@ -871,6 +1893,23 @@
         "replies": 0,
         "retweets": 1,
         "views": 723
+      }
+    },
+    {
+      "id": "twitter:2110026421955665985",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @LangChain: 🔎 Announced at Interrupt: AI Search in LangSmith\n\nYou used to need an evaluator or read hours of conversations to find trace…",
+      "url": "https://x.com/hwchase17/status/2110026421955665985",
+      "created_at": "2026-10-13T15:14:36.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 12,
+        "views": 582
       }
     },
     {
@@ -978,6 +2017,23 @@
       }
     },
     {
+      "id": "twitter:2109988989826449663",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @tomaarsen: 📈@Google's EmbeddingGemma2 is looking to be a huge success!\n\nAfter only a week, it has surpasses EG1's likes to become the 4…",
+      "url": "https://x.com/huggingface/status/2109988989826449663",
+      "created_at": "2026-10-13T12:45:51.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 16,
+        "views": 3242
+      }
+    },
+    {
       "id": "xhs:6ace25650000000018010fe3",
       "platform": "xhs",
       "handle": "5ec66abd0000000001006a8a",
@@ -1034,6 +2090,22 @@
       ]
     },
     {
+      "id": "twitter:2109938151472890070",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "we are thinking a lot about how to make deepagents more async native. specifically about making async subagents work better/more prominent\n\none key question is how does a finished subagent \"notify\" the parent agent? some default behaviors we're considering for when the parent is still running:\n\n1/ interrupt parent run, apply subagent update, continue (basically same as \"steer\")\n\n2/ wait for parent run to finish, then batch subagent update with any other new messages (basically same as \"queue\")\n\nanother question is how to handle human in the loop? what if main agent is not running but paused and waiting explicit human response to an action?\n\na/ wait for human to respond, then batch the subagent update with that\n\nb/ resume thread (which would cancel the human interrupt) with the subagent update (thread could then re-ask for the same human approval)\n\nany other options we're missing?",
+      "url": "https://x.com/hwchase17/status/2109938151472890070",
+      "created_at": "2026-10-13T09:23:50.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 129,
+        "replies": 132,
+        "retweets": 5,
+        "views": 19808
+      }
+    },
+    {
       "id": "xhs:6acdf7dc000000001a024ed2",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -1058,6 +2130,57 @@
         "https://sns-webpic-qc.xhscdn.com/202610150409/60c24cbf7dbb4410379a7663c2c96356/spectrum/1040g0k03268qi1e744305p37m4gk4uihgkk30oo!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610150409/4c7ebc6d3d0b0f7b335702625c945958/spectrum/1040g0k03268qi1e744005p37m4gk4uihr0kfae0!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2109909023491547600",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ariG23498: I was finally able to push the kernels cookbook out!\n\nWhat we cover here:\n&gt; using HF kernels from the Hub\n&gt; hardcoding trito…",
+      "url": "https://x.com/huggingface/status/2109909023491547600",
+      "created_at": "2026-10-13T07:28:06.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 3414
+      }
+    },
+    {
+      "id": "twitter:2109896376033137125",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @NielsRogge: Decision Model (also called System One model or typed decision model) has been added as a method to Papers with Code\n\nExplo…",
+      "url": "https://x.com/huggingface/status/2109896376033137125",
+      "created_at": "2026-10-13T06:37:50.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 29,
+        "views": 3407
+      }
+    },
+    {
+      "id": "twitter:2109870234610094283",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @JoshARosen: While we’re talking about agent tracing, I couldn’t help but mention that @LangChain needed to invent an entirely new datab…",
+      "url": "https://x.com/hwchase17/status/2109870234610094283",
+      "created_at": "2026-10-13T04:53:58.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 11,
+        "views": 906
+      }
     },
     {
       "id": "twitter:2109851162518425779",
@@ -1372,6 +2495,91 @@
       }
     },
     {
+      "id": "twitter:2109752742369529879",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @Vtrivedy10: - deepagents is durable by design - built on langgraph with state machine primitives hardener over years\n\n- deepagents is e…",
+      "url": "https://x.com/hwchase17/status/2109752742369529879",
+      "created_at": "2026-10-12T21:07:05.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 767
+      }
+    },
+    {
+      "id": "twitter:2109751908525064612",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @Zai_org: Introducing GLM-Legal\n\nBuilt on GLM-5.3-Flash, GLM-Legal matches frontier models on mainstream legal benchmarks.\n\nDesigned for…",
+      "url": "https://x.com/huggingface/status/2109751908525064612",
+      "created_at": "2026-10-12T21:03:46.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 570,
+        "views": 2758
+      }
+    },
+    {
+      "id": "twitter:2109751840812486951",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @mrm8488: 🧭 New model: Typed Decision, built on EmbeddingGemma 2\n\nGive it a state + any schema of questions → typed, calibrated answers…",
+      "url": "https://x.com/huggingface/status/2109751840812486951",
+      "created_at": "2026-10-12T21:03:30.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 87,
+        "views": 2589
+      }
+    },
+    {
+      "id": "twitter:2109751823666209102",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: We turned @OpenAI's math problems into open-source RL environments on @huggingface!\n\nEarly and rough (the verifier onl…",
+      "url": "https://x.com/huggingface/status/2109751823666209102",
+      "created_at": "2026-10-12T21:03:26.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 170,
+        "views": 2239
+      }
+    },
+    {
+      "id": "twitter:2109751795371184206",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @jundotkim: All my oQe models have been updated with Improved oQe Quantization, available from oMLX 0.7.1. Compared with the previous oQ…",
+      "url": "https://x.com/huggingface/status/2109751795371184206",
+      "created_at": "2026-10-12T21:03:19.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 21,
+        "views": 2624
+      }
+    },
+    {
       "id": "twitter:2109749450235318290",
       "platform": "twitter",
       "handle": "chrmanning",
@@ -1406,6 +2614,23 @@
       }
     },
     {
+      "id": "twitter:2109743435842207787",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @sydneyrunkle: deepagents just hit 30k stars on github! deepagents is great for building agents that do complex work.\n\nthey manage conte…",
+      "url": "https://x.com/hwchase17/status/2109743435842207787",
+      "created_at": "2026-10-12T20:30:06.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 13,
+        "views": 786
+      }
+    },
+    {
       "id": "twitter:2109738344011972893",
       "platform": "twitter",
       "handle": "AravSrinivas",
@@ -1419,6 +2644,23 @@
         "replies": 75,
         "retweets": 40,
         "views": 34757
+      }
+    },
+    {
+      "id": "twitter:2109736118233280742",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @JoshARosen: https://t.co/N1cpmx12SY",
+      "url": "https://x.com/hwchase17/status/2109736118233280742",
+      "created_at": "2026-10-12T20:01:02.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 52,
+        "views": 794
       }
     },
     {
@@ -1522,6 +2764,114 @@
       }
     },
     {
+      "id": "twitter:2109702693690437841",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @LysandreJik: Fun addition to transformers serve: you can now turn any of the 250 LLM &amp; VLM model into a JEV-like decision model.\n\n/v1/s…",
+      "url": "https://x.com/huggingface/status/2109702693690437841",
+      "created_at": "2026-10-12T17:48:13.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 13,
+        "views": 3084
+      }
+    },
+    {
+      "id": "twitter:2109702651315466454",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @pollenrobotics: The Microduck Arena is live!\n\nTrain your duck with RL, publish it on @huggingface, and race it in the 2 m Sprint, Hill…",
+      "url": "https://x.com/huggingface/status/2109702651315466454",
+      "created_at": "2026-10-12T17:48:03.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 39,
+        "views": 2678
+      }
+    },
+    {
+      "id": "twitter:2109702617207099523",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @_marcsun: Your LLM knows the answer before it writes a single token. \n\nSo we stopped making it write. \n\ntransformers serve now turns an…",
+      "url": "https://x.com/huggingface/status/2109702617207099523",
+      "created_at": "2026-10-12T17:47:54.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 2768
+      }
+    },
+    {
+      "id": "twitter:2109702590770364678",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @Saboo_Shubham_: This is Google’s Embedding Gemma 2 🤯\n\n100% free and local running on Mac. https://t.co/uLzHHJdC9I",
+      "url": "https://x.com/huggingface/status/2109702590770364678",
+      "created_at": "2026-10-12T17:47:48.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 130,
+        "views": 2669
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109044318212173824/img/kG7UZe8XEPGcYtK4.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109701835632066804",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @antoinepirrone: Here's 3 minutes of uncut Microduck testing on carpet https://t.co/ZhJjFF7x7p",
+      "url": "https://x.com/huggingface/status/2109701835632066804",
+      "created_at": "2026-10-12T17:44:48.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 203,
+        "views": 3020
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109667155989938176/img/ANvp3c7tU1VW097M.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109692023976710438",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @allen_ai: This Friday, meet the open source AI community at Open Together, co-hosted with @huggingface.\n\nJoin us at The Midway in SF on…",
+      "url": "https://x.com/huggingface/status/2109692023976710438",
+      "created_at": "2026-10-12T17:05:49.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 3038
+      }
+    },
+    {
       "id": "twitter:2109691057147724106",
       "platform": "twitter",
       "handle": "AravSrinivas",
@@ -1588,6 +2938,57 @@
       }
     },
     {
+      "id": "twitter:2109677172063707152",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @EmmaScharfmann: 🧬 🤗 A new atlas of microproteins in the human brain is now @huggingface! \nIt brings together more than 1,000 microprote…",
+      "url": "https://x.com/huggingface/status/2109677172063707152",
+      "created_at": "2026-10-12T16:06:48.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 28,
+        "views": 3240
+      }
+    },
+    {
+      "id": "twitter:2109677040123441487",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ClementDelangue: If you’re a researcher, please consider sharing your RL environments openly! Something you built for one experiment co…",
+      "url": "https://x.com/huggingface/status/2109677040123441487",
+      "created_at": "2026-10-12T16:06:16.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 66,
+        "views": 2521
+      }
+    },
+    {
+      "id": "twitter:2109677030132568065",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @yb2698: Pi harness optimized for Qwen models? 👀\n\nWe tried to optimize the Pi harness for Qwen model series by trying to tweaking variou…",
+      "url": "https://x.com/huggingface/status/2109677030132568065",
+      "created_at": "2026-10-12T16:06:14.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 15,
+        "views": 2877
+      }
+    },
+    {
       "id": "twitter:2109675767185711555",
       "platform": "twitter",
       "handle": "AravSrinivas",
@@ -1640,6 +3041,23 @@
       }
     },
     {
+      "id": "twitter:2109664208203788783",
+      "platform": "twitter",
+      "handle": "JayAlammar",
+      "text": "RT @MaartenGr: Over 300 original figures, hundreds of iterations, two years of hard work... and it's finally here!\n\nAn Illustrated Guide to…",
+      "url": "https://x.com/JayAlammar/status/2109664208203788783",
+      "created_at": "2026-10-12T15:15:17.000Z",
+      "fetched_at": "2026-10-16T00:06:33.071Z",
+      "author": "Jay Alammar",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 351
+      }
+    },
+    {
       "id": "twitter:2109654682021097828",
       "platform": "twitter",
       "handle": "btibor91",
@@ -1653,6 +3071,56 @@
         "replies": 11,
         "retweets": 3,
         "views": 7890
+      }
+    },
+    {
+      "id": "twitter:2109646481422750068",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @halcyonrayes: 3D worlds have been all over the internet 🌐 lately, so we put together the best ones across many models, for you to play…",
+      "url": "https://x.com/huggingface/status/2109646481422750068",
+      "created_at": "2026-10-12T14:04:51.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 12,
+        "views": 3307
+      }
+    },
+    {
+      "id": "twitter:2109613037703364996",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @Shashikant86: 🔥 Official London 🇬🇧 Agent Week is here.\n\n🗓️ Tue 13 Oct: Interrupt by @LangChain at Outernet London. @hwchase17 and the t…",
+      "url": "https://x.com/hwchase17/status/2109613037703364996",
+      "created_at": "2026-10-12T11:51:57.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 935
+      }
+    },
+    {
+      "id": "twitter:2109585768649990218",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "Ha gave this take to our team last week\n\nWill share some (very basic) stuff I vibe coded around this shortly\n\nLots to be explored here!",
+      "url": "https://x.com/hwchase17/status/2109585768649990218",
+      "created_at": "2026-10-12T10:03:36.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 254,
+        "replies": 58,
+        "retweets": 10,
+        "views": 40987
       }
     },
     {
@@ -1858,6 +3326,23 @@
       }
     },
     {
+      "id": "twitter:2109349132943192556",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @austinbv: Agents work in many modalities, similar to people, our (human) work is preformed on behalf of ourselves, our teams, or our or…",
+      "url": "https://x.com/hwchase17/status/2109349132943192556",
+      "created_at": "2026-10-11T18:23:17.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 864
+      }
+    },
+    {
       "id": "twitter:2109308431350071474",
       "platform": "twitter",
       "handle": "AravSrinivas",
@@ -1872,6 +3357,91 @@
         "replies": 0,
         "retweets": 5,
         "views": 3219
+      }
+    },
+    {
+      "id": "twitter:2109308303784181915",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "RT @assaf_elovic: Gpt researcher just crossed 30k stars. What excites me the most is that since early 2025 it’s been largely driven, built…",
+      "url": "https://x.com/hwchase17/status/2109308303784181915",
+      "created_at": "2026-10-11T15:41:03.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 924
+      }
+    },
+    {
+      "id": "twitter:2109307704346853833",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "this is the summary slide that describes how all agents in the future will look\n\nvery much aligns with our vision for managed deepagents https://t.co/VFsgW1OFjF\n\ndurable workflows: builds on LangGraph/LSD https://t.co/SOJPBqx8q2\n\ncan use a computer: uses Langsmith Sandboxes https://t.co/oKZ3n6dhtK\n\nmemory and skills: langsmith context hub https://t.co/rgD1p31nCb\n\nTriggers and scheduled jobs: schedules https://t.co/w6r7Cfr8Xx\n\nconnectors and auth https://t.co/kTfxQbm7al \n\ntext and voice channels https://t.co/G2iy7jMeKB\n\npayments and identity - only one missing!\n\nevals https://t.co/mcNsaWhTt4\n\nobservability: massively, through langsmith https://t.co/SdVkVnjR8y",
+      "url": "https://x.com/hwchase17/status/2109307704346853833",
+      "created_at": "2026-10-11T15:38:40.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 389,
+        "replies": 57,
+        "retweets": 40,
+        "views": 22609
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUXDOt7XwAE3wZL.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109297234864971878",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "this is a great talk\n\nif you want to just follow along in slides, extracted screenshots here to make it easy\n\nwriting up thoughts as we speak\n\nhttps://t.co/e95nUE4Un4",
+      "url": "https://x.com/hwchase17/status/2109297234864971878",
+      "created_at": "2026-10-11T14:57:04.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 266,
+        "replies": 18,
+        "retweets": 27,
+        "views": 30079
+      }
+    },
+    {
+      "id": "twitter:2109270222163066890",
+      "platform": "twitter",
+      "handle": "hwchase17",
+      "text": "historically, most of our internal agents (openswe for coding, gtm agent for outreach) have acted \"on behalf of\" whoever is using them\n\nbut as they start to do more proactive, background work... I wonder if that should change. eg i really like the idea Hone put forward of agents that are striving towards a goal (https://t.co/L8LHdb27vb)... these kind of seem like coworkers, and i wonder if they should be treated as such",
+      "url": "https://x.com/hwchase17/status/2109270222163066890",
+      "created_at": "2026-10-11T13:09:43.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Harrison Chase",
+      "metrics": {
+        "likes": 108,
+        "replies": 51,
+        "retweets": 1,
+        "views": 19025
+      }
+    },
+    {
+      "id": "twitter:2109251686929969400",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @ngxson: Someone on Reddit made a searching app that runs on EmbeddingGemma 2 🤯\n\nMuch better than MacOS's default Spotlight 🔥 https://t.…",
+      "url": "https://x.com/huggingface/status/2109251686929969400",
+      "created_at": "2026-10-11T11:56:04.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 160,
+        "views": 3536
       }
     },
     {
@@ -2268,6 +3838,23 @@
       ]
     },
     {
+      "id": "twitter:2108941696998289599",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @MaziyarPanahi: SAM 3.1 + DINOv3 from @AIatMeta is a crazy combo 🔥\n\nit can even hold onto surgical tools while a forearm sweeps over the…",
+      "url": "https://x.com/huggingface/status/2108941696998289599",
+      "created_at": "2026-10-10T15:24:17.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 42,
+        "views": 3605
+      }
+    },
+    {
       "id": "twitter:2108917380600791463",
       "platform": "twitter",
       "handle": "op7418",
@@ -2423,6 +4010,23 @@
       "media": [
         "https://pbs.twimg.com/media/HUPE6u9XwAA0SRQ.jpg"
       ]
+    },
+    {
+      "id": "twitter:2108733901237813582",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @jeffboudier: All of open source AI is coming together 🤗\n\nTGIF and Thanks to Sponsors @arcee_ai @reflection_ai \nand Co-Hosts @allen_ai @…",
+      "url": "https://x.com/huggingface/status/2108733901237813582",
+      "created_at": "2026-10-10T01:38:35.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 3319
+      }
     },
     {
       "id": "twitter:2108728308951289932",
@@ -2828,6 +4432,23 @@
         "replies": 0,
         "retweets": 1,
         "views": 219
+      }
+    },
+    {
+      "id": "twitter:2108631575915299185",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @inteldevs: Bay Area AI builders:\n\nOpen source demonstrates what's possible when builders collaborate to develop, improve, and share new…",
+      "url": "https://x.com/huggingface/status/2108631575915299185",
+      "created_at": "2026-10-09T18:51:58.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 3254
       }
     },
     {
@@ -3368,6 +4989,23 @@
         "https://sns-webpic-qc.xhscdn.com/202610100403/988212d22f43c5a340dbf1ef87ae0d46/spectrum/1040g0k03263m1rguk64g5p37m4gk4uih5f35rko!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610100403/580739f17dd4d906ac9ec62be9ac704b/spectrum/1040g0k03263m1rguk6005p37m4gk4uiht7du9ao!nd_dft_wlteh_webp_3"
       ]
+    },
+    {
+      "id": "twitter:2108476632121897360",
+      "platform": "twitter",
+      "handle": "huggingface",
+      "text": "RT @QGallouedec: TRL v1.15 is out. Our biggest optimization ever.\n\nFused LM head, on by default:\n\n→ up to 82% less peak VRAM\n→ 7x longer se…",
+      "url": "https://x.com/huggingface/status/2108476632121897360",
+      "created_at": "2026-10-09T08:36:17.000Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
+      "author": "Hugging Face",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 17,
+        "views": 3509
+      }
     },
     {
       "id": "twitter:2108474622966444102",
@@ -3983,14 +5621,14 @@
       "text": "RT @ClementDelangue: We urgently need more public traces of AI agents attacking and defending systems. Defenders can’t learn from what they…",
       "url": "https://x.com/huggingface/status/2108296444662910980",
       "created_at": "2026-10-08T20:40:17.000Z",
-      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
       "author": "Hugging Face",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 128,
-        "views": 1997
+        "retweets": 139,
+        "views": 2590
       }
     },
     {
@@ -4000,14 +5638,14 @@
       "text": "RT @DynamicWebPaige: 🤗💎 Such an exciting week for open-source, congrats to the @GoogleGemma @GoogleDeepMind teams!\n\nThe @huggingface demos…",
       "url": "https://x.com/huggingface/status/2108296348206330179",
       "created_at": "2026-10-08T20:39:54.000Z",
-      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
       "author": "Hugging Face",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 7,
-        "views": 2019
+        "views": 2686
       }
     },
     {
@@ -4017,14 +5655,14 @@
       "text": "RT @matth_lapeyre: We did not know how long Microduck would actually last on battery \n\nWe had thermal management issues with our Radxa prot…",
       "url": "https://x.com/huggingface/status/2108296055884231162",
       "created_at": "2026-10-08T20:38:44.000Z",
-      "fetched_at": "2026-10-09T05:59:08.196Z",
+      "fetched_at": "2026-10-15T20:05:37.081Z",
       "author": "Hugging Face",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 22,
-        "views": 2171
+        "retweets": 38,
+        "views": 2863
       }
     },
     {
@@ -6537,13 +8175,13 @@
       "text": "Figure 1-20 is the most important figure out of the 330+ in An Illustrated Guide to AI Agents. \n\n1- It shows what today's LLM-based AI agents are composed of, including their user and environment loops.\n\n2- It is also therefore a table of contents for Part 1: Agent Fundamentals, showing where each of the key components is explained in details.\n\nRead it here:\nAmazon: https://t.co/0dX0Js2IP8\nO'Reilly: https://t.co/rrf0n2l3QG\nPDF e-book: https://t.co/AThVjkVkB4",
       "url": "https://x.com/JayAlammar/status/2107827850170495107",
       "created_at": "2026-10-07T13:38:15.000Z",
-      "fetched_at": "2026-10-09T16:00:57.770Z",
+      "fetched_at": "2026-10-16T00:06:33.071Z",
       "author": "Jay Alammar",
       "metrics": {
-        "likes": 237,
+        "likes": 238,
         "replies": 6,
-        "retweets": 35,
-        "views": 12644
+        "retweets": 36,
+        "views": 13109
       },
       "media": [
         "https://pbs.twimg.com/media/HUCAZrkWoAAeRzr.jpg"
@@ -7094,14 +8732,14 @@
       "text": "RT @OpenAI: We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with t…",
       "url": "https://x.com/lilianweng/status/2107612747223674921",
       "created_at": "2026-10-06T23:23:31.000Z",
-      "fetched_at": "2026-10-09T20:02:27.306Z",
+      "fetched_at": "2026-10-16T20:09:37.113Z",
       "author": "Lilian Weng",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 6261,
-        "views": 935
+        "retweets": 6318,
+        "views": 974
       }
     },
     {

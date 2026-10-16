@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 08:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:23:20 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Harrison Chase：Most of the interesting agent harness work is happening at intersection of …</title>
+      <link>https://x.com/hwchase17/status/2110813795245249018</link>
+      <guid isPermaLink="false">twitter:2110813795245249018</guid>
+      <pubDate>Thu, 15 Oct 2026 19:23:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Most of the interesting agent harness work is happening at intersection of harness and infra:<br /><br />1/ dreaming <br />2/ async subagents<br />3/ heartbeats<br />4/ letting agent schedule reminders<br /><br />Part of reason im so bullish on managed agents platforms!<br /><br />All of these in managed deep agents!</p><p><a href="https://x.com/hwchase17/status/2110813795245249018">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: Managed Deep Agents can read the files people share and send…</title>
+      <link>https://x.com/hwchase17/status/2110788261589434596</link>
+      <guid isPermaLink="false">twitter:2110788261589434596</guid>
+      <pubDate>Thu, 15 Oct 2026 17:41:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: Managed Deep Agents can read the files people share and send files back where the conversation already is. It feels like mag…</p><p><a href="https://x.com/hwchase17/status/2110788261589434596">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：Coding agents (Claude code, codex) -&amp;gt; personal agents (instinct, muse) -…</title>
+      <link>https://x.com/hwchase17/status/2110696529808048500</link>
+      <guid isPermaLink="false">twitter:2110696529808048500</guid>
+      <pubDate>Thu, 15 Oct 2026 11:37:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Coding agents (Claude code, codex) -&amp;gt; personal agents (instinct, muse) -&amp;gt; companyOS (???)</p><p><a href="https://x.com/hwchase17/status/2110696529808048500">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @FDavidsonT: We’re months away from AGI and the leisure economy’s about …</title>
+      <link>https://x.com/hwchase17/status/2110599965240176876</link>
+      <guid isPermaLink="false">twitter:2110599965240176876</guid>
+      <pubDate>Thu, 15 Oct 2026 05:13:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @FDavidsonT: We’re months away from AGI and the leisure economy’s about to explode<br /><br />Today, we’re launching Odessia, an always-on concier…</p><p><a href="https://x.com/hwchase17/status/2110599965240176876">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @JoshARosen: As I’ve been saying, LangChain is going to be the leader in…</title>
+      <link>https://x.com/hwchase17/status/2110378385906036749</link>
+      <guid isPermaLink="false">twitter:2110378385906036749</guid>
+      <pubDate>Wed, 14 Oct 2026 14:33:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JoshARosen: As I’ve been saying, LangChain is going to be the leader in composable AI because their tech is perfect for stitching toget…</p><p><a href="https://x.com/hwchase17/status/2110378385906036749">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @ankush_gola11: Much of the valuable information in agent traces isn’t d…</title>
+      <link>https://x.com/hwchase17/status/2110102089775116308</link>
+      <guid isPermaLink="false">twitter:2110102089775116308</guid>
+      <pubDate>Tue, 13 Oct 2026 20:15:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ankush_gola11: Much of the valuable information in agent traces isn’t directly filterable with existing techniques like full text searc…</p><p><a href="https://x.com/hwchase17/status/2110102089775116308">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：router lives in the harness, not a gateway, bc the harness knows the task</title>
+      <link>https://x.com/hwchase17/status/2110041909284745578</link>
+      <guid isPermaLink="false">twitter:2110041909284745578</guid>
+      <pubDate>Tue, 13 Oct 2026 16:16:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>router lives in the harness, not a gateway, bc the harness knows the task<br /><br />blog: https://t.co/k9b306ikK1<br /><br />https://t.co/4FggNo00jY</p><p><a href="https://x.com/hwchase17/status/2110041909284745578">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @LangChain: 🔎 Announced at Interrupt: AI Search in LangSmith</title>
+      <link>https://x.com/hwchase17/status/2110026421955665985</link>
+      <guid isPermaLink="false">twitter:2110026421955665985</guid>
+      <pubDate>Tue, 13 Oct 2026 15:14:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LangChain: 🔎 Announced at Interrupt: AI Search in LangSmith<br /><br />You used to need an evaluator or read hours of conversations to find trace…</p><p><a href="https://x.com/hwchase17/status/2110026421955665985">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：we are thinking a lot about how to make deepagents more async native. speci…</title>
+      <link>https://x.com/hwchase17/status/2109938151472890070</link>
+      <guid isPermaLink="false">twitter:2109938151472890070</guid>
+      <pubDate>Tue, 13 Oct 2026 09:23:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>we are thinking a lot about how to make deepagents more async native. specifically about making async subagents work better/more prominent<br /><br />one key question is how does a finished subagent &quot;notify&quot; the parent agent? some default behaviors we&apos;re considering for when the parent is still running:<br /><br />1/ interrupt parent run, apply subagent update, continue (basically same as &quot;steer&quot;)<br /><br />2/ wait for parent run to finish, then batch subagent update with any other new messages (basically same as &quot;queue&quot;)<br /><br />another question is how to handle human in the loop? what if main agent is not running but paused and waiting explicit human response to an action?<br /><br />a/ wait for human to respond, then batch the subagent update with that<br /><br />b/ resume thread (which would cancel the human interrupt) with the subagent update (thread could then re-ask for the same human approval)<br /><br />any other options we&apos;re missing?</p><p><a href="https://x.com/hwchase17/status/2109938151472890070">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @JoshARosen: While we’re talking about agent tracing, I couldn’t help bu…</title>
+      <link>https://x.com/hwchase17/status/2109870234610094283</link>
+      <guid isPermaLink="false">twitter:2109870234610094283</guid>
+      <pubDate>Tue, 13 Oct 2026 04:53:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JoshARosen: While we’re talking about agent tracing, I couldn’t help but mention that @LangChain needed to invent an entirely new datab…</p><p><a href="https://x.com/hwchase17/status/2109870234610094283">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @Vtrivedy10: - deepagents is durable by design - built on langgraph with…</title>
+      <link>https://x.com/hwchase17/status/2109752742369529879</link>
+      <guid isPermaLink="false">twitter:2109752742369529879</guid>
+      <pubDate>Mon, 12 Oct 2026 21:07:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Vtrivedy10: - deepagents is durable by design - built on langgraph with state machine primitives hardener over years<br /><br />- deepagents is e…</p><p><a href="https://x.com/hwchase17/status/2109752742369529879">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: deepagents just hit 30k stars on github! deepagents is gr…</title>
+      <link>https://x.com/hwchase17/status/2109743435842207787</link>
+      <guid isPermaLink="false">twitter:2109743435842207787</guid>
+      <pubDate>Mon, 12 Oct 2026 20:30:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: deepagents just hit 30k stars on github! deepagents is great for building agents that do complex work.<br /><br />they manage conte…</p><p><a href="https://x.com/hwchase17/status/2109743435842207787">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @JoshARosen: https://t.co/N1cpmx12SY</title>
+      <link>https://x.com/hwchase17/status/2109736118233280742</link>
+      <guid isPermaLink="false">twitter:2109736118233280742</guid>
+      <pubDate>Mon, 12 Oct 2026 20:01:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JoshARosen: https://t.co/N1cpmx12SY</p><p><a href="https://x.com/hwchase17/status/2109736118233280742">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @Shashikant86: 🔥 Official London 🇬🇧 Agent Week is here.</title>
+      <link>https://x.com/hwchase17/status/2109613037703364996</link>
+      <guid isPermaLink="false">twitter:2109613037703364996</guid>
+      <pubDate>Mon, 12 Oct 2026 11:51:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Shashikant86: 🔥 Official London 🇬🇧 Agent Week is here.<br /><br />🗓️ Tue 13 Oct: Interrupt by @LangChain at Outernet London. @hwchase17 and the t…</p><p><a href="https://x.com/hwchase17/status/2109613037703364996">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：Ha gave this take to our team last week</title>
+      <link>https://x.com/hwchase17/status/2109585768649990218</link>
+      <guid isPermaLink="false">twitter:2109585768649990218</guid>
+      <pubDate>Mon, 12 Oct 2026 10:03:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Ha gave this take to our team last week<br /><br />Will share some (very basic) stuff I vibe coded around this shortly<br /><br />Lots to be explored here!</p><p><a href="https://x.com/hwchase17/status/2109585768649990218">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @austinbv: Agents work in many modalities, similar to people, our (human…</title>
+      <link>https://x.com/hwchase17/status/2109349132943192556</link>
+      <guid isPermaLink="false">twitter:2109349132943192556</guid>
+      <pubDate>Sun, 11 Oct 2026 18:23:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @austinbv: Agents work in many modalities, similar to people, our (human) work is preformed on behalf of ourselves, our teams, or our or…</p><p><a href="https://x.com/hwchase17/status/2109349132943192556">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @assaf_elovic: Gpt researcher just crossed 30k stars. What excites me th…</title>
+      <link>https://x.com/hwchase17/status/2109308303784181915</link>
+      <guid isPermaLink="false">twitter:2109308303784181915</guid>
+      <pubDate>Sun, 11 Oct 2026 15:41:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @assaf_elovic: Gpt researcher just crossed 30k stars. What excites me the most is that since early 2025 it’s been largely driven, built…</p><p><a href="https://x.com/hwchase17/status/2109308303784181915">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：this is the summary slide that describes how all agents in the future will …</title>
+      <link>https://x.com/hwchase17/status/2109307704346853833</link>
+      <guid isPermaLink="false">twitter:2109307704346853833</guid>
+      <pubDate>Sun, 11 Oct 2026 15:38:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>this is the summary slide that describes how all agents in the future will look<br /><br />very much aligns with our vision for managed deepagents https://t.co/VFsgW1OFjF<br /><br />durable workflows: builds on LangGraph/LSD https://t.co/SOJPBqx8q2<br /><br />can use a computer: uses Langsmith Sandboxes https://t.co/oKZ3n6dhtK<br /><br />memory and skills: langsmith context hub https://t.co/rgD1p31nCb<br /><br />Triggers and scheduled jobs: schedules https://t.co/w6r7Cfr8Xx<br /><br />connectors and auth https://t.co/kTfxQbm7al <br /><br />text and voice channels https://t.co/G2iy7jMeKB<br /><br />payments and identity - only one missing!<br /><br />evals https://t.co/mcNsaWhTt4<br /><br />observability: massively, through langsmith https://t.co/SdVkVnjR8y</p><img src="https://pbs.twimg.com/media/HUXDOt7XwAE3wZL.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2109307704346853833">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：this is a great talk</title>
+      <link>https://x.com/hwchase17/status/2109297234864971878</link>
+      <guid isPermaLink="false">twitter:2109297234864971878</guid>
+      <pubDate>Sun, 11 Oct 2026 14:57:04 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>this is a great talk<br /><br />if you want to just follow along in slides, extracted screenshots here to make it easy<br /><br />writing up thoughts as we speak<br /><br />https://t.co/e95nUE4Un4</p><p><a href="https://x.com/hwchase17/status/2109297234864971878">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：historically, most of our internal agents (openswe for coding, gtm agent fo…</title>
+      <link>https://x.com/hwchase17/status/2109270222163066890</link>
+      <guid isPermaLink="false">twitter:2109270222163066890</guid>
+      <pubDate>Sun, 11 Oct 2026 13:09:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>historically, most of our internal agents (openswe for coding, gtm agent for outreach) have acted &quot;on behalf of&quot; whoever is using them<br /><br />but as they start to do more proactive, background work... I wonder if that should change. eg i really like the idea Hone put forward of agents that are striving towards a goal (https://t.co/L8LHdb27vb)... these kind of seem like coworkers, and i wonder if they should be treated as such</p><p><a href="https://x.com/hwchase17/status/2109270222163066890">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Harrison Chase：This is great point</title>
       <link>https://x.com/hwchase17/status/2108474622966444102</link>
