@@ -5,8 +5,32 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>simonw · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/simonw.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 17:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:16:39 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Simon Willison：&quot;Anthropic told investors on Wednesday distillation accounted for 5 per cen…</title>
+      <link>https://x.com/simonw/status/2110721515130089787</link>
+      <guid isPermaLink="false">twitter:2110721515130089787</guid>
+      <pubDate>Thu, 15 Oct 2026 13:16:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>&quot;Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue&quot;<br /><br />If true, and Q2 revenue was $11.5B, then that&apos;s more than half a billion dollars spent by other labs to distill Anthropic&apos;s models!<br />https://t.co/szd2oJxtrv https://t.co/MfcztRwOnV</p><img src="https://pbs.twimg.com/media/HUrKCAwboAAuIww.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2110721515130089787">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：OK, &quot;using Fourier epicycles&quot; is a new twist</title>
+      <link>https://x.com/simonw/status/2110151384289223103</link>
+      <guid isPermaLink="false">twitter:2110151384289223103</guid>
+      <pubDate>Tue, 13 Oct 2026 23:31:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OK, &quot;using Fourier epicycles&quot; is a new twist</p><p><a href="https://x.com/simonw/status/2110151384289223103">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Shared some notes on Python 3.15, using it with uv, and features from Pytho…</title>
+      <link>https://x.com/simonw/status/2109711203077619768</link>
+      <guid isPermaLink="false">twitter:2109711203077619768</guid>
+      <pubDate>Mon, 12 Oct 2026 18:22:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Shared some notes on Python 3.15, using it with uv, and features from Python 3.11 I&apos;m excited to use now that 3.10 is no longer the minimum supported version for my own projects https://t.co/rlGKf8WI62</p><p><a href="https://x.com/simonw/status/2109711203077619768">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Simon Willison：I like Qwen3.5-35B-A3B for this, wondering what else is out there that migh…</title>
       <link>https://x.com/simonw/status/2108608837175701514</link>
