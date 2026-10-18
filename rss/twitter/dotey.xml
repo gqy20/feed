@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>dotey · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/dotey.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 06:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:37:19 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>宝玉：RT @LufzzLiz: Claude 账号申请解封失败，也不退钱。用Opus 5.5 做个视频给它吧，</title>
+      <link>https://x.com/dotey/status/2111662884098801691</link>
+      <guid isPermaLink="false">twitter:2111662884098801691</guid>
+      <pubDate>Sun, 18 Oct 2026 03:37:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LufzzLiz: Claude 账号申请解封失败，也不退钱。用Opus 5.5 做个视频给它吧，<br />一个悲惨的故事：我用codex做了三天迭代了好几版。结果发现还是Opus 5.5 做的更好，一下午就出来了😭 https://t.co/N5zSUhmJG3</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111657652476624896/img/SjWe04APSgPl189s.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2111662884098801691">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：rust是个好语言，但大项目编译速度太慢，这让agent得到反馈的速度很慢，加上资源消耗奇大，并行几个任务普通机器跑不动。</title>
+      <link>https://x.com/dotey/status/2111580933824655815</link>
+      <guid isPermaLink="false">twitter:2111580933824655815</guid>
+      <pubDate>Sat, 17 Oct 2026 22:11:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>rust是个好语言，但大项目编译速度太慢，这让agent得到反馈的速度很慢，加上资源消耗奇大，并行几个任务普通机器跑不动。<br />所以我现在只是局部核心组件用，其他还是回归传统 Electron</p><p><a href="https://x.com/dotey/status/2111580933824655815">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：OpenCode 遭入侵，1.4% 的 Console 用户受影响；没收到邮件就没受影响</title>
+      <link>https://x.com/dotey/status/2111553994867028409</link>
+      <guid isPermaLink="false">twitter:2111553994867028409</guid>
+      <pubDate>Sat, 17 Oct 2026 20:24:37 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenCode 遭入侵，1.4% 的 Console 用户受影响；没收到邮件就没受影响<br /><br />OpenCode 10 月 17 日发帖说，前一天晚上发生了一起安全事件，和一次大规模“蒸馏攻击”有关，受影响的是 1.4% 的 OpenCode Console 用户。<br /><br />怎么知道自己有没有受影响？看邮箱。官方说 17 日上午已经给所有受影响的用户发了邮件，没收到邮件就是没受影响。受影响的是 Console 里绑定了外部服务商的一部分用户，没绑定的不在其中。<br /><br />收到邮件该怎么办，官方公开的帖子没写。据 OfficeChai、Notebookcheck 等科技媒体转述，邮件里说“工作区里保存的第三方服务商密钥（比如 OpenAI、Anthropic）可能已经泄露”，要求用户到各家服务商后台作废旧密钥、换成新的，更新用到这些密钥的程序，再查一查最近的用量有没有异常。这部分来自媒体报道，OpenCode 的公开帖里没有。<br /><br />OpenCode 说事件还在处理中，暂时不能透露更多细节，正在和 Anthropic、OpenAI、Google 一起处理。<br /><br />媒体报道：https://t.co/7UXYAHOFfm</p><p><a href="https://x.com/dotey/status/2111553994867028409">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @tianyi: 为充分发挥新模型 DeepSeek-V4.1-Flash-1017 的能力，请升级至 DeepSeek Harness 0.2.1-rc.1 及以上版…</title>
+      <link>https://x.com/dotey/status/2111532516628664340</link>
+      <guid isPermaLink="false">twitter:2111532516628664340</guid>
+      <pubDate>Sat, 17 Oct 2026 18:59:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @tianyi: 为充分发挥新模型 DeepSeek-V4.1-Flash-1017 的能力，请升级至 DeepSeek Harness 0.2.1-rc.1 及以上版本。</p><p><a href="https://x.com/dotey/status/2111532516628664340">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：DeepSeek 发布 V4.1-Flash-1017：做事更快、回答更短，官网和 App 已换新；联网搜索 API 每千次 5 元，11 月 1 日起收费</title>
+      <link>https://x.com/dotey/status/2111487902869832182</link>
+      <guid isPermaLink="false">twitter:2111487902869832182</guid>
+      <pubDate>Sat, 17 Oct 2026 16:02:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>DeepSeek 发布 V4.1-Flash-1017：做事更快、回答更短，官网和 App 已换新；联网搜索 API 每千次 5 元，11 月 1 日起收费<br /><br />DeepSeek 发布 V4.1-Flash 的升级版 V4.1-Flash-1017（1017 指 10 月 17 日）。官方说它测试分数更高、完成任务更快、输出更短。输出短，消耗的 token（AI 计费单位，可以理解成文字碎片）就少，同一件事做得更好，也更省钱。<br /><br />普通用户打开 DeepSeek 官网或 App 用的就是新版。开发者调 API 的模型名还是 deepseek-flash，代码不用改。<br /><br />这一版主攻从零做完整个项目，演示里它从头做出了小游戏和 3D 模型。官方在 Hugging Face 公布的测试里，进步最大的是让 AI 在命令行里自己敲命令干活，从 31.2 分涨到 42.3 分。和 Anthropic 的 Opus 5 比，几项自动办事的测试它分更高，高难度问答和写完整程序仍然落后。这些分数都是 DeepSeek 自己测的。<br /><br />另一件事跟开发者的钱包有关：DeepSeek 把自家搜索引擎开放成接口。Search 输入关键词返回网页结果，Fetch 给一个网址把网页内容抓成文字，合起来能让 AI 应用上网查资料。每个接口每 1000 次成功请求收 5 元（英文版标 0.75 美元），失败、没搜到、超时不收钱。<br /><br />如果你把 DeepSeek API 接进 Claude Code、Codex 或 DeepSeek 自家的编程工具 DeepSeek Harness 当背后的模型，这些工具里 AI 自动发起的搜索和抓网页目前免费，北京时间 11 月 1 日零点（10 月 31 日 16:00 UTC）开始按次收费。<br /><br />模型同时开源，MIT 协议，允许商用，可在 Hugging Face 和魔搭社区（ModelScope）下载。它有 7630 亿个参数，个人电脑跑不动，主要给企业和云服务商自己部署。<br /><br />模型下载：https://t.co/nEtFe7TfN1<br />搜索 API 文档：https://t.co/BjOtUeiPdx</p><p><a href="https://x.com/dotey/status/2111487902869832182">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Claude Code 团队公开了他们审代码的做法：代码大约九成由 Claude 写，六月到九月合并的修改翻了一倍多，需要撤回的比例反而降了四成多。</title>
+      <link>https://x.com/dotey/status/2111384189656252712</link>
+      <guid isPermaLink="false">twitter:2111384189656252712</guid>
+      <pubDate>Sat, 17 Oct 2026 09:09:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude Code 团队公开了他们审代码的做法：代码大约九成由 Claude 写，六月到九月合并的修改翻了一倍多，需要撤回的比例反而降了四成多。<br /><br />这期用一摞带洞的奶酪片讲这套做法：每道检查都会漏，叠起来就很难漏，底下还有一张网兜底。<br /><br />片中回答五个问题：哪些修改还要人看，AI 审 AI 会不会没完，审查的 AI 漏了怎么办，人不读代码怎么懂代码，出了事算谁的。人不再逐行读代码，时间花在机器做不好的判断上。<br /><br />视频1: 英文版<br />视频2: 中文版</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111381698860425216/img/jfkETZ5hUgc6VdM5.jpg" loading="lazy" /><img src="https://pbs.twimg.com/amplify_video_thumb/2111381871938490369/img/EyPbd7kfTNeUmbM6.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2111384189656252712">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：--- 文稿 ---</title>
+      <link>https://x.com/dotey/status/2111384193141727261</link>
+      <guid isPermaLink="false">twitter:2111384193141727261</guid>
+      <pubDate>Sat, 17 Oct 2026 09:09:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>--- 文稿 ---<br /><br />Claude Code 团队的九成代码都是 AI 写的，他们是怎么审查代码的？<br /><br />如果 AI 替你写作业，一天写一千份，老师批得过来吗？写代码的公司，现在就碰上了这件事。<br /><br />Claude Code 是 Anthropic 做的编程助手。它自己的代码，大约九成是 Claude 写的。Anthropic 全公司的代码库，九月份一天要合并三万多次修改（五月份还是每天 2500 次左右）。靠人一行一行看，根本看不过来。<br /><br />可 Claude Code 团队说，从六月到九月，他们合并的修改翻了一倍多，需要撤回的比例反而降了四成多。看的人少了，错反而少了。这是怎么做到的？<br /><br />【什么是代码审查】<br /><br />先说程序员平时怎么防出错。改完代码，不能直接放进产品，要先交一份修改申请，英文叫 PR（Pull Request）。同事一行一行看，挑毛病，点了头才能合并。这叫代码审查。<br /><br />就像作文交上去，老师批过，才能贴上墙。<br /><br />合并以后才发现出了问题，就得把修改撤回来。撤回得越多，说明漏掉的错越多。<br /><br />【一摞带洞的奶酪】<br /><br />Claude Code 团队觉得，“有没有人读过代码”，这个问题问得太粗。更该问的是：这一次修改可能出什么错？哪一道检查最适合拦住它？<br /><br />可以把每一道检查想成一片带洞的奶酪。每一片都能挡住一些错，也都有洞，会漏掉一些。好几片叠起来，洞很难对齐，错误就很难一路穿过去。最底下再铺一张网，真漏下去了，也能很快捞回来。<br /><br />这一摞奶酪里，大部分片是机器。人的时间最珍贵，它花在两头：一头是审代码，一头是出了事去救火。只省前一头，救火的时间涨上去，等于没省。所以他们盯着两个数：人花了多少时间，撤回和事故有没有变多。<br /><br />【跟着一次修改走一遍】<br /><br />从作者的电脑到用户手里，一次修改走的是一条流水线。前面那几片奶酪，就排在这条线上。<br /><br />上流水线之前：自己先验。 代码还在自己电脑上，没有提交。Claude 写完代码，要自己跑测试、编译、做代码规范检查，把结果摆出来。光说一句“做好了”，不算数。然后再派一个新的 Claude，它没看过刚才的过程，单独审一遍，就像写完作文请一个没看过的同学挑错。<br /><br />一提交，就上了流水线。 这条自动化的流水线英文叫 CI（持续集成）。从这以后，每提交一次新改动，机器都会自动从头查一遍，不用谁去点。线上依次是：<br /><br />- 自动检查： 代码规范、类型、在各个系统上跑测试，再编译、打包。红了一项，就不能合并。<br />- AI 审查： 好几个 AI 同时找问题，再由另一组 AI 投票，票数够了才算真问题，按严重程度排好贴出来。每一条意见都得回应：要么改掉，要么写清理由关掉。它刚在内部上线时，一百份申请里收到实质意见的，从 16 份涨到了 54 份。<br />- 安全审查： 单独再查一遍。两种审查里只要还有一条没处理，申请就合并不了。<br />- 按风险批准： 要不要人看、要几个人看，由一个分类器按风险来定，下面单独讲。<br /><br />合并：排队，再查一遍。 申请先排进一个队列，轮到它时，拿最新的代码，把它放进去，所有检查再跑一遍。因为两份各自没问题的修改，凑在一起也可能出错。<br /><br />合并以后： 打包、发布也由流水线自动来做，这后半段英文叫 CD（持续交付）。新功能也不马上给所有人用，先藏在开关后面。这个开关英文叫 feature flag（功能开关）：新代码已经装进了产品，开关关着，用户就碰不到它；开关是一项设置，打开关上都不用改代码，也不用重新发版。打开以后，先给 Anthropic 自己的员工用，再分批发：先发到最新版，稳定版晚一步跟上。就算有问题，碰到的也只是一小部分人。<br /><br />最底下那张网：盯着，随时撤回。 发出去以后，作者和值班的人一直盯着。新功能出了问题，把开关一关，用户那边马上就看不到它了；哪个版本整个坏了，就撤回，退到上一个好的版本；问题小、看得清，也可以直接修好再发。<br /><br />撤回为什么快？一是每次修改都切得小，撤的时候只退这一小块。二是撤回本身也是一次修改，走的还是这同一条流水线，检查、打包、发布全是机器在跑。所以大多数问题，几分钟就能撤掉。网铺得牢，上面的奶酪片才敢少让人看几眼。<br /><br />【哪些修改还要人看？】<br /><br />看风险。<br /><br />- 改文档、改文案、藏在开关后面的新功能，风险低。自动审查和安全检查都通过，就不用人批。<br />- 普通的产品改动，或者碰到自动更新这类敏感地方的，要一个人批。<br />- 风险最高的代码，要两个人批。<br /><br />档位由修改本身定，跟谁写的无关：一个分类器读完修改，给它定档。<br /><br />还有两条规矩：AI 的批准，不算人的批准；谁让 AI 写的代码，谁就算一个审查人，要为它负责。<br /><br />放回奶酪里看：风险越高，人这一片切得越厚。<br /><br />【AI 审 AI，会不会没完没了？】<br /><br />真发生过。有一份申请，一夜之间审了改、改了审，五十多轮，直到作者出手叫停。<br /><br />他们一查，审查反复指出的问题，约 59% 是第一轮就已经在那儿的老代码。人看到一条鸡毛蒜皮的意见，几秒就跳过了；AI 却会老老实实去改，于是又多一轮审查。<br /><br />后来他们定了规则：<br /><br />1. 最多审三轮。<br />2. 三轮之后，请作者退一步，想想思路对不对。<br />3. 过了头几轮，只审新改的部分。<br /><br />结果，一轮就通过的申请，从 65% 涨到了 78%；要五轮以上的，从 8.9% 降到了 1.5%。<br /><br />【审查的 AI 漏了怎么办？】<br /><br />他们把过去闯过祸的修改都收集起来，请熟悉那块代码的工程师，标出错在哪一行。这就成了一本错题本，审查的 AI 每天做一遍。<br /><br />改提示词、换模型，分数涨了才留下，没涨就扔掉。每出一次事故，错题本就多一道题。<br /><br />审查反复挑出同一个毛病，就去源头改：写进给 AI 看的说明文件，或者加一条自动检查，下次就不用再提醒。奶酪片上的洞，就这样一个个补上。<br /><br />【人不读代码了，还怎么懂代码？】<br /><br />代码审查还有一件事：让团队里的人都懂代码。机器读了大部分，人怎么学？<br /><br />团队里没有人把全部代码装在脑子里，他们也觉得没必要。想弄懂哪一块，就让 Claude 专门为那一块写一份讲解，几分钟就好，讲的就是代码现在的样子。<br /><br />一行改文案的修改，逐行看也学不到什么。马上要动的那块代码，有一份讲解，能学到很多。<br /><br />【出了事算谁的？】<br /><br />团队的规矩是：你合并的，你负责。中小改动出了问题，通常由合并的人自己修。<br /><br />这里的“负责”，不等于追究个人责任。让合并的人来修，是因为这次修改这个人最熟，修得最快。<br /><br />事后复盘，不问是谁犯的错，只问一件事：这只虫，本该被哪一片奶酪拦住？找到那一片，再把那个洞补上。下次同样的错，就溜不过去了。<br /><br />我的理解是，出了错不挨批，大家就不用藏着掖着，问题能更早摆到台面上。<br /><br />敢这样做，还因为出错的代价被压得很小。修改切得小，好查也好撤；大多数错误，几分钟就能撤掉。<br /><br />而且责任是大家一起担的。团队大多在公开频道里干活，谁都看得到别人在做什么，可以顺手接一把，也可以派一个 Agent 去补漏。<br /><br />【你能用上什么】<br /><br />你要是也在用 AI 写代码，有两件事现在就能做：<br /><br />1. 给 AI 一份简短的说明（比如 `CLAUDE.md`），写清楚怎么跑测试、有哪些规则。<br />2. 交代码之前，在 Claude Code 里跑一下 `/code-review`。<br /><br />这些数字都是他们自己公布的，也只是一个团队的做法。<br /><br />【回到开头】<br /><br />一天几万份作业，靠人一份份批，批不过来。他们叠了一摞奶酪片：每一片都会漏，叠起来就很难漏，底下还有网接着。<br /><br />人不再逐行读代码，去做机器做不好的事：该不该做，危险的代码，架构，看懂证据，为结果负责。<br /><br />他们的一位同事说，放慢速度确实能少出错，可那主要是因为你什么都做得少了。他们宁可更快地发现问题，更快地修好。<br /><br />---<br /><br />资料来源：<br />- Addy Osmani《How the Claude Code team does code review》（2026.10.15）https://t.co/yg4otshPe6<br />- Anthropic《Redesigning source control at Anthropic》（2026.10）https://t.co/XAdWVi4gWe</p><p><a href="https://x.com/dotey/status/2111384193141727261">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @mtrainier2020: 顺便发个招聘，</title>
+      <link>https://x.com/dotey/status/2111253970043953393</link>
+      <guid isPermaLink="false">twitter:2111253970043953393</guid>
+      <pubDate>Sat, 17 Oct 2026 00:32:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @mtrainier2020: 顺便发个招聘，<br />招有独立站运营经验的，尤其是图书，玩具这种产品的独立站运营和编辑。<br />可以远程。价格私聊。</p><p><a href="https://x.com/dotey/status/2111253970043953393">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：远程面试遇到了疑似 AI 换脸的候选人，让他们把手放在脸前面晃一下可能就穿帮了😂</title>
+      <link>https://x.com/dotey/status/2111233972709564917</link>
+      <guid isPermaLink="false">twitter:2111233972709564917</guid>
+      <pubDate>Fri, 16 Oct 2026 23:12:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>远程面试遇到了疑似 AI 换脸的候选人，让他们把手放在脸前面晃一下可能就穿帮了😂</p><p><a href="https://x.com/dotey/status/2111233972709564917">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Anthropic 公布内部数据：AI agent 工作时长已是员工 6 倍，技术岗新招的初级员工占比从 27% 降到 9%</title>
+      <link>https://x.com/dotey/status/2111223306061836484</link>
+      <guid isPermaLink="false">twitter:2111223306061836484</guid>
+      <pubDate>Fri, 16 Oct 2026 22:30:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Anthropic 公布内部数据：AI agent 工作时长已是员工 6 倍，技术岗新招的初级员工占比从 27% 降到 9%<br /><br />Anthropic 10 月 16 日发布两份报告。一份讲 AI 怎么改变了 Anthropic 自己的招聘和工作方式，另一份比较 Anthropic 员工和普通美国人对 AI 前景的预期。两份报告合起来的结论是：员工和公众对 AI 怎么影响就业的理解差不多，预期差距主要来自每天用 AI 的亲身体验不同。<br /><br />先看招聘。Anthropic 技术部门新招的人里，初级岗位的比例从 27% 降到 9%，2025 年 12 月之后初级职位的招聘明显减少。技术部门员工占全公司的比例从 61% 降到 56%，不过技术岗的绝对人数还在增长。<br /><br />面试评价里提到候选人会不会用 AI 工具的次数，比 2024 年多了好几倍，技术岗约 3 倍，非技术岗约 4 倍。<br /><br />再看 AI 干了多少活。2026 年 3 月，AI agent 的累计工作时长第一次超过员工。到 8 月，员工自己调用的 agent 工作时长已是员工的 6 倍。这里员工工时按每人每周 40 小时估算，agent 只算实际运行和调用工具的时间。<br /><br />产出跟着涨。<br /><br />工程师人均代码提交量是半年前的 5 倍，律师处理的合同、销售签下的单子也变多了。<br /><br />研究人员追踪了 192 位开始用编程 agent 的工程师，发现他们用上之后写的代码明显增多，而且 agent 写的代码和人写的代码，后来被删掉或撤回的比例没有差别。<br /><br />新的瓶颈是人的注意力。<br /><br />报告统计，Claude 的会话里大约 80% 的时间在等人回复。员工花在“管 AI”上的精力越来越多，比如给 agent 写固定指令、检查 agent 的产出、搭监控流程，这类工作在员工使用 Claude 的过程中占比从 2025 年秋天的 10% 涨到 2026 年春天的 22%。<br /><br />4 月的内部调查里，20% 的员工说自己的角色正从亲手干活变成管理一群 Claude。<br /><br />Anthropic 认为自己可能是个先行指标，AI 用得最深的公司现在出现的招聘和分工变化，以后可能出现在更多行业。报告也提醒，它是 AI 公司，又处在高速扩张期，这些数字不能直接套到普通企业身上。<br /><br />第二份报告用 1334 名员工的内部问卷，和调查公司 Morning Consult 8 月对近 1.1 万名美国成年人的调查做对比。<br /><br />差距最大的两道题：认为 AI 到 2030 年能做出诺贝尔奖级别发现的，员工 91%，美国人 39%；认为到 2030 年 AI 能干自己现在八成以上工作的，员工超过一半，美国人只有约 5%。员工内部也有分歧，大约 2 成员工的预期和普通美国人差不多。<br /><br />预期差这么多，推理方式却相近。两组人都是觉得 AI 能替自己干的活越多，就预测失业率越高。<br /><br />比如美国受访者里，预计 AI 能干自己八成以上工作的人，预测 2030 年美国失业率会到 12.2%，目前大约是 4.2%。按 Anthropic 的解释，两边对 AI 如何影响劳动力市场的判断逻辑一样，区别在于亲眼见到的 AI 能力不同。<br /><br />原文：https://t.co/JUr67nLMkY<br />员工就业报告：https://t.co/Mfho9bNa0j<br />预期差距报告：https://t.co/ooInCG1eb1</p><img src="https://pbs.twimg.com/media/HUySPZ0W0AAB8Pu.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUySVCEW0AAxvZ4.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUySX-3XkAAegbr.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUySZ5WWQAEQDCN.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2111223306061836484">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：这效率 Roadster 游戏都出来了</title>
+      <link>https://x.com/dotey/status/2111209934105018471</link>
+      <guid isPermaLink="false">twitter:2111209934105018471</guid>
+      <pubDate>Fri, 16 Oct 2026 21:37:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>这效率 Roadster 游戏都出来了<br /><br />https://t.co/fO82120Y0c</p><p><a href="https://x.com/dotey/status/2111209934105018471">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @Khazix0918: https://t.co/lqZ5vGWM0J</title>
+      <link>https://x.com/dotey/status/2111141214150164570</link>
+      <guid isPermaLink="false">twitter:2111141214150164570</guid>
+      <pubDate>Fri, 16 Oct 2026 17:04:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Khazix0918: https://t.co/lqZ5vGWM0J</p><p><a href="https://x.com/dotey/status/2111141214150164570">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @bozhou_ai: 刚刚有个朋友问我：没有 AI 的时候，写代码不得写死了？当初是怎么写出来的？</title>
+      <link>https://x.com/dotey/status/2111140356557607405</link>
+      <guid isPermaLink="false">twitter:2111140356557607405</guid>
+      <pubDate>Fri, 16 Oct 2026 17:00:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @bozhou_ai: 刚刚有个朋友问我：没有 AI 的时候，写代码不得写死了？当初是怎么写出来的？<br /><br />我说那时候真的是纯手敲，唯一借助的就是自动补全。<br /><br />但现在回想，那时候特别容易进入心流。一坐下去，不知不觉一天就过去了，写了几千行代码。… https://t.co/I…</p><p><a href="https://x.com/dotey/status/2111140356557607405">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：补充一点，除了 Opus 5.5 调度，还可以充分利用 advisor，让 Fable 当 Advisor 给 Opus 当顾问</title>
+      <link>https://x.com/dotey/status/2111134693743861870</link>
+      <guid isPermaLink="false">twitter:2111134693743861870</guid>
+      <pubDate>Fri, 16 Oct 2026 16:38:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>补充一点，除了 Opus 5.5 调度，还可以充分利用 advisor，让 Fable 当 Advisor 给 Opus 当顾问<br />GPT 6.1 Sol 干杂活其实挺不错的</p><p><a href="https://x.com/dotey/status/2111134693743861870">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：昨天学习了一下 handwired，做了一些例子，比如做了几个倒计时、贪吃蛇这种 https://t.co/A3B63zf3Y3</title>
+      <link>https://x.com/dotey/status/2111097422810169575</link>
+      <guid isPermaLink="false">twitter:2111097422810169575</guid>
+      <pubDate>Fri, 16 Oct 2026 14:10:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>昨天学习了一下 handwired，做了一些例子，比如做了几个倒计时、贪吃蛇这种 https://t.co/A3B63zf3Y3<br /><br />最后做了个教学视频：把代码变成神经网络：不训练、一个数都不差，这有什么用<br />视频1: 英文版<br />视频2: 中文版<br /><br />有人把普通代码原封不动地变成了神经网络，一次没训练，结果一个数都不差。<br /><br />这期从期末总评和停车费讲起，说清神经网络的两种零件：加权求和和开关，再看一条“及格线”怎么变成 7 个权重、1 层的网络。<br /><br />接着用闰年、FizzBuzz、阶梯电价、生命游戏、贪吃蛇等例子，回答几个问题：<br />权重和层到底是什么？<br />和 ChatGPT 背后的 Transformer 差在哪？<br />网络能不能在浏览器里现场训练，刷新还在吗？<br />出了错怎么查？<br />变成网络会更快吗，CPU 和 GPU 差在哪？<br />这个思路还能用在哪？<br /><br />---<br />视频制作的 Skill 参考：https://t.co/5KVPDqbJe2<br />模型：Opus 5.5<br />配音：Gemini 3.8 TTS</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111095051069673472/img/VuoxoYX1rqZAP-RM.jpg" loading="lazy" /><img src="https://pbs.twimg.com/amplify_video_thumb/2111095051044413440/img/8YAcxuxxVb-429CR.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2111097422810169575">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：这还有个演示，挺酷</title>
+      <link>https://x.com/dotey/status/2110919501462311054</link>
+      <guid isPermaLink="false">twitter:2110919501462311054</guid>
+      <pubDate>Fri, 16 Oct 2026 02:23:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>这还有个演示，挺酷<br />https://t.co/xUsXlI3z1s</p><p><a href="https://x.com/dotey/status/2110919501462311054">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：特斯拉新 Roadster 发布：靠压缩空气喷气在空中翻正落地，马斯克说 2028 年投产，售价未公布</title>
+      <link>https://x.com/dotey/status/2110919336147796377</link>
+      <guid isPermaLink="false">twitter:2110919336147796377</guid>
+      <pubDate>Fri, 16 Oct 2026 02:22:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>特斯拉新 Roadster 发布：靠压缩空气喷气在空中翻正落地，马斯克说 2028 年投产，售价未公布<br /><br />10 月 15 日晚，特斯拉在得州 SpaceX 的 McGregor 试验场直播发布了第二代 Roadster 跑车。这辆车 2017 年就亮过相，当时说 2020 年交付，之后一推再推，拖了将近九年。<br /><br />演示里，车开上一段弯曲的大坡道，倒挂着往上跑，然后从坡道尽头冲出去，在空中把车身转回正面，四个轮子落地。之后它又从一排特斯拉车（包括 Semi 电动卡车）上方翻跳过去。马斯克在现场说：“飞行汽车是真的。”<br /><br />它靠的是冷气推进器。原理跟吹满的气球一松手就乱窜差不多：碳纤维高压罐里存着压缩空气，从喷口猛地放出去就产生推力，不烧燃料，也没有火焰。特斯拉说推进器的推力是轮胎抓地力上限的四五倍，所以它起步能比只靠轮子快得多。倒挂不掉下来靠的是另一套系统：风扇把车底的空气往外抽，把车吸在坡面上。<br /><br />所以这里的“飞”只是几秒钟的喷气跳跃，气放完就没了，离能载人飞一段路的飞行汽车还远。据科技媒体 Glitchwire 报道，演示车把后排座位换成了一个装 260 公斤压缩空气的高压罐，车身四周有 10 个喷口；The Information 此前报道，因为推力和噪音太大，演示车是远程遥控的。这几点特斯拉官方没有确认。<br /><br />翻跟头的是最激进的 Rocket 版：单座，只接受邀请购买，不能上公路。零到 60 英里/小时（约 97 公里/小时）加速不到 0.59 秒，极速超过 370 公里/小时。<br /><br />普通人能订的是另外两个双座版本。Performance 版没有推进器，靠主动空气动力学和风扇吸地增加抓地力，加速不到 1.6 秒，订金 5 万美元。Thrust 版在车尾加了推进器，加速不到 0.9 秒，限量发售，订金 25 万美元。三个版本续航都超过 480 公里。<br /><br />特斯拉没公布售价，订金不等于车价，2017 年说的起步价是 20 万美元。Performance 版的 5 万美元订金分两次付：先付 5000 美元（特斯拉说可全额退），10 天内再补 4.5 万美元，否则订单取消。<br /><br />投产时间是马斯克在现场说的 2028 年，特斯拉官方帖子里没有写日期。这辆车的交付时间此前已从 2020 年先后推到 2021、2022、2025 和 2027 年。 https://t.co/6w3qvUw7Ii</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110913252045545472/img/PHzfDPCgX86XBiSv.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2110919336147796377">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @ChinaDaily: British actress Rosamund Pike recently sat down with China Daily in Suz…</title>
+      <link>https://x.com/dotey/status/2110904083561255353</link>
+      <guid isPermaLink="false">twitter:2110904083561255353</guid>
+      <pubDate>Fri, 16 Oct 2026 01:22:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ChinaDaily: British actress Rosamund Pike recently sat down with China Daily in Suzhou to talk about Chinese food, lifestyle, and cultu…</p><p><a href="https://x.com/dotey/status/2110904083561255353">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Antigravity 向付费 Google AI Pro 用户开放 Gemini 4 Argon，Argon 有单独的每周额度，不占 3.8 Flash 额度</title>
+      <link>https://x.com/dotey/status/2110877554945175677</link>
+      <guid isPermaLink="false">twitter:2110877554945175677</guid>
+      <pubDate>Thu, 15 Oct 2026 23:36:41 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Antigravity 向付费 Google AI Pro 用户开放 Gemini 4 Argon，Argon 有单独的每周额度，不占 3.8 Flash 额度<br /><br />Google 的 AI 编程工具 Antigravity 今天开始向付费的 Google AI Pro 订阅用户推出 Gemini 4 Argon。官方模型页写明只限正式付费的 Pro，试用期的 Pro 用不了，免费用户和 Google AI Plus 用户也不在范围内。能用的地方是 Antigravity 桌面 App、命令行工具 CLI 和 IDE 扩展（装在 VS Code、JetBrains 等编辑器里的插件），Antigravity IDE 里暂时选不到。目前在逐步推送，官方建议先更新到最新版。<br /><br />Pro 用户用 Argon 有一份单独的额度，只按周计算，不像原有额度那样每 5 小时刷新一次；它和原来给 Gemini 3.8 Flash 用的额度分开，用 Argon 不会吃掉 3.8 Flash 的额度。每周到底给多少、哪天重置，推文和官方文档都没写。文档对所有额度的说明是，消耗多少取决于智能体实际干了多少活，任务越复杂用得越快。<br /><br />官方模型说明：https://t.co/7IXduTeBzr</p><p><a href="https://x.com/dotey/status/2110877554945175677">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：😓 美国人去中国出差用 Claude 也是会被封的</title>
+      <link>https://x.com/dotey/status/2110875762261996016</link>
+      <guid isPermaLink="false">twitter:2110875762261996016</guid>
+      <pubDate>Thu, 15 Oct 2026 23:29:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>😓 美国人去中国出差用 Claude 也是会被封的</p><p><a href="https://x.com/dotey/status/2110875762261996016">原文</a></p>]]></description>
+    </item>
     <item>
       <title>宝玉：RT @lexi_labs: 我来祛魅一下，所谓的硅谷大厂都在清退华人工程师的事。</title>
       <link>https://x.com/dotey/status/2109174479582564542</link>
@@ -1046,166 +1206,6 @@
       <pubDate>Thu, 24 Sep 2026 17:18:31 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @ALSK_ai: 用 Opus5.5 根据图片生成动画<br /><br />卧槽！为什么还有光追啊？？？<br /><br />提示词放评论区了 https://t.co/NrNKJKRYaN</p><img src="https://pbs.twimg.com/amplify_video_thumb/2103134777683619840/img/87YkAL3rVWzSALF5.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2103172238598185262">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @myanTokenGeek: https://t.co/DOUyusGAEf</title>
-      <link>https://x.com/dotey/status/2103140106840186907</link>
-      <guid isPermaLink="false">twitter:2103140106840186907</guid>
-      <pubDate>Thu, 24 Sep 2026 15:10:50 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @myanTokenGeek: https://t.co/DOUyusGAEf</p><p><a href="https://x.com/dotey/status/2103140106840186907">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Claude 在噬菌体里发现类 CRISPR 新酶系统</title>
-      <link>https://x.com/dotey/status/2103006043064164401</link>
-      <guid isPermaLink="false">twitter:2103006043064164401</guid>
-      <pubDate>Thu, 24 Sep 2026 06:18:07 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Claude 在噬菌体里发现类 CRISPR 新酶系统<br /><br />Anthropic 宣布，Claude 在噬菌体（专门感染细菌的病毒）的 DNA 中发现了一类此前没人注意到的酶系统。它的结构特征和 CRISPR 很像，Anthropic 将其命名为 ART，意思是&quot;阵列相关逆转录酶&quot;。<br /><br />逆转录酶的作用是把 RNA 抄写成 DNA。ART 由三部分组成：一个逆转录酶，旁边一个功能未知的搭档基因，以及一长串等间距排列的重复 DNA 序列。CRISPR 也有类似的重复阵列，里面存着&quot;导航信息&quot;，所以 CRISPR 可以被编程，去基因组的指定位置剪切。实验已经证实，ART 的阵列同样会被转录成一组各不相同的短 RNA，这暗示它可能也有类似的可编程机制。<br /><br />这个发现值得关注，是因为同时具备这几项特征的系统，以前只找到过寥寥几个，而且全都能对 DNA 做剪切、复制、粘贴之类的操作。CRISPR 已经催生了基因编辑药物，另外几个也正在被开发成新工具。不过 Anthropic 也承认，ART 的具体功能目前还不清楚。<br /><br />整个发现过程几乎由 Claude 独立完成。研究人员只给了一个初始提示，让它在海量 DNA 数据库里寻找有意思的新逆转录酶。大约 950 个 Claude 智能体跑了 21 小时，消耗 2.1 亿 token。它们从 20 多万个逆转录酶中筛出 3500 个候选，再挑出最值得看的 20 个，写成人类能读懂的报告。<br /><br />其中一个智能体在逐段读原始序列时，直接认出了重复阵列。接着它数了重复次数，量了间距，和已知系统做比对，又查了文献，确认是新东西之后才提交给人类审核。这个逆转录酶本身以前有人报道过，但它旁边的阵列和搭档蛋白，是 Claude 第一个发现的。<br /><br />据 Anthropic 介绍，这类&quot;基因组挖掘&quot;工作，专家通常要花几周到几个月。CRISPR 先驱、MIT 教授张锋看过预印本后评价说，这是 AI 智能体参与生物学发现的一个好例子，这类阵列值得深入研究。<br /><br />这项成果出自 Anthropic 今年春天新组建的生命科学研究组。团队在湾区建了自己的湿实验室，只做 BSL-1、BSL-2 级别的低风险研究，不接触能感染人的病原体。所有实验都由人类科学家动手完成。<br /><br />团队日常用的工具是公开发布的 Claude Science 和 Claude Code。这意味着其他实验室理论上也能搭起这套&quot;AI 批量提假设、人做实验验证&quot;的流程。Anthropic 目前正在向外部科学家征集可以合作的研究课题。</p><p><a href="https://x.com/dotey/status/2103006043064164401">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @DLKFZWilliam2: 根大家分享一个提前布局的机会：</title>
-      <link>https://x.com/dotey/status/2102998342905061500</link>
-      <guid isPermaLink="false">twitter:2102998342905061500</guid>
-      <pubDate>Thu, 24 Sep 2026 05:47:31 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @DLKFZWilliam2: 根大家分享一个提前布局的机会：<br /><br />Meta 刚把新一代 VR 眼镜放出来了。只有100 克、眼镜形态、不用头带，显示和传感器都在镜身上，处理器、电池和存储单独放在一个小圆盒里。5K micro-OLED、37 PPD，高通 Snapdrag…</p><p><a href="https://x.com/dotey/status/2102998342905061500">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：期待 DeepSeek 版😂</title>
-      <link>https://x.com/dotey/status/2102997852569923864</link>
-      <guid isPermaLink="false">twitter:2102997852569923864</guid>
-      <pubDate>Thu, 24 Sep 2026 05:45:34 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>期待 DeepSeek 版😂</p><p><a href="https://x.com/dotey/status/2102997852569923864">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：初始提示词和源代码我放到 GitHub了：https://t.co/78h1VvgkAK</title>
-      <link>https://x.com/dotey/status/2102995791778369982</link>
-      <guid isPermaLink="false">twitter:2102995791778369982</guid>
-      <pubDate>Thu, 24 Sep 2026 05:37:23 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>初始提示词和源代码我放到 GitHub了：https://t.co/78h1VvgkAK<br /><br />有兴趣的话，你可以继续迭代，或者衍生出其他作品</p><p><a href="https://x.com/dotey/status/2102995791778369982">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：因为我这个是反复迭代后的版本，所以无法单一的提示词，不过我让 Opus 5.5 还原了一下提示词（ docs/prompt.md ），可以用作初始提示词</title>
-      <link>https://x.com/dotey/status/2102994911171903830</link>
-      <guid isPermaLink="false">twitter:2102994911171903830</guid>
-      <pubDate>Thu, 24 Sep 2026 05:33:53 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>因为我这个是反复迭代后的版本，所以无法单一的提示词，不过我让 Opus 5.5 还原了一下提示词（ docs/prompt.md ），可以用作初始提示词<br />然后我把源代码放到 GitHub了：https://t.co/78h1VvgSqi<br /><br />迭代了一天时间，总 Token 大约 Max@20x 订阅一周的 10%-15%之间<br /><br />https://t.co/MON8mugfvy</p><p><a href="https://x.com/dotey/status/2102994911171903830">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Meta 发布了 Muse Charm，一个能挂在钥匙扣上的小设备，专门用来跟自家 AI 智能体 Muse 对话。它是 Meta 周三在 Connect 大会上发布的，扎克伯…</title>
-      <link>https://x.com/dotey/status/2102968028476436866</link>
-      <guid isPermaLink="false">twitter:2102968028476436866</guid>
-      <pubDate>Thu, 24 Sep 2026 03:47:03 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Meta 发布了 Muse Charm，一个能挂在钥匙扣上的小设备，专门用来跟自家 AI 智能体 Muse 对话。它是 Meta 周三在 Connect 大会上发布的，扎克伯格表示目标是赶在 12 月假期季前发货。<br /><br />可能很多网友还不知道 Muse 是什么。它是 Meta 刚推出的个人 AI 智能体，9 月 8 日才上线，一度超过 ChatGPT 登上 iOS 免费榜第一。用户可以给它起名字、设计形象，甚至调整它说话的口音和语速，更像一个养成的专属助手。<br /><br />Muse Charm 就是给这个助手做了一个实体。轻触设备角落的指纹传感器就能开始对话，屏幕上显示一个可更换的 Muse 动画形象。所以不少媒体拿它和拓麻歌子（90 年代风靡一时的日本电子宠物）作比较。<br /><br />它解决的问题很直接：想问 AI 点事，不用掏手机解锁、再找 App。扎克伯格说用户可以直接对着它说话，不用解锁手机、打开应用，还能给 Muse 看你周围的情况。按他的说法，如果你没戴 AI 眼镜，这会是跟 Muse 交流最快的方式。<br /><br />同场 Muse 本身也加了新功能，包括实时视频聊天、可自选声音的实时语音对话，以及每个用户的智能体都会有一个独立邮箱地址。<br /><br />不过这东西离上手还有距离。Meta 目前只造了几台，零部件和设计都还没定型。价格没公布，续航、联网方式、是否需要配对手机也都没说。可能是基于 5G 的设备，这一点在 Meta 官方和主流媒体报道里还没得到确认。<br /><br />这类 AI 挂件此前名声不太好，像 Friend 这样的产品让很多消费者对“实体 AI”这个概念只剩白眼。Meta 的底气在于 Muse 已经有了一批真实用户，Charm 只是给他们多一个入口。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2102967748011679744/img/1ZO0k70rO1mm1BY5.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102968028476436866">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：上次我为了录视频，折腾了半天录屏软件，还不好看，今天突然想到为什么要自己录制，直骂自己蠢，给 Claude Code 一句话就搞定了：</title>
-      <link>https://x.com/dotey/status/2102952848103215237</link>
-      <guid isPermaLink="false">twitter:2102952848103215237</guid>
-      <pubDate>Thu, 24 Sep 2026 02:46:44 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>上次我为了录视频，折腾了半天录屏软件，还不好看，今天突然想到为什么要自己录制，直骂自己蠢，给 Claude Code 一句话就搞定了：<br />&gt; 帮我沿着循文入境录制一个1080p的视频，记录完整的循文入境场景，包括音频，请调整网页尺寸，16:9比例<br />&gt; 视频第一帧应该是大标题：《桃花源记》——陶渊明<br />&gt; 制作：宝玉<br />&gt; 背景是网页首页桃花</p><p><a href="https://x.com/dotey/status/2102952848103215237">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @Xian0063: 祝大家中秋快乐🎉🎈🍉🌹🍷🍺🏮🦀🥮</title>
-      <link>https://x.com/dotey/status/2102951035081781488</link>
-      <guid isPermaLink="false">twitter:2102951035081781488</guid>
-      <pubDate>Thu, 24 Sep 2026 02:39:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @Xian0063: 祝大家中秋快乐🎉🎈🍉🌹🍷🍺🏮🦀🥮<br />感恩遇到你们每一个人<br />中秋赏灯赏月·上线啦！～～～<br />9月25日晚20:00-23:59，随时来都有彩蛋哦！！！<br />https://t.co/l4qMHlmprb https://t.co/4N6BCTHitE</p><img src="https://pbs.twimg.com/amplify_video_thumb/2102838191489531904/img/loA1zWCobFbPoqc6.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102951035081781488">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：初始提示词：</title>
-      <link>https://x.com/dotey/status/2102949395100512616</link>
-      <guid isPermaLink="false">twitter:2102949395100512616</guid>
-      <pubDate>Thu, 24 Sep 2026 02:33:01 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>初始提示词：<br />https://t.co/umXa1ZzRJK</p><p><a href="https://x.com/dotey/status/2102949395100512616">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Opus 5.5 终结了比赛！</title>
-      <link>https://x.com/dotey/status/2102940980379017293</link>
-      <guid isPermaLink="false">twitter:2102940980379017293</guid>
-      <pubDate>Thu, 24 Sep 2026 01:59:35 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Opus 5.5 终结了比赛！<br /><br />用 Opus 5.5 重做了《桃花源记》，还是 three.js 做的，但是效果好了很多，当然这次不是一个提示词，而是反复打磨了好多次，还让它去搜索了免费的的 3D 模型，避免从头建模。<br /><br />如果你想试试的话：https://t.co/AcCWjJCUmM<br />记得点击右下角的“循文入境” https://t.co/teiSbXttEj</p><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102940980379017293">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：AI 时代，职场人现在最该学的一项技能是什么？</title>
-      <link>https://x.com/dotey/status/2102923910174117904</link>
-      <guid isPermaLink="false">twitter:2102923910174117904</guid>
-      <pubDate>Thu, 24 Sep 2026 00:51:45 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>AI 时代，职场人现在最该学的一项技能是什么？<br /><br />吴恩达老师的建议是人人都该学编程。<br /><br />不少企业高管劝大家别学编程了，理由是 AI 会把它自动化掉。吴恩达认为这个逻辑正好反了。正因为有了 AI 辅助，写代码变得前所未有地容易，所以才值得每个人都去学。<br /><br />他已经在很多岗位上看到了明显的生产力差距。这不只发生在软件工程师身上。一边是会写代码、能自己做定制软件的人，另一边是不会的人，两者的效率已经拉开了。<br /><br />学编程不等于手写代码<br /><br />他说的学编程并不是一行行手敲代码，他自己几乎从不这么做。在可预见的未来，最重要的能力之一是能准确告诉计算机你要它做什么，让它替你完成。而代码就是计算机的语言。所以学编程的实质，是学会用计算机听得懂的方式把需求说清楚。<br /><br />他团队里最好的市场人员有了想法，不用等工程师来搭网站，自己就能做出来。最好的招聘人员也不再靠肉眼一份份看简历，而是写代码让程序帮忙筛选。在他看来，能把需求交代给计算机的人，会变得强大得多、高效得多。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2102923652253593600/img/PUNuNTaGooMUN6jH.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102923910174117904">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @saturn2088: @dotey 我试了，5.5复杂写作还是 Max 最强，extra 都差一点。另外的初步的测试结果就是 5.5 Max 比 4.6 Max 节…</title>
-      <link>https://x.com/dotey/status/2102878285260611832</link>
-      <guid isPermaLink="false">twitter:2102878285260611832</guid>
-      <pubDate>Wed, 23 Sep 2026 21:50:27 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @saturn2088: @dotey 我试了，5.5复杂写作还是 Max 最强，extra 都差一点。另外的初步的测试结果就是 5.5 Max 比 4.6 Max 节省约 19%</p><p><a href="https://x.com/dotey/status/2102878285260611832">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @rwayne: 《你对 AGENTS.md 的理解几乎为零》</title>
-      <link>https://x.com/dotey/status/2102841788146778126</link>
-      <guid isPermaLink="false">twitter:2102841788146778126</guid>
-      <pubDate>Wed, 23 Sep 2026 19:25:25 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @rwayne: 《你对 AGENTS.md 的理解几乎为零》<br /><br />作者：@rwayne @onlookersh <br /><br />“公司变大之后，人和公司都会犯糊涂。他们想复制最初的成功，于是很多人以为：当初成功的过程里一定藏着某种魔力。于是他们开始把流程在全公司制度化。很快，大家就把…</p><p><a href="https://x.com/dotey/status/2102841788146778126">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：可能官方看到咱们的讨论，要去掉 plan 模式了😂</title>
-      <link>https://x.com/dotey/status/2102824596592640051</link>
-      <guid isPermaLink="false">twitter:2102824596592640051</guid>
-      <pubDate>Wed, 23 Sep 2026 18:17:07 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>可能官方看到咱们的讨论，要去掉 plan 模式了😂</p><p><a href="https://x.com/dotey/status/2102824596592640051">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Opus 5.5 还是挺耐用，愣是没在重置前用完 https://t.co/dxrHsMutwM</title>
-      <link>https://x.com/dotey/status/2102805013328515318</link>
-      <guid isPermaLink="false">twitter:2102805013328515318</guid>
-      <pubDate>Wed, 23 Sep 2026 16:59:18 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Opus 5.5 还是挺耐用，愣是没在重置前用完 https://t.co/dxrHsMutwM</p><img src="https://pbs.twimg.com/media/HS6p5v2WAAARcvx.png" loading="lazy" /><p><a href="https://x.com/dotey/status/2102805013328515318">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Claude 手机 App 现在支持多账号了，利好你有多个 Claude 账号</title>
-      <link>https://x.com/dotey/status/2102619857783259285</link>
-      <guid isPermaLink="false">twitter:2102619857783259285</guid>
-      <pubDate>Wed, 23 Sep 2026 04:43:33 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Claude 手机 App 现在支持多账号了，利好你有多个 Claude 账号</p><p><a href="https://x.com/dotey/status/2102619857783259285">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Opus 5.5（图1-2） vs GPT 6 Astra（图3-4）</title>
-      <link>https://x.com/dotey/status/2102565403109085669</link>
-      <guid isPermaLink="false">twitter:2102565403109085669</guid>
-      <pubDate>Wed, 23 Sep 2026 01:07:10 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Opus 5.5（图1-2） vs GPT 6 Astra（图3-4）<br /><br />Opus 5.5 网页：https://t.co/j3GoI1D79W<br /><br />GPT 6 Astra 网页：https://t.co/6G7oaP6cQW<br /><br /> --- Prompt ---<br /><br />请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。<br /><br />主题：日式樱花山谷。<br />使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，<br />不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。<br /><br />【一、作品定位】<br /><br />这是一片完整、连续、有远近层次的山谷景观，<br />不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。<br /><br />风格是现代精细体素 / voxel art：<br />保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。<br />不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。<br /><br />视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。<br /><br />【二、参考图的使用方式】<br /><br />如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。<br />仅借鉴氛围与视觉语言，重新设计场景，<br />不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。<br /><br />参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。<br /><br />【三、场景构图】<br /><br />默认打开时就应呈现一幅完整、有吸引力的画面，<br />不需要用户先旋转镜头才能找到好看的角度。<br /><br />采用透视相机，而不是沙盘式等距俯视相机。<br />画面有明确的前景、中景、远景：<br /><br />前景：<br />一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，<br />形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。<br /><br />中景：<br />一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；<br />村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。<br />地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。<br /><br />远景：<br />山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。<br />用尺度变化、遮挡、冷暖变化和空气透视表现距离，<br />而不是仅仅把远处物体缩小。<br /><br />不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。<br /><br />【四、造型与画面质量】<br /><br />樱花树：<br />树干有转折、分叉和根部，树冠由不规则花簇组成，<br />有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。<br /><br />建筑：<br />屋顶有层叠瓦片、挑檐、梁柱和窗格；<br />不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。<br /><br />地形：<br />岸边有湿润石块、草丛和植被过渡。<br />避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。<br /><br />水面：<br />必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。<br />尽量使用实际场景反射；需要性能降级时也应保持视觉可信。<br />不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。<br /><br />细节：<br />可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，<br />但都应服务于氛围，不能让画面显得嘈杂。<br />不要为了宣称模型数量而堆砌细节。<br /><br />【五、色彩与氛围】<br /><br />默认是蓝调时刻：<br />偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。<br />暖光集中在有人活动的地方，不要把整个环境染成橙色。<br /><br />需要柔和阴影、物体接触处的明暗、合理的曝光、<br />克制的泛光、抗锯齿和有距离层次的薄雾。<br /><br />避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。<br />方块几何可以清晰，但渲染本身不能粗糙。<br /><br />另提供“清晨”和“雨中”两种氛围；<br />切换时应同步改变天空、环境光、雾和局部效果，<br />不是仅仅修改背景颜色。<br /><br />【六、交互与界面】<br /><br />提供四个经过设计的镜头：<br />山谷全景、河边低机位、寺庙小径、山坡俯瞰。<br />切换应平滑，每个镜头都需要有独立的构图价值。<br /><br />基础交互：<br />鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。<br />提供重置视角、隐藏界面和保存当前画面的功能。<br /><br />可选增强：<br />自由探索、缓慢镜头巡游、环境音。<br />环境音默认关闭，只在用户主动点击后播放。<br />额外功能不能影响默认画面的完成度。<br /><br />界面要克制、有设计感，以景观为主。<br />标题和控制条放在边缘，不遮挡视觉焦点。<br />桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。<br /><br />【七、工程与性能】<br /><br />允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。<br />优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。<br /><br />自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。<br />景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。<br /><br />重复物体采用适合的批量或实例化绘制方式；<br />合理控制细分、阴影、反射和渲染分辨率。<br />提供高画质和轻量模式，手机默认使用较轻设置。<br />不要靠无限增加体素数量换取细节。<br /><br />加入加载提示、WebGL 不支持时的提示和必要的错误处理。<br />没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。<br /><br />【八、交付前验收】<br /><br />不要写完代码就立即交付。<br /><br />如果当前环境支持浏览器运行和截图，请先实际打开页面，<br />检查默认镜头、四个视角、氛围切换、桌面和手机布局，<br />再根据截图修正明显的构图、曝光、遮挡和渲染问题。<br /><br />重点检查：<br />是否存在空白画面、加载失败、控制台错误；<br />是否有穿模、闪烁、阴影条纹、过曝、水面异常；<br />默认画面是否真正像完整景观，而不是小型沙盘；<br />功能按钮是否实际可用，移动端是否越界。<br /><br />可以使用浏览器截图验收，但不要调用图像生成工具。<br />没有完成的测试要如实说明，不要声称已经验证。<br /><br />最终交付：<br />1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。<br />2. 如能截图，附一张真实浏览器渲染截图。<br />3. 简短说明操作方式和必要的运行条件。<br /><br />请直接完成制作；非关键细节自行作出一致的设计选择，<br />不要把可以自行解决的实现问题反复交给我决定。</p><img src="https://pbs.twimg.com/media/HS3P_ILWsAEw0CG.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HS3P_IQWwAApper.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HS3QEXFW0AE7NGc.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HS3QEXQWMAASWWy.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2102565403109085669">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：后续维护的时候，该讨论方案正常讨论方案即可，方案确认后再同步文档</title>
-      <link>https://x.com/dotey/status/2102560195113099549</link>
-      <guid isPermaLink="false">twitter:2102560195113099549</guid>
-      <pubDate>Wed, 23 Sep 2026 00:46:28 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>后续维护的时候，该讨论方案正常讨论方案即可，方案确认后再同步文档<br />https://t.co/VFBXMQzCj3</p><p><a href="https://x.com/dotey/status/2102560195113099549">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：我知道的 Claude Design（不是 Claude Code） 和 Figma MCP 的一些差别：</title>
-      <link>https://x.com/dotey/status/2102509523684479377</link>
-      <guid isPermaLink="false">twitter:2102509523684479377</guid>
-      <pubDate>Tue, 22 Sep 2026 21:25:07 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>我知道的 Claude Design（不是 Claude Code） 和 Figma MCP 的一些差别：<br /><br />1. 操作方式不一样<br />- Claude Design 是直接生成 HTML<br />- Figma MCP 是通过 MCP 操作 Figma，省了你手动操作<br /><br />相对来说直出 HTML 做出来好看些（个人观点）<br /><br />2. 产物不一样<br />- Claude Design 产出 HTML + React + CSS + 模拟数据，可以点击交互，不仅是设计稿，还是原型；Claude Design 其实还可以做 Slides 和视频<br />- Figma MCP 还是 Figma 格式文件<br /><br />3. 运行环境不一样<br />- Claude Design 不依赖于 Figma，不需要授权，下载后可以本地运行显示<br />- Figma MCP 依赖于 Figma<br /><br />不是设计师的话，建议选 Claude Design</p><p><a href="https://x.com/dotey/status/2102509523684479377">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>

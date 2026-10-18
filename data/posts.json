@@ -1,7 +1,128 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T20:08:14.730Z",
+  "updated_at": "2026-10-18T16:04:02.781Z",
   "posts": [
+    {
+      "id": "twitter:2111662884098801691",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @LufzzLiz: Claude 账号申请解封失败，也不退钱。用Opus 5.5 做个视频给它吧，\n一个悲惨的故事：我用codex做了三天迭代了好几版。结果发现还是Opus 5.5 做的更好，一下午就出来了😭 https://t.co/N5zSUhmJG3",
+      "url": "https://x.com/dotey/status/2111662884098801691",
+      "created_at": "2026-10-18T03:37:19.000Z",
+      "fetched_at": "2026-10-18T16:03:59.274Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 830
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2111657652476624896/img/SjWe04APSgPl189s.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2111580933824655815",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "rust是个好语言，但大项目编译速度太慢，这让agent得到反馈的速度很慢，加上资源消耗奇大，并行几个任务普通机器跑不动。\n所以我现在只是局部核心组件用，其他还是回归传统 Electron",
+      "url": "https://x.com/dotey/status/2111580933824655815",
+      "created_at": "2026-10-17T22:11:40.000Z",
+      "fetched_at": "2026-10-18T16:03:59.274Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 86,
+        "replies": 117,
+        "retweets": 4,
+        "views": 37785
+      }
+    },
+    {
+      "id": "twitter:2111553994867028409",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "OpenCode 遭入侵，1.4% 的 Console 用户受影响；没收到邮件就没受影响\n\nOpenCode 10 月 17 日发帖说，前一天晚上发生了一起安全事件，和一次大规模“蒸馏攻击”有关，受影响的是 1.4% 的 OpenCode Console 用户。\n\n怎么知道自己有没有受影响？看邮箱。官方说 17 日上午已经给所有受影响的用户发了邮件，没收到邮件就是没受影响。受影响的是 Console 里绑定了外部服务商的一部分用户，没绑定的不在其中。\n\n收到邮件该怎么办，官方公开的帖子没写。据 OfficeChai、Notebookcheck 等科技媒体转述，邮件里说“工作区里保存的第三方服务商密钥（比如 OpenAI、Anthropic）可能已经泄露”，要求用户到各家服务商后台作废旧密钥、换成新的，更新用到这些密钥的程序，再查一查最近的用量有没有异常。这部分来自媒体报道，OpenCode 的公开帖里没有。\n\nOpenCode 说事件还在处理中，暂时不能透露更多细节，正在和 Anthropic、OpenAI、Google 一起处理。\n\n媒体报道：https://t.co/7UXYAHOFfm",
+      "url": "https://x.com/dotey/status/2111553994867028409",
+      "created_at": "2026-10-17T20:24:37.000Z",
+      "fetched_at": "2026-10-18T16:03:59.274Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 29,
+        "replies": 32,
+        "retweets": 5,
+        "views": 18051
+      }
+    },
+    {
+      "id": "twitter:2111532516628664340",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @tianyi: 为充分发挥新模型 DeepSeek-V4.1-Flash-1017 的能力，请升级至 DeepSeek Harness 0.2.1-rc.1 及以上版本。",
+      "url": "https://x.com/dotey/status/2111532516628664340",
+      "created_at": "2026-10-17T18:59:16.000Z",
+      "fetched_at": "2026-10-18T16:03:59.274Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 76,
+        "views": 762
+      }
+    },
+    {
+      "id": "twitter:2111487902869832182",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "DeepSeek 发布 V4.1-Flash-1017：做事更快、回答更短，官网和 App 已换新；联网搜索 API 每千次 5 元，11 月 1 日起收费\n\nDeepSeek 发布 V4.1-Flash 的升级版 V4.1-Flash-1017（1017 指 10 月 17 日）。官方说它测试分数更高、完成任务更快、输出更短。输出短，消耗的 token（AI 计费单位，可以理解成文字碎片）就少，同一件事做得更好，也更省钱。\n\n普通用户打开 DeepSeek 官网或 App 用的就是新版。开发者调 API 的模型名还是 deepseek-flash，代码不用改。\n\n这一版主攻从零做完整个项目，演示里它从头做出了小游戏和 3D 模型。官方在 Hugging Face 公布的测试里，进步最大的是让 AI 在命令行里自己敲命令干活，从 31.2 分涨到 42.3 分。和 Anthropic 的 Opus 5 比，几项自动办事的测试它分更高，高难度问答和写完整程序仍然落后。这些分数都是 DeepSeek 自己测的。\n\n另一件事跟开发者的钱包有关：DeepSeek 把自家搜索引擎开放成接口。Search 输入关键词返回网页结果，Fetch 给一个网址把网页内容抓成文字，合起来能让 AI 应用上网查资料。每个接口每 1000 次成功请求收 5 元（英文版标 0.75 美元），失败、没搜到、超时不收钱。\n\n如果你把 DeepSeek API 接进 Claude Code、Codex 或 DeepSeek 自家的编程工具 DeepSeek Harness 当背后的模型，这些工具里 AI 自动发起的搜索和抓网页目前免费，北京时间 11 月 1 日零点（10 月 31 日 16:00 UTC）开始按次收费。\n\n模型同时开源，MIT 协议，允许商用，可在 Hugging Face 和魔搭社区（ModelScope）下载。它有 7630 亿个参数，个人电脑跑不动，主要给企业和云服务商自己部署。\n\n模型下载：https://t.co/nEtFe7TfN1\n搜索 API 文档：https://t.co/BjOtUeiPdx",
+      "url": "https://x.com/dotey/status/2111487902869832182",
+      "created_at": "2026-10-17T16:02:00.000Z",
+      "fetched_at": "2026-10-18T16:03:59.274Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 81,
+        "replies": 62,
+        "retweets": 8,
+        "views": 27348
+      }
+    },
+    {
+      "id": "twitter:2111384189656252712",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Claude Code 团队公开了他们审代码的做法：代码大约九成由 Claude 写，六月到九月合并的修改翻了一倍多，需要撤回的比例反而降了四成多。\n\n这期用一摞带洞的奶酪片讲这套做法：每道检查都会漏，叠起来就很难漏，底下还有一张网兜底。\n\n片中回答五个问题：哪些修改还要人看，AI 审 AI 会不会没完，审查的 AI 漏了怎么办，人不读代码怎么懂代码，出了事算谁的。人不再逐行读代码，时间花在机器做不好的判断上。\n\n视频1: 英文版\n视频2: 中文版",
+      "url": "https://x.com/dotey/status/2111384189656252712",
+      "created_at": "2026-10-17T09:09:53.000Z",
+      "fetched_at": "2026-10-18T16:03:59.274Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 627,
+        "replies": 125,
+        "retweets": 110,
+        "views": 69057
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2111381698860425216/img/jfkETZ5hUgc6VdM5.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2111381871938490369/img/EyPbd7kfTNeUmbM6.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2111384193141727261",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "--- 文稿 ---\n\nClaude Code 团队的九成代码都是 AI 写的，他们是怎么审查代码的？\n\n如果 AI 替你写作业，一天写一千份，老师批得过来吗？写代码的公司，现在就碰上了这件事。\n\nClaude Code 是 Anthropic 做的编程助手。它自己的代码，大约九成是 Claude 写的。Anthropic 全公司的代码库，九月份一天要合并三万多次修改（五月份还是每天 2500 次左右）。靠人一行一行看，根本看不过来。\n\n可 Claude Code 团队说，从六月到九月，他们合并的修改翻了一倍多，需要撤回的比例反而降了四成多。看的人少了，错反而少了。这是怎么做到的？\n\n【什么是代码审查】\n\n先说程序员平时怎么防出错。改完代码，不能直接放进产品，要先交一份修改申请，英文叫 PR（Pull Request）。同事一行一行看，挑毛病，点了头才能合并。这叫代码审查。\n\n就像作文交上去，老师批过，才能贴上墙。\n\n合并以后才发现出了问题，就得把修改撤回来。撤回得越多，说明漏掉的错越多。\n\n【一摞带洞的奶酪】\n\nClaude Code 团队觉得，“有没有人读过代码”，这个问题问得太粗。更该问的是：这一次修改可能出什么错？哪一道检查最适合拦住它？\n\n可以把每一道检查想成一片带洞的奶酪。每一片都能挡住一些错，也都有洞，会漏掉一些。好几片叠起来，洞很难对齐，错误就很难一路穿过去。最底下再铺一张网，真漏下去了，也能很快捞回来。\n\n这一摞奶酪里，大部分片是机器。人的时间最珍贵，它花在两头：一头是审代码，一头是出了事去救火。只省前一头，救火的时间涨上去，等于没省。所以他们盯着两个数：人花了多少时间，撤回和事故有没有变多。\n\n【跟着一次修改走一遍】\n\n从作者的电脑到用户手里，一次修改走的是一条流水线。前面那几片奶酪，就排在这条线上。\n\n上流水线之前：自己先验。 代码还在自己电脑上，没有提交。Claude 写完代码，要自己跑测试、编译、做代码规范检查，把结果摆出来。光说一句“做好了”，不算数。然后再派一个新的 Claude，它没看过刚才的过程，单独审一遍，就像写完作文请一个没看过的同学挑错。\n\n一提交，就上了流水线。 这条自动化的流水线英文叫 CI（持续集成）。从这以后，每提交一次新改动，机器都会自动从头查一遍，不用谁去点。线上依次是：\n\n- 自动检查： 代码规范、类型、在各个系统上跑测试，再编译、打包。红了一项，就不能合并。\n- AI 审查： 好几个 AI 同时找问题，再由另一组 AI 投票，票数够了才算真问题，按严重程度排好贴出来。每一条意见都得回应：要么改掉，要么写清理由关掉。它刚在内部上线时，一百份申请里收到实质意见的，从 16 份涨到了 54 份。\n- 安全审查： 单独再查一遍。两种审查里只要还有一条没处理，申请就合并不了。\n- 按风险批准： 要不要人看、要几个人看，由一个分类器按风险来定，下面单独讲。\n\n合并：排队，再查一遍。 申请先排进一个队列，轮到它时，拿最新的代码，把它放进去，所有检查再跑一遍。因为两份各自没问题的修改，凑在一起也可能出错。\n\n合并以后： 打包、发布也由流水线自动来做，这后半段英文叫 CD（持续交付）。新功能也不马上给所有人用，先藏在开关后面。这个开关英文叫 feature flag（功能开关）：新代码已经装进了产品，开关关着，用户就碰不到它；开关是一项设置，打开关上都不用改代码，也不用重新发版。打开以后，先给 Anthropic 自己的员工用，再分批发：先发到最新版，稳定版晚一步跟上。就算有问题，碰到的也只是一小部分人。\n\n最底下那张网：盯着，随时撤回。 发出去以后，作者和值班的人一直盯着。新功能出了问题，把开关一关，用户那边马上就看不到它了；哪个版本整个坏了，就撤回，退到上一个好的版本；问题小、看得清，也可以直接修好再发。\n\n撤回为什么快？一是每次修改都切得小，撤的时候只退这一小块。二是撤回本身也是一次修改，走的还是这同一条流水线，检查、打包、发布全是机器在跑。所以大多数问题，几分钟就能撤掉。网铺得牢，上面的奶酪片才敢少让人看几眼。\n\n【哪些修改还要人看？】\n\n看风险。\n\n- 改文档、改文案、藏在开关后面的新功能，风险低。自动审查和安全检查都通过，就不用人批。\n- 普通的产品改动，或者碰到自动更新这类敏感地方的，要一个人批。\n- 风险最高的代码，要两个人批。\n\n档位由修改本身定，跟谁写的无关：一个分类器读完修改，给它定档。\n\n还有两条规矩：AI 的批准，不算人的批准；谁让 AI 写的代码，谁就算一个审查人，要为它负责。\n\n放回奶酪里看：风险越高，人这一片切得越厚。\n\n【AI 审 AI，会不会没完没了？】\n\n真发生过。有一份申请，一夜之间审了改、改了审，五十多轮，直到作者出手叫停。\n\n他们一查，审查反复指出的问题，约 59% 是第一轮就已经在那儿的老代码。人看到一条鸡毛蒜皮的意见，几秒就跳过了；AI 却会老老实实去改，于是又多一轮审查。\n\n后来他们定了规则：\n\n1. 最多审三轮。\n2. 三轮之后，请作者退一步，想想思路对不对。\n3. 过了头几轮，只审新改的部分。\n\n结果，一轮就通过的申请，从 65% 涨到了 78%；要五轮以上的，从 8.9% 降到了 1.5%。\n\n【审查的 AI 漏了怎么办？】\n\n他们把过去闯过祸的修改都收集起来，请熟悉那块代码的工程师，标出错在哪一行。这就成了一本错题本，审查的 AI 每天做一遍。\n\n改提示词、换模型，分数涨了才留下，没涨就扔掉。每出一次事故，错题本就多一道题。\n\n审查反复挑出同一个毛病，就去源头改：写进给 AI 看的说明文件，或者加一条自动检查，下次就不用再提醒。奶酪片上的洞，就这样一个个补上。\n\n【人不读代码了，还怎么懂代码？】\n\n代码审查还有一件事：让团队里的人都懂代码。机器读了大部分，人怎么学？\n\n团队里没有人把全部代码装在脑子里，他们也觉得没必要。想弄懂哪一块，就让 Claude 专门为那一块写一份讲解，几分钟就好，讲的就是代码现在的样子。\n\n一行改文案的修改，逐行看也学不到什么。马上要动的那块代码，有一份讲解，能学到很多。\n\n【出了事算谁的？】\n\n团队的规矩是：你合并的，你负责。中小改动出了问题，通常由合并的人自己修。\n\n这里的“负责”，不等于追究个人责任。让合并的人来修，是因为这次修改这个人最熟，修得最快。\n\n事后复盘，不问是谁犯的错，只问一件事：这只虫，本该被哪一片奶酪拦住？找到那一片，再把那个洞补上。下次同样的错，就溜不过去了。\n\n我的理解是，出了错不挨批，大家就不用藏着掖着，问题能更早摆到台面上。\n\n敢这样做，还因为出错的代价被压得很小。修改切得小，好查也好撤；大多数错误，几分钟就能撤掉。\n\n而且责任是大家一起担的。团队大多在公开频道里干活，谁都看得到别人在做什么，可以顺手接一把，也可以派一个 Agent 去补漏。\n\n【你能用上什么】\n\n你要是也在用 AI 写代码，有两件事现在就能做：\n\n1. 给 AI 一份简短的说明（比如 `CLAUDE.md`），写清楚怎么跑测试、有哪些规则。\n2. 交代码之前，在 Claude Code 里跑一下 `/code-review`。\n\n这些数字都是他们自己公布的，也只是一个团队的做法。\n\n【回到开头】\n\n一天几万份作业，靠人一份份批，批不过来。他们叠了一摞奶酪片：每一片都会漏，叠起来就很难漏，底下还有网接着。\n\n人不再逐行读代码，去做机器做不好的事：该不该做，危险的代码，架构，看懂证据，为结果负责。\n\n他们的一位同事说，放慢速度确实能少出错，可那主要是因为你什么都做得少了。他们宁可更快地发现问题，更快地修好。\n\n---\n\n资料来源：\n- Addy Osmani《How the Claude Code team does code review》（2026.10.15）https://t.co/yg4otshPe6\n- Anthropic《Redesigning source control at Anthropic》（2026.10）https://t.co/XAdWVi4gWe",
+      "url": "https://x.com/dotey/status/2111384193141727261",
+      "created_at": "2026-10-17T09:09:53.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 47,
+        "replies": 9,
+        "retweets": 11,
+        "views": 8648
+      }
+    },
     {
       "id": "xhs:6ad324250000000018010d86",
       "platform": "xhs",
@@ -32,6 +153,23 @@
       ]
     },
     {
+      "id": "twitter:2111253970043953393",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @mtrainier2020: 顺便发个招聘，\n招有独立站运营经验的，尤其是图书，玩具这种产品的独立站运营和编辑。\n可以远程。价格私聊。",
+      "url": "https://x.com/dotey/status/2111253970043953393",
+      "created_at": "2026-10-17T00:32:26.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 871
+      }
+    },
+    {
       "id": "xhs:6ad240df000000001801283c",
       "platform": "xhs",
       "handle": "6467b1210000000010027a51",
@@ -59,6 +197,44 @@
       ]
     },
     {
+      "id": "twitter:2111233972709564917",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "远程面试遇到了疑似 AI 换脸的候选人，让他们把手放在脸前面晃一下可能就穿帮了😂",
+      "url": "https://x.com/dotey/status/2111233972709564917",
+      "created_at": "2026-10-16T23:12:58.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 69,
+        "replies": 94,
+        "retweets": 6,
+        "views": 36892
+      }
+    },
+    {
+      "id": "twitter:2111223306061836484",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Anthropic 公布内部数据：AI agent 工作时长已是员工 6 倍，技术岗新招的初级员工占比从 27% 降到 9%\n\nAnthropic 10 月 16 日发布两份报告。一份讲 AI 怎么改变了 Anthropic 自己的招聘和工作方式，另一份比较 Anthropic 员工和普通美国人对 AI 前景的预期。两份报告合起来的结论是：员工和公众对 AI 怎么影响就业的理解差不多，预期差距主要来自每天用 AI 的亲身体验不同。\n\n先看招聘。Anthropic 技术部门新招的人里，初级岗位的比例从 27% 降到 9%，2025 年 12 月之后初级职位的招聘明显减少。技术部门员工占全公司的比例从 61% 降到 56%，不过技术岗的绝对人数还在增长。\n\n面试评价里提到候选人会不会用 AI 工具的次数，比 2024 年多了好几倍，技术岗约 3 倍，非技术岗约 4 倍。\n\n再看 AI 干了多少活。2026 年 3 月，AI agent 的累计工作时长第一次超过员工。到 8 月，员工自己调用的 agent 工作时长已是员工的 6 倍。这里员工工时按每人每周 40 小时估算，agent 只算实际运行和调用工具的时间。\n\n产出跟着涨。\n\n工程师人均代码提交量是半年前的 5 倍，律师处理的合同、销售签下的单子也变多了。\n\n研究人员追踪了 192 位开始用编程 agent 的工程师，发现他们用上之后写的代码明显增多，而且 agent 写的代码和人写的代码，后来被删掉或撤回的比例没有差别。\n\n新的瓶颈是人的注意力。\n\n报告统计，Claude 的会话里大约 80% 的时间在等人回复。员工花在“管 AI”上的精力越来越多，比如给 agent 写固定指令、检查 agent 的产出、搭监控流程，这类工作在员工使用 Claude 的过程中占比从 2025 年秋天的 10% 涨到 2026 年春天的 22%。\n\n4 月的内部调查里，20% 的员工说自己的角色正从亲手干活变成管理一群 Claude。\n\nAnthropic 认为自己可能是个先行指标，AI 用得最深的公司现在出现的招聘和分工变化，以后可能出现在更多行业。报告也提醒，它是 AI 公司，又处在高速扩张期，这些数字不能直接套到普通企业身上。\n\n第二份报告用 1334 名员工的内部问卷，和调查公司 Morning Consult 8 月对近 1.1 万名美国成年人的调查做对比。\n\n差距最大的两道题：认为 AI 到 2030 年能做出诺贝尔奖级别发现的，员工 91%，美国人 39%；认为到 2030 年 AI 能干自己现在八成以上工作的，员工超过一半，美国人只有约 5%。员工内部也有分歧，大约 2 成员工的预期和普通美国人差不多。\n\n预期差这么多，推理方式却相近。两组人都是觉得 AI 能替自己干的活越多，就预测失业率越高。\n\n比如美国受访者里，预计 AI 能干自己八成以上工作的人，预测 2030 年美国失业率会到 12.2%，目前大约是 4.2%。按 Anthropic 的解释，两边对 AI 如何影响劳动力市场的判断逻辑一样，区别在于亲眼见到的 AI 能力不同。\n\n原文：https://t.co/JUr67nLMkY\n员工就业报告：https://t.co/Mfho9bNa0j\n预期差距报告：https://t.co/ooInCG1eb1",
+      "url": "https://x.com/dotey/status/2111223306061836484",
+      "created_at": "2026-10-16T22:30:35.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 281,
+        "replies": 134,
+        "retweets": 51,
+        "views": 41344
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUySPZ0W0AAB8Pu.jpg",
+        "https://pbs.twimg.com/media/HUySVCEW0AAxvZ4.jpg",
+        "https://pbs.twimg.com/media/HUySX-3XkAAegbr.jpg",
+        "https://pbs.twimg.com/media/HUySZ5WWQAEQDCN.jpg"
+      ]
+    },
+    {
       "id": "twitter:2111215293737599284",
       "platform": "twitter",
       "handle": "OpenAI",
@@ -73,6 +249,22 @@
         "replies": 0,
         "retweets": 55,
         "views": 40715
+      }
+    },
+    {
+      "id": "twitter:2111209934105018471",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "这效率 Roadster 游戏都出来了\n\nhttps://t.co/fO82120Y0c",
+      "url": "https://x.com/dotey/status/2111209934105018471",
+      "created_at": "2026-10-16T21:37:27.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 120,
+        "replies": 42,
+        "retweets": 11,
+        "views": 33074
       }
     },
     {
@@ -92,6 +284,56 @@
       }
     },
     {
+      "id": "twitter:2111141214150164570",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @Khazix0918: https://t.co/lqZ5vGWM0J",
+      "url": "https://x.com/dotey/status/2111141214150164570",
+      "created_at": "2026-10-16T17:04:23.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 374,
+        "views": 812
+      }
+    },
+    {
+      "id": "twitter:2111140356557607405",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @bozhou_ai: 刚刚有个朋友问我：没有 AI 的时候，写代码不得写死了？当初是怎么写出来的？\n\n我说那时候真的是纯手敲，唯一借助的就是自动补全。\n\n但现在回想，那时候特别容易进入心流。一坐下去，不知不觉一天就过去了，写了几千行代码。… https://t.co/I…",
+      "url": "https://x.com/dotey/status/2111140356557607405",
+      "created_at": "2026-10-16T17:00:58.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8,
+        "views": 836
+      }
+    },
+    {
+      "id": "twitter:2111134693743861870",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "补充一点，除了 Opus 5.5 调度，还可以充分利用 advisor，让 Fable 当 Advisor 给 Opus 当顾问\nGPT 6.1 Sol 干杂活其实挺不错的",
+      "url": "https://x.com/dotey/status/2111134693743861870",
+      "created_at": "2026-10-16T16:38:28.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 249,
+        "replies": 63,
+        "retweets": 22,
+        "views": 49183
+      }
+    },
+    {
       "id": "twitter:2111102842497069382",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -107,6 +349,26 @@
         "retweets": 2,
         "views": 280
       }
+    },
+    {
+      "id": "twitter:2111097422810169575",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "昨天学习了一下 handwired，做了一些例子，比如做了几个倒计时、贪吃蛇这种 https://t.co/A3B63zf3Y3\n\n最后做了个教学视频：把代码变成神经网络：不训练、一个数都不差，这有什么用\n视频1: 英文版\n视频2: 中文版\n\n有人把普通代码原封不动地变成了神经网络，一次没训练，结果一个数都不差。\n\n这期从期末总评和停车费讲起，说清神经网络的两种零件：加权求和和开关，再看一条“及格线”怎么变成 7 个权重、1 层的网络。\n\n接着用闰年、FizzBuzz、阶梯电价、生命游戏、贪吃蛇等例子，回答几个问题：\n权重和层到底是什么？\n和 ChatGPT 背后的 Transformer 差在哪？\n网络能不能在浏览器里现场训练，刷新还在吗？\n出了错怎么查？\n变成网络会更快吗，CPU 和 GPU 差在哪？\n这个思路还能用在哪？\n\n---\n视频制作的 Skill 参考：https://t.co/5KVPDqbJe2\n模型：Opus 5.5\n配音：Gemini 3.8 TTS",
+      "url": "https://x.com/dotey/status/2111097422810169575",
+      "created_at": "2026-10-16T14:10:22.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 158,
+        "replies": 43,
+        "retweets": 20,
+        "views": 23463
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2111095051069673472/img/VuoxoYX1rqZAP-RM.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2111095051044413440/img/8YAcxuxxVb-429CR.jpg"
+      ]
     },
     {
       "id": "xhs:6ad22262000000000100ae11",
@@ -246,6 +508,41 @@
       }
     },
     {
+      "id": "twitter:2110919501462311054",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "这还有个演示，挺酷\nhttps://t.co/xUsXlI3z1s",
+      "url": "https://x.com/dotey/status/2110919501462311054",
+      "created_at": "2026-10-16T02:23:22.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 18,
+        "replies": 4,
+        "retweets": 1,
+        "views": 10014
+      }
+    },
+    {
+      "id": "twitter:2110919336147796377",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "特斯拉新 Roadster 发布：靠压缩空气喷气在空中翻正落地，马斯克说 2028 年投产，售价未公布\n\n10 月 15 日晚，特斯拉在得州 SpaceX 的 McGregor 试验场直播发布了第二代 Roadster 跑车。这辆车 2017 年就亮过相，当时说 2020 年交付，之后一推再推，拖了将近九年。\n\n演示里，车开上一段弯曲的大坡道，倒挂着往上跑，然后从坡道尽头冲出去，在空中把车身转回正面，四个轮子落地。之后它又从一排特斯拉车（包括 Semi 电动卡车）上方翻跳过去。马斯克在现场说：“飞行汽车是真的。”\n\n它靠的是冷气推进器。原理跟吹满的气球一松手就乱窜差不多：碳纤维高压罐里存着压缩空气，从喷口猛地放出去就产生推力，不烧燃料，也没有火焰。特斯拉说推进器的推力是轮胎抓地力上限的四五倍，所以它起步能比只靠轮子快得多。倒挂不掉下来靠的是另一套系统：风扇把车底的空气往外抽，把车吸在坡面上。\n\n所以这里的“飞”只是几秒钟的喷气跳跃，气放完就没了，离能载人飞一段路的飞行汽车还远。据科技媒体 Glitchwire 报道，演示车把后排座位换成了一个装 260 公斤压缩空气的高压罐，车身四周有 10 个喷口；The Information 此前报道，因为推力和噪音太大，演示车是远程遥控的。这几点特斯拉官方没有确认。\n\n翻跟头的是最激进的 Rocket 版：单座，只接受邀请购买，不能上公路。零到 60 英里/小时（约 97 公里/小时）加速不到 0.59 秒，极速超过 370 公里/小时。\n\n普通人能订的是另外两个双座版本。Performance 版没有推进器，靠主动空气动力学和风扇吸地增加抓地力，加速不到 1.6 秒，订金 5 万美元。Thrust 版在车尾加了推进器，加速不到 0.9 秒，限量发售，订金 25 万美元。三个版本续航都超过 480 公里。\n\n特斯拉没公布售价，订金不等于车价，2017 年说的起步价是 20 万美元。Performance 版的 5 万美元订金分两次付：先付 5000 美元（特斯拉说可全额退），10 天内再补 4.5 万美元，否则订单取消。\n\n投产时间是马斯克在现场说的 2028 年，特斯拉官方帖子里没有写日期。这辆车的交付时间此前已从 2020 年先后推到 2021、2022、2025 和 2027 年。 https://t.co/6w3qvUw7Ii",
+      "url": "https://x.com/dotey/status/2110919336147796377",
+      "created_at": "2026-10-16T02:22:43.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 314,
+        "replies": 89,
+        "retweets": 36,
+        "views": 128758
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110913252045545472/img/PHzfDPCgX86XBiSv.jpg"
+      ]
+    },
+    {
       "id": "twitter:2110904164922589427",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -262,6 +559,23 @@
       }
     },
     {
+      "id": "twitter:2110904083561255353",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @ChinaDaily: British actress Rosamund Pike recently sat down with China Daily in Suzhou to talk about Chinese food, lifestyle, and cultu…",
+      "url": "https://x.com/dotey/status/2110904083561255353",
+      "created_at": "2026-10-16T01:22:06.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 15,
+        "views": 924
+      }
+    },
+    {
       "id": "xhs:6ad1770d0000000015004c5b",
       "platform": "xhs",
       "handle": "6314a2cc0000000012003173",
@@ -271,6 +585,23 @@
       "fetched_at": "2026-10-16T16:06:17.457Z",
       "author": "Aaron",
       "title": "我为扎克伯格开发了一款产品"
+    },
+    {
+      "id": "twitter:2110891170788434124",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "RT @thinkymachines: Tinker lets customers turn their expertise into cutting-edge models that they own. One year after launch, we look back…",
+      "url": "https://x.com/soumithchintala/status/2110891170788434124",
+      "created_at": "2026-10-16T00:30:48.000Z",
+      "fetched_at": "2026-10-18T00:06:20.933Z",
+      "author": "Soumith Chintala",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 29,
+        "views": 519
+      }
     },
     {
       "id": "xhs:6ad0f018000000001303eea9",
@@ -303,6 +634,38 @@
       ]
     },
     {
+      "id": "twitter:2110877554945175677",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Antigravity 向付费 Google AI Pro 用户开放 Gemini 4 Argon，Argon 有单独的每周额度，不占 3.8 Flash 额度\n\nGoogle 的 AI 编程工具 Antigravity 今天开始向付费的 Google AI Pro 订阅用户推出 Gemini 4 Argon。官方模型页写明只限正式付费的 Pro，试用期的 Pro 用不了，免费用户和 Google AI Plus 用户也不在范围内。能用的地方是 Antigravity 桌面 App、命令行工具 CLI 和 IDE 扩展（装在 VS Code、JetBrains 等编辑器里的插件），Antigravity IDE 里暂时选不到。目前在逐步推送，官方建议先更新到最新版。\n\nPro 用户用 Argon 有一份单独的额度，只按周计算，不像原有额度那样每 5 小时刷新一次；它和原来给 Gemini 3.8 Flash 用的额度分开，用 Argon 不会吃掉 3.8 Flash 的额度。每周到底给多少、哪天重置，推文和官方文档都没写。文档对所有额度的说明是，消耗多少取决于智能体实际干了多少活，任务越复杂用得越快。\n\n官方模型说明：https://t.co/7IXduTeBzr",
+      "url": "https://x.com/dotey/status/2110877554945175677",
+      "created_at": "2026-10-15T23:36:41.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 131,
+        "replies": 120,
+        "retweets": 8,
+        "views": 52377
+      }
+    },
+    {
+      "id": "twitter:2110875762261996016",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "😓 美国人去中国出差用 Claude 也是会被封的",
+      "url": "https://x.com/dotey/status/2110875762261996016",
+      "created_at": "2026-10-15T23:29:34.000Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 235,
+        "replies": 107,
+        "retweets": 9,
+        "views": 65066
+      }
+    },
+    {
       "id": "twitter:2110870554639204407",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -320,6 +683,23 @@
       "media": [
         "https://pbs.twimg.com/media/HUtRdlcbIAAYeRM.jpg"
       ]
+    },
+    {
+      "id": "twitter:2110870371838919084",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: We’re back with @MusicHackspace, and this time we’re in Amsterdam for @ADE_NL.\n\nWe’re handing you Stable Audio 3.0 and see…",
+      "url": "https://x.com/StabilityAI/status/2110870371838919084",
+      "created_at": "2026-10-15T23:08:09.000Z",
+      "fetched_at": "2026-10-18T00:06:20.933Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 1298
+      }
     },
     {
       "id": "twitter:2110865808012578989",
@@ -860,6 +1240,23 @@
         "replies": 0,
         "retweets": 117,
         "views": 824
+      }
+    },
+    {
+      "id": "twitter:2110576261882069082",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "RT @alhyunsoo: we’re hiring a founding model designer to shape how Inkling behaves and feels.\n\nbring a writer’s precision, a designer’s jud…",
+      "url": "https://x.com/soumithchintala/status/2110576261882069082",
+      "created_at": "2026-10-15T03:39:28.000Z",
+      "fetched_at": "2026-10-18T00:06:20.933Z",
+      "author": "Soumith Chintala",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 13,
+        "views": 687
       }
     },
     {
@@ -3676,13 +4073,13 @@
       "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
       "url": "https://x.com/karpathy/status/2109361546505966046",
       "created_at": "2026-10-11T19:12:37.000Z",
-      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "fetched_at": "2026-10-18T16:03:59.275Z",
       "author": "Andrej Karpathy",
       "metrics": {
-        "likes": 4381,
-        "replies": 337,
-        "retweets": 542,
-        "views": 168818
+        "likes": 43335,
+        "replies": 2080,
+        "retweets": 5803,
+        "views": 6596602
       }
     },
     {
@@ -4631,13 +5028,13 @@
       "text": "our engineers have been busy, and we're passing on the savings down to customers.\n\nthe more you buy the more you save!",
       "url": "https://x.com/soumithchintala/status/2108671364970447139",
       "created_at": "2026-10-09T21:30:05.000Z",
-      "fetched_at": "2026-10-11T00:14:09.850Z",
+      "fetched_at": "2026-10-18T00:06:20.933Z",
       "author": "Soumith Chintala",
       "metrics": {
-        "likes": 332,
-        "replies": 14,
-        "retweets": 20,
-        "views": 28122
+        "likes": 360,
+        "replies": 19,
+        "retweets": 22,
+        "views": 32738
       }
     },
     {
@@ -4734,14 +5131,14 @@
       "text": "RT @stableaudio: That melody stuck in your head deserves better than your voice memos folder. 🎙️\n\nDylan Ho, Gilberto Tumangday, and Le-Tao…",
       "url": "https://x.com/StabilityAI/status/2108649799486447645",
       "created_at": "2026-10-09T20:04:23.000Z",
-      "fetched_at": "2026-10-11T16:03:57.854Z",
+      "fetched_at": "2026-10-18T00:06:20.933Z",
       "author": "Stability AI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 1358
+        "views": 1452
       }
     },
     {
