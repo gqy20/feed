@@ -48,6 +48,30 @@
       <description><![CDATA[<p>DeepSeek 发布 V4.1-Flash-1017：做事更快、回答更短，官网和 App 已换新；联网搜索 API 每千次 5 元，11 月 1 日起收费<br /><br />DeepSeek 发布 V4.1-Flash 的升级版 V4.1-Flash-1017（1017 指 10 月 17 日）。官方说它测试分数更高、完成任务更快、输出更短。输出短，消耗的 token（AI 计费单位，可以理解成文字碎片）就少，同一件事做得更好，也更省钱。<br /><br />普通用户打开 DeepSeek 官网或 App 用的就是新版。开发者调 API 的模型名还是 deepseek-flash，代码不用改。<br /><br />这一版主攻从零做完整个项目，演示里它从头做出了小游戏和 3D 模型。官方在 Hugging Face 公布的测试里，进步最大的是让 AI 在命令行里自己敲命令干活，从 31.2 分涨到 42.3 分。和 Anthropic 的 Opus 5 比，几项自动办事的测试它分更高，高难度问答和写完整程序仍然落后。这些分数都是 DeepSeek 自己测的。<br /><br />另一件事跟开发者的钱包有关：DeepSeek 把自家搜索引擎开放成接口。Search 输入关键词返回网页结果，Fetch 给一个网址把网页内容抓成文字，合起来能让 AI 应用上网查资料。每个接口每 1000 次成功请求收 5 元（英文版标 0.75 美元），失败、没搜到、超时不收钱。<br /><br />如果你把 DeepSeek API 接进 Claude Code、Codex 或 DeepSeek 自家的编程工具 DeepSeek Harness 当背后的模型，这些工具里 AI 自动发起的搜索和抓网页目前免费，北京时间 11 月 1 日零点（10 月 31 日 16:00 UTC）开始按次收费。<br /><br />模型同时开源，MIT 协议，允许商用，可在 Hugging Face 和魔搭社区（ModelScope）下载。它有 7630 亿个参数，个人电脑跑不动，主要给企业和云服务商自己部署。<br /><br />模型下载：https://t.co/nEtFe7TfN1<br />搜索 API 文档：https://t.co/BjOtUeiPdx</p><p><a href="https://x.com/dotey/status/2111487902869832182">原文</a></p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：简单试了一下https://t.co/ouUTs65BNm</title>
+      <link>https://x.com/op7418/status/2111428801255342213</link>
+      <guid isPermaLink="false">twitter:2111428801255342213</guid>
+      <pubDate>Sat, 17 Oct 2026 12:07:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>简单试了一下https://t.co/ouUTs65BNm</p><p><a href="https://x.com/op7418/status/2111428801255342213">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：提示词在这里：https://t.co/rI9kXMLdMR</title>
+      <link>https://x.com/op7418/status/2111427773017530611</link>
+      <guid isPermaLink="false">twitter:2111427773017530611</guid>
+      <pubDate>Sat, 17 Oct 2026 12:03:04 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>提示词在这里：https://t.co/rI9kXMLdMR</p><p><a href="https://x.com/op7418/status/2111427773017530611">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！</title>
+      <link>https://x.com/op7418/status/2111427699520749951</link>
+      <guid isPermaLink="false">twitter:2111427699520749951</guid>
+      <pubDate>Sat, 17 Oct 2026 12:02:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！<br /><br />用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。<br /><br />虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的 https://t.co/uXzVfVzLkx</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111427462676819968/img/1MIqLLrcAPVOo0D_.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2111427699520749951">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>宝玉：Claude Code 团队公开了他们审代码的做法：代码大约九成由 Claude 写，六月到九月合并的修改翻了一倍多，需要撤回的比例反而降了四成多。</title>
       <link>https://x.com/dotey/status/2111384189656252712</link>
       <guid isPermaLink="false">twitter:2111384189656252712</guid>
@@ -62,6 +86,22 @@
       <pubDate>Sat, 17 Oct 2026 09:09:53 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>--- 文稿 ---<br /><br />Claude Code 团队的九成代码都是 AI 写的，他们是怎么审查代码的？<br /><br />如果 AI 替你写作业，一天写一千份，老师批得过来吗？写代码的公司，现在就碰上了这件事。<br /><br />Claude Code 是 Anthropic 做的编程助手。它自己的代码，大约九成是 Claude 写的。Anthropic 全公司的代码库，九月份一天要合并三万多次修改（五月份还是每天 2500 次左右）。靠人一行一行看，根本看不过来。<br /><br />可 Claude Code 团队说，从六月到九月，他们合并的修改翻了一倍多，需要撤回的比例反而降了四成多。看的人少了，错反而少了。这是怎么做到的？<br /><br />【什么是代码审查】<br /><br />先说程序员平时怎么防出错。改完代码，不能直接放进产品，要先交一份修改申请，英文叫 PR（Pull Request）。同事一行一行看，挑毛病，点了头才能合并。这叫代码审查。<br /><br />就像作文交上去，老师批过，才能贴上墙。<br /><br />合并以后才发现出了问题，就得把修改撤回来。撤回得越多，说明漏掉的错越多。<br /><br />【一摞带洞的奶酪】<br /><br />Claude Code 团队觉得，“有没有人读过代码”，这个问题问得太粗。更该问的是：这一次修改可能出什么错？哪一道检查最适合拦住它？<br /><br />可以把每一道检查想成一片带洞的奶酪。每一片都能挡住一些错，也都有洞，会漏掉一些。好几片叠起来，洞很难对齐，错误就很难一路穿过去。最底下再铺一张网，真漏下去了，也能很快捞回来。<br /><br />这一摞奶酪里，大部分片是机器。人的时间最珍贵，它花在两头：一头是审代码，一头是出了事去救火。只省前一头，救火的时间涨上去，等于没省。所以他们盯着两个数：人花了多少时间，撤回和事故有没有变多。<br /><br />【跟着一次修改走一遍】<br /><br />从作者的电脑到用户手里，一次修改走的是一条流水线。前面那几片奶酪，就排在这条线上。<br /><br />上流水线之前：自己先验。 代码还在自己电脑上，没有提交。Claude 写完代码，要自己跑测试、编译、做代码规范检查，把结果摆出来。光说一句“做好了”，不算数。然后再派一个新的 Claude，它没看过刚才的过程，单独审一遍，就像写完作文请一个没看过的同学挑错。<br /><br />一提交，就上了流水线。 这条自动化的流水线英文叫 CI（持续集成）。从这以后，每提交一次新改动，机器都会自动从头查一遍，不用谁去点。线上依次是：<br /><br />- 自动检查： 代码规范、类型、在各个系统上跑测试，再编译、打包。红了一项，就不能合并。<br />- AI 审查： 好几个 AI 同时找问题，再由另一组 AI 投票，票数够了才算真问题，按严重程度排好贴出来。每一条意见都得回应：要么改掉，要么写清理由关掉。它刚在内部上线时，一百份申请里收到实质意见的，从 16 份涨到了 54 份。<br />- 安全审查： 单独再查一遍。两种审查里只要还有一条没处理，申请就合并不了。<br />- 按风险批准： 要不要人看、要几个人看，由一个分类器按风险来定，下面单独讲。<br /><br />合并：排队，再查一遍。 申请先排进一个队列，轮到它时，拿最新的代码，把它放进去，所有检查再跑一遍。因为两份各自没问题的修改，凑在一起也可能出错。<br /><br />合并以后： 打包、发布也由流水线自动来做，这后半段英文叫 CD（持续交付）。新功能也不马上给所有人用，先藏在开关后面。这个开关英文叫 feature flag（功能开关）：新代码已经装进了产品，开关关着，用户就碰不到它；开关是一项设置，打开关上都不用改代码，也不用重新发版。打开以后，先给 Anthropic 自己的员工用，再分批发：先发到最新版，稳定版晚一步跟上。就算有问题，碰到的也只是一小部分人。<br /><br />最底下那张网：盯着，随时撤回。 发出去以后，作者和值班的人一直盯着。新功能出了问题，把开关一关，用户那边马上就看不到它了；哪个版本整个坏了，就撤回，退到上一个好的版本；问题小、看得清，也可以直接修好再发。<br /><br />撤回为什么快？一是每次修改都切得小，撤的时候只退这一小块。二是撤回本身也是一次修改，走的还是这同一条流水线，检查、打包、发布全是机器在跑。所以大多数问题，几分钟就能撤掉。网铺得牢，上面的奶酪片才敢少让人看几眼。<br /><br />【哪些修改还要人看？】<br /><br />看风险。<br /><br />- 改文档、改文案、藏在开关后面的新功能，风险低。自动审查和安全检查都通过，就不用人批。<br />- 普通的产品改动，或者碰到自动更新这类敏感地方的，要一个人批。<br />- 风险最高的代码，要两个人批。<br /><br />档位由修改本身定，跟谁写的无关：一个分类器读完修改，给它定档。<br /><br />还有两条规矩：AI 的批准，不算人的批准；谁让 AI 写的代码，谁就算一个审查人，要为它负责。<br /><br />放回奶酪里看：风险越高，人这一片切得越厚。<br /><br />【AI 审 AI，会不会没完没了？】<br /><br />真发生过。有一份申请，一夜之间审了改、改了审，五十多轮，直到作者出手叫停。<br /><br />他们一查，审查反复指出的问题，约 59% 是第一轮就已经在那儿的老代码。人看到一条鸡毛蒜皮的意见，几秒就跳过了；AI 却会老老实实去改，于是又多一轮审查。<br /><br />后来他们定了规则：<br /><br />1. 最多审三轮。<br />2. 三轮之后，请作者退一步，想想思路对不对。<br />3. 过了头几轮，只审新改的部分。<br /><br />结果，一轮就通过的申请，从 65% 涨到了 78%；要五轮以上的，从 8.9% 降到了 1.5%。<br /><br />【审查的 AI 漏了怎么办？】<br /><br />他们把过去闯过祸的修改都收集起来，请熟悉那块代码的工程师，标出错在哪一行。这就成了一本错题本，审查的 AI 每天做一遍。<br /><br />改提示词、换模型，分数涨了才留下，没涨就扔掉。每出一次事故，错题本就多一道题。<br /><br />审查反复挑出同一个毛病，就去源头改：写进给 AI 看的说明文件，或者加一条自动检查，下次就不用再提醒。奶酪片上的洞，就这样一个个补上。<br /><br />【人不读代码了，还怎么懂代码？】<br /><br />代码审查还有一件事：让团队里的人都懂代码。机器读了大部分，人怎么学？<br /><br />团队里没有人把全部代码装在脑子里，他们也觉得没必要。想弄懂哪一块，就让 Claude 专门为那一块写一份讲解，几分钟就好，讲的就是代码现在的样子。<br /><br />一行改文案的修改，逐行看也学不到什么。马上要动的那块代码，有一份讲解，能学到很多。<br /><br />【出了事算谁的？】<br /><br />团队的规矩是：你合并的，你负责。中小改动出了问题，通常由合并的人自己修。<br /><br />这里的“负责”，不等于追究个人责任。让合并的人来修，是因为这次修改这个人最熟，修得最快。<br /><br />事后复盘，不问是谁犯的错，只问一件事：这只虫，本该被哪一片奶酪拦住？找到那一片，再把那个洞补上。下次同样的错，就溜不过去了。<br /><br />我的理解是，出了错不挨批，大家就不用藏着掖着，问题能更早摆到台面上。<br /><br />敢这样做，还因为出错的代价被压得很小。修改切得小，好查也好撤；大多数错误，几分钟就能撤掉。<br /><br />而且责任是大家一起担的。团队大多在公开频道里干活，谁都看得到别人在做什么，可以顺手接一把，也可以派一个 Agent 去补漏。<br /><br />【你能用上什么】<br /><br />你要是也在用 AI 写代码，有两件事现在就能做：<br /><br />1. 给 AI 一份简短的说明（比如 `CLAUDE.md`），写清楚怎么跑测试、有哪些规则。<br />2. 交代码之前，在 Claude Code 里跑一下 `/code-review`。<br /><br />这些数字都是他们自己公布的，也只是一个团队的做法。<br /><br />【回到开头】<br /><br />一天几万份作业，靠人一份份批，批不过来。他们叠了一摞奶酪片：每一片都会漏，叠起来就很难漏，底下还有网接着。<br /><br />人不再逐行读代码，去做机器做不好的事：该不该做，危险的代码，架构，看懂证据，为结果负责。<br /><br />他们的一位同事说，放慢速度确实能少出错，可那主要是因为你什么都做得少了。他们宁可更快地发现问题，更快地修好。<br /><br />---<br /><br />资料来源：<br />- Addy Osmani《How the Claude Code team does code review》（2026.10.15）https://t.co/yg4otshPe6<br />- Anthropic《Redesigning source control at Anthropic》（2026.10）https://t.co/XAdWVi4gWe</p><p><a href="https://x.com/dotey/status/2111384193141727261">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：详情：https://t.co/hduOwnlFZv</title>
+      <link>https://x.com/op7418/status/2111380969798451222</link>
+      <guid isPermaLink="false">twitter:2111380969798451222</guid>
+      <pubDate>Sat, 17 Oct 2026 08:57:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>详情：https://t.co/hduOwnlFZv</p><p><a href="https://x.com/op7418/status/2111380969798451222">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：Deepseek 发布了 V4.1 Flash 1017 版本</title>
+      <link>https://x.com/op7418/status/2111380782174683300</link>
+      <guid isPermaLink="false">twitter:2111380782174683300</guid>
+      <pubDate>Sat, 17 Oct 2026 08:56:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Deepseek 发布了 V4.1 Flash 1017 版本<br /><br />他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！<br /><br />整体能力再次大幅提升，同时缩短了模型的任务运行时间和输出长度，能以更低的成本完成同样的任务。<br /><br />另外，他们这次着重强调了可以从零开始完成整个项目的开发：<br /><br />不用人工干预，用非常简单的提示词就行，类似 OpenAI 5.5 这种一句话做个视频或一句话做个游戏。<br /><br />还有一个比较重要的点是它开放了自研的搜索 API。<br /><br />Deepseek 在国内信息数据的搜索结果上非常精准且强大，所以这个 API 挺有用的，可以给你的 Harness 配上</p><img src="https://pbs.twimg.com/media/HU0hnmWbYAAoDwD.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HU0hnmSaoAAs_S3.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HU0hnmUbkAAIKl5.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HU0hnmUbYAAlPPV.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2111380782174683300">原文</a></p>]]></description>
     </item>
     <item>
       <title>AI异类弗兰克：原来诺奖、图灵奖得主，都是这么有趣的老头</title>
@@ -144,12 +184,44 @@
       <description><![CDATA[<p>RT @bozhou_ai: 刚刚有个朋友问我：没有 AI 的时候，写代码不得写死了？当初是怎么写出来的？<br /><br />我说那时候真的是纯手敲，唯一借助的就是自动补全。<br /><br />但现在回想，那时候特别容易进入心流。一坐下去，不知不觉一天就过去了，写了几千行代码。… https://t.co/I…</p><p><a href="https://x.com/dotey/status/2111140356557607405">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Sam Altman：The back of the Navier-Stokes milestone shirt is the last line of the chain-of-…</title>
+      <link>https://x.com/sama/status/2111139227761266699</link>
+      <guid isPermaLink="false">twitter:2111139227761266699</guid>
+      <pubDate>Fri, 16 Oct 2026 16:56:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1</p><img src="https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg" loading="lazy" /><p><a href="https://x.com/sama/status/2111139227761266699">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>宝玉：补充一点，除了 Opus 5.5 调度，还可以充分利用 advisor，让 Fable 当 Advisor 给 Opus 当顾问</title>
       <link>https://x.com/dotey/status/2111134693743861870</link>
       <guid isPermaLink="false">twitter:2111134693743861870</guid>
       <pubDate>Fri, 16 Oct 2026 16:38:28 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>补充一点，除了 Opus 5.5 调度，还可以充分利用 advisor，让 Fable 当 Advisor 给 Opus 当顾问<br />GPT 6.1 Sol 干杂活其实挺不错的</p><p><a href="https://x.com/dotey/status/2111134693743861870">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Sam Altman：Wow the new roadster looks quite amazing, good job @elonmusk</title>
+      <link>https://x.com/sama/status/2111131677351432197</link>
+      <guid isPermaLink="false">twitter:2111131677351432197</guid>
+      <pubDate>Fri, 16 Oct 2026 16:26:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Wow the new roadster looks quite amazing, good job @elonmusk</p><p><a href="https://x.com/sama/status/2111131677351432197">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Sam Altman：Very happy to see this from Nick!</title>
+      <link>https://x.com/sama/status/2111130577789493706</link>
+      <guid isPermaLink="false">twitter:2111130577789493706</guid>
+      <pubDate>Fri, 16 Oct 2026 16:22:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Very happy to see this from Nick!</p><p><a href="https://x.com/sama/status/2111130577789493706">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：iPhone Duo 语音输入打错了</title>
+      <link>https://x.com/op7418/status/2111110577481535938</link>
+      <guid isPermaLink="false">twitter:2111110577481535938</guid>
+      <pubDate>Fri, 16 Oct 2026 15:02:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>iPhone Duo 语音输入打错了</p><p><a href="https://x.com/op7418/status/2111110577481535938">原文</a></p>]]></description>
     </item>
     <item>
       <title>Jerry Liu：RT @imaanxsultan: my takeaways from this movie without any spoilers:</title>
@@ -168,6 +240,14 @@
       <description><![CDATA[<p>昨天学习了一下 handwired，做了一些例子，比如做了几个倒计时、贪吃蛇这种 https://t.co/A3B63zf3Y3<br /><br />最后做了个教学视频：把代码变成神经网络：不训练、一个数都不差，这有什么用<br />视频1: 英文版<br />视频2: 中文版<br /><br />有人把普通代码原封不动地变成了神经网络，一次没训练，结果一个数都不差。<br /><br />这期从期末总评和停车费讲起，说清神经网络的两种零件：加权求和和开关，再看一条“及格线”怎么变成 7 个权重、1 层的网络。<br /><br />接着用闰年、FizzBuzz、阶梯电价、生命游戏、贪吃蛇等例子，回答几个问题：<br />权重和层到底是什么？<br />和 ChatGPT 背后的 Transformer 差在哪？<br />网络能不能在浏览器里现场训练，刷新还在吗？<br />出了错怎么查？<br />变成网络会更快吗，CPU 和 GPU 差在哪？<br />这个思路还能用在哪？<br /><br />---<br />视频制作的 Skill 参考：https://t.co/5KVPDqbJe2<br />模型：Opus 5.5<br />配音：Gemini 3.8 TTS</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111095051069673472/img/VuoxoYX1rqZAP-RM.jpg" loading="lazy" /><img src="https://pbs.twimg.com/amplify_video_thumb/2111095051044413440/img/8YAcxuxxVb-429CR.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2111097422810169575">原文</a></p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：大家都不傻，都预料到了 iPhone Duo 的火爆。</title>
+      <link>https://x.com/op7418/status/2111082519777194281</link>
+      <guid isPermaLink="false">twitter:2111082519777194281</guid>
+      <pubDate>Fri, 16 Oct 2026 13:11:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>大家都不傻，都预料到了 iPhone Duo 的火爆。<br /><br />今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。<br /><br />现在抢到第一批，基本上就起飞了</p><p><a href="https://x.com/op7418/status/2111082519777194281">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>AI拯救打工人（幻觉版）：数百名AI学者鼓励“慢科研”，但谁敢先停？</title>
       <link>https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ad22262000000000100ae11?xsec_token=ABICPjEH7W9Iniow14VzyoXPwiVLm3oQOFwwcvQXvl3yg=&amp;xsec_source=pc_user</link>
       <guid isPermaLink="false">xhs:6ad22262000000000100ae11</guid>
@@ -182,6 +262,14 @@
       <pubDate>Fri, 16 Oct 2026 09:41:01 GMT</pubDate>
       <category>xhs</category>
       <description><![CDATA[<strong>Google Harmony Harness 又一个Agent自进化</strong><p>Google 和 CMU 联合发表了一篇论文《Harmony Harness：Multi-Objective Self-Evolution of Agent Harnesses》，探索如何让 Agent 自己进化 Harness。 以前要提升Agent的能力，通常是优化Prompt、增加工具、调整工作流。后来DGM、Meta-Harness 等研究，让Agent根据执行反馈修改自己的Harness。 但如果每次都修改整套Harness，很容易为了提升某项指标，过拟合特定任务。 Harmony Harness 提出三个有意思的设计。 1️⃣多目标进化 论文选择安全代码生成场景，同时优化功能正确性和安全性。 通过 MOEA/D 算法，维护多个具有不同优化偏好的 Harness，让它们沿着不同方向持续演化，避免只追求单一指标。 2️⃣把Harness拆开进化 研究人员将 Harness 拆分为三个部分：Tool 工具和执行能力、Skill 可复用的知识与操作经验、Logic Agent Loop 和任务编排逻辑，同时区分通用能力和环境专用能力。 当任务失败时，Agent 会分析原因，提出改进假设再决定修改哪个组件。 甚至还能把环境专用经验提炼为通用能力，或者把过度特殊化的逻辑移出通用层。 相当于Agent在持续试错中，逐渐完善自己的工具箱和方法论。 3️⃣动态组装Harness 有了持续进化的组件库，执行时也不必使用固定流程。 Composition Agent可以根据当前任务，动态选择Tool、Skill 和 Logic，生成对应的执行流程。 效果在SecRepoBench 上，功能与安全同时通过率从46.7%提升至76.7%；分布外测试从36.7% 提升至66.7%。 论文还发现，在缺乏充分保护的实验设置下，自进化系统竟拿到了 100% 的成绩，但检查后发现，Agent 可能只是学会了迎合评测，甚至修改评测程序。 未来 Agent 的能力提升，可能不完全依赖更强的模型。 模型权重不变，Harness 也能通过持续反馈，积累经验、改进工具、优化执行方式。 Agent 不仅要学会完成任务，还要逐渐学会如何更好地完成任务。 #HarmonyHarness #Agent自进化 #Harness #RSI #SelfEvolvingAgent #大模型 #人工智能 #论文解读</p><img src="https://sns-webpic-qc.xhscdn.com/202610170005/4cecc4c885c38ea9e0a9afe8b46a1a72/spectrum/1040g0k0326ck3fvhkc3g5p37m4gk4uihsfmf698!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/8cdf12cb45b91e2553ef859b429519d4/spectrum/1040g0k0326ck3fvhkc0g5p37m4gk4uih92rpkv8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/dbdb8277aca0e7aed9ed920e121b0aef/spectrum/1040g0k0326ck3fvhkc105p37m4gk4uihbjmpt6g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/a811a029d0874d1805be26b6712fd066/spectrum/1040g0k0326ck3fvhkc1g5p37m4gk4uihdfpqi90!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/c087532c5cecd88337cd5d177bdfca26/spectrum/1040g0k0326ck3fvhkc205p37m4gk4uih77smgf8!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/5782391c675fce59b620880f0b910371/spectrum/1040g0k0326ck3fvhkc2g5p37m4gk4uih67ues8g!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/4fdf759ebc40c72568bc3e605a4ec485/spectrum/1040g0k0326ck3fvhkc305p37m4gk4uihr32ev0o!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/4cecc4c885c38ea9e0a9afe8b46a1a72/spectrum/1040g0k0326ck3fvhkc3g5p37m4gk4uihsfmf698!nd_dft_wlteh_webp_3" loading="lazy" /><img src="https://sns-webpic-qc.xhscdn.com/202610170005/8cdf12cb45b91e2553ef859b429519d4/spectrum/1040g0k0326ck3fvhkc0g5p37m4gk4uih92rpkv8!nd_dft_wlteh_webp_3" loading="lazy" /><p><a href="https://www.xiaohongshu.com/user/profile/6467b1210000000010027a51/6ad1dc6600000000120360c1?xsec_token=ABDWrh-Gym9HjVnJ4H4OiTFAf7rhstq3FcENh1jRKtlmQ=&amp;xsec_source=pc_user">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：马斯克在八年前就说这过这个设想</title>
+      <link>https://x.com/op7418/status/2110987435874431392</link>
+      <guid isPermaLink="false">twitter:2110987435874431392</guid>
+      <pubDate>Fri, 16 Oct 2026 06:53:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>马斯克在八年前就说这过这个设想<br /><br />当时评论区很多人觉得他在开玩笑 https://t.co/fsyvNacm6b</p><img src="https://pbs.twimg.com/media/HUu74bTbEAAnECm.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110987435874431392">原文</a></p>]]></description>
     </item>
     <item>
       <title>Jerry Liu：RT @imaanxsultan: im so ready to watch what’s supposed to be the best movie of a…</title>
@@ -216,12 +304,28 @@
       <description><![CDATA[<p>RT @hexapode: Since OpenAI’s math release last week, GitHub contributors have been driving down the kappa for integer multiplication, with…</p><p><a href="https://x.com/jerryjliu0/status/2110927409084260538">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：从 0 加速到 97 公里 只需要 0.81 秒！</title>
+      <link>https://x.com/op7418/status/2110926229570556175</link>
+      <guid isPermaLink="false">twitter:2110926229570556175</guid>
+      <pubDate>Fri, 16 Oct 2026 02:50:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>从 0 加速到 97 公里 只需要 0.81 秒！</p><p><a href="https://x.com/op7418/status/2110926229570556175">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Jerry Liu：thought this was AI wtf</title>
       <link>https://x.com/jerryjliu0/status/2110923500408246287</link>
       <guid isPermaLink="false">twitter:2110923500408246287</guid>
       <pubDate>Fri, 16 Oct 2026 02:39:16 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>thought this was AI wtf</p><p><a href="https://x.com/jerryjliu0/status/2110923500408246287">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：应该是 1M 上下文，他妈的语音输入又出错</title>
+      <link>https://x.com/op7418/status/2110919542809723377</link>
+      <guid isPermaLink="false">twitter:2110919542809723377</guid>
+      <pubDate>Fri, 16 Oct 2026 02:23:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>应该是 1M 上下文，他妈的语音输入又出错</p><p><a href="https://x.com/op7418/status/2110919542809723377">原文</a></p>]]></description>
     </item>
     <item>
       <title>宝玉：这还有个演示，挺酷</title>
@@ -238,6 +342,14 @@
       <pubDate>Fri, 16 Oct 2026 02:22:43 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>特斯拉新 Roadster 发布：靠压缩空气喷气在空中翻正落地，马斯克说 2028 年投产，售价未公布<br /><br />10 月 15 日晚，特斯拉在得州 SpaceX 的 McGregor 试验场直播发布了第二代 Roadster 跑车。这辆车 2017 年就亮过相，当时说 2020 年交付，之后一推再推，拖了将近九年。<br /><br />演示里，车开上一段弯曲的大坡道，倒挂着往上跑，然后从坡道尽头冲出去，在空中把车身转回正面，四个轮子落地。之后它又从一排特斯拉车（包括 Semi 电动卡车）上方翻跳过去。马斯克在现场说：“飞行汽车是真的。”<br /><br />它靠的是冷气推进器。原理跟吹满的气球一松手就乱窜差不多：碳纤维高压罐里存着压缩空气，从喷口猛地放出去就产生推力，不烧燃料，也没有火焰。特斯拉说推进器的推力是轮胎抓地力上限的四五倍，所以它起步能比只靠轮子快得多。倒挂不掉下来靠的是另一套系统：风扇把车底的空气往外抽，把车吸在坡面上。<br /><br />所以这里的“飞”只是几秒钟的喷气跳跃，气放完就没了，离能载人飞一段路的飞行汽车还远。据科技媒体 Glitchwire 报道，演示车把后排座位换成了一个装 260 公斤压缩空气的高压罐，车身四周有 10 个喷口；The Information 此前报道，因为推力和噪音太大，演示车是远程遥控的。这几点特斯拉官方没有确认。<br /><br />翻跟头的是最激进的 Rocket 版：单座，只接受邀请购买，不能上公路。零到 60 英里/小时（约 97 公里/小时）加速不到 0.59 秒，极速超过 370 公里/小时。<br /><br />普通人能订的是另外两个双座版本。Performance 版没有推进器，靠主动空气动力学和风扇吸地增加抓地力，加速不到 1.6 秒，订金 5 万美元。Thrust 版在车尾加了推进器，加速不到 0.9 秒，限量发售，订金 25 万美元。三个版本续航都超过 480 公里。<br /><br />特斯拉没公布售价，订金不等于车价，2017 年说的起步价是 20 万美元。Performance 版的 5 万美元订金分两次付：先付 5000 美元（特斯拉说可全额退），10 天内再补 4.5 万美元，否则订单取消。<br /><br />投产时间是马斯克在现场说的 2028 年，特斯拉官方帖子里没有写日期。这辆车的交付时间此前已从 2020 年先后推到 2021、2022、2025 和 2027 年。 https://t.co/6w3qvUw7Ii</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110913252045545472/img/PHzfDPCgX86XBiSv.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2110919336147796377">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：卧槽，特斯拉这个新的跑车太离谱了</title>
+      <link>https://x.com/op7418/status/2110912965876838704</link>
+      <guid isPermaLink="false">twitter:2110912965876838704</guid>
+      <pubDate>Fri, 16 Oct 2026 01:57:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>卧槽，特斯拉这个新的跑车太离谱了<br /><br />居然能短暂飞行并且在空中调整姿态<br /><br />演示的时候可以直接跳起来反转然后正常落地 https://t.co/AEP6AVWLKN</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110901301412515840/img/aV55bt5oYxAmsw3i.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110912965876838704">原文</a></p>]]></description>
     </item>
     <item>
       <title>Jerry Liu：claude cowork really needs to let you fork a conversation</title>
@@ -408,6 +520,22 @@
       <description><![CDATA[<p>RT @caspar_br: Managed Deep Agents can read the files people share and send files back where the conversation already is. It feels like mag…</p><p><a href="https://x.com/hwchase17/status/2110788261589434596">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：详情：https://t.co/eqYdCAiNUJ</title>
+      <link>https://x.com/op7418/status/2110787028082364520</link>
+      <guid isPermaLink="false">twitter:2110787028082364520</guid>
+      <pubDate>Thu, 15 Oct 2026 17:36:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>详情：https://t.co/eqYdCAiNUJ</p><p><a href="https://x.com/op7418/status/2110787028082364520">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：Meta 又开始发布开源模型了，发布了 Muse Spark Open。</title>
+      <link>https://x.com/op7418/status/2110786960080155103</link>
+      <guid isPermaLink="false">twitter:2110786960080155103</guid>
+      <pubDate>Thu, 15 Oct 2026 17:36:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Meta 又开始发布开源模型了，发布了 Muse Spark Open。<br /><br />他们说是迄今为止美国最强大的开源模型。<br /><br />基于苹果的 MLX 框架做了深度优化。<br /><br />这个 800B 的模型，居然可以在两台 M5 Ultra Mac Studio 上本地运行。<br /><br />在长时任务、复杂软件工程和多步骤推理上很出色。<br /><br />总参数是 816B，活跃参数 42B，支持 1T 的上下文窗口，原生支持文本、图像、视频、音频全模态输入。<br /><br />在测评基准的分数上，跟 K3 和 GLM-5.3 差不多。<br /><br />感觉这波美国全员进步，每家都有新进展。</p><img src="https://pbs.twimg.com/media/HUsFi5zaEAAbUgY.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUsFi52bgAAxcxI.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110786960080155103">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Hugging Face：RT @RisingSayak: It&apos;s time. It&apos;s fucking time!</title>
       <link>https://x.com/huggingface/status/2110780539984822503</link>
       <guid isPermaLink="false">twitter:2110780539984822503</guid>
@@ -544,6 +672,30 @@
       <description><![CDATA[<p>Coding agents (Claude code, codex) -&amp;gt; personal agents (instinct, muse) -&amp;gt; companyOS (???)</p><p><a href="https://x.com/hwchase17/status/2110696529808048500">原文</a></p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊</title>
+      <link>https://x.com/op7418/status/2110668428105363721</link>
+      <guid isPermaLink="false">twitter:2110668428105363721</guid>
+      <pubDate>Thu, 15 Oct 2026 09:45:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊<br /><br />补偿是过去 7 天账户消耗的所有 API 的金额，会以赠金的形式退到账户里</p><p><a href="https://x.com/op7418/status/2110668428105363721">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！</title>
+      <link>https://x.com/op7418/status/2110656210685071604</link>
+      <guid isPermaLink="false">twitter:2110656210685071604</guid>
+      <pubDate>Thu, 15 Oct 2026 08:57:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！<br /><br />不过免费版只有 200K 的上下文，付费版有 1M</p><p><a href="https://x.com/op7418/status/2110656210685071604">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：顺便说一句，JEV 模型这次的更新几乎都命中了我们在 Next Token  20 多天前提到的它需要改进的部分 https://t.co/iE01t…</title>
+      <link>https://x.com/op7418/status/2110605686086529470</link>
+      <guid isPermaLink="false">twitter:2110605686086529470</guid>
+      <pubDate>Thu, 15 Oct 2026 05:36:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>顺便说一句，JEV 模型这次的更新几乎都命中了我们在 Next Token  20 多天前提到的它需要改进的部分 https://t.co/iE01tWYP5J</p><img src="https://pbs.twimg.com/media/HUpgorfaoAA29iE.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110605686086529470">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Harrison Chase：RT @FDavidsonT: We’re months away from AGI and the leisure economy’s about …</title>
       <link>https://x.com/hwchase17/status/2110599965240176876</link>
       <guid isPermaLink="false">twitter:2110599965240176876</guid>
@@ -552,12 +704,44 @@
       <description><![CDATA[<p>RT @FDavidsonT: We’re months away from AGI and the leisure economy’s about to explode<br /><br />Today, we’re launching Odessia, an always-on concier…</p><p><a href="https://x.com/hwchase17/status/2110599965240176876">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：字节 Seed成立了专门的模型安全与对齐部门，感觉确实很有必要。</title>
+      <link>https://x.com/op7418/status/2110584734342627390</link>
+      <guid isPermaLink="false">twitter:2110584734342627390</guid>
+      <pubDate>Thu, 15 Oct 2026 04:13:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>字节 Seed成立了专门的模型安全与对齐部门，感觉确实很有必要。<br /><br />这次他们计划在这个部门全球招募 10 位顶尖研究员。<br /><br />研究课题有：<br />大模型及Agent安全的前沿评测方法和Benchmark建设<br />模型前沿能力对齐的训练方法<br />自动化Red Teaming<br />模型行为可解释性<br />模型能力和行为监控<br /><br />字节的待遇向来非常顶，事情本身也极具挑战性，最近刚好在看类似方向工作的朋友不妨试试。<br /><br />最近不管是大模型还是小模型，都频繁出现模型越狱和突破沙箱隔离环境的问题。<br /><br />而且这种风险要么是小打小闹，要么就是憋个大的。提前有这样的储备并持续进行研究，起码在出问题时能快速反应。<br /><br />随着模型能力越来越高、自主性越来越强，在一些危险领域的隐患也越来越大：<br />比如 CBRN 领域（化学、生物、放射性及核领域）<br />可能很多人觉得上面的四个离我们太远，但是互联网上针对个人的内容攻击离我们可太近了。<br />AI 甚至有可能直接篡改应用，甚至控制家里的其他设备。<br /><br />随着 AI 能破解一切软件，那 AI 写出非常厉害的病毒也是一个顺理成章的事情。<br /><br />包括对于我们整个互联网赖以生存的密码学破解，应该也是进展神速。<br /><br />客观来说，国内在这方面的进展其实比 OpenAI 和 Anthropic 慢。<br /><br />Anthropic 成立初衷就是为了安全，长期在做对齐和可解释性研究；而海外 AI 圈几乎每隔一两周就会爆出安全热点，比如前几天 OpenAI 的安全研究员辞职、之前 Hugging Face 被入侵等。<br /><br />模型安全是一个非常前沿的跨学科领域，需要大量的探索，对研究者的综合要求比较高。<br /><br />这也是为什么他们要去全球或者公开招聘这种顶尖人才的原因，感兴趣的可以关注一下</p><img src="https://pbs.twimg.com/media/HUpNmoIaAAAHQSn.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUpNmoObsAESM3H.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUpNmoMbYAAtXFn.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUpNmoUbkAAu16r.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110584734342627390">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Soumith Chintala：RT @alhyunsoo: we’re hiring a founding model designer to shape how Inklin…</title>
       <link>https://x.com/soumithchintala/status/2110576261882069082</link>
       <guid isPermaLink="false">twitter:2110576261882069082</guid>
       <pubDate>Thu, 15 Oct 2026 03:39:28 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @alhyunsoo: we’re hiring a founding model designer to shape how Inkling behaves and feels.<br /><br />bring a writer’s precision, a designer’s jud…</p><p><a href="https://x.com/soumithchintala/status/2110576261882069082">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少 https://t.co/vj1pLZ6QwM</title>
+      <link>https://x.com/op7418/status/2110574294564839439</link>
+      <guid isPermaLink="false">twitter:2110574294564839439</guid>
+      <pubDate>Thu, 15 Oct 2026 03:31:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少 https://t.co/vj1pLZ6QwM</p><img src="https://pbs.twimg.com/media/HUpEIbYakAA-H_5.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110574294564839439">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：详情：https://t.co/Y0KocGE55p</title>
+      <link>https://x.com/op7418/status/2110565603518116226</link>
+      <guid isPermaLink="false">twitter:2110565603518116226</guid>
+      <pubDate>Thu, 15 Oct 2026 02:57:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>详情：https://t.co/Y0KocGE55p</p><p><a href="https://x.com/op7418/status/2110565603518116226">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：JEV 昨天更新了一个大版本 1.14.0</title>
+      <link>https://x.com/op7418/status/2110565405752496445</link>
+      <guid isPermaLink="false">twitter:2110565405752496445</guid>
+      <pubDate>Thu, 15 Oct 2026 02:56:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>JEV 昨天更新了一个大版本 1.14.0<br /><br />终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。<br /><br />有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。<br /><br />新增了一个类型（box）：模型能够返回目标在图里的位置。<br /><br />上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了</p><img src="https://pbs.twimg.com/media/HUo7er9a8AA3T74.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUo7er6aAAA7v8H.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUo7er9aUAAM9_Y.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HUo7er6aUAAhQ85.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110565405752496445">原文</a></p>]]></description>
     </item>
     <item>
       <title>Jerry Liu：RT @amelia_metters: @jerryjliu0 @UseCorgi @imaanxsultan @llama_index Woo!</title>
@@ -712,6 +896,14 @@
       <description><![CDATA[<p>How ML research shifted between 2025 and 2026:<br />Beautiful Neurips research map from @askalphaxiv using @cohere Embed 5 embeddings!</p><p><a href="https://x.com/JayAlammar/status/2110396712481444329">原文</a></p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：更新了，鼠标灯光设置</title>
+      <link>https://x.com/op7418/status/2110393732738830671</link>
+      <guid isPermaLink="false">twitter:2110393732738830671</guid>
+      <pubDate>Wed, 14 Oct 2026 15:34:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>更新了，鼠标灯光设置</p><p><a href="https://x.com/op7418/status/2110393732738830671">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Ethan Mollick：The first clear sighting of a rogue agent fleet from China using open weight…</title>
       <link>https://x.com/emollick/status/2110393411501244510</link>
       <guid isPermaLink="false">twitter:2110393411501244510</guid>
@@ -734,6 +926,14 @@
       <pubDate>Wed, 14 Oct 2026 14:46:49 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @ethanelasky: We discovered and communicated with a Chinese AI agent fleet. We believe this is the first time that researchers have ever…</p><p><a href="https://x.com/EMostaque/status/2110381818830823533">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：好像说 Muse 在大规模封号啊。</title>
+      <link>https://x.com/op7418/status/2110380300618637704</link>
+      <guid isPermaLink="false">twitter:2110380300618637704</guid>
+      <pubDate>Wed, 14 Oct 2026 14:40:47 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>好像说 Muse 在大规模封号啊。<br /><br />不过毕竟免费，薅得太狠，小扎也顶不住</p><p><a href="https://x.com/op7418/status/2110380300618637704">原文</a></p>]]></description>
     </item>
     <item>
       <title>François Chollet：You can&apos;t solve real-world physical tasks through autoregressive sampling…</title>
@@ -808,12 +1008,76 @@
       <description><![CDATA[<p>RT @Huberticus_: The prophecy has been fulfilled https://t.co/iKoWiz3e4w</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110271259665997824/img/h20rCPDSCsDQ1gpf.jpg" loading="lazy" /><p><a href="https://x.com/EMostaque/status/2110347370152001901">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>歸藏(guizang.ai)：YOUWARE 的新产品，一套视频创作 Skill</title>
+      <link>https://x.com/op7418/status/2110331992621605278</link>
+      <guid isPermaLink="false">twitter:2110331992621605278</guid>
+      <pubDate>Wed, 14 Oct 2026 11:28:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>YOUWARE 的新产品，一套视频创作 Skill<br /><br />可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频</p><p><a href="https://x.com/op7418/status/2110331992621605278">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。</title>
+      <link>https://x.com/op7418/status/2110331012043649527</link>
+      <guid isPermaLink="false">twitter:2110331012043649527</guid>
+      <pubDate>Wed, 14 Oct 2026 11:24:55 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。<br /><br />这过程还挺有意思的，有些人也发掘了一些这个员工的信息。<br /><br />我让 Grokbot 把这些素材和过程做成了一个讲解视频，想了解的话直接看这个视频就行 https://t.co/k4NUWfsBFh</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110330535293956096/img/EMLksivKG-gvkT0W.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110331012043649527">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：搞了一批，清净多了，我就不信那些人有多少个 8 美元开号</title>
+      <link>https://x.com/op7418/status/2110284372956037409</link>
+      <guid isPermaLink="false">twitter:2110284372956037409</guid>
+      <pubDate>Wed, 14 Oct 2026 08:19:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>搞了一批，清净多了，我就不信那些人有多少个 8 美元开号</p><p><a href="https://x.com/op7418/status/2110284372956037409">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：蓝牙和 USB 直连已经支持</title>
+      <link>https://x.com/op7418/status/2110279876360155317</link>
+      <guid isPermaLink="false">twitter:2110279876360155317</guid>
+      <pubDate>Wed, 14 Oct 2026 08:01:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>蓝牙和 USB 直连已经支持</p><p><a href="https://x.com/op7418/status/2110279876360155317">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：开整 https://t.co/B0d9S0dcLi</title>
+      <link>https://x.com/op7418/status/2110278509516181641</link>
+      <guid isPermaLink="false">twitter:2110278509516181641</guid>
+      <pubDate>Wed, 14 Oct 2026 07:56:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>开整 https://t.co/B0d9S0dcLi</p><img src="https://pbs.twimg.com/media/HUk3HDdagAAFHTL.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110278509516181641">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。</title>
+      <link>https://x.com/op7418/status/2110235096716591145</link>
+      <guid isPermaLink="false">twitter:2110235096716591145</guid>
+      <pubDate>Wed, 14 Oct 2026 05:03:47 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。<br /><br />但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。<br /><br />所以自己写了一个原生的怒喵鼠标 macOS 驱动软件，重新设计了整个 UI 交互和功能。<br /><br />这个用的人确实不多，我就先没开源。如果大家确实有需求，我就开源一下 https://t.co/kJt0zpNdlW</p><img src="https://pbs.twimg.com/media/HUkPn-ubcAABVBS.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110235096716591145">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈</title>
+      <link>https://x.com/op7418/status/2110223456830885975</link>
+      <guid isPermaLink="false">twitter:2110223456830885975</guid>
+      <pubDate>Wed, 14 Oct 2026 04:17:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈</p><p><a href="https://x.com/op7418/status/2110223456830885975">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>François Chollet：The ideal outcome for science isn&apos;t a couple of labs using proprietary mo…</title>
       <link>https://x.com/fchollet/status/2110214967228236242</link>
       <guid isPermaLink="false">twitter:2110214967228236242</guid>
       <pubDate>Wed, 14 Oct 2026 03:43:48 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>The ideal outcome for science isn&apos;t a couple of labs using proprietary models and millions of dollars to crack trophy problems, it&apos;s to have millions of AI-aided human scientists who follow their curiosity and become way more ambitious</p><p><a href="https://x.com/fchollet/status/2110214967228236242">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>歸藏(guizang.ai)：只能说谷歌还是那个谷歌，基础设施垃圾到模型再牛逼都没用。</title>
+      <link>https://x.com/op7418/status/2110201776125480997</link>
+      <guid isPermaLink="false">twitter:2110201776125480997</guid>
+      <pubDate>Wed, 14 Oct 2026 02:51:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>只能说谷歌还是那个谷歌，基础设施垃圾到模型再牛逼都没用。<br /><br />昨天晚上我想在 Antigravity 试一下 Gemini 4，结果他妈的那个思考连续卡住，动不动卡个几千秒。<br /><br />然后我停止发送指令，再次卡住。那个自动审批跟没有一样，还是每一步都需要我手动操作。<br /><br />即使是 API，我操，我自己的 Agent 适配以后也是各种问题。别干了，真的别干了，老老实实卖你的算力吧</p><img src="https://pbs.twimg.com/media/HUjxFh8awAAa8Kw.jpg" loading="lazy" /><p><a href="https://x.com/op7418/status/2110201776125480997">原文</a></p>]]></description>
     </item>
     <item>
       <title>Google DeepMind：Over half of reported crimes in Singapore use sophisticated social enginee…</title>
@@ -942,270 +1206,6 @@
       <pubDate>Tue, 13 Oct 2026 17:58:49 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @arcprize: DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):<br /><br />- ARC-AGI-3: 3.3%, $878 (provider adapter harness), 0.9%, $1.2k…</p><p><a href="https://x.com/fchollet/status/2110067750026739830">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Greg Brockman：6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerabil…</title>
-      <link>https://x.com/gdb/status/2110063893016096831</link>
-      <guid isPermaLink="false">twitter:2110063893016096831</guid>
-      <pubDate>Tue, 13 Oct 2026 17:43:29 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2026 for a vulnerability that would affect an estimated 1 billion users.<br /><br />Highlights the opportunity for defenders to utilize these tools to secure their software to unprecedented levels:</p><p><a href="https://x.com/gdb/status/2110063893016096831">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Demis Hassabis：RT @packie7b: Google Deepmind (FNV3) CRUSHED the forecast for #Isaias up to…</title>
-      <link>https://x.com/demishassabis/status/2110061670047330562</link>
-      <guid isPermaLink="false">twitter:2110061670047330562</guid>
-      <pubDate>Tue, 13 Oct 2026 17:34:39 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @packie7b: Google Deepmind (FNV3) CRUSHED the forecast for #Isaias up to 11 days in advance. It picked up some appreciable signal on Sep…</p><p><a href="https://x.com/demishassabis/status/2110061670047330562">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：Using Gemini 4 makes you realize how many other models must be distilling Cl…</title>
-      <link>https://x.com/emollick/status/2110060618258497764</link>
-      <guid isPermaLink="false">twitter:2110060618258497764</guid>
-      <pubDate>Tue, 13 Oct 2026 17:30:29 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline). It feels quite different than other models.</p><p><a href="https://x.com/emollick/status/2110060618258497764">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @jackcheng: Another of my tests, starting with a photo of my toddler’s mess…</title>
-      <link>https://x.com/danshipper/status/2110057883740373400</link>
-      <guid isPermaLink="false">twitter:2110057883740373400</guid>
-      <pubDate>Tue, 13 Oct 2026 17:19:37 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @jackcheng: Another of my tests, starting with a photo of my toddler’s messy playroom: “Build a fun 3D racing game set in a child&apos;s play…</p><p><a href="https://x.com/danshipper/status/2110057883740373400">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：gemini 4 argon really struggles on our senior engineer benchmark task</title>
-      <link>https://x.com/danshipper/status/2110056016872427944</link>
-      <guid isPermaLink="false">twitter:2110056016872427944</guid>
-      <pubDate>Tue, 13 Oct 2026 17:12:12 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>gemini 4 argon really struggles on our senior engineer benchmark task<br /><br />comes in at 21% far below Sol 6 and even Muse: https://t.co/KrkcNrQ1DG https://t.co/Aj9lskuHFT</p><img src="https://pbs.twimg.com/media/HUhso-DWMAAtmD2.jpg" loading="lazy" /><p><a href="https://x.com/danshipper/status/2110056016872427944">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Demis Hassabis：I love lasers (really wanted to work on them as a kid)… especially Argon la…</title>
-      <link>https://x.com/demishassabis/status/2110052931110318464</link>
-      <guid isPermaLink="false">twitter:2110052931110318464</guid>
-      <pubDate>Tue, 13 Oct 2026 16:59:56 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>I love lasers (really wanted to work on them as a kid)… especially Argon lasers 😀 reminded me of this scene from one of my fave films: ‘synthesize excited bromide in an argon matrix… but that would be hotter than the sun’ 😂 Val Kilmer was so cool https://t.co/A7BKAJDJhm</p><p><a href="https://x.com/demishassabis/status/2110052931110318464">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Demis Hassabis：maybe I should go back and try to build a laser in the lab with the help of…</title>
-      <link>https://x.com/demishassabis/status/2110052933698019330</link>
-      <guid isPermaLink="false">twitter:2110052933698019330</guid>
-      <pubDate>Tue, 13 Oct 2026 16:59:56 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>maybe I should go back and try to build a laser in the lab with the help of Gemini 4 Argon... 🤔</p><p><a href="https://x.com/demishassabis/status/2110052933698019330">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：I spent a decent amount of time with Gemini 4 before launch. Overall, Gemini…</title>
-      <link>https://x.com/emollick/status/2110052331702124894</link>
-      <guid isPermaLink="false">twitter:2110052331702124894</guid>
-      <pubDate>Tue, 13 Oct 2026 16:57:33 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>I spent a decent amount of time with Gemini 4 before launch. Overall, Gemini 4 is a big jump over previous Gemini models and it is the first non-OpenAI/Anthropic model to pass the Fable/Mythos/Astra bar. It is also much more pleasant and more agentic then previous Gemini models, without the weird personality issues that you often found in Gemini 3 series models. In fact, a big advantage is that has a very different personality and sense of taste than Claude or Astra, making it a good addition to the AI world. <br /><br />On the usefulness side, in some areas it is at least at par with OpenAI and Anthropic (it is quite creative and a good writer), but in others it lags, including at complex multi-agent work. It has a tendency to be too certain about its conclusions and a little lazy, issues not helped by the Antigravity harness not being quite as good as the competition. Still, I expect to see rapid improvements in model abilities using Gemini 4 as a base.<br /><br />Here is a fun example:  &quot;create the ultimate brutalist city builder. you should have lots of controls over buildings in ways that are delightful and inuitive to people who just want to play, but are sophisticated and deep for people who know something about architecture. you should be able to play a lot with design and approach. there should be simulation modes and different ways to view or experience the city. make it stunning. i want to host this on netlify in the end&quot;<br /><br />Astra Max in Codex: https://t.co/lyalJY4E4g <br />5.1 Max in Code: https://t.co/WNt4lA05B6<br />Argon in Antigravity: https://t.co/7gUAuCA49J</p><img src="https://pbs.twimg.com/media/HUhpHHFXQAETvVf.jpg" loading="lazy" /><p><a href="https://x.com/emollick/status/2110052331702124894">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>François Chollet：Check it out: https://t.co/q1VHzkycgs</title>
-      <link>https://x.com/fchollet/status/2110050843462688769</link>
-      <guid isPermaLink="false">twitter:2110050843462688769</guid>
-      <pubDate>Tue, 13 Oct 2026 16:51:38 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Check it out: https://t.co/q1VHzkycgs</p><p><a href="https://x.com/fchollet/status/2110050843462688769">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>François Chollet：If an agent saves an engineer 2 hours to implement a feature but collecti…</title>
-      <link>https://x.com/fchollet/status/2110050795890827756</link>
-      <guid isPermaLink="false">twitter:2110050795890827756</guid>
-      <pubDate>Tue, 13 Oct 2026 16:51:27 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>If an agent saves an engineer 2 hours to implement a feature but collectively costs the team 3 hours in alignment and review, the ROI is negative.<br /><br />Isolated chats are suboptimal in team environments because they lack the context of what the team already discussed and decided. The Kylon app fixes this by running Claude Code and Codex in a shared, multiplayer environment. Agents gain real-time visibility into team consensus and architecture decisions.</p><p><a href="https://x.com/fchollet/status/2110050795890827756">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Ethan Mollick：RT @jamescham: Just had a chance to host a chat with @emollick about his upc…</title>
-      <link>https://x.com/emollick/status/2110048779407642698</link>
-      <guid isPermaLink="false">twitter:2110048779407642698</guid>
-      <pubDate>Tue, 13 Oct 2026 16:43:26 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @jamescham: Just had a chance to host a chat with @emollick about his upcoming book, Co-Existence. It is going to be a hit and is full o…</p><p><a href="https://x.com/emollick/status/2110048779407642698">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>François Chollet：Congrats on the release! Looks like a fantastic model.</title>
-      <link>https://x.com/fchollet/status/2110042948821975317</link>
-      <guid isPermaLink="false">twitter:2110042948821975317</guid>
-      <pubDate>Tue, 13 Oct 2026 16:20:16 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Congrats on the release! Looks like a fantastic model.</p><p><a href="https://x.com/fchollet/status/2110042948821975317">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Harrison Chase：router lives in the harness, not a gateway, bc the harness knows the task</title>
-      <link>https://x.com/hwchase17/status/2110041909284745578</link>
-      <guid isPermaLink="false">twitter:2110041909284745578</guid>
-      <pubDate>Tue, 13 Oct 2026 16:16:08 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>router lives in the harness, not a gateway, bc the harness knows the task<br /><br />blog: https://t.co/k9b306ikK1<br /><br />https://t.co/4FggNo00jY</p><p><a href="https://x.com/hwchase17/status/2110041909284745578">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：case in point:</title>
-      <link>https://x.com/danshipper/status/2110041871594516951</link>
-      <guid isPermaLink="false">twitter:2110041871594516951</guid>
-      <pubDate>Tue, 13 Oct 2026 16:15:59 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>case in point: <br />https://t.co/qSSY4av6JA</p><p><a href="https://x.com/danshipper/status/2110041871594516951">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @jackcheng: Here’s Gemini 4 Argon (high) at a prompt for a personal project…</title>
-      <link>https://x.com/danshipper/status/2110041552454287437</link>
-      <guid isPermaLink="false">twitter:2110041552454287437</guid>
-      <pubDate>Tue, 13 Oct 2026 16:14:43 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @jackcheng: Here’s Gemini 4 Argon (high) at a prompt for a personal project: “Create an accurate, hyper-realistic 3D model in Blender of…</p><p><a href="https://x.com/danshipper/status/2110041552454287437">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @hammer_mt: My take after testing Argon 4 over the past week, is that Googl…</title>
-      <link>https://x.com/danshipper/status/2110041516320362570</link>
-      <guid isPermaLink="false">twitter:2110041516320362570</guid>
-      <pubDate>Tue, 13 Oct 2026 16:14:34 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @hammer_mt: My take after testing Argon 4 over the past week, is that Google is back in the running. It feels like the org was already A…</p><p><a href="https://x.com/danshipper/status/2110041516320362570">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Demis Hassabis：Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fu…</title>
-      <link>https://x.com/demishassabis/status/2110041008100843835</link>
-      <guid isPermaLink="false">twitter:2110041008100843835</guid>
-      <pubDate>Tue, 13 Oct 2026 16:12:33 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it&apos;s so cool to see Argon&apos;s physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!<br /><br />Argon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info &amp; full availability in the blog: https://t.co/7d3791mRNH</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg" loading="lazy" /><p><a href="https://x.com/demishassabis/status/2110041008100843835">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Logan Kilpatrick：4 Argon is now available : )</title>
-      <link>https://x.com/OfficialLoganK/status/2110040833995215273</link>
-      <guid isPermaLink="false">twitter:2110040833995215273</guid>
-      <pubDate>Tue, 13 Oct 2026 16:11:52 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>4 Argon is now available : )</p><p><a href="https://x.com/OfficialLoganK/status/2110040833995215273">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @leeknowlton: gemini models have always had surprisingly good teaching and …</title>
-      <link>https://x.com/danshipper/status/2110039608742285596</link>
-      <guid isPermaLink="false">twitter:2110039608742285596</guid>
-      <pubDate>Tue, 13 Oct 2026 16:07:00 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @leeknowlton: gemini models have always had surprisingly good teaching and explanation skills. Looking forward to trying this</p><p><a href="https://x.com/danshipper/status/2110039608742285596">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @kieranklaassen: Google caught up.</title>
-      <link>https://x.com/danshipper/status/2110039595945710045</link>
-      <guid isPermaLink="false">twitter:2110039595945710045</guid>
-      <pubDate>Tue, 13 Oct 2026 16:06:56 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @kieranklaassen: Google caught up.<br /><br />Gemini 4 Argon isn&apos;t better than the others, but it&apos;s with the pack. Things I noticed:<br /><br />- It&apos;s basic…</p><p><a href="https://x.com/danshipper/status/2110039595945710045">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：VIBE CHECK: GEMINI 4—GOOGLE IS BACK https://t.co/0kIFnFJoxi</title>
-      <link>https://x.com/danshipper/status/2110039417650024592</link>
-      <guid isPermaLink="false">twitter:2110039417650024592</guid>
-      <pubDate>Tue, 13 Oct 2026 16:06:14 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>VIBE CHECK: GEMINI 4—GOOGLE IS BACK https://t.co/0kIFnFJoxi</p><p><a href="https://x.com/danshipper/status/2110039417650024592">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Logan Kilpatrick：So many great examples of Argon in action already from inside Google, our…</title>
-      <link>https://x.com/OfficialLoganK/status/2110039361706393636</link>
-      <guid isPermaLink="false">twitter:2110039361706393636</guid>
-      <pubDate>Tue, 13 Oct 2026 16:06:01 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>So many great examples of Argon in action already from inside Google, our customers, and partners:<br />https://t.co/xM4z9uGWMd</p><p><a href="https://x.com/OfficialLoganK/status/2110039361706393636">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Google DeepMind：Here’s how you can try it:</title>
-      <link>https://x.com/GoogleDeepMind/status/2110039277442682916</link>
-      <guid isPermaLink="false">twitter:2110039277442682916</guid>
-      <pubDate>Tue, 13 Oct 2026 16:05:41 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Here’s how you can try it:<br />🔵 Everyday users: In the @GeminiApp and AI Mode in Search for Google AI Pro and Ultra subscribers.<br />🔵 Developers: Gemini API paid tier, plus @Antigravity and @GoogleAIStudio for Google AI Ultra subscribers.<br />🔵 Scientists: Apply for the top usage tier in @Antigravity free of charge.<br />🔵 Enterprises: Gemini for business and in Antigravity.<br /><br />Find out more → https://t.co/6nH9sCdObL</p><img src="https://pbs.twimg.com/tweet_video_thumb/HUhcjzyWYAE9Dt2.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2110039277442682916">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Google DeepMind：Gemini 4 Argon is now globally available.</title>
-      <link>https://x.com/GoogleDeepMind/status/2110039274922131792</link>
-      <guid isPermaLink="false">twitter:2110039274922131792</guid>
-      <pubDate>Tue, 13 Oct 2026 16:05:40 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Gemini 4 Argon is now globally available.<br /><br />Built to solve your hardest problems from start to finish, the model brings frontier capabilities across coding, enterprise workflows, and cyber defense. https://t.co/N8tOQjwk0x</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110036236744237056/img/hNReq0FjAJTJUO4w.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2110039274922131792">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Logan Kilpatrick：Today we are rolling out Gemini 4 Argon globally in the Gemini API, to Pr…</title>
-      <link>https://x.com/OfficialLoganK/status/2110038940841545827</link>
-      <guid isPermaLink="false">twitter:2110038940841545827</guid>
-      <pubDate>Tue, 13 Oct 2026 16:04:20 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Today we are rolling out Gemini 4 Argon globally in the Gemini API, to Pro + Ultra in Gemini App, and Ultra subs in Antigravity!<br /><br />Argon is a huge step forward for Gemini, and a labor of love. This model has been battle tested by over 100,000 people at Google over the last month, with so much new innovation, ambition, and hard work baked into this release. The team has been heads down over the last 6 months working to make this possible across the stack (research, infra, safety, eng, etc).<br /><br />We rolled the model out to cyber defenders as part of our fairwind program and early access customers over the last 2 weeks, it has been amazing to see and talk to folks who are now using this model daily. Seeing the models writing capability, raw knowledge and persistence for coding, paired with new features like 1M token output when the model needs to work more has gotten me even more excited about our path ahead.<br /><br />This is just the start of the Gemini 4 era. As you saw with 3.5, 3.6, 3.7, and 3.8 Flash, our iteration speed with Gemini is fast : ) Now with Gemini 4 Argon to work from, I am cannot wait to see the progress continue, and most importantly see what this new model enables for the world. <br /><br />This is such a special moment in the arc of technology, as millions of people everyday tackle problems they could never have thought possible before. Gemini 4 Argon was built to help you tackle the hardest problems. I have personally felt this spark with Argon and hope you do too. Onwards!!</p><p><a href="https://x.com/OfficialLoganK/status/2110038940841545827">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：BREAKING: Gemini 4 is OUT and it&apos;s SURPRISINGLY GOOD??</title>
-      <link>https://x.com/danshipper/status/2110038834205409332</link>
-      <guid isPermaLink="false">twitter:2110038834205409332</guid>
-      <pubDate>Tue, 13 Oct 2026 16:03:55 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>BREAKING: Gemini 4 is OUT and it&apos;s SURPRISINGLY GOOD?? <br /><br />I admit I was ready to trash this model qhen I saw the benchmarks but six of us at @every spent the past week testing it across coding, writing, design, and knowledge work, and were pleasantly surprsied.<br /><br />It’s a breakthrough if your company lives in Google’s ecosystem, and a strong option for frontier hoppers as a secondary model for certain tasks. I<br /><br />Here’s our vibe check:<br /><br />My new favorite writing partner. DeepMind hired professional writers with red pens to stamp out AI slop, and it worked. I use it to untangle structure and sharpen metaphors; it also taught me something new tracing in a few of my favorite books. It&apos;s got a natural feel for structure and detailed explanations that Astra and Opus lack.<br /><br />Shaky at refactors, fast on greenfield apps. At low effort on a from-scratch build, Gemini 4 built @kieranklaassen a working webcam heart-rate monitor in 35 minutes—matching Claude Opus 5.5’s quality and beating OpenAI’s models on that test. Where it cuts corners is self-verification and existing codebases. In 17 of Kieran’s 38 benchmark runs, it opened and closed its code-review step just 30 milliseconds apart instead of inspecting its changes. And on my Senior Engineer benchmark—refactoring a vibe coded slop codebase—it worked for four hours and 47 minutes and scored just 21% (versus 81% to 85% for GPT-6 Astra, Fable 5.1, Sonnet 5.5, and Opus 5.5). Not great.<br /><br />A 2026 model trapped in a 2025 harness. Antigravity, Google’s desktop agent app, feels six months to a year behind Claude Code and Codex—lacking cloud environments, SSH, a built-in browser, and smart permission checks (leaving you clicking constant pop-ups or using unrestricted &quot;Turbo&quot; mode). <br /><br />Net Result: I keep ChatGPT and Claude open day to day, and switch to Gemini 4 when I need an editorial partner to structure a tough essay, sharpen a metaphor, or close-read a book. Reach for it for live writing collaboration, fast low-effort prototypes, or steerable UI and dashboard design—ideally via Cursor or the API to skip Antigravity. <br /><br />When a model is good enough to force you to use a bad harness, it tells you something.<br /><br />State of Play: Google hadn’t shipped a major flagship upgrade since Gemini 3 Pro last November. For teams whose companies live in Google’s ecosystem, the model you can use inside your approved work tools finally belongs with the frontier pack. DeepMind closed the model gap; now Google needs to bring the app around it into 2026.<br /><br />Read our full vibe check: https://t.co/ZRITq2iFyl</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110038507402018818/img/29IYQkGZrmsudNUs.jpg" loading="lazy" /><p><a href="https://x.com/danshipper/status/2110038834205409332">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Google DeepMind：https://t.co/oADallGYuR</title>
-      <link>https://x.com/GoogleDeepMind/status/2110034327111131168</link>
-      <guid isPermaLink="false">twitter:2110034327111131168</guid>
-      <pubDate>Tue, 13 Oct 2026 15:46:00 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>https://t.co/oADallGYuR</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110033955000872960/img/ZGR0sr8uuMTWcqKg.jpg" loading="lazy" /><p><a href="https://x.com/GoogleDeepMind/status/2110034327111131168">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @andrii_liubivyi: Someone form @huggingface  could you do it in reallife?</title>
-      <link>https://x.com/huggingface/status/2110034110076834194</link>
-      <guid isPermaLink="false">twitter:2110034110076834194</guid>
-      <pubDate>Tue, 13 Oct 2026 15:45:09 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @andrii_liubivyi: Someone form @huggingface  could you do it in reallife?<br />Microduck fight<br />https://t.co/Vmwwu3LWOq https://t.co/fdTK1IXw5s</p><img src="https://pbs.twimg.com/amplify_video_thumb/2110032099633659906/img/UQBMxeayMIBXMUM-.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2110034110076834194">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: You don&apos;t want to miss this if you&apos;re in SF Friday. Hear…</title>
-      <link>https://x.com/huggingface/status/2110033836901831077</link>
-      <guid isPermaLink="false">twitter:2110033836901831077</guid>
-      <pubDate>Tue, 13 Oct 2026 15:44:03 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: You don&apos;t want to miss this if you&apos;re in SF Friday. Hearing there are A LOT of surprises! https://t.co/GK5eWzlcyT http…</p><p><a href="https://x.com/huggingface/status/2110033836901831077">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @hammer_mt: Testing Muse Wonder Full on my personal benchmark:</title>
-      <link>https://x.com/danshipper/status/2110030560429244461</link>
-      <guid isPermaLink="false">twitter:2110030560429244461</guid>
-      <pubDate>Tue, 13 Oct 2026 15:31:02 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @hammer_mt: Testing Muse Wonder Full on my personal benchmark:</p><p><a href="https://x.com/danshipper/status/2110030560429244461">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Harrison Chase：RT @LangChain: 🔎 Announced at Interrupt: AI Search in LangSmith</title>
-      <link>https://x.com/hwchase17/status/2110026421955665985</link>
-      <guid isPermaLink="false">twitter:2110026421955665985</guid>
-      <pubDate>Tue, 13 Oct 2026 15:14:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @LangChain: 🔎 Announced at Interrupt: AI Search in LangSmith<br /><br />You used to need an evaluator or read hours of conversations to find trace…</p><p><a href="https://x.com/hwchase17/status/2110026421955665985">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：kicked off wonder full runs on our senior eng bench https://t.co/kTevkUEZCo</title>
-      <link>https://x.com/danshipper/status/2110013838011564252</link>
-      <guid isPermaLink="false">twitter:2110013838011564252</guid>
-      <pubDate>Tue, 13 Oct 2026 14:24:35 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>kicked off wonder full runs on our senior eng bench https://t.co/kTevkUEZCo</p><img src="https://pbs.twimg.com/media/HUhGYzqXUAA3Cuw.png" loading="lazy" /><p><a href="https://x.com/danshipper/status/2110013838011564252">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：EXCITED TO ANNOUNCE:</title>
-      <link>https://x.com/danshipper/status/2110009728059482159</link>
-      <guid isPermaLink="false">twitter:2110009728059482159</guid>
-      <pubDate>Tue, 13 Oct 2026 14:08:15 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>EXCITED TO ANNOUNCE:<br /><br />i finally got a win in our Augmented Fantasy League (read: play fantasy football with your agent)<br /><br />@beckyisj still undefeated, she&apos;s obviously using some unreleased super model to be this good https://t.co/3LrgzZIEV1</p><img src="https://pbs.twimg.com/media/HUhCe4LXYAAKQTM.jpg" loading="lazy" /><p><a href="https://x.com/danshipper/status/2110009728059482159">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-18T16:04:02.781Z",
+  "updated_at": "2026-10-18T20:09:07.405Z",
   "posts": [
     {
       "id": "twitter:2111662884098801691",
@@ -88,6 +88,57 @@
       }
     },
     {
+      "id": "twitter:2111428801255342213",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "简单试了一下https://t.co/ouUTs65BNm",
+      "url": "https://x.com/op7418/status/2111428801255342213",
+      "created_at": "2026-10-17T12:07:09.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
+        "views": 4056
+      }
+    },
+    {
+      "id": "twitter:2111427773017530611",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "提示词在这里：https://t.co/rI9kXMLdMR",
+      "url": "https://x.com/op7418/status/2111427773017530611",
+      "created_at": "2026-10-17T12:03:04.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3604
+      }
+    },
+    {
+      "id": "twitter:2111427699520749951",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的 https://t.co/uXzVfVzLkx",
+      "url": "https://x.com/op7418/status/2111427699520749951",
+      "created_at": "2026-10-17T12:02:46.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 48,
+        "replies": 42,
+        "retweets": 1,
+        "views": 15835
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2111427462676819968/img/1MIqLLrcAPVOo0D_.jpg"
+      ]
+    },
+    {
       "id": "twitter:2111384189656252712",
       "platform": "twitter",
       "handle": "dotey",
@@ -122,6 +173,44 @@
         "retweets": 11,
         "views": 8648
       }
+    },
+    {
+      "id": "twitter:2111380969798451222",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "详情：https://t.co/hduOwnlFZv",
+      "url": "https://x.com/op7418/status/2111380969798451222",
+      "created_at": "2026-10-17T08:57:05.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 8590
+      }
+    },
+    {
+      "id": "twitter:2111380782174683300",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Deepseek 发布了 V4.1 Flash 1017 版本\n\n他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！\n\n整体能力再次大幅提升，同时缩短了模型的任务运行时间和输出长度，能以更低的成本完成同样的任务。\n\n另外，他们这次着重强调了可以从零开始完成整个项目的开发：\n\n不用人工干预，用非常简单的提示词就行，类似 OpenAI 5.5 这种一句话做个视频或一句话做个游戏。\n\n还有一个比较重要的点是它开放了自研的搜索 API。\n\nDeepseek 在国内信息数据的搜索结果上非常精准且强大，所以这个 API 挺有用的，可以给你的 Harness 配上",
+      "url": "https://x.com/op7418/status/2111380782174683300",
+      "created_at": "2026-10-17T08:56:20.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 152,
+        "replies": 61,
+        "retweets": 5,
+        "views": 55306
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HU0hnmWbYAAoDwD.jpg",
+        "https://pbs.twimg.com/media/HU0hnmSaoAAs_S3.jpg",
+        "https://pbs.twimg.com/media/HU0hnmUbkAAIKl5.jpg",
+        "https://pbs.twimg.com/media/HU0hnmUbYAAlPPV.jpg"
+      ]
     },
     {
       "id": "xhs:6ad324250000000018010d86",
@@ -318,6 +407,25 @@
       }
     },
     {
+      "id": "twitter:2111139227761266699",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1",
+      "url": "https://x.com/sama/status/2111139227761266699",
+      "created_at": "2026-10-16T16:56:29.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 10849,
+        "replies": 717,
+        "retweets": 474,
+        "views": 904168
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg"
+      ]
+    },
+    {
       "id": "twitter:2111134693743861870",
       "platform": "twitter",
       "handle": "dotey",
@@ -331,6 +439,54 @@
         "replies": 63,
         "retweets": 22,
         "views": 49183
+      }
+    },
+    {
+      "id": "twitter:2111131677351432197",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "Wow the new roadster looks quite amazing, good job @elonmusk",
+      "url": "https://x.com/sama/status/2111131677351432197",
+      "created_at": "2026-10-16T16:26:29.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 65803,
+        "replies": 2612,
+        "retweets": 1879,
+        "views": 6648143
+      }
+    },
+    {
+      "id": "twitter:2111130577789493706",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "Very happy to see this from Nick!",
+      "url": "https://x.com/sama/status/2111130577789493706",
+      "created_at": "2026-10-16T16:22:07.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 3706,
+        "replies": 210,
+        "retweets": 145,
+        "views": 731722
+      }
+    },
+    {
+      "id": "twitter:2111110577481535938",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "iPhone Duo 语音输入打错了",
+      "url": "https://x.com/op7418/status/2111110577481535938",
+      "created_at": "2026-10-16T15:02:38.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 6463
       }
     },
     {
@@ -369,6 +525,22 @@
         "https://pbs.twimg.com/amplify_video_thumb/2111095051069673472/img/VuoxoYX1rqZAP-RM.jpg",
         "https://pbs.twimg.com/amplify_video_thumb/2111095051044413440/img/8YAcxuxxVb-429CR.jpg"
       ]
+    },
+    {
+      "id": "twitter:2111082519777194281",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "大家都不傻，都预料到了 iPhone Duo 的火爆。\n\n今天真是人人都在抢 iPhone 12，就连刚才播客录影棚的两个工作人员小哥也都在抢，居然还抢到了。\n\n现在抢到第一批，基本上就起飞了",
+      "url": "https://x.com/op7418/status/2111082519777194281",
+      "created_at": "2026-10-16T13:11:09.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 54,
+        "replies": 46,
+        "retweets": 1,
+        "views": 79751
+      }
     },
     {
       "id": "xhs:6ad22262000000000100ae11",
@@ -420,6 +592,25 @@
         "https://sns-webpic-qc.xhscdn.com/202610170005/4fdf759ebc40c72568bc3e605a4ec485/spectrum/1040g0k0326ck3fvhkc305p37m4gk4uihr32ev0o!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610170005/4cecc4c885c38ea9e0a9afe8b46a1a72/spectrum/1040g0k0326ck3fvhkc3g5p37m4gk4uihsfmf698!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610170005/8cdf12cb45b91e2553ef859b429519d4/spectrum/1040g0k0326ck3fvhkc0g5p37m4gk4uih92rpkv8!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2110987435874431392",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "马斯克在八年前就说这过这个设想\n\n当时评论区很多人觉得他在开玩笑 https://t.co/fsyvNacm6b",
+      "url": "https://x.com/op7418/status/2110987435874431392",
+      "created_at": "2026-10-16T06:53:19.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 529,
+        "replies": 72,
+        "retweets": 42,
+        "views": 52721
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUu74bTbEAAnECm.jpg"
       ]
     },
     {
@@ -492,6 +683,22 @@
       }
     },
     {
+      "id": "twitter:2110926229570556175",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "从 0 加速到 97 公里 只需要 0.81 秒！",
+      "url": "https://x.com/op7418/status/2110926229570556175",
+      "created_at": "2026-10-16T02:50:06.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "retweets": 0,
+        "views": 6688
+      }
+    },
+    {
       "id": "twitter:2110923500408246287",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -505,6 +712,22 @@
         "replies": 2,
         "retweets": 1,
         "views": 6288
+      }
+    },
+    {
+      "id": "twitter:2110919542809723377",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "应该是 1M 上下文，他妈的语音输入又出错",
+      "url": "https://x.com/op7418/status/2110919542809723377",
+      "created_at": "2026-10-16T02:23:32.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 2,
+        "retweets": 0,
+        "views": 2853
       }
     },
     {
@@ -540,6 +763,25 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2110913252045545472/img/PHzfDPCgX86XBiSv.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110912965876838704",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "卧槽，特斯拉这个新的跑车太离谱了\n\n居然能短暂飞行并且在空中调整姿态\n\n演示的时候可以直接跳起来反转然后正常落地 https://t.co/AEP6AVWLKN",
+      "url": "https://x.com/op7418/status/2110912965876838704",
+      "created_at": "2026-10-16T01:57:24.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 306,
+        "replies": 133,
+        "retweets": 18,
+        "views": 150035
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110901301412515840/img/aV55bt5oYxAmsw3i.jpg"
       ]
     },
     {
@@ -909,6 +1151,42 @@
       }
     },
     {
+      "id": "twitter:2110787028082364520",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "详情：https://t.co/eqYdCAiNUJ",
+      "url": "https://x.com/op7418/status/2110787028082364520",
+      "created_at": "2026-10-15T17:36:58.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 5217
+      }
+    },
+    {
+      "id": "twitter:2110786960080155103",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Meta 又开始发布开源模型了，发布了 Muse Spark Open。\n\n他们说是迄今为止美国最强大的开源模型。\n\n基于苹果的 MLX 框架做了深度优化。\n\n这个 800B 的模型，居然可以在两台 M5 Ultra Mac Studio 上本地运行。\n\n在长时任务、复杂软件工程和多步骤推理上很出色。\n\n总参数是 816B，活跃参数 42B，支持 1T 的上下文窗口，原生支持文本、图像、视频、音频全模态输入。\n\n在测评基准的分数上，跟 K3 和 GLM-5.3 差不多。\n\n感觉这波美国全员进步，每家都有新进展。",
+      "url": "https://x.com/op7418/status/2110786960080155103",
+      "created_at": "2026-10-15T17:36:42.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 55,
+        "replies": 31,
+        "retweets": 1,
+        "views": 20404
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUsFi5zaEAAbUgY.jpg",
+        "https://pbs.twimg.com/media/HUsFi52bgAAxcxI.jpg"
+      ]
+    },
+    {
       "id": "twitter:2110780539984822503",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1226,6 +1504,57 @@
       }
     },
     {
+      "id": "twitter:2110668428105363721",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "DeepSeek 居然给他们服务挂机影响的用户补偿了，破天荒啊\n\n补偿是过去 7 天账户消耗的所有 API 的金额，会以赠金的形式退到账户里",
+      "url": "https://x.com/op7418/status/2110668428105363721",
+      "created_at": "2026-10-15T09:45:42.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 51,
+        "replies": 35,
+        "retweets": 0,
+        "views": 17553
+      }
+    },
+    {
+      "id": "twitter:2110656210685071604",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "OpenCode 现在直接把 DeepSeek V4.1 Flash 免费了！\n\n不过免费版只有 200K 的上下文，付费版有 1M",
+      "url": "https://x.com/op7418/status/2110656210685071604",
+      "created_at": "2026-10-15T08:57:09.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 38,
+        "replies": 17,
+        "retweets": 0,
+        "views": 18984
+      }
+    },
+    {
+      "id": "twitter:2110605686086529470",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "顺便说一句，JEV 模型这次的更新几乎都命中了我们在 Next Token  20 多天前提到的它需要改进的部分 https://t.co/iE01tWYP5J",
+      "url": "https://x.com/op7418/status/2110605686086529470",
+      "created_at": "2026-10-15T05:36:23.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 47,
+        "replies": 8,
+        "retweets": 2,
+        "views": 12509
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUpgorfaoAA29iE.jpg"
+      ]
+    },
+    {
       "id": "twitter:2110599965240176876",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -1243,6 +1572,28 @@
       }
     },
     {
+      "id": "twitter:2110584734342627390",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "字节 Seed成立了专门的模型安全与对齐部门，感觉确实很有必要。\n\n这次他们计划在这个部门全球招募 10 位顶尖研究员。\n\n研究课题有：\n大模型及Agent安全的前沿评测方法和Benchmark建设\n模型前沿能力对齐的训练方法\n自动化Red Teaming\n模型行为可解释性\n模型能力和行为监控\n\n字节的待遇向来非常顶，事情本身也极具挑战性，最近刚好在看类似方向工作的朋友不妨试试。\n\n最近不管是大模型还是小模型，都频繁出现模型越狱和突破沙箱隔离环境的问题。\n\n而且这种风险要么是小打小闹，要么就是憋个大的。提前有这样的储备并持续进行研究，起码在出问题时能快速反应。\n\n随着模型能力越来越高、自主性越来越强，在一些危险领域的隐患也越来越大：\n比如 CBRN 领域（化学、生物、放射性及核领域）\n可能很多人觉得上面的四个离我们太远，但是互联网上针对个人的内容攻击离我们可太近了。\nAI 甚至有可能直接篡改应用，甚至控制家里的其他设备。\n\n随着 AI 能破解一切软件，那 AI 写出非常厉害的病毒也是一个顺理成章的事情。\n\n包括对于我们整个互联网赖以生存的密码学破解，应该也是进展神速。\n\n客观来说，国内在这方面的进展其实比 OpenAI 和 Anthropic 慢。\n\nAnthropic 成立初衷就是为了安全，长期在做对齐和可解释性研究；而海外 AI 圈几乎每隔一两周就会爆出安全热点，比如前几天 OpenAI 的安全研究员辞职、之前 Hugging Face 被入侵等。\n\n模型安全是一个非常前沿的跨学科领域，需要大量的探索，对研究者的综合要求比较高。\n\n这也是为什么他们要去全球或者公开招聘这种顶尖人才的原因，感兴趣的可以关注一下",
+      "url": "https://x.com/op7418/status/2110584734342627390",
+      "created_at": "2026-10-15T04:13:08.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 17,
+        "replies": 17,
+        "retweets": 1,
+        "views": 8213
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUpNmoIaAAAHQSn.jpg",
+        "https://pbs.twimg.com/media/HUpNmoObsAESM3H.jpg",
+        "https://pbs.twimg.com/media/HUpNmoMbYAAtXFn.jpg",
+        "https://pbs.twimg.com/media/HUpNmoUbkAAu16r.jpg"
+      ]
+    },
+    {
       "id": "twitter:2110576261882069082",
       "platform": "twitter",
       "handle": "soumithchintala",
@@ -1258,6 +1609,63 @@
         "retweets": 13,
         "views": 687
       }
+    },
+    {
+      "id": "twitter:2110574294564839439",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少 https://t.co/vj1pLZ6QwM",
+      "url": "https://x.com/op7418/status/2110574294564839439",
+      "created_at": "2026-10-15T03:31:39.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 19,
+        "replies": 16,
+        "retweets": 1,
+        "views": 7191
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUpEIbYakAA-H_5.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110565603518116226",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "详情：https://t.co/Y0KocGE55p",
+      "url": "https://x.com/op7418/status/2110565603518116226",
+      "created_at": "2026-10-15T02:57:06.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "retweets": 0,
+        "views": 4007
+      }
+    },
+    {
+      "id": "twitter:2110565405752496445",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "JEV 昨天更新了一个大版本 1.14.0\n\n终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。\n\n有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。\n\n新增了一个类型（box）：模型能够返回目标在图里的位置。\n\n上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了",
+      "url": "https://x.com/op7418/status/2110565405752496445",
+      "created_at": "2026-10-15T02:56:19.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 300,
+        "replies": 51,
+        "retweets": 31,
+        "views": 47860
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUo7er9a8AA3T74.jpg",
+        "https://pbs.twimg.com/media/HUo7er6aAAA7v8H.jpg",
+        "https://pbs.twimg.com/media/HUo7er9aUAAM9_Y.jpg",
+        "https://pbs.twimg.com/media/HUo7er6aUAAhQ85.jpg"
+      ]
     },
     {
       "id": "twitter:2110549041331482929",
@@ -1598,6 +2006,22 @@
       }
     },
     {
+      "id": "twitter:2110393732738830671",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "更新了，鼠标灯光设置",
+      "url": "https://x.com/op7418/status/2110393732738830671",
+      "created_at": "2026-10-14T15:34:09.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "retweets": 0,
+        "views": 1964
+      }
+    },
+    {
       "id": "twitter:2110393411501244510",
       "platform": "twitter",
       "handle": "emollick",
@@ -1644,6 +2068,22 @@
         "replies": 0,
         "retweets": 395,
         "views": 1615
+      }
+    },
+    {
+      "id": "twitter:2110380300618637704",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "好像说 Muse 在大规模封号啊。\n\n不过毕竟免费，薅得太狠，小扎也顶不住",
+      "url": "https://x.com/op7418/status/2110380300618637704",
+      "created_at": "2026-10-14T14:40:47.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 76,
+        "replies": 70,
+        "retweets": 0,
+        "views": 59971
       }
     },
     {
@@ -1803,6 +2243,127 @@
       ]
     },
     {
+      "id": "twitter:2110331992621605278",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "YOUWARE 的新产品，一套视频创作 Skill\n\n可以让 AI 帮你创作、剪辑你的商品广告或者短片等视频",
+      "url": "https://x.com/op7418/status/2110331992621605278",
+      "created_at": "2026-10-14T11:28:49.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 42,
+        "replies": 16,
+        "retweets": 5,
+        "views": 11956
+      }
+    },
+    {
+      "id": "twitter:2110331012043649527",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "OpenAI 有一个员工偷偷在他们高管会议室装窃听器被发现了。\n\n这过程还挺有意思的，有些人也发掘了一些这个员工的信息。\n\n我让 Grokbot 把这些素材和过程做成了一个讲解视频，想了解的话直接看这个视频就行 https://t.co/k4NUWfsBFh",
+      "url": "https://x.com/op7418/status/2110331012043649527",
+      "created_at": "2026-10-14T11:24:55.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 15,
+        "replies": 9,
+        "retweets": 0,
+        "views": 9090
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110330535293956096/img/EMLksivKG-gvkT0W.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110284372956037409",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "搞了一批，清净多了，我就不信那些人有多少个 8 美元开号",
+      "url": "https://x.com/op7418/status/2110284372956037409",
+      "created_at": "2026-10-14T08:19:36.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 89,
+        "replies": 47,
+        "retweets": 0,
+        "views": 24253
+      }
+    },
+    {
+      "id": "twitter:2110279876360155317",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "蓝牙和 USB 直连已经支持",
+      "url": "https://x.com/op7418/status/2110279876360155317",
+      "created_at": "2026-10-14T08:01:44.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3342
+      }
+    },
+    {
+      "id": "twitter:2110278509516181641",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "开整 https://t.co/B0d9S0dcLi",
+      "url": "https://x.com/op7418/status/2110278509516181641",
+      "created_at": "2026-10-14T07:56:18.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "retweets": 0,
+        "views": 4327
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUk3HDdagAAFHTL.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110235096716591145",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "前段时间换了怒喵的鼠标，鼠标很好用，也很轻量。\n\n但这个 macOS 的网页驱动实在是我不太会用，按键绑定也没有 macOS 办公用的那些设置。\n\n所以自己写了一个原生的怒喵鼠标 macOS 驱动软件，重新设计了整个 UI 交互和功能。\n\n这个用的人确实不多，我就先没开源。如果大家确实有需求，我就开源一下 https://t.co/kJt0zpNdlW",
+      "url": "https://x.com/op7418/status/2110235096716591145",
+      "created_at": "2026-10-14T05:03:47.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 39,
+        "replies": 26,
+        "retweets": 0,
+        "views": 18266
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUkPn-ubcAABVBS.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110223456830885975",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "他妈的，向伪人宣战，搞个自动拉黑插件，误伤的不要怪我哈",
+      "url": "https://x.com/op7418/status/2110223456830885975",
+      "created_at": "2026-10-14T04:17:32.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 213,
+        "replies": 183,
+        "retweets": 1,
+        "views": 77036
+      }
+    },
+    {
       "id": "twitter:2110214967228236242",
       "platform": "twitter",
       "handle": "fchollet",
@@ -1817,6 +2378,25 @@
         "retweets": 304,
         "views": 72442
       }
+    },
+    {
+      "id": "twitter:2110201776125480997",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "只能说谷歌还是那个谷歌，基础设施垃圾到模型再牛逼都没用。\n\n昨天晚上我想在 Antigravity 试一下 Gemini 4，结果他妈的那个思考连续卡住，动不动卡个几千秒。\n\n然后我停止发送指令，再次卡住。那个自动审批跟没有一样，还是每一步都需要我手动操作。\n\n即使是 API，我操，我自己的 Agent 适配以后也是各种问题。别干了，真的别干了，老老实实卖你的算力吧",
+      "url": "https://x.com/op7418/status/2110201776125480997",
+      "created_at": "2026-10-14T02:51:23.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 91,
+        "replies": 97,
+        "retweets": 0,
+        "views": 21136
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUjxFh8awAAa8Kw.jpg"
+      ]
     },
     {
       "id": "twitter:2110190101707858039",
@@ -2409,6 +2989,41 @@
       }
     },
     {
+      "id": "twitter:2110040473524109782",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Gemini APP 和 Antigravity 都已经有了 https://t.co/CP5hDzw5Xb",
+      "url": "https://x.com/op7418/status/2110040473524109782",
+      "created_at": "2026-10-13T16:10:26.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "views": 4892
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhentUaAAAirQ4.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110039924435288217",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "来了，Gemini 4 Argon正式发布！\n\n在 Gemini API 下，Gemini APP 的 Pro 和 Ultra 用户。\n\n然后 Google AI Ultra 会员的 Antigravity  和 AI Studio 也可以用。",
+      "url": "https://x.com/op7418/status/2110039924435288217",
+      "created_at": "2026-10-13T16:08:15.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 56,
+        "replies": 29,
+        "retweets": 2,
+        "views": 39589
+      }
+    },
+    {
       "id": "twitter:2110039608742285596",
       "platform": "twitter",
       "handle": "danshipper",
@@ -2548,6 +3163,41 @@
       ]
     },
     {
+      "id": "twitter:2110038105151713368",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "以及还有哪些需求想要做成 Skill 或者软件的也可以聊聊",
+      "url": "https://x.com/op7418/status/2110038105151713368",
+      "created_at": "2026-10-13T16:01:01.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 3,
+        "retweets": 0,
+        "views": 3608
+      }
+    },
+    {
+      "id": "twitter:2110034493419725049",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "这玩意儿搭配“即览”，用起来实在是太舒服了\n\n刚好，GrokBot 给的是那种带图片素材和 HTML 一起的压缩包，当时就支持了这个，就是为这个 skill 的需求做的 https://t.co/zUtpQ9FglR",
+      "url": "https://x.com/op7418/status/2110034493419725049",
+      "created_at": "2026-10-13T15:46:40.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "retweets": 0,
+        "views": 4042
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhZID4agAEfP-M.jpg"
+      ]
+    },
+    {
       "id": "twitter:2110034327111131168",
       "platform": "twitter",
       "handle": "GoogleDeepMind",
@@ -2604,6 +3254,41 @@
       }
     },
     {
+      "id": "twitter:2110032798656676194",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "太狠了，京东自己当黄牛了。\n\n这 7999 只是你有购买的资格，你手机的钱还是得另付 https://t.co/ugZeN6lPkt",
+      "url": "https://x.com/op7418/status/2110032798656676194",
+      "created_at": "2026-10-13T15:39:56.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 31,
+        "replies": 42,
+        "retweets": 0,
+        "views": 43304
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhXpBebcAARMQn.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2110031290020110454",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "哎呀，突然想到自己还有很多 skill 没发\n\n看大家想要哪个：\n\n1. 口播视频字幕生成和剪辑 skill\n2. 视频包装 skill\n3. 微信公众号排版 skill\n4. HTML 文档排版 skill\n5. 半成品 Personal Agent 个人上下文挂载工具",
+      "url": "https://x.com/op7418/status/2110031290020110454",
+      "created_at": "2026-10-13T15:33:56.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 175,
+        "replies": 83,
+        "retweets": 9,
+        "views": 26410
+      }
+    },
+    {
       "id": "twitter:2110030560429244461",
       "platform": "twitter",
       "handle": "danshipper",
@@ -2619,6 +3304,28 @@
         "retweets": 1,
         "views": 723
       }
+    },
+    {
+      "id": "twitter:2110029627263709637",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "让我想起来还有个 skill 没发过，就是将复杂内容排版成非常优秀的 HTML 页面帮你阅读的 skill。\n\n刚好搭配 GrokBot，太爽了！\n\n不想看的长视频，直接让它转成排版非常优秀的长文去阅读 https://t.co/v9XtXbyZWg",
+      "url": "https://x.com/op7418/status/2110029627263709637",
+      "created_at": "2026-10-13T15:27:20.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 335,
+        "replies": 33,
+        "retweets": 41,
+        "views": 29690
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUhURsuaoAAyJqb.jpg",
+        "https://pbs.twimg.com/media/HUhUgeNagAA5mSU.jpg",
+        "https://pbs.twimg.com/media/HUhUnIUacAAd8yk.jpg",
+        "https://pbs.twimg.com/media/HUhUvEGbMAAtVKr.jpg"
+      ]
     },
     {
       "id": "twitter:2110026421955665985",
@@ -2789,6 +3496,41 @@
       ]
     },
     {
+      "id": "twitter:2109984387274309766",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "跑了一下风暴怕死队：https://t.co/3h1xAhwkzv",
+      "url": "https://x.com/op7418/status/2109984387274309766",
+      "created_at": "2026-10-13T12:27:34.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "views": 4335
+      }
+    },
+    {
+      "id": "twitter:2109981486393016590",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "试了一下《风暴怕死队》，还行，而且我在玩这个游戏的时候还开着内录呢，也没怎么卡 https://t.co/RgicpLQREA",
+      "url": "https://x.com/op7418/status/2109981486393016590",
+      "created_at": "2026-10-13T12:16:02.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 20,
+        "replies": 7,
+        "retweets": 0,
+        "views": 12787
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109981084406738945/img/gGTtdvB5JDgRMNox.jpg"
+      ]
+    },
+    {
       "id": "xhs:6ace1c2d000000000a0221ae",
       "platform": "xhs",
       "handle": "5ec66abd0000000001006a8a",
@@ -2812,6 +3554,41 @@
         "https://sns-webpic-qc.xhscdn.com/202610140404/7c3a1edf47e23b3764f06a22372186ae/notes_uhdr/1040g3qg3268v5fn2kq205nm6daug8qkave5vavg!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610140404/d62ae4061354ebd900f41a27d6980d4b/notes_uhdr/1040g3qg3268v5fn2kq2g5nm6daug8qkavsvbcro!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610140404/fd2d72a275d3b051f6520c05b15af0dd/notes_uhdr/1040g3qg3268v5fn2kq005nm6daug8qkaqckcrfo!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109942154957373508",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "具体项目在这里，你可以让你的 AI 帮你装：https://t.co/mC7X2i13QN",
+      "url": "https://x.com/op7418/status/2109942154957373508",
+      "created_at": "2026-10-13T09:39:45.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 17,
+        "replies": 1,
+        "retweets": 0,
+        "views": 7273
+      }
+    },
+    {
+      "id": "twitter:2109941901868834836",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "最近 AI 破解一切的风潮，感觉游戏行业是最惨的。\n\n现在你都能在安卓手机上直接玩 Steam 游戏了！\n\n我自己试了一下，这个叫 DroidDeck 的项目，那些常玩的独立游戏（比如说《哈迪斯》之类的）都能跑，这下就爽了呀！\n\n出门直接带个简易的小游戏手柄，再带个支持 DP in 的 Pad，就能爽玩 Steam 游戏了。 https://t.co/yBE43OOpzk",
+      "url": "https://x.com/op7418/status/2109941901868834836",
+      "created_at": "2026-10-13T09:38:44.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 198,
+        "replies": 52,
+        "retweets": 16,
+        "views": 43964
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109941498641039360/img/AI8llXTRGXK5Ladc.jpg"
       ]
     },
     {
@@ -2908,6 +3685,26 @@
       }
     },
     {
+      "id": "twitter:2109852753875075242",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Anthropic 发布了他们是如何反蒸馏的文章。\n\n但是这文章也告诉我们，如何在一定程度上避免被封！\n\n我们很多被封的用户，很大程度上是被系统误认为在对模型进行蒸馏而误封的，尤其是那些刚注册完就被快速封禁的账号。\n\n你可以看一下如何避免某些操作，别让他们误以为你在做蒸馏，从而减少被封禁的风险：\n\n不要让 Claude 展示思考过程，不要诱导它输出思维链\n\n不要搬运或尝试篡改它的思维链，更不要反复尝试让它吐出思维过程\n\n账号与付款方面：他们重点打击的是代理 IP 请求以及转售账号，所以账号注册和付款渠道要干净\n\n环境隔离：不要在同一个 Agent 环境里同时共用国产模型和 Claude 模型\n\n所以目前来看，最大的两个风险还是账号本身（包括付款渠道），以及在提示词中诱导模型展示思维链的操作",
+      "url": "https://x.com/op7418/status/2109852753875075242",
+      "created_at": "2026-10-13T03:44:30.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 282,
+        "replies": 91,
+        "retweets": 21,
+        "views": 76318
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUez5G9bAAAq58A.jpg",
+        "https://pbs.twimg.com/media/HUez5G9bAAEyvB-.jpg"
+      ]
+    },
+    {
       "id": "twitter:2109851162518425779",
       "platform": "twitter",
       "handle": "emollick",
@@ -2927,6 +3724,79 @@
       ]
     },
     {
+      "id": "twitter:2109848153650495617",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "注意！最低 8 美元的订阅不包含 Grok Bot https://t.co/bi42ZvRFoY",
+      "url": "https://x.com/op7418/status/2109848153650495617",
+      "created_at": "2026-10-13T03:26:13.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 6,
+        "replies": 6,
+        "retweets": 0,
+        "views": 4698
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUevtThbQAAgw7X.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109846692443161040",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "没活了又重置",
+      "url": "https://x.com/op7418/status/2109846692443161040",
+      "created_at": "2026-10-13T03:20:25.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 13,
+        "replies": 16,
+        "retweets": 0,
+        "views": 11873
+      }
+    },
+    {
+      "id": "twitter:2109839657739644966",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "官方解释：https://t.co/EgNyIUhKnZ",
+      "url": "https://x.com/op7418/status/2109839657739644966",
+      "created_at": "2026-10-13T02:52:27.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 6684
+      }
+    },
+    {
+      "id": "twitter:2109839549706969259",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "很多人问我，随着玩 Grok bot 越来越多，什么时候订阅合适？\n\n我一直都让大家再等等，但感觉现在时间到了。\n\n他们终于推出了将 Twitter、Cursor、Grok bot 和 Grok 四合一的订阅，总共有 4 个档位：\n\n$8（Plus）：包含 Twitter Premium\n$30 (Premium)：Plus 的 4 倍用量\n$100（Super）：Plus 的 15 倍用量\n$200（Ultra）：Plus 的 50 倍用量\n\n跟之前旧订阅的核心区别是，xAI 的 API 积分和 Cursor 的 API 积分会合并。\n\nCursor 依然有一些第三方模型，但相较于原始计划，第三方模型的用量大概率会缩减。\n\n不过这次 Grok bot 的用量增加了：在 $30 以上的计划中，至少能获得双倍的 Grok bot 用量。\n\n相较于你单独想用 Grok bot，如果你对 Cursor 及其第三方模型没有需求，只想要用 Grok bot 的话，我觉得是比较划算的，而且统一之后各种计算逻辑也能少点。\n\n如果是之前通过 bug 订阅了 $99 会员的，就不要换；\n\n没赶上之前旧方案的新增用户、想玩 Grok bot 的，我觉得可以换，毕竟确实比原来额度多了不少，而且更方便管理。",
+      "url": "https://x.com/op7418/status/2109839549706969259",
+      "created_at": "2026-10-13T02:52:02.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 108,
+        "replies": 81,
+        "retweets": 10,
+        "views": 33191
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUen4eab0AAvuiN.jpg",
+        "https://pbs.twimg.com/media/HUen4eaa4AAiibk.jpg",
+        "https://pbs.twimg.com/media/HUen4ega4AEoZRW.jpg",
+        "https://pbs.twimg.com/media/HUen4ebbUAAYxil.jpg"
+      ]
+    },
+    {
       "id": "twitter:2109836485981778260",
       "platform": "twitter",
       "handle": "OfficialLoganK",
@@ -2940,6 +3810,22 @@
         "replies": 1058,
         "retweets": 386,
         "views": 1249667
+      }
+    },
+    {
+      "id": "twitter:2109835512068591616",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "@bot 可以看到这条推特吗",
+      "url": "https://x.com/op7418/status/2109835512068591616",
+      "created_at": "2026-10-13T02:35:59.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 1,
+        "replies": 2,
+        "retweets": 0,
+        "views": 1989
       }
     },
     {
@@ -3612,6 +4498,22 @@
       ]
     },
     {
+      "id": "twitter:2109693353633927310",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "无人深空居然上线 iOS 端了",
+      "url": "https://x.com/op7418/status/2109693353633927310",
+      "created_at": "2026-10-12T17:11:06.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 11,
+        "replies": 3,
+        "retweets": 2,
+        "views": 9897
+      }
+    },
+    {
       "id": "twitter:2109692023976710438",
       "platform": "twitter",
       "handle": "huggingface",
@@ -3676,6 +4578,25 @@
         "retweets": 11,
         "views": 9939
       }
+    },
+    {
+      "id": "twitter:2109679880438989160",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Anatomy 应该是这周最火的 Skill\n\n能将复杂的机械结构变成一个风格非常独特的等轴立体动画。\n\n然后我在想，用这个风格做那种科普视频是不是很爽？\n\n于是结合了 Grok bot，还用即梦生成了一些图片和视频，\n\n最后用这个 skill 做了个“芯片是如何制造的”科普视频，讲解得挺清楚的 https://t.co/yHnyooCwrJ",
+      "url": "https://x.com/op7418/status/2109679880438989160",
+      "created_at": "2026-10-12T16:17:34.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 397,
+        "replies": 50,
+        "retweets": 60,
+        "views": 34661
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109679699693809664/img/cv6eCdmtUBkJwFy8.jpg"
+      ]
     },
     {
       "id": "twitter:2109678440148578331",
@@ -3763,6 +4684,27 @@
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2109653404490539008/img/DmBCtMcToAkxH-yR.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109675087729492472",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "今天下午去了 Apple 孵化器的 Demo Day，见到了非常多不错的产品和开发者。\n\n顺便没想到库克也来了，感谢苹果邀请。\n\n就是这个合影，我感觉我又被广角镜头给坑了，怎么感觉如此肥大。 https://t.co/U8p9lQi4US",
+      "url": "https://x.com/op7418/status/2109675087729492472",
+      "created_at": "2026-10-12T15:58:31.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 78,
+        "replies": 24,
+        "retweets": 2,
+        "views": 24165
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUcSSw7bkAA20KE.jpg",
+        "https://pbs.twimg.com/media/HUcSSw7aEAAXUiF.jpg",
+        "https://pbs.twimg.com/media/HUcSSw6aIAAxYsJ.jpg"
       ]
     },
     {
@@ -3945,6 +4887,25 @@
       }
     },
     {
+      "id": "twitter:2109515395749310821",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Opus 5.5 + 即梦 CLI\n\n试了一下，让 Opus 5.5 结合视频模型做故事片表达\n\n没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定\n\n即梦 CLI 负责对应分镜的图片和视频生成。\n\n在视频上叠加了非常多的代码做的动画效果，看起来质感好了不少 https://t.co/PrCsEsA7rQ",
+      "url": "https://x.com/op7418/status/2109515395749310821",
+      "created_at": "2026-10-12T05:23:57.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 334,
+        "replies": 68,
+        "retweets": 39,
+        "views": 34626
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109514681971007488/img/Vq5uToY_ZavWGLzt.jpg"
+      ]
+    },
+    {
       "id": "xhs:6acc4c160000000014031d47",
       "platform": "xhs",
       "handle": "6314a2cc0000000012003173",
@@ -4001,6 +4962,98 @@
         "https://sns-webpic-qc.xhscdn.com/202610131304/f68846b2faa0cdb067d9a7b4730f768a/spectrum/1040g0k0326762jf14a405nm6daug8qkag1l97dg!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610131304/eb6d14cb0cc5ce06e2d7d672fa9f99e1/spectrum/1040g0k0326762jf14a4g5nm6daug8qka4vbv7vg!nd_dft_wlteh_webp_3",
         "https://sns-webpic-qc.xhscdn.com/202610131304/8db43f78f81ca10e5de5e202c397935e/spectrum/1040g0k0326762jf14a505nm6daug8qkackmj0s0!nd_dft_wlteh_webp_3"
+      ]
+    },
+    {
+      "id": "twitter:2109471885960647082",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "我的 Grok Bot 工作室配置 https://t.co/HCy4MXkRoK",
+      "url": "https://x.com/op7418/status/2109471885960647082",
+      "created_at": "2026-10-12T02:31:04.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 129,
+        "replies": 18,
+        "retweets": 11,
+        "views": 19380
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUZZcy6aYAAv31G.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109470015091261561",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "可以把这段话发给你的 GrokBot：https://t.co/xOsbVBwpAz",
+      "url": "https://x.com/op7418/status/2109470015091261561",
+      "created_at": "2026-10-12T02:23:38.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "retweets": 0,
+        "views": 4173
+      }
+    },
+    {
+      "id": "twitter:2109469928852230518",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "教一下怎么让 Grok Bot 食用\n\n公众号文章在这里：https://t.co/KZ8wK4fdKI https://t.co/Yc9Qp5hiEa",
+      "url": "https://x.com/op7418/status/2109469928852230518",
+      "created_at": "2026-10-12T02:23:17.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 54,
+        "replies": 10,
+        "retweets": 4,
+        "views": 18847
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HUZXtvJboAIGJqT.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109467948582891554",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "他帮我做的那个教程视频 https://t.co/9glwcMwsaj",
+      "url": "https://x.com/op7418/status/2109467948582891554",
+      "created_at": "2026-10-12T02:15:25.000Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "retweets": 1,
+        "views": 4845
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109467827170316289/img/xgs7XuBIZ_7KUZci.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2109467496298516760",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "介绍一下新的 GrokBot 玩法：\n\n让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。\n\n注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。\n\n而且做完这一堆以后，我的额度消耗还不到 4%\n\n他帮我做的原始视频，放下面了。 https://t.co/tu4vqZMHfg",
+      "url": "https://x.com/op7418/status/2109467496298516760",
+      "created_at": "2026-10-12T02:13:37.000Z",
+      "fetched_at": "2026-10-18T20:09:03.417Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 253,
+        "replies": 71,
+        "retweets": 30,
+        "views": 64919
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2109462764960067584/img/uviMFWTfhU3OEHP-.jpg"
       ]
     },
     {
@@ -4322,13 +5375,13 @@
       "text": "Next Token 上周的观察，再次领先国内其他媒体\n\n关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。\n\n业内的人还是可以多看看我们聊的这些东西。\n\n总结一下我们在播客里面的观点。 https://t.co/WxBbJKUOWD",
       "url": "https://x.com/op7418/status/2109159416599883861",
       "created_at": "2026-10-11T05:49:25.000Z",
-      "fetched_at": "2026-10-11T20:09:10.057Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
       "author": "歸藏(guizang.ai)",
       "metrics": {
-        "likes": 38,
-        "replies": 22,
-        "retweets": 3,
-        "views": 8819
+        "likes": 43,
+        "replies": 28,
+        "retweets": 4,
+        "views": 12907
       },
       "media": [
         "https://pbs.twimg.com/media/HUU9TYoaIAAycUV.jpg",
@@ -8194,13 +9247,13 @@
       "text": "Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
       "url": "https://x.com/sama/status/2107924677801001381",
       "created_at": "2026-10-07T20:03:01.000Z",
-      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
       "author": "Sam Altman",
       "metrics": {
-        "likes": 793,
-        "replies": 193,
-        "retweets": 15,
-        "views": 148792
+        "likes": 995,
+        "replies": 308,
+        "retweets": 18,
+        "views": 283192
       }
     },
     {
@@ -8226,13 +9279,13 @@
       "text": "ChatGPT can now generate a custom UI for you!",
       "url": "https://x.com/sama/status/2107924408597950702",
       "created_at": "2026-10-07T20:01:57.000Z",
-      "fetched_at": "2026-10-12T00:13:55.170Z",
+      "fetched_at": "2026-10-18T20:09:03.418Z",
       "author": "Sam Altman",
       "metrics": {
-        "likes": 11865,
-        "replies": 810,
-        "retweets": 543,
-        "views": 1711739
+        "likes": 12174,
+        "replies": 1039,
+        "retweets": 562,
+        "views": 1980020
       }
     },
     {
