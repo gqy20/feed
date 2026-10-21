@@ -5,8 +5,56 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>DrJimFan · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/DrJimFan.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 14:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:31:30 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Jim Fan：Flora website: https://t.co/ViuxycNGoX</title>
+      <link>https://x.com/DrJimFan/status/2112597589388652719</link>
+      <guid isPermaLink="false">twitter:2112597589388652719</guid>
+      <pubDate>Tue, 20 Oct 2026 17:31:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Flora website: https://t.co/ViuxycNGoX<br />Open model suite: <br />https://t.co/bAl5I72WRw</p><p><a href="https://x.com/DrJimFan/status/2112597589388652719">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jim Fan：Check out Yunze&apos;s technical deep dive:</title>
+      <link>https://x.com/DrJimFan/status/2112597590571450505</link>
+      <guid isPermaLink="false">twitter:2112597590571450505</guid>
+      <pubDate>Tue, 20 Oct 2026 17:31:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Check out Yunze&apos;s technical deep dive: <br />https://t.co/LivBItUnx5</p><p><a href="https://x.com/DrJimFan/status/2112597590571450505">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jim Fan：We built a robotics data engine with Astra-level performance at 125x lower cost. A…</title>
+      <link>https://x.com/DrJimFan/status/2112597587987689912</link>
+      <guid isPermaLink="false">twitter:2112597587987689912</guid>
+      <pubDate>Tue, 20 Oct 2026 17:31:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and turn raw footage into rich training signals. <br /><br />Flora already powers our in-house data engine, labeling 200K hours of videos a day on 500 GPUs. We created it to scale the frontier for robot learning. Now you own the weights too. <br /><br />Flora gives you:<br /><br />- High-quality, timestamped captions to curate and filter human egocentric and robot data;<br />- Dense progress rewards for quality control and RL post-training;<br />- Rubrics scoring for real-world benchmarking<br /><br />Try it today, links in thread:</p><img src="https://pbs.twimg.com/amplify_video_thumb/2112589725337083904/img/4Fy5XFx6jbgKIYgv.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2112597587987689912">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jim Fan：ASPIRE website: https://t.co/99bZhCeszA</title>
+      <link>https://x.com/DrJimFan/status/2111128798645416006</link>
+      <guid isPermaLink="false">twitter:2111128798645416006</guid>
+      <pubDate>Fri, 16 Oct 2026 16:15:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>ASPIRE website: https://t.co/99bZhCeszA<br />Open-source codebase: https://t.co/TX2t1ZFwjR</p><p><a href="https://x.com/DrJimFan/status/2111128798645416006">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jim Fan：Guanzhi&apos;s deep dive thread:</title>
+      <link>https://x.com/DrJimFan/status/2111128799895269643</link>
+      <guid isPermaLink="false">twitter:2111128799895269643</guid>
+      <pubDate>Fri, 16 Oct 2026 16:15:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Guanzhi&apos;s deep dive thread: <br /><br />https://t.co/LXfso5IRHa</p><p><a href="https://x.com/DrJimFan/status/2111128799895269643">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jim Fan：We are open-sourcing V1.0 of our agentic robotics framework, ASPIRE, with full rea…</title>
+      <link>https://x.com/DrJimFan/status/2111128797181567466</link>
+      <guid isPermaLink="false">twitter:2111128797181567466</guid>
+      <pubDate>Fri, 16 Oct 2026 16:15:02 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We are open-sourcing V1.0 of our agentic robotics framework, ASPIRE, with full real robot skill discovery and self improvement capabilities! On the day Astra arrived, our lab switched the backend model and saturated all the benchmarks to ~99% over night.<br /><br />And the frontier is already on the move:<br />- Opus 5.5 slightly edges out Astra on our robot simulation bench.<br />- Sonnet 5.5 hits the Pareto frontier of cost vs. robot capability, $12/task. <br /><br />We first introduced ASPIRE and /robot skill library in June, way before the big models could reliably do robotics. A rising frontier tide lifts all boats, but Astra was a 0-&gt;1 tsunami on many tasks.<br /><br />Now you can also feel the Physical Bitter Lesson at home like we did on that fateful day ;)<br /><br />links in thread</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111114013958672385/img/EeJbm_N2whqvQ2f4.jpg" loading="lazy" /><p><a href="https://x.com/DrJimFan/status/2111128797181567466">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Jim Fan：It is increasingly clear that humanity will solve the Riemann hypothesis before we…</title>
       <link>https://x.com/DrJimFan/status/2107842520390701212</link>

@@ -5,8 +5,56 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 14 Oct 2026 14:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:01:25 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>François Chollet：RT @spisallyouneed: Introducing SKY-001, the first Engineering World Mode…</title>
+      <link>https://x.com/fchollet/status/2112242733163122730</link>
+      <guid isPermaLink="false">twitter:2112242733163122730</guid>
+      <pubDate>Mon, 19 Oct 2026 18:01:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @spisallyouneed: Introducing SKY-001, the first Engineering World Model.<br />On CAD and BIM tasks, it beats GPT-6 Astra and every frontier m…</p><p><a href="https://x.com/fchollet/status/2112242733163122730">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：When enough people believe something will happen, it doesn&apos;t need to happ…</title>
+      <link>https://x.com/fchollet/status/2112168594352349518</link>
+      <guid isPermaLink="false">twitter:2112168594352349518</guid>
+      <pubDate>Mon, 19 Oct 2026 13:06:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>When enough people believe something will happen, it doesn&apos;t need to happen at all for all of its consequences to be felt</p><p><a href="https://x.com/fchollet/status/2112168594352349518">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Some observations about the &quot;total&quot; automation of software engineering:</title>
+      <link>https://x.com/fchollet/status/2111507711653564543</link>
+      <guid isPermaLink="false">twitter:2111507711653564543</guid>
+      <pubDate>Sat, 17 Oct 2026 17:20:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Some observations about the &quot;total&quot; automation of software engineering:<br /><br />1. There are more software engineers now than in 2025, and demand is growing.<br /><br />2. Software engineers have never worked harder than they do now.<br /><br />3. They largely don&apos;t write code anymore, agents write ~100% of the code.<br /><br />4. The bottom line of the companies that employs these engineers and agents (i.e. the terminal purpose of all this code) is typically not budging as a result of AI adoption.<br /><br />This is why you have to think in terms of systems. Automating one aspect of a system creates its own friction and moves the bottlenecks elsewhere.</p><p><a href="https://x.com/fchollet/status/2111507711653564543">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Argon has a similar performance profile on ARC-AGI-3 as Astra. Google is …</title>
+      <link>https://x.com/fchollet/status/2110775560846914009</link>
+      <guid isPermaLink="false">twitter:2110775560846914009</guid>
+      <pubDate>Thu, 15 Oct 2026 16:51:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Argon has a similar performance profile on ARC-AGI-3 as Astra. Google is back at the frontier.</p><p><a href="https://x.com/fchollet/status/2110775560846914009">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：I truly believe conversational AI will drive the biggest educational leap…</title>
+      <link>https://x.com/fchollet/status/2110756584611516512</link>
+      <guid isPermaLink="false">twitter:2110756584611516512</guid>
+      <pubDate>Thu, 15 Oct 2026 15:36:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>I truly believe conversational AI will drive the biggest educational leap of our generation. 1-on-1 tutoring is the gold standard for education, but it doesn&apos;t scale. AI can change that with truly active conversational learning.<br /><br />Annie and team set out to solve this with @gakkuai, and they&apos;ve done a great job. Gakku is an AI mentoring app for K-12 students. Rather than doing the work for them, the voice chat coach guides students through 10 min essay writing &quot;missions&quot; that cover brainstorming, drafting, and revising. It actively trains kids to generate their own ideas, structure logical arguments, and articulate themselves clearly.<br /><br />If you have school-aged kids, I highly recommend checking it out: https://t.co/Z1bSFgx6Et</p><p><a href="https://x.com/fchollet/status/2110756584611516512">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Everyone wants to have solved a hard problem, but almost nobody wants to …</title>
+      <link>https://x.com/fchollet/status/2110748224097222874</link>
+      <guid isPermaLink="false">twitter:2110748224097222874</guid>
+      <pubDate>Thu, 15 Oct 2026 15:02:47 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Everyone wants to have solved a hard problem, but almost nobody wants to live inside the grind of actually solving it. The breakthroughs belong to the few who are obsessed with the process, not just the idea of the outcome</p><p><a href="https://x.com/fchollet/status/2110748224097222874">原文</a></p>]]></description>
+    </item>
     <item>
       <title>François Chollet：You can&apos;t solve real-world physical tasks through autoregressive sampling…</title>
       <link>https://x.com/fchollet/status/2110378929588752784</link>

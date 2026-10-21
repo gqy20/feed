@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eugeneyan · X / Twitter</title>
+    <link>https://home.gqy20.top/feed/</link>
+    <description>eugeneyan · X / Twitter 采集订阅源</description>
+    <atom:link href="https://home.gqy20.top/feed/rss/twitter/eugeneyan.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2026 22:32:01 GMT</lastBuildDate>
+    <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Eugene Yan：RT @AnthropicAI: We’re committing a portion of Anthropic’s shares to the Anthro…</title>
+      <link>https://x.com/eugeneyan/status/2111948444659241159</link>
+      <guid isPermaLink="false">twitter:2111948444659241159</guid>
+      <pubDate>Sun, 18 Oct 2026 22:32:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AnthropicAI: We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated…</p><p><a href="https://x.com/eugeneyan/status/2111948444659241159">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Eugene Yan：RT @AnthropicAI: We’ve committed to having evaluators assess our safety practic…</title>
+      <link>https://x.com/eugeneyan/status/2110812425117426152</link>
+      <guid isPermaLink="false">twitter:2110812425117426152</guid>
+      <pubDate>Thu, 15 Oct 2026 19:17:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @AnthropicAI: We’ve committed to having evaluators assess our safety practices. We&apos;re in discussions with multiple organizations, and ha…</p><p><a href="https://x.com/eugeneyan/status/2110812425117426152">原文</a> · 转发</p>]]></description>
+    </item>
+  </channel>
+</rss>

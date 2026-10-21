@@ -5,8 +5,24 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>btibor91 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/btibor91.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 14:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:57:33 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Tibor Blaho：OpenAI and Anthropic weekly recap, week 42 of 2026: Sora revival talks, a hidd…</title>
+      <link>https://x.com/btibor91/status/2111773672403095676</link>
+      <guid isPermaLink="false">twitter:2111773672403095676</guid>
+      <pubDate>Sun, 18 Oct 2026 10:57:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI and Anthropic weekly recap, week 42 of 2026: Sora revival talks, a hidden recorder at OpenAI, Anthropic&apos;s own source control Scion, a solved ECDSA mystery and more<br /><br />The Information reports OpenAI is in talks to revive Sora through a startup co-founded by Jeffrey Katzenberg and former Sora lead Bill Peebles, with OpenAI taking equity if a deal closes<br /><br />OpenAI says they found a hidden recording device in an office, used their models to trace it to an employee, and the FBI made an arrest<br /><br />The Information also reports early OpenAI talks to buy security firm Trail of Bits<br /><br />ChatGPT now gathers information across open Chrome tabs through OpenAI&apos;s extension, and can control them in ChatGPT Work<br /><br />OpenAI&apos;s GPT-6 Pro got faster with better tool use and multiple agents working in parallel<br /><br />GPT-5.5 is retired from ChatGPT, ChatGPT Work and Codex, API unaffected, and OpenAI&apos;s GPT-4o and GPT-4.1 leave the API on January 14, 2027<br /><br />Anthropic says strengthened defenses against distillation attacks cut what distillers can harvest by 90 to 99 percent<br /><br />An internal Claude research model at Anthropic solved a 25-year-old mystery about the NIST ECDSA curve seeds, tracing them to a C library random generator seeded with Unix timestamps<br /><br />Anthropic built Scion, their own source control, and moved their monorepo off git in five months as daily merges went from roughly 2,500 to over 30,000<br /><br />Claude Code desktop was reworked for many sessions side by side, Code Review is generally available for Claude Team and Enterprise, and Opus 5.5 fast mode left research preview on the Claude Platform<br /><br />Anthropic reports agent hours passed human hours internally in March, opened a Singapore office, and says Democracy Works voting information comes to Claude ahead of the US midterms, and more</p><img src="https://pbs.twimg.com/amplify_video_thumb/2111773590198919168/img/pzUMj0_3XgrGcnFy.jpg" loading="lazy" /><p><a href="https://x.com/btibor91/status/2111773672403095676">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Tibor Blaho：https://t.co/p0wWRRjtNb</title>
+      <link>https://x.com/btibor91/status/2111741163208081512</link>
+      <guid isPermaLink="false">twitter:2111741163208081512</guid>
+      <pubDate>Sun, 18 Oct 2026 08:48:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>https://t.co/p0wWRRjtNb</p><p><a href="https://x.com/btibor91/status/2111741163208081512">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Tibor Blaho：&quot;there’s a chance that a version of Sora is coming back from the dead&quot;</title>
       <link>https://x.com/btibor91/status/2109654682021097828</link>
