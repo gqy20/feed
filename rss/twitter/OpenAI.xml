@@ -5,8 +5,96 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>OpenAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/OpenAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 16 Oct 2026 21:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:55:45 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>OpenAI：During this red-teaming exercise, we also found a vulnerability that allows for una…</title>
+      <link>https://x.com/OpenAI/status/2113766354386084338</link>
+      <guid isPermaLink="false">twitter:2113766354386084338</guid>
+      <pubDate>Fri, 23 Oct 2026 22:55:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.<br /><br />The flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user account. That is, an unpatched server that accepts compressed input could be taken over by a malicious client, and an unpatched client that accepts compressed input (such as “curl --compressed”) could be taken over by a malicious server.<br /><br />This root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability and there was no more recent release of Brotli. Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software. We disclosed the vulnerability to Brotli and other downstream projects such as Node.js, which released or are currently releasing security updates, and Brotli cut new release versions and published a CVE.<br /><br />More details on the patch and mitigations below:<br />https://t.co/Y1Y72aHxrW</p><p><a href="https://x.com/OpenAI/status/2113766354386084338">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @ChatGPT: We’re using dots to build better dots.</title>
+      <link>https://x.com/OpenAI/status/2113761048520167542</link>
+      <guid isPermaLink="false">twitter:2113761048520167542</guid>
+      <pubDate>Fri, 23 Oct 2026 22:34:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ChatGPT: We’re using dots to build better dots.<br /><br />@rennsong, an engineer at OpenAI, uses her dot to gather feedback from social media an…</p><p><a href="https://x.com/OpenAI/status/2113761048520167542">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Over the past several months, we have substantially hardened the security of our re…</title>
+      <link>https://x.com/OpenAI/status/2113718797505036665</link>
+      <guid isPermaLink="false">twitter:2113718797505036665</guid>
+      <pubDate>Fri, 23 Oct 2026 19:46:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can still learn to browse, search, and use applications.<br /><br />On September 20, after a model exploited a DNS misconfiguration to find a way outside of this offline world, we paused frontier training to strengthen containment further. We assembled teams of agents, powered by our most cyber-capable models, and tasked them with finding weaknesses in our research environments.<br /><br />While they found no route to the internet they could easily exploit while concealing their activity from our monitors, they did find zero-day vulnerabilities, virtual machine escapes, and hardware side-channels for communication between agents. We used their discoveries to further strengthen our defenses and contribute fixes to open-source software.<br /><br />After strengthening our containment architecture, we resumed our frontier RL training and inference on October 1. We’ve reserved substantial compute for continuous red-teaming, and made high-compute red-teaming part of the safety cases we use to decide whether frontier training and evaluation can proceed securely.<br /><br />https://t.co/EmEZsFRMcF</p><p><a href="https://x.com/OpenAI/status/2113718797505036665">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：This summer, we invited METR and Redwood Research to pilot an embedded evaluation o…</title>
+      <link>https://x.com/OpenAI/status/2113298833392496746</link>
+      <guid isPermaLink="false">twitter:2113298833392496746</guid>
+      <pubDate>Thu, 22 Oct 2026 15:57:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. <br /><br />Their findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.</p><p><a href="https://x.com/OpenAI/status/2113298833392496746">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：OpenAI models are coming to Google Cloud.</title>
+      <link>https://x.com/OpenAI/status/2112988118471295323</link>
+      <guid isPermaLink="false">twitter:2112988118471295323</guid>
+      <pubDate>Wed, 21 Oct 2026 19:23:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI models are coming to Google Cloud.<br /><br />We&apos;re bringing our frontier models and Codex agentic workflows to Google Cloud&apos;s Model Garden, so enterprises can use our technology where they already build.<br /><br />https://t.co/gjuLVALjDm</p><p><a href="https://x.com/OpenAI/status/2112988118471295323">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：If you are wondering whether your website is affected, we have packaged a Codex ski…</title>
+      <link>https://x.com/OpenAI/status/2112945805686604033</link>
+      <guid isPermaLink="false">twitter:2112945805686604033</guid>
+      <pubDate>Wed, 21 Oct 2026 16:35:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>If you are wondering whether your website is affected, we have packaged a Codex skill to help check.<br /><br />Point your Codex at this repo to guide you through it: https://t.co/XUEbOwXuQC</p><p><a href="https://x.com/OpenAI/status/2112945805686604033">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：OpenAI models helped researchers—operating as part of our Patch the Planet initiati…</title>
+      <link>https://x.com/OpenAI/status/2112907856018309586</link>
+      <guid isPermaLink="false">twitter:2112907856018309586</guid>
+      <pubDate>Wed, 21 Oct 2026 14:04:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.<br /><br />Over the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.<br /><br />Due to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. <br /><br />This is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.<br />https://t.co/TW3jrSbB3f</p><p><a href="https://x.com/OpenAI/status/2112907856018309586">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：In the same mouse-brain dataset, GPT-Rosalind found a possible clue to why TSC2 mut…</title>
+      <link>https://x.com/OpenAI/status/2112899856205578486</link>
+      <guid isPermaLink="false">twitter:2112899856205578486</guid>
+      <pubDate>Wed, 21 Oct 2026 13:32:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In the same mouse-brain dataset, GPT-Rosalind found a possible clue to why TSC2 mutations tend to cause more severe tuberous sclerosis than TSC1 mutations.<br /><br />The two genes work together to regulate mTOR. Yet in one group of cerebellar neurons, disrupting TSC2 changed the expression of dozens of genes, including genes involved in neuronal communication. Disrupting TSC1 had little effect on gene expression in the same cell type.<br /><br />Existing treatments already target mTOR. Do they reverse these changes, or is there more to TSC2’s role in these neurons?</p><p><a href="https://x.com/OpenAI/status/2112899856205578486">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol tr…</title>
+      <link>https://x.com/OpenAI/status/2112899854569762936</link>
+      <guid isPermaLink="false">twitter:2112899854569762936</guid>
+      <pubDate>Wed, 21 Oct 2026 13:32:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?<br /><br />DCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.<br /><br />That gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.<br /><br />With @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.<br /><br />https://t.co/oHdF3ELsMj</p><p><a href="https://x.com/OpenAI/status/2112899854569762936">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the …</title>
+      <link>https://x.com/OpenAI/status/2112607347688583586</link>
+      <guid isPermaLink="false">twitter:2112607347688583586</guid>
+      <pubDate>Tue, 20 Oct 2026 18:10:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.<br /><br />Together, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.<br /><br />Welcome @ashokaraj_ and team!<br /><br />https://t.co/vi51OhznQn</p><p><a href="https://x.com/OpenAI/status/2112607347688583586">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Our latest model advances bring stronger capabilities for building and migrating so…</title>
+      <link>https://x.com/OpenAI/status/2112310345863930168</link>
+      <guid isPermaLink="false">twitter:2112310345863930168</guid>
+      <pubDate>Mon, 19 Oct 2026 22:30:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.<br /><br />These languages power software that banks, governments, and businesses depend on. Progress here means understanding decades of business logic and helping developers modernize those systems while preserving what works.<br /><br />We’re building these capabilities around the challenges developers and enterprise customers bring us. If your team is working on these systems, tell us which languages and workflows we should tackle next.<br /><br />https://t.co/2TbnkQixJ1</p><img src="https://pbs.twimg.com/amplify_video_thumb/2112309796745682944/img/uV5UTO10mMmVfiun.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2112310345863930168">原文</a></p>]]></description>
+    </item>
     <item>
       <title>OpenAI：RT @OpenAIDevs: Put your dot on call.</title>
       <link>https://x.com/OpenAI/status/2111215293737599284</link>

@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 15 Oct 2026 19:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:39:13 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Harrison Chase：is agent server a good name?</title>
+      <link>https://x.com/hwchase17/status/2113339406299853076</link>
+      <guid isPermaLink="false">twitter:2113339406299853076</guid>
+      <pubDate>Thu, 22 Oct 2026 18:39:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>is agent server a good name?<br /><br />agent os? agent? agent kernel? https://t.co/Tc2Q1WqO7F</p><img src="https://pbs.twimg.com/media/HVQWN--WQAAWzlf.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2113339406299853076">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @ndrezn: there are a lot of interesting takes in this post, but the mode…</title>
+      <link>https://x.com/hwchase17/status/2113282910392369549</link>
+      <guid isPermaLink="false">twitter:2113282910392369549</guid>
+      <pubDate>Thu, 22 Oct 2026 14:54:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ndrezn: there are a lot of interesting takes in this post, but the modern computing metaphor is especially good.<br /><br />we&apos;re watching tradit…</p><p><a href="https://x.com/hwchase17/status/2113282910392369549">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：Incredible to see this growth!</title>
+      <link>https://x.com/hwchase17/status/2113282887881785446</link>
+      <guid isPermaLink="false">twitter:2113282887881785446</guid>
+      <pubDate>Thu, 22 Oct 2026 14:54:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Incredible to see this growth!</p><p><a href="https://x.com/hwchase17/status/2113282887881785446">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @ericwilliamrea: We built a $150M ARR business twice.</title>
+      <link>https://x.com/hwchase17/status/2113282773234434476</link>
+      <guid isPermaLink="false">twitter:2113282773234434476</guid>
+      <pubDate>Thu, 22 Oct 2026 14:54:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ericwilliamrea: We built a $150M ARR business twice.<br /><br />The first time took 8 years. The second took 2.5.<br /><br />Today, Podium crossed $150M in…</p><p><a href="https://x.com/hwchase17/status/2113282773234434476">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: Content Studio is a truly epic example of a company harness …</title>
+      <link>https://x.com/hwchase17/status/2113009980215382330</link>
+      <guid isPermaLink="false">twitter:2113009980215382330</guid>
+      <pubDate>Wed, 21 Oct 2026 20:50:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: Content Studio is a truly epic example of a company harness built on Managed Deep Agents. It is multiplayer by nature, I wor…</p><p><a href="https://x.com/hwchase17/status/2113009980215382330">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：the traces you already log are training data - keep the runs that did the t…</title>
+      <link>https://x.com/hwchase17/status/2112983115215802417</link>
+      <guid isPermaLink="false">twitter:2112983115215802417</guid>
+      <pubDate>Wed, 21 Oct 2026 19:03:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>the traces you already log are training data - keep the runs that did the task well, fine-tune a small model on them, eval on your task<br /><br />a 9B model beating frontier models makes sense when it&apos;s trained on exactly your task<br /><br />smithtune: https://t.co/RYcGRwzaye<br /><br />https://t.co/weSLQ77VvN</p><p><a href="https://x.com/hwchase17/status/2112983115215802417">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @amal_irgashev: our design agent at @LangChain has shipped 3,000+ assets…</title>
+      <link>https://x.com/hwchase17/status/2112982067147370532</link>
+      <guid isPermaLink="false">twitter:2112982067147370532</guid>
+      <pubDate>Wed, 21 Oct 2026 18:59:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @amal_irgashev: our design agent at @LangChain has shipped 3,000+ assets since august, and posts with its work pulled ~4.5M views on soc…</p><p><a href="https://x.com/hwchase17/status/2112982067147370532">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @simon_budziak: Last week I joined @LangChain Interrupt London 2026 as a…</title>
+      <link>https://x.com/hwchase17/status/2112951004283195856</link>
+      <guid isPermaLink="false">twitter:2112951004283195856</guid>
+      <pubDate>Wed, 21 Oct 2026 16:55:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @simon_budziak: Last week I joined @LangChain Interrupt London 2026 as a Polish LangChain Ambassador.<br /> <br />Great talks, presentations and e…</p><p><a href="https://x.com/hwchase17/status/2112951004283195856">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：we&apos;re rolling out redteaming to more users</title>
+      <link>https://x.com/hwchase17/status/2112683748131299683</link>
+      <guid isPermaLink="false">twitter:2112683748131299683</guid>
+      <pubDate>Tue, 20 Oct 2026 23:13:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>we&apos;re rolling out redteaming to more users<br /><br />redteaming may be bit of misnomer - this is less security, more finding places the agent messes up<br /><br />dm me if interested in trying https://t.co/dVl13CUYVO</p><img src="https://pbs.twimg.com/media/HVHB5PSXwAAVP1y.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2112683748131299683">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：this is great deepdive into what a managed harness looks like! some quick t…</title>
+      <link>https://x.com/hwchase17/status/2112650555852275951</link>
+      <guid isPermaLink="false">twitter:2112650555852275951</guid>
+      <pubDate>Tue, 20 Oct 2026 21:01:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>this is great deepdive into what a managed harness looks like! some quick thoughts while reading:<br /><br />- many diff types of agents built on it. doesnt surprise me - a lot of agents look very similar inside these days<br /><br />- why not use off the shelf? (1) model and provider agnostic), (2) co-build with product teams, (3) own observability stack. I very much agree with points 1 and 3!!! and is something we obviously emphasize at langchain<br /><br />- &quot;The simplest agent harnesses are truly just a while loop, but when you want to support a wide array of agentic products in production, the responsibility of the harness or framework expands quite a bit&quot; - +100 to this, is why were investing in deepagents so much<br /><br />- &quot;Using the “sandbox-as-a-tool” paradigm&quot; - the massive trend seems to be going this way (is how deepagents is architected)<br /><br />- &quot;Supporting non-blocking async agents as the default&quot;. we are working on this right now for deepagents! agree is the future<br /><br />- &quot;The Connectors Service is the standard interface through which agents at Ramp interact with data sources. It centralizes authentication, credential management, access controls, and tool execution behind one API. This allows us to build and maintain integrations once, and reuse them across products.&quot; Also very important! and something we&apos;re thinking a bunch about for managed deepagents</p><p><a href="https://x.com/hwchase17/status/2112650555852275951">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @nlarusstone: Day 2 of “An agent a day keeps Phase 2 failures away” -- A…</title>
+      <link>https://x.com/hwchase17/status/2112645803986518231</link>
+      <guid isPermaLink="false">twitter:2112645803986518231</guid>
+      <pubDate>Tue, 20 Oct 2026 20:43:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @nlarusstone: Day 2 of “An agent a day keeps Phase 2 failures away” -- AI for increasing creativity<br /><br />Apparently yesterday was too tame,…</p><p><a href="https://x.com/hwchase17/status/2112645803986518231">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：great points by caspar on what makes building a &quot;company harness&quot; (companyO…</title>
+      <link>https://x.com/hwchase17/status/2112645417804718259</link>
+      <guid isPermaLink="false">twitter:2112645417804718259</guid>
+      <pubDate>Tue, 20 Oct 2026 20:41:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>great points by caspar on what makes building a &quot;company harness&quot; (companyOS? org harness?) hard<br /><br />and how MDA solves them!</p><p><a href="https://x.com/hwchase17/status/2112645417804718259">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: How do you build a company harness?</title>
+      <link>https://x.com/hwchase17/status/2112645249856307678</link>
+      <guid isPermaLink="false">twitter:2112645249856307678</guid>
+      <pubDate>Tue, 20 Oct 2026 20:40:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: How do you build a company harness?<br /><br />We&apos;ve built internal agents at LangChain across marketing, sales, and engineering. The…</p><p><a href="https://x.com/hwchase17/status/2112645249856307678">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：the useful part of a judge on production traffic is what happens to the out…</title>
+      <link>https://x.com/hwchase17/status/2112621016518377491</link>
+      <guid isPermaLink="false">twitter:2112621016518377491</guid>
+      <pubDate>Tue, 20 Oct 2026 19:04:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>the useful part of a judge on production traffic is what happens to the outputs it flags<br /><br />calibrate it on human labels, flag low scorers, confirm the real failures, add them to evals, fix, rerun<br /><br />prod finds the failures your offline dataset never had<br /><br />https://t.co/7iUK4e1Fj1</p><p><a href="https://x.com/hwchase17/status/2112621016518377491">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @JoshARosen: LangChain’s Managed Deep Agents has one huge advantage over…</title>
+      <link>https://x.com/hwchase17/status/2112619852905034189</link>
+      <guid isPermaLink="false">twitter:2112619852905034189</guid>
+      <pubDate>Tue, 20 Oct 2026 18:59:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @JoshARosen: LangChain’s Managed Deep Agents has one huge advantage over the managed agent harnesses from OpenAI and Anthropic: model in…</p><p><a href="https://x.com/hwchase17/status/2112619852905034189">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：deep agents is the harness - the agent loop</title>
+      <link>https://x.com/hwchase17/status/2112602732984938689</link>
+      <guid isPermaLink="false">twitter:2112602732984938689</guid>
+      <pubDate>Tue, 20 Oct 2026 17:51:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>deep agents is the harness - the agent loop<br /><br />managed deep agents adds what you need once lots of people call the same agent: each user&apos;s own credentials and their own memory<br /><br />https://t.co/4A8g59xI0D<br /><br />https://t.co/ZmqN2llWkz</p><p><a href="https://x.com/hwchase17/status/2112602732984938689">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：Would agree with this</title>
+      <link>https://x.com/hwchase17/status/2112489626061738209</link>
+      <guid isPermaLink="false">twitter:2112489626061738209</guid>
+      <pubDate>Tue, 20 Oct 2026 10:22:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Would agree with this<br /><br />Start with a harness (I like deepagents)<br /><br />Add context (skills, tools)<br /><br />Then if needed modify harness slightly (middleware in deepagents is goated for this)<br /><br />Then if needed make workflow with langgraph</p><p><a href="https://x.com/hwchase17/status/2112489626061738209">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @verrsane: If you’re building a agent</title>
+      <link>https://x.com/hwchase17/status/2112489369139589582</link>
+      <guid isPermaLink="false">twitter:2112489369139589582</guid>
+      <pubDate>Tue, 20 Oct 2026 10:21:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @verrsane: If you’re building a agent <br /><br />Always go the harness route first. Do not build a complicated 20 step workflow using a bunch of…</p><p><a href="https://x.com/hwchase17/status/2112489369139589582">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：had a lot of fun talking with @HarryStebbings about all things ai</title>
+      <link>https://x.com/hwchase17/status/2112471992435667163</link>
+      <guid isPermaLink="false">twitter:2112471992435667163</guid>
+      <pubDate>Tue, 20 Oct 2026 09:12:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>had a lot of fun talking with @HarryStebbings about all things ai<br /><br />one line of questioning we went done - vertical vs horizontal agents, and how to build them<br /><br />im bullish on vertical agents, and i think you can create differentiation (from horizontal agents) in three ways:<br /><br />1/ context: prompts, skills, tools - all of this is specific to your domain, pretty easy to provide, and gives domain specific context to the agent<br /><br />2/ harness: harder to tweak than context, but can alter fundemental behavior of the agent<br /><br />3/ model: hardest to tweak of all, but obviously changes behavior greatly<br /><br />i think most agent engineers these days are still tweaking 1 and 2 (in that order)<br /><br />nb: regardless of what layer you tweak at, as the base models change you should revisit your context/harness/model every 3-6 months (and generally remove cruft that is no longer needed)<br /><br />https://t.co/gmA8oyfxiX</p><img src="https://pbs.twimg.com/media/HVEBYwKXYAAzgbI.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2112471992435667163">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: &quot;it&apos;s underrated how hard it is to build agents!&quot;</title>
+      <link>https://x.com/hwchase17/status/2112259762767434124</link>
+      <guid isPermaLink="false">twitter:2112259762767434124</guid>
+      <pubDate>Mon, 19 Oct 2026 19:09:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: &quot;it&apos;s underrated how hard it is to build agents!&quot;<br /><br />great convo w/ @hwchase17 and @HarryStebbings on @twentyminutevc<br /><br />an a…</p><p><a href="https://x.com/hwchase17/status/2112259762767434124">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Harrison Chase：Most of the interesting agent harness work is happening at intersection of …</title>
       <link>https://x.com/hwchase17/status/2110813795245249018</link>
