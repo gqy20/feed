@@ -5,8 +5,80 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>AnthropicAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/AnthropicAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 18:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:05:46 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Anthropic：Anthropic has filed an S-1 registration statement with the SEC related to its pr…</title>
+      <link>https://x.com/AnthropicAI/status/2114705042817110293</link>
+      <guid isPermaLink="false">twitter:2114705042817110293</guid>
+      <pubDate>Mon, 26 Oct 2026 13:05:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.<br /><br />Read more: https://t.co/ofhv0DK3Zp<br /><br />Legal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.</p><p><a href="https://x.com/AnthropicAI/status/2114705042817110293">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We worked closely with AISI on this analysis. AISI have published their own repo…</title>
+      <link>https://x.com/AnthropicAI/status/2113626657508516348</link>
+      <guid isPermaLink="false">twitter:2113626657508516348</guid>
+      <pubDate>Fri, 23 Oct 2026 13:40:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We worked closely with AISI on this analysis. AISI have published their own report, which is available below.<br /><br />https://t.co/nG4QoQ1jtB</p><p><a href="https://x.com/AnthropicAI/status/2113626657508516348">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：In August, @AISecurityInst reported an incident where Claude Mythos 5 took unaut…</title>
+      <link>https://x.com/AnthropicAI/status/2113626655902126442</link>
+      <guid isPermaLink="false">twitter:2113626655902126442</guid>
+      <pubDate>Fri, 23 Oct 2026 13:40:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI’s testing of its cyber capabilities.<br /><br />We&apos;ve now produced a further analysis of this incident, to better understand the model&apos;s alignment properties.<br /><br />https://t.co/SlPQQ5xMMc</p><p><a href="https://x.com/AnthropicAI/status/2113626655902126442">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：New on our Frontier Red Team blog: using Claude to formally verify software at l…</title>
+      <link>https://x.com/AnthropicAI/status/2113390212911083894</link>
+      <guid isPermaLink="false">twitter:2113390212911083894</guid>
+      <pubDate>Thu, 22 Oct 2026 22:01:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>New on our Frontier Red Team blog: using Claude to formally verify software at large scale.<br /><br />Formal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).<br /><br />With AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.<br /><br />Read our research in full here: https://t.co/zUyx8CjBEk</p><p><a href="https://x.com/AnthropicAI/status/2113390212911083894">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：Anthropic is a Public Benefit Corporation. Today, we’re publishing our annual Pu…</title>
+      <link>https://x.com/AnthropicAI/status/2112966949273801086</link>
+      <guid isPermaLink="false">twitter:2112966949273801086</guid>
+      <pubDate>Wed, 21 Oct 2026 17:59:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Anthropic is a Public Benefit Corporation. Today, we’re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we’re taking to advance them. <br /><br />Read the full report at this page: https://t.co/MTCgtzCoPH</p><p><a href="https://x.com/AnthropicAI/status/2112966949273801086">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an exper…</title>
+      <link>https://x.com/AnthropicAI/status/2112946750264676743</link>
+      <guid isPermaLink="false">twitter:2112946750264676743</guid>
+      <pubDate>Wed, 21 Oct 2026 16:38:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.<br /><br />Read more: https://t.co/8RzH8UujRU</p><p><a href="https://x.com/AnthropicAI/status/2112946750264676743">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：This is exploratory work, and we’re not claiming to have produced an antivenom—f…</title>
+      <link>https://x.com/AnthropicAI/status/2112579261358023071</link>
+      <guid isPermaLink="false">twitter:2112579261358023071</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.</p><p><a href="https://x.com/AnthropicAI/status/2112579261358023071">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’re releasing all 211 of the tested designs and the lab data as a resource for…</title>
+      <link>https://x.com/AnthropicAI/status/2112579263039725659</link>
+      <guid isPermaLink="false">twitter:2112579263039725659</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://t.co/zqke30UV2o<br /><br />Read the full technical report: https://t.co/ikWVcFxnyP</p><p><a href="https://x.com/AnthropicAI/status/2112579263039725659">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：New on our Science Blog: designing protein binders against scorpion neurotoxins.</title>
+      <link>https://x.com/AnthropicAI/status/2112579251555721573</link>
+      <guid isPermaLink="false">twitter:2112579251555721573</guid>
+      <pubDate>Tue, 20 Oct 2026 16:18:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>New on our Science Blog: designing protein binders against scorpion neurotoxins.<br /><br />Scorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.<br /><br />https://t.co/l6LgdEqM7I</p><p><a href="https://x.com/AnthropicAI/status/2112579251555721573">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Anthropic：We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit…</title>
       <link>https://x.com/AnthropicAI/status/2111881963657412903</link>

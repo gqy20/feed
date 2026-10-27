@@ -5,8 +5,16 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>karpathy · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/karpathy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 19:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:51:26 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Andrej Karpathy：RT @Tristan0x: If you&apos;ve ever wondered why smart TVs are so cheap, this is…</title>
+      <link>https://x.com/karpathy/status/2114384346815820050</link>
+      <guid isPermaLink="false">twitter:2114384346815820050</guid>
+      <pubDate>Sun, 25 Oct 2026 15:51:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Tristan0x: If you&apos;ve ever wondered why smart TVs are so cheap, this is why.<br /><br />@log4j rooted his Samsung and found an always-on hot mic,…</p><p><a href="https://x.com/karpathy/status/2114384346815820050">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Andrej Karpathy：Dusting off this tweet from April because this gap in shared understanding…</title>
       <link>https://x.com/karpathy/status/2109361546505966046</link>

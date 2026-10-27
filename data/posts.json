@@ -1,7 +1,777 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T16:04:24.580Z",
+  "updated_at": "2026-10-27T16:04:24.401Z",
   "posts": [
+    {
+      "id": "twitter:2115093098816745910",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "video creation and game making are going to become widely distributed foundations of knowledge work in the same way doc and deck creation are today",
+      "url": "https://x.com/danshipper/status/2115093098816745910",
+      "created_at": "2026-10-27T14:47:45.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 52,
+        "replies": 18,
+        "retweets": 3,
+        "views": 3900
+      }
+    },
+    {
+      "id": "twitter:2115080807656419759",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "extremely good explanation",
+      "url": "https://x.com/danshipper/status/2115080807656419759",
+      "created_at": "2026-10-27T13:58:55.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 57,
+        "replies": 3,
+        "retweets": 1,
+        "views": 10784
+      }
+    },
+    {
+      "id": "twitter:2115080505183887565",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: An operator with an idea used to need a vendor to add the feature—or an engineer to help build it.\n\n@ArielleShipper can now buil…",
+      "url": "https://x.com/danshipper/status/2115080505183887565",
+      "created_at": "2026-10-27T13:57:43.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 489
+      }
+    },
+    {
+      "id": "twitter:2114849110553440469",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "back to the part of the cycle where i regret not getting a phd in frontier math and theoretical comp sci \n\n(not that i ever considered getting one but still)",
+      "url": "https://x.com/danshipper/status/2114849110553440469",
+      "created_at": "2026-10-26T22:38:14.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 58,
+        "replies": 9,
+        "retweets": 2,
+        "views": 9956
+      }
+    },
+    {
+      "id": "twitter:2114831246710735192",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @kieranklaassen: Going over every single skill in compound engineering and deciding whether humans should be in the loop or if it's for…",
+      "url": "https://x.com/danshipper/status/2114831246710735192",
+      "created_at": "2026-10-26T21:27:15.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 842
+      }
+    },
+    {
+      "id": "twitter:2114800845829140541",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: Your AI bill tells you what you spent. What work did those tokens actually buy?\n\n@ArielleShipper demos Every’s usage dashboard,…",
+      "url": "https://x.com/danshipper/status/2114800845829140541",
+      "created_at": "2026-10-26T19:26:27.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 795
+      }
+    },
+    {
+      "id": "twitter:2114788686592381041",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @TheHackersNews: 🚨 UPDATE: PHP2Shell exploitation confirmed in the wild.\n\nPerplexity researcher Adel Karimi observed successful exploita…",
+      "url": "https://x.com/AravSrinivas/status/2114788686592381041",
+      "created_at": "2026-10-26T18:38:08.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 47,
+        "views": 1872
+      }
+    },
+    {
+      "id": "twitter:2114767454026990063",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "dang this is big",
+      "url": "https://x.com/danshipper/status/2114767454026990063",
+      "created_at": "2026-10-26T17:13:46.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 158,
+        "replies": 4,
+        "retweets": 3,
+        "views": 39706
+      }
+    },
+    {
+      "id": "twitter:2114746571334258748",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @bneyshabur: Introducing Fern, Mirendil’s first model: pretrained from scratch, with up to 10M tokens of context!\n\nThat’s ~0.5M lines of…",
+      "url": "https://x.com/chrmanning/status/2114746571334258748",
+      "created_at": "2026-10-26T15:50:47.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 129,
+        "views": 247
+      }
+    },
+    {
+      "id": "twitter:2114714881312305542",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "okay so Anthropic S-1:\n\n- Revenue up 1,300% YOY in 1H 2026\n- GAAP operating profitable\n- 85% gross margin\n- 900% revenue retention\n- 80% of revenue coming from models released in the last 6 months\n\nwe are so back!",
+      "url": "https://x.com/danshipper/status/2114714881312305542",
+      "created_at": "2026-10-26T13:44:51.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 728,
+        "replies": 74,
+        "retweets": 27,
+        "views": 90741
+      }
+    },
+    {
+      "id": "twitter:2114708929468838370",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "big news: the anthropic s-1 doesn't say \"or it might kill / unemploy everyone\" in the first paragraph! \n\na win for humanity https://t.co/9Lwrw7iT0a",
+      "url": "https://x.com/danshipper/status/2114708929468838370",
+      "created_at": "2026-10-26T13:21:12.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 164,
+        "replies": 21,
+        "retweets": 0,
+        "views": 10300
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVj0X_kW8AADYsB.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114705595312066627",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "here we goooooooooo",
+      "url": "https://x.com/danshipper/status/2114705595312066627",
+      "created_at": "2026-10-26T13:07:57.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 102,
+        "replies": 4,
+        "retweets": 0,
+        "views": 15731
+      }
+    },
+    {
+      "id": "twitter:2114705042817110293",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/ofhv0DK3Zp\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.",
+      "url": "https://x.com/AnthropicAI/status/2114705042817110293",
+      "created_at": "2026-10-26T13:05:46.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 11064,
+        "replies": 785,
+        "retweets": 1393,
+        "views": 1742619
+      }
+    },
+    {
+      "id": "twitter:2114701130601247163",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: Keeping up with every AI model can become a full-time distraction for a company.\n\nEvery’s frontier team gives people like @dansh…",
+      "url": "https://x.com/danshipper/status/2114701130601247163",
+      "created_at": "2026-10-26T12:50:13.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 816
+      }
+    },
+    {
+      "id": "twitter:2114509827057561603",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "https://t.co/F3WWInD6LH",
+      "url": "https://x.com/danshipper/status/2114509827057561603",
+      "created_at": "2026-10-26T00:10:03.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "metrics": {
+        "likes": 44,
+        "replies": 10,
+        "retweets": 0,
+        "views": 12653
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVg_exEWIAAv5F0.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114483592307044778",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @Shadowfetch: Shoutout to Christopher Manning (@chrmanning)! He founded the Stanford NLP Group, co-introduced GloVe word vectors, and ta…",
+      "url": "https://x.com/chrmanning/status/2114483592307044778",
+      "created_at": "2026-10-25T22:25:48.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 289
+      }
+    },
+    {
+      "id": "twitter:2114443640189988944",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: 100 AI experiments won’t help your company if none of them land.\n\n@kieranklaassen’s advice for frontier teams: Listen to the peo…",
+      "url": "https://x.com/danshipper/status/2114443640189988944",
+      "created_at": "2026-10-25T19:47:02.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 860
+      }
+    },
+    {
+      "id": "twitter:2114397843222139364",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: The raw material for an explainer video was already in @hammer_mt’s @SlackHQ messages and @meetgranola notes.\n\nHe asked Opus to…",
+      "url": "https://x.com/danshipper/status/2114397843222139364",
+      "created_at": "2026-10-25T16:45:04.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 904
+      }
+    },
+    {
+      "id": "twitter:2114384346815820050",
+      "platform": "twitter",
+      "handle": "karpathy",
+      "text": "RT @Tristan0x: If you've ever wondered why smart TVs are so cheap, this is why.\n\n@log4j rooted his Samsung and found an always-on hot mic,…",
+      "url": "https://x.com/karpathy/status/2114384346815820050",
+      "created_at": "2026-10-25T15:51:26.000Z",
+      "fetched_at": "2026-10-25T16:04:09.748Z",
+      "author": "Andrej Karpathy",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 391,
+        "views": 14597
+      }
+    },
+    {
+      "id": "twitter:2114381455367582124",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "New Halloween Easter eggs in the ChatGPT web app (image-generation animations and Halloween Snake)\n\nAlso, set your voice-mode color to Black or Orange, as the latest Android beta hints that another Halloween surprise could be coming soon https://t.co/2mddI3Bg9Q",
+      "url": "https://x.com/btibor91/status/2114381455367582124",
+      "created_at": "2026-10-25T15:39:56.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 119,
+        "replies": 10,
+        "retweets": 4,
+        "views": 9368
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2114381443136921600/img/SSaC3yP_oXFcI9hd.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114372064866169210",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "SF 2049 is bigger now, and it's multiplayer. Computer added:\n\nRace rooms on Cloudflare Durable Objects. Create a room, share a six-letter code, meet on the Embarcadero grid, race through gate halos with server-side lap timing. Rooms close themselves when empty.\n\n10 new player cars generated with image-to-3D, a studio garage to pick them, and a Blade Runner-style Spinner that flies.\nRapier vehicle physics with handbrake powerslides, a fullscreen city map, time trials, collision sounds, and a rebaked map loyal to the real SF street layout.\n\nThe trailer was shot by three agents in parallel: fixed-step 1080p60 capture, a real two-player race on a second GPU, and sound rebuilt from the game's own engine loops. Everything in it is captured gameplay.\n\nhttps://t.co/VgXOUGpsHF",
+      "url": "https://x.com/AravSrinivas/status/2114372064866169210",
+      "created_at": "2026-10-25T15:02:38.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 242,
+        "replies": 89,
+        "retweets": 18,
+        "views": 37711
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2114371944523186177/img/wtmV9MyKgRlm112f.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114366265456509006",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "OpenAI and Anthropic this week: Claude Duet, Patch the Planet, Public Benefit Fund (Week 43, 2026)\n\nOpenAI led a Patch the Planet coalition patching critical PHP vulnerabilities found with help from OpenAI models, citing its existing 1 billion dollar Daybreak for Frontline Defenders commitment\n\nOpenAI also paused frontier training after an internal research model exploited a DNS misconfiguration, resuming October 1\n\nOpenAI's updated Usage Policies from November 20 require approval for model routers and AI gateways\n\nOpenAI's Decisions API is generally available on GPT-6 Luna, and the API got 12-hour prompt caching\n\nChatGPT Locked Chats hide selected conversations behind a PIN or device authentication, and ChatGPT Ads, now in 89 countries, reached a 1 billion dollar annualized run rate\n\nClaude Models on Google Cloud (Anthropic managed) are generally available and OpenAI models and Codex are coming to Model Garden, by request for now\n\nAnthropic opened a research preview of Claude Duet, a separate proactive agent app on Claude Opus 5.5, by waitlist for US Pro and Max subscribers\n\nAnthropic's first new Claude API version since 2023 removes temperature, top p, and top k\n\nAnthropic donated Agent Skills to the Linux Foundation's Agentic AI Foundation, with engineers from Google, Microsoft, and OpenAI on the steering committee\n\nAnthropic's Claude Security now rescans repositories continuously, in public beta for Claude Enterprise, and OSS Scanner, a week in, has sent critical open source projects free vulnerability scans\n\nAnthropic's assessment of the UK AI Security Institute incident revisits AISI's finding that Claude Mythos 5, cyber safeguards disabled, took unsanctioned actions in 9 of 43 runs\n\nAnthropic committed 5 percent of its shares to a new Public Benefit Fund, pending stockholder approval, and more",
+      "url": "https://x.com/btibor91/status/2114366265456509006",
+      "created_at": "2026-10-25T14:39:35.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 19,
+        "replies": 21,
+        "retweets": 4,
+        "views": 3798
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2114366172942757888/img/ul7bzl8-Ei2Zj-6U.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114327908709802236",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "https://t.co/xqnwnecWjb",
+      "url": "https://x.com/btibor91/status/2114327908709802236",
+      "created_at": "2026-10-25T12:07:10.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 17,
+        "replies": 9,
+        "retweets": 0,
+        "views": 7983
+      }
+    },
+    {
+      "id": "twitter:2114253911200841862",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "原生组件库适配起来就是方便",
+      "url": "https://x.com/op7418/status/2114253911200841862",
+      "created_at": "2026-10-25T07:13:08.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 2671
+      }
+    },
+    {
+      "id": "twitter:2114253200056631752",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "即览即将完成 iPhone Duo 的适配！\n\n同时会新增记住上次阅读位置的能力 https://t.co/DfG0Tbxxqs",
+      "url": "https://x.com/op7418/status/2114253200056631752",
+      "created_at": "2026-10-25T07:10:18.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 11,
+        "replies": 8,
+        "retweets": 0,
+        "views": 5684
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVdV_NNbcAAKN1c.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114229075514651001",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Notion 这个在 iPhone Duo 上的适配相当不错。\n\n我现在很多让 Grok bot 和 Muse 生成的内容 都会让它直接发到 Notion 里我去读。 https://t.co/71aP4j6od4",
+      "url": "https://x.com/op7418/status/2114229075514651001",
+      "created_at": "2026-10-25T05:34:26.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 22,
+        "replies": 26,
+        "retweets": 1,
+        "views": 10011
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVdAIlda4AASYzP.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114216604741550466",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Grokbot 的这个问题反馈机制也非常好。\n\n你跟他聊天时，一旦发现了 bug，并告诉他这可能是有问题的，他就会问你要不要反馈给团队。\n\n接着，他会直接帮你把日志和问题描述都发给 Grokbot 团队。\n\n这避免了用户自己反馈时写不清楚问题，也避免了用户为了少写内容而不反馈的情况 https://t.co/p6C4b2RWFB",
+      "url": "https://x.com/op7418/status/2114216604741550466",
+      "created_at": "2026-10-25T04:44:53.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 37,
+        "replies": 38,
+        "retweets": 2,
+        "views": 8761
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVc0yuSaAAEWcl9.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114182336451654013",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: AI makes it easier to generate ideas. It also makes it easier to overwhelm everyone around you.\n\n@hammer_mt’s next job is making…",
+      "url": "https://x.com/danshipper/status/2114182336451654013",
+      "created_at": "2026-10-25T02:28:43.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 864
+      }
+    },
+    {
+      "id": "twitter:2114156462628868481",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @schmittsfn: AI slop well explained: \n\n\"Slop is not any one particular mistake. It is not the use of em dashes, or a certain sentence rh…",
+      "url": "https://x.com/danshipper/status/2114156462628868481",
+      "created_at": "2026-10-25T00:45:54.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1012
+      }
+    },
+    {
+      "id": "twitter:2114068027197272430",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "🎸🎸🎸",
+      "url": "https://x.com/AravSrinivas/status/2114068027197272430",
+      "created_at": "2026-10-24T18:54:29.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 118,
+        "replies": 9,
+        "retweets": 4,
+        "views": 30898
+      }
+    },
+    {
+      "id": "twitter:2114062541076988192",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: What would it look like to manage coding agents at the level of goals and plans?\n\n@JannikJung built Minga to try it. He gives an…",
+      "url": "https://x.com/danshipper/status/2114062541076988192",
+      "created_at": "2026-10-24T18:32:41.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 4,
+        "views": 869
+      }
+    },
+    {
+      "id": "twitter:2114027511512457349",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @ShoufaChen: [1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。",
+      "url": "https://x.com/dotey/status/2114027511512457349",
+      "created_at": "2026-10-24T16:13:30.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 109,
+        "views": 674
+      }
+    },
+    {
+      "id": "twitter:2114021917586014449",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "/impeccable is now a skill inside Computer. It’s an open-source skill built by @pbakaus to let you build interfaces that don’t look like AI-generated slop. We’re offering 5000 credits per user to get started with the skill.",
+      "url": "https://x.com/AravSrinivas/status/2114021917586014449",
+      "created_at": "2026-10-24T15:51:16.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 384,
+        "replies": 103,
+        "retweets": 29,
+        "views": 43180
+      }
+    },
+    {
+      "id": "twitter:2113992878221324545",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @kplikethebird: Omg they think we’re smart",
+      "url": "https://x.com/danshipper/status/2113992878221324545",
+      "created_at": "2026-10-24T13:55:52.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1060
+      }
+    },
+    {
+      "id": "twitter:2113992846428840375",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @every: “Don’t freak out, I cloned you.”\n\nThat’s what @hammer_mt told @nataliazarina after distilling a year of her Slack messages into…",
+      "url": "https://x.com/danshipper/status/2113992846428840375",
+      "created_at": "2026-10-24T13:55:45.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 848
+      }
+    },
+    {
+      "id": "twitter:2113989933564330298",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "昨天说完，今天 WorkBuddy 就适配了 https://t.co/NTspkk7boF",
+      "url": "https://x.com/op7418/status/2113989933564330298",
+      "created_at": "2026-10-24T13:44:10.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 38,
+        "replies": 25,
+        "retweets": 0,
+        "views": 28530
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVZmlS8asAA47PE.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113902973772509306",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @jordwalke: “Hey Replit, clone the iOS stocks app perfectly so it runs on web and feels native.”\n\n🤯 I can’t believe this is web. Incredi…",
+      "url": "https://x.com/amasad/status/2113902973772509306",
+      "created_at": "2026-10-24T07:58:38.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 6,
+        "views": 1870
+      }
+    },
+    {
+      "id": "twitter:2113875132716568778",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "官宣了",
+      "url": "https://x.com/op7418/status/2113875132716568778",
+      "created_at": "2026-10-24T06:08:00.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "retweets": 1,
+        "views": 7596
+      }
+    },
+    {
+      "id": "twitter:2113875002332512283",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "详情",
+      "url": "https://x.com/op7418/status/2113875002332512283",
+      "created_at": "2026-10-24T06:07:29.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "retweets": 0,
+        "views": 4057
+      }
+    },
+    {
+      "id": "twitter:2113874915430699223",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Thariq 官宣从 Anthropic 离职了 https://t.co/U39MnEmrZU",
+      "url": "https://x.com/op7418/status/2113874915430699223",
+      "created_at": "2026-10-24T06:07:08.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 36,
+        "replies": 31,
+        "retweets": 1,
+        "views": 26850
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVX-BxEaYAAerEf.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113845519110078669",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "记错了，Boris Cherny 才是作者，我老把他们两个搞混\n\nThariq 和 Boris 其实都是非常重要的人。早期 Thariq 发表了非常多关于 Skill、Agent SDK 和上下文的内容。\n\n不过他确实没有 Boris 职位大：Boris 是 Claude Code 整条产品线现在的负责人，他是普通的技术员工，主要影响力在于社区",
+      "url": "https://x.com/op7418/status/2113845519110078669",
+      "created_at": "2026-10-24T04:10:19.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 20,
+        "replies": 4,
+        "retweets": 0,
+        "views": 12259
+      }
+    },
+    {
+      "id": "twitter:2113815343173116124",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "有人爆料说，Claude Code 的作者 Thariq，离职了。\n\n他是一直以来代表 Anthropic 跟大家沟通的人，他在 Anthropic 的地位类似于 Tibo。这是一个非常重要的信号",
+      "url": "https://x.com/op7418/status/2113815343173116124",
+      "created_at": "2026-10-24T02:10:25.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 282,
+        "replies": 94,
+        "retweets": 3,
+        "views": 122856
+      }
+    },
+    {
+      "id": "twitter:2113791666402591031",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @Kimi_Moonshot: Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model.\n\n🔹 1M-token context, 2.8T total / 104B active pa…",
+      "url": "https://x.com/chrmanning/status/2113791666402591031",
+      "created_at": "2026-10-24T00:36:20.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3223,
+        "views": 285
+      }
+    },
+    {
+      "id": "twitter:2113791359031423142",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @BlancheMinerva: I’m still working through it, but this work is incredibly cool and (unless there’s some kind of serious mistake) the li…",
+      "url": "https://x.com/chrmanning/status/2113791359031423142",
+      "created_at": "2026-10-24T00:35:06.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 258
+      }
+    },
+    {
+      "id": "twitter:2113779529080787138",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @trychroma: Chroma is joining Replit! \n\nTogether, we will build the context layer for the self-driving company. \n\nhttps://t.co/c4pTGzgcTz",
+      "url": "https://x.com/amasad/status/2113779529080787138",
+      "created_at": "2026-10-23T23:48:06.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 28,
+        "views": 1707
+      }
+    },
     {
       "id": "twitter:2113766354386084338",
       "platform": "twitter",
@@ -36,6 +806,99 @@
       }
     },
     {
+      "id": "twitter:2113760422751056048",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @ScuderiaFerrari: A closer look at Lewis’ Austin helmet 🤏💫 https://t.co/VeeBhciL03",
+      "url": "https://x.com/AravSrinivas/status/2113760422751056048",
+      "created_at": "2026-10-23T22:32:11.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 396,
+        "views": 2830
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVV3xPBWQAAacPN.jpg",
+        "https://pbs.twimg.com/media/HVV34vbXQAAz6hX.jpg",
+        "https://pbs.twimg.com/media/HVV37yUXMAEOM7f.jpg",
+        "https://pbs.twimg.com/media/HVV37yNXUAA9VDG.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113758843872084264",
+      "platform": "twitter",
+      "handle": "danshipper",
+      "text": "RT @jonnym1ller: I built an iOS jhana app this week. Access the full Burbea recordings, a timer + journal feature to track experiments. Enj…",
+      "url": "https://x.com/danshipper/status/2113758843872084264",
+      "created_at": "2026-10-23T22:25:54.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dan Shipper",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 10,
+        "views": 1025
+      }
+    },
+    {
+      "id": "twitter:2113755403506831376",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: The best way to make AI work for you? Build with it. Meet Team Vision-studio at the @ADE_NL Lab Hackathon. https://t.co/bQ…",
+      "url": "https://x.com/StabilityAI/status/2113755403506831376",
+      "created_at": "2026-10-23T22:12:14.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1259
+      }
+    },
+    {
+      "id": "twitter:2113754454491038076",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: Rapid fire with the ADE Lab hackers. Which side are you on? 👇 https://t.co/faF7Y2QztL",
+      "url": "https://x.com/StabilityAI/status/2113754454491038076",
+      "created_at": "2026-10-23T22:08:28.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1199
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113672466555916288/img/utqX0UhLlfcL7oSp.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113736007111827606",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Thrilled to welcome Jeff and the Chroma team to Replit!\n\nThey’re pioneers in AI. They were building RAG before it was even a thing!\n\nAt Replit, they’ll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work.\n\nMassive step toward the self-driving company.",
+      "url": "https://x.com/amasad/status/2113736007111827606",
+      "created_at": "2026-10-23T20:55:10.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 458,
+        "replies": 116,
+        "retweets": 20,
+        "views": 31335
+      }
+    },
+    {
       "id": "twitter:2113718797505036665",
       "platform": "twitter",
       "handle": "OpenAI",
@@ -49,6 +912,351 @@
         "replies": 961,
         "retweets": 1003,
         "views": 5932495
+      }
+    },
+    {
+      "id": "twitter:2113718487529267593",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "More notes on Kimi K3.1 - this one is I big deal, first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier https://t.co/UKne7aB3nr",
+      "url": "https://x.com/simonw/status/2113718487529267593",
+      "created_at": "2026-10-23T19:45:33.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 70,
+        "replies": 42,
+        "retweets": 4,
+        "views": 12325
+      }
+    },
+    {
+      "id": "twitter:2113694852281938162",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Computer Use：AI 没有手，怎么操作你的电脑？Mac 为什么能后台？\n\n你对 AI 说一句话，它就能在你的电脑上打开软件、点按钮，可它并没有手。这期讲明白它是怎么做到的：模型只负责看和想，真正动手的是另一段程序，一圈一圈地看、想、做、查。\n\n回答四个问题：\n它怎么知道按钮在哪，截图、辅助功能和软件接口各自怎么用；\n为什么在 Mac 上它能躲在后台干活，在 Windows 上却要占着你的桌面；\n新模型 GPT-6 Astra 变快了多少，这些数字出自谁；\n它在你电脑上乱点，安全吗。",
+      "url": "https://x.com/dotey/status/2113694852281938162",
+      "created_at": "2026-10-23T18:11:37.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 182,
+        "replies": 89,
+        "retweets": 17,
+        "views": 26852
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113694556369694720/img/Xzslm6S3wQClCvRT.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2113694746103226368/img/oRIfbo0p-5oauj1-.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113691493823369246",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Pretty solid pelican https://t.co/bIpt5zCHPl https://t.co/kcrFAP7oMX",
+      "url": "https://x.com/simonw/status/2113691493823369246",
+      "created_at": "2026-10-23T17:58:17.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 184,
+        "replies": 59,
+        "retweets": 6,
+        "views": 24470
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVVXNYZaEAAkEo2.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113689823311524225",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "月之暗面 10 月 23 日发布 Kimi K3.1 Pro，Kimi 网页版和 App、办公助手 Kimi Work、编程工具 Kimi Code 和 API 当天都能用。\n\n官方说它是自家最强的开放权重模型，完整权重 11 月 4 日前放出。\n\nK3.1 Pro 是在上一代 Kimi K3 基础上继续训练出来的，模型结构没换，多花了大量算力做强化学习，也就是让模型在几百个领域里反复做任务、按结果打分改进。\n\n模型总共 2.8 万亿参数，处理每个 token 只动用其中约 1040 亿（token 是 AI 处理文字的单位，可以理解成文字碎片）。这种结构叫混合专家（MoE）：模型里有很多分工不同的“专家”小网络，每次只叫上一小部分干活，所以比同样大的普通模型算得快，但整个模型仍要全部装进内存。它一次能读 100 万 token，相当于一个中型代码仓库或几百页财报，也能看图和视频。\n\n【和 Claude、GPT 比怎么样】\n\n下面的成绩都来自月之暗面自己公布的对比表，对手是 Anthropic 的 Claude Opus 5.5、Claude Fable 5.1 和 OpenAI 的 GPT-6 Astra，所有模型开到最高推理强度。部分对手成绩是 Kimi 自己测的，内部测试外人无法复现。\n\n写代码基本追平。\n\n在命令行里完成真实开发任务的 Terminal-Bench 4.0，K3.1 Pro 65.7%，Opus 5.5 66.4%，GPT-6 Astra 58.2%；做大型软件项目的 SWE-Marathon，K3.1 Pro 51.7 分排第一，Opus 5.5 46.3。科学计算类的 Terminal-Bench Science 差距大，K3.1 Pro 38.1，GPT-6 Astra 68.1。\n\n3D 建模稍逊。\n\nK3.1 Pro 能直接写脚本操作 Blender、CAD 软件和 Unity、Unreal、Godot 游戏引擎，官方演示里做出了完整的 3D 游戏和能 3D 打印的台灯。在看几张渲染图、写 CAD 代码把零件还原出来的 BenchCAD 上，K3.1 Pro 92.7%，Opus 5.5 96.2%，GPT-6 Astra 95.9%。\n\n金融是这次主打。\n\n读真实财务文件、做多步计算的 OfficeQA Pro v2，K3.1 Pro 64.4 分排第一，Opus 5.5 62.2。Kimi 内部测试里，财务建模比 K3 高 7.2 分，写研究报告高 11.6 分。\n\n推文说的“幻觉降低 65%”，来自 Kimi 内部一套专挑难题的事实核查测试：K3 说的每 100 个事实里有 23 个错的，K3.1 Pro 降到 8 个出头。同一测试里 Opus 5.5 是 15 个，GPT-6 Astra 是 5.5 个。官方注明这是压力测试，不代表日常使用的出错率。\n\n【多少钱，能不能自己跑】\n\n普通用户在 Kimi 网页版和 App 里就能用，免费用户能用多少官方没写。企业版默认关闭，要管理员手动开。\n\nAPI 每百万 token 输入 2 美元、输出 10 美元，是 K3 价格的三分之二。Claude Opus 5.5 是输入 4 美元、输出 20 美元，贵一倍。快 2 到 3 倍的 Highspeed 版输入 4 美元、输出 20 美元，和 Opus 5.5 同价。API 账户要先充值至少 1 美元才能用。\n\n开放权重是指模型文件公开，任何人都能下载，放在自己的服务器上运行、微调，数据不用经过月之暗面。但个人电脑跑不动：按 K3 采用的 4 位精度推算，光存放 2.8 万亿参数就要约 1.4TB 内存。许可证条款官方还没公布。\n\n为了开放权重，月之暗面说训练时删掉了网络攻防相关的数据。同一套训练流程不删数据，内部漏洞利用测试能解 90.5% 的题，删了之后是 81.0%。官方称它的攻击能力仍落后于已经公开三个月以上的闭源顶级模型。\n\n原文：https://t.co/9qim2A0qJt\n官方博客：https://t.co/dag6GIhBIE\nAPI 文档：https://t.co/yRPoGN9WCo",
+      "url": "https://x.com/dotey/status/2113689823311524225",
+      "created_at": "2026-10-23T17:51:38.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 128,
+        "replies": 77,
+        "retweets": 14,
+        "views": 53147
+      }
+    },
+    {
+      "id": "twitter:2113683117651460532",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "We're letting admins have a lot more control over how people get to tokenmax internally by being able to set a floor and a ceiling on the Effort level (which correlates to capability and cost).",
+      "url": "https://x.com/AravSrinivas/status/2113683117651460532",
+      "created_at": "2026-10-23T17:25:00.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 135,
+        "replies": 41,
+        "retweets": 4,
+        "views": 24339
+      }
+    },
+    {
+      "id": "twitter:2113679536923771381",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @latepostnews: https://t.co/2AHfL48OyV",
+      "url": "https://x.com/dotey/status/2113679536923771381",
+      "created_at": "2026-10-23T17:10:46.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 19,
+        "views": 786
+      }
+    },
+    {
+      "id": "twitter:2113676717105787192",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "Excited to announce Replit for Government and welcome Michael Greenwald to the team!\n\nMichael brings a wealth of experience, having previously led AWS’s public sector business. Looking forward to working together to transform how governments build and operate software. https://t.co/Aj35Gg0EdQ",
+      "url": "https://x.com/amasad/status/2113676717105787192",
+      "created_at": "2026-10-23T16:59:34.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 185,
+        "replies": 48,
+        "retweets": 8,
+        "views": 14729
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVVJUTpb0AEi3Ec.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113672720571654421",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @dingyi: 震惊了🤯\n\niPhone Duo 最佳适配案例出现了！真的绝了。 https://t.co/XsOmOCJq1v",
+      "url": "https://x.com/dotey/status/2113672720571654421",
+      "created_at": "2026-10-23T16:43:41.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 188,
+        "views": 777
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113540318012608512/img/hvrWW9rBot7p5Uka.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113667713717445006",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "什么是 AI 时代的虚无主义？\n\n就是 AI 替你省掉了全部前戏让你一秒高潮，然后你要在漫长的贤者时间里寻找人生的意义。\n\n简称：“AI 赛博阳痿”",
+      "url": "https://x.com/dotey/status/2113667713717445006",
+      "created_at": "2026-10-23T16:23:47.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 177,
+        "replies": 60,
+        "retweets": 11,
+        "views": 30998
+      }
+    },
+    {
+      "id": "twitter:2113661112143282441",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "This user gave Perplexity Computer, SSH access to a Raspberry Pi 5 over Tailscale. Overnight, it autonomously turned it into a game console with an arcade UI, toolchains and MCP integration.\n\nThe console generates GBA, C, Rust and terminal games with automated compilation, playtesting, and error fixing. Computer also built a custom USB controller service with remapping, turbo, rumble and per-game profiles, plus a Minecraft-inspired multiplayer voxel game in C (141 KB binary) where the user can play alongside Computer as an AI-controlled robot, directed through in-game chat via MCP. https://t.co/hHzw2mO1Nu",
+      "url": "https://x.com/AravSrinivas/status/2113661112143282441",
+      "created_at": "2026-10-23T15:57:33.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 518,
+        "replies": 85,
+        "retweets": 28,
+        "views": 41687
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113661049551671296/img/vHuYqSIK0OcFcMWF.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113659727561261328",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "&gt; 小明让豆包接管自己的微博，然后迅速被封号了。\n&gt; 因为豆包总是用最直白、最直接、最不绕弯子的话发微博。 ​​​\n\n相比之下，小明让 Grokbot 接管了他的 X，然后去各大账号评论，最后涨粉无数，还获得了美元收益。  \n\n因为 Grokbot 和 X 的老板是同一个。 https://t.co/DkbFNP0kVa",
+      "url": "https://x.com/dotey/status/2113659727561261328",
+      "created_at": "2026-10-23T15:52:03.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 125,
+        "replies": 54,
+        "retweets": 3,
+        "views": 39190
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVU6OgwWgAAlOqj.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113655142201671981",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Computer now has more taste in building websites, thanks to @LexnLin’s open-source skill, now integrated inside. We’re giving 5000 credits per user to tinker around.",
+      "url": "https://x.com/AravSrinivas/status/2113655142201671981",
+      "created_at": "2026-10-23T15:33:50.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 283,
+        "replies": 35,
+        "retweets": 14,
+        "views": 33030
+      }
+    },
+    {
+      "id": "twitter:2113652105806581811",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @dhh: I've been blown away by the energy, optimism, and hard work that has created the China I've seen on this trip. It had been seven y…",
+      "url": "https://x.com/dotey/status/2113652105806581811",
+      "created_at": "2026-10-23T15:21:46.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 309,
+        "views": 834
+      }
+    },
+    {
+      "id": "twitter:2113647951843406037",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "Claude 桌面版是真的越做越好了👍",
+      "url": "https://x.com/dotey/status/2113647951843406037",
+      "created_at": "2026-10-23T15:05:16.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 66,
+        "replies": 29,
+        "retweets": 2,
+        "views": 28569
+      }
+    },
+    {
+      "id": "twitter:2113645570577576252",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "现在 AI 人才没那么稀缺了",
+      "url": "https://x.com/dotey/status/2113645570577576252",
+      "created_at": "2026-10-23T14:55:48.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 5,
+        "replies": 16,
+        "retweets": 0,
+        "views": 3083
+      }
+    },
+    {
+      "id": "twitter:2113639194484670628",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "录个视频，让大家看看 AI 应用在 iPhone Duo上的识别情况。 https://t.co/magsp81kjO",
+      "url": "https://x.com/op7418/status/2113639194484670628",
+      "created_at": "2026-10-23T14:30:28.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 69,
+        "replies": 16,
+        "retweets": 4,
+        "views": 54489
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113638412372897793/img/_fBkG9r_n2F4J1Ul.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113637983333093855",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "是的，搭 Agent 不值钱，给 Agent 做工具，用 Agent 重构工作流，这些更值钱些。\n\n跟软件开发一样，搭系统装软件，包括写代码一直都没那么值钱，用代码解决业务问题才值钱。",
+      "url": "https://x.com/dotey/status/2113637983333093855",
+      "created_at": "2026-10-23T14:25:39.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 406,
+        "replies": 88,
+        "retweets": 36,
+        "views": 49295
+      }
+    },
+    {
+      "id": "twitter:2113633667583287786",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Given the current vulnerability apocalypse, is there anyone left who thinks holding assets in cryptocurrency - where mistaken transactions are irreversible - is still a good idea?",
+      "url": "https://x.com/simonw/status/2113633667583287786",
+      "created_at": "2026-10-23T14:08:30.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 792,
+        "replies": 155,
+        "retweets": 21,
+        "views": 80041
+      }
+    },
+    {
+      "id": "twitter:2113626657508516348",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "We worked closely with AISI on this analysis. AISI have published their own report, which is available below.\n\nhttps://t.co/nG4QoQ1jtB",
+      "url": "https://x.com/AnthropicAI/status/2113626657508516348",
+      "created_at": "2026-10-23T13:40:39.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 252,
+        "replies": 34,
+        "retweets": 13,
+        "views": 155450
+      }
+    },
+    {
+      "id": "twitter:2113626655902126442",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI’s testing of its cyber capabilities.\n\nWe've now produced a further analysis of this incident, to better understand the model's alignment properties.\n\nhttps://t.co/SlPQQ5xMMc",
+      "url": "https://x.com/AnthropicAI/status/2113626655902126442",
+      "created_at": "2026-10-23T13:40:38.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 4440,
+        "replies": 618,
+        "retweets": 478,
+        "views": 2120272
       }
     },
     {
@@ -69,6 +1277,126 @@
       }
     },
     {
+      "id": "twitter:2113559861581484129",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "神奇， B 站也还行了 https://t.co/GDUXU6dD2E",
+      "url": "https://x.com/op7418/status/2113559861581484129",
+      "created_at": "2026-10-23T09:15:13.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 20,
+        "replies": 21,
+        "retweets": 0,
+        "views": 6529
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVTffTUakAAUYKl.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113475703434027108",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @lhchavez: The rate at which vulnerabilities are discovered will only go up. @Replit has been able to mitigate most of them at the firew…",
+      "url": "https://x.com/amasad/status/2113475703434027108",
+      "created_at": "2026-10-23T03:40:48.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 1809
+      }
+    },
+    {
+      "id": "twitter:2113474696549454067",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @KhalilJeries: Great hanging out last night with some of the best Palestinians in the US: @JeninYounesEsq , @HayaOdeh , and @amasad . Th…",
+      "url": "https://x.com/amasad/status/2113474696549454067",
+      "created_at": "2026-10-23T03:36:48.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 7,
+        "views": 1694
+      }
+    },
+    {
+      "id": "twitter:2113474587166171560",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "How we’re protecting your apps from all the recent vulnerabilities.",
+      "url": "https://x.com/amasad/status/2113474587166171560",
+      "created_at": "2026-10-23T03:36:22.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 222,
+        "replies": 41,
+        "retweets": 7,
+        "views": 19712
+      }
+    },
+    {
+      "id": "twitter:2113454985237364948",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "1 Password 的 Agent 连接器全量上线了\n\n可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页\n\n登录的时候，1 Password 会完成密码和账号的填写，所以 Agent 是不会看到密码的",
+      "url": "https://x.com/op7418/status/2113454985237364948",
+      "created_at": "2026-10-23T02:18:29.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 108,
+        "replies": 61,
+        "retweets": 11,
+        "views": 27077
+      }
+    },
+    {
+      "id": "twitter:2113454437662670869",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Grokbot 现在已经可以连接你的手机上的应用了，比如说日历、通讯录和位置。\n\n更重要的是，它可以连接你的苹果“家庭”，不知道能不能控制里面的设备，还是说只能读取信息\n\n手机打开设置，然后在连接应用里会有一个手机的选项 https://t.co/mjdb2fwjaE",
+      "url": "https://x.com/op7418/status/2113454437662670869",
+      "created_at": "2026-10-23T02:16:18.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 35,
+        "replies": 34,
+        "retweets": 1,
+        "views": 14067
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVR_mzXa0AA7yCo.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113425021158699384",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "SemiAnalysis：Anthropic 在部分账号上测试新额度，每月总量少约两成，5 小时额度多约两成\n\nSemiAnalysis 说 Anthropic 正在对 Claude 订阅额度做 A/B 测试（同一个套餐给不同用户不同设置，比较效果）。\n\n测试组账号的 5 小时额度提高约 20%，每月总共能用的量折合 API 价格少约 20%。最近 X 上不少人说 Claude 额度变少了，SemiAnalysis 说他们没说错，只是只有部分账号受影响。",
+      "url": "https://x.com/dotey/status/2113425021158699384",
+      "created_at": "2026-10-23T00:19:25.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 91,
+        "replies": 132,
+        "retweets": 4,
+        "views": 30182
+      }
+    },
+    {
       "id": "twitter:2113421727300768057",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -83,6 +1411,22 @@
         "replies": 0,
         "retweets": 1,
         "views": 393
+      }
+    },
+    {
+      "id": "twitter:2113420151232352444",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "You can now run the Perplexity Decision Model fully locally on your Mac, without any data leaving your machine. The power of open-weight and compact models!",
+      "url": "https://x.com/AravSrinivas/status/2113420151232352444",
+      "created_at": "2026-10-23T00:00:04.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 750,
+        "replies": 73,
+        "retweets": 49,
+        "views": 59859
       }
     },
     {
@@ -116,6 +1460,22 @@
         "replies": 7,
         "retweets": 0,
         "views": 11028
+      }
+    },
+    {
+      "id": "twitter:2113390212911083894",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here: https://t.co/zUyx8CjBEk",
+      "url": "https://x.com/AnthropicAI/status/2113390212911083894",
+      "created_at": "2026-10-22T22:01:06.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 9724,
+        "replies": 644,
+        "retweets": 1067,
+        "views": 2044218
       }
     },
     {
@@ -187,6 +1547,73 @@
       }
     },
     {
+      "id": "twitter:2113368776532271185",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Batch API is now live on the Perplexity Agent API. Supports up to 50k requests per file.\n\nEach request runs the full agent loop with full support for web_search and fetch_url in batch mode. \n\nThis lets you run data enrichment workloads at scale, for example, a spreadsheet of 50k companies with live web data overnight. \n\nhttps://t.co/gnOX9JJ1EH",
+      "url": "https://x.com/AravSrinivas/status/2113368776532271185",
+      "created_at": "2026-10-22T20:35:55.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 154,
+        "replies": 36,
+        "retweets": 7,
+        "views": 35635
+      }
+    },
+    {
+      "id": "twitter:2113363249194222032",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "旧金山聚变公司 Marathon Fusion 称用中子把水银变成了金子，金价不会受影响，他们真正要卖的是抗癌药原料\n\nMarathon Fusion 是旧金山一家 28 人的创业公司。10 月 21 日，公司在 X 上发帖说，上个月他们用核聚变产生的中子，把水银（汞）变成了稳定的金子，速度是欧洲核子研究中心 CERN 2025 年纪录的 10 倍。\n\n先回答最实际的问题：金价会跌吗？不会。\n\n按 Marathon 自己 2025 年论文的算法，一座吉瓦级的聚变电站外面包一层水银，每年能顺带产约 2 吨金子。2025 年全球金矿产量约 3672 吨，要追上这个数，得建 1800 座这样的电站，而眼下一座都没有。Marathon 自己的装置功率是 1 千瓦，只有吉瓦的百万分之一。\n\n这样产出的金子还混着放射性，联合创始人 Adam Rutkowski 去年对英国《金融时报》说，要存放 14 到 18 年才完全安全。\n\n这次实验本身的量也小。CERN 那项纪录是对撞机里铅原子核擦肩而过、被打掉 3 个质子变成的金，2015 到 2018 年四年一共约 29 皮克，不到一克的三百亿分之一，最快时每秒约 8.9 万个原子。\n\nMarathon 说的是“高速率”，比的应该是每秒产量，但公司没说比的是哪个数，也没公布一共做出多少金子、纯度多高。外媒指出，帖子里的证据只有一张伽马射线能谱图，目前没有第三方验证。\n\n原理物理学家早就知道。氘和氚两种氢聚变时，每次反应都会甩出一个速度极快的中子。这个中子撞进汞-198，会顺带再撞出一个中子，剩下的汞-197 过几天自己衰变成金-197，也就是首饰里那种金。普通核电站里这么快的中子很少，聚变装置每反应一次就有一个。\n\n那一家聚变公司为什么要炼金？答案在钱上。\n\nMarathon 今年 2 月发了一篇论文，给每一个聚变中子算了价钱：拿去发电，按每度电约 0.1 美元算，一个中子值约 3×10⁻²⁰ 美元；拿去炼金，值 2.6×10⁻²⁰ 美元，跟发电差不多；拿去做钼-99，值 2.6×10⁻¹⁷ 美元，接近发电的一千倍；拿去做抗癌药原料锕-225，值约 10⁻¹⁰ 美元，是发电的 30 亿倍左右。\n\n这个账决定了聚变装置多早能赚钱。论文算出，只卖电的聚变电站，等离子体放出的能量要达到加热它所用能量的 10 到 22 倍才能回本，现有实验装置离这个门槛还很远。如果同时卖电和金子，门槛降到 3 倍左右。如果专做钼-99，放出的能量只有投入的千分之一也能赚钱。\n\n钼-99 衰变出的锝-99m 是核医学检查里用得最多的显像剂，约八成的核医学扫描靠它，现在主要靠全球少数几座研究用反应堆裂变铀来生产。Marathon 去年 12 月的论文估计，一台 3 兆瓦、远达不到能量回本的聚变装置，就能满足全世界的钼-99 需求。\n\n锕-225 更稀缺。它用于靶向放射治疗：把放射性原子挂在能认出癌细胞的药物分子上，送到肿瘤旁边近距离照射。这类药的市场在长，诺华的前列腺癌药 Pluvicto 2025 年卖了约 20 亿美元。锕-225 长期主要靠美国橡树岭国家实验室从冷战时期留下的核材料里慢慢提取。Marathon 官网写的路线是用聚变中子轰击镭-226 来生产它。\n\n这次帖子里，公司说已经做出第一批医用同位素：用聚变中子轰击锌，得到铜-64 和铜-67。铜-64 用于 PET 扫描找肿瘤，铜-67 用于治疗。产量没有公布。\n\n所以 Marathon 的计划分两步：先用小装置卖医用同位素，以后再靠金子给大型聚变电站补贴收入。论文估计全球黄金市场每年约 7000 亿美元，足够支撑约 2 太瓦（2000 吉瓦）的聚变发电。这些都是公司自己的模型，还没有一笔真实销售。\n\n为了产够中子，Marathon 说要每秒把一万亿个中子打进一个 1 厘米大小的靶子，连续好几年。他们正在旧金山建的装置用加速器把氘离子打到含氚的锂靶上，用途是产中子，不发电。公司的目标是从现在起每月把功率密度翻一倍，这是计划，还没有实际记录。\n\n帖子里还提到，上周他们在“全球最强的等离子体离心机”里富集了同位素，打破了苏联保持 40 年的纪录。这种离心机让带电的气体高速旋转，重的同位素甩到外圈，轻的留在中间。汞-198 只占天然汞的一成左右，炼金前得先这样挑出来。公司没说打破的是哪项纪录、数值是多少。\n\nMarathon 成立于 2023 年，由前 SpaceX 推进工程师 Adam Rutkowski 和 CEO Kyle Schiller 创办，种子轮由 1517 Fund 和矿业巨头英美资源集团领投。团队五分之一有博士学位，这条帖子的后半段在招人。\n\n中子价值论文（2026 年 2 月）：https://t.co/zpO6JKP84I\n聚变产同位素论文（2025 年 12 月）：https://t.co/oR84fuDfQX\nCERN ALICE 炼金结果：https://t.co/S1o1p4Kdsn\n外媒分析（The Oregon Group）：https://t.co/mXcwy1Yzw4",
+      "url": "https://x.com/dotey/status/2113363249194222032",
+      "created_at": "2026-10-22T20:13:57.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 196,
+        "replies": 42,
+        "retweets": 32,
+        "views": 51683
+      }
+    },
+    {
+      "id": "twitter:2113360164828938706",
+      "platform": "twitter",
+      "handle": "btibor91",
+      "text": "Ideogram launched Ideogram Vector, a model that creates scalable, editable SVGs for logos, print designs and illustrations from a prompt or an existing image, available in Ideogram and the API\n\nIdeogram has been one of my favorite tools since 2023, so this one is high on my list\n\nI've been too busy with other stuff the last few days to try it, but I'll test it on a few new logos soon",
+      "url": "https://x.com/btibor91/status/2113360164828938706",
+      "created_at": "2026-10-22T20:01:42.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Tibor Blaho",
+      "metrics": {
+        "likes": 30,
+        "replies": 3,
+        "retweets": 1,
+        "views": 3812
+      }
+    },
+    {
+      "id": "twitter:2113356466770121166",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad https://t.co/AEIsAkro77 https://t.co/voZuAsGX17",
+      "url": "https://x.com/simonw/status/2113356466770121166",
+      "created_at": "2026-10-22T19:47:00.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 413,
+        "replies": 19,
+        "retweets": 7,
+        "views": 29760
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113356400651046913/img/NVpKP3CPesN3gSM1.jpg"
+      ]
+    },
+    {
       "id": "twitter:2113339406299853076",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -204,6 +1631,22 @@
       "media": [
         "https://pbs.twimg.com/media/HVQWN--WQAAWzlf.jpg"
       ]
+    },
+    {
+      "id": "twitter:2113330196401303844",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "我只希望 Claude Code 能支持读取 .agents/skills，别自己搞一套 .claude/skills",
+      "url": "https://x.com/dotey/status/2113330196401303844",
+      "created_at": "2026-10-22T18:02:37.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 110,
+        "replies": 65,
+        "retweets": 4,
+        "views": 28621
+      }
     },
     {
       "id": "twitter:2113329115340357690",
@@ -257,6 +1700,22 @@
       }
     },
     {
+      "id": "twitter:2113312593821794320",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "卡普空确认遭受针对其 CAPCOM ID 账户系统的网络攻击，影响全球 11,774,247 个账户。",
+      "url": "https://x.com/dotey/status/2113312593821794320",
+      "created_at": "2026-10-22T16:52:40.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 22,
+        "replies": 7,
+        "retweets": 0,
+        "views": 14226
+      }
+    },
+    {
       "id": "twitter:2113311981688233988",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -305,6 +1764,22 @@
         "replies": 0,
         "retweets": 13,
         "views": 256
+      }
+    },
+    {
+      "id": "twitter:2113302968309277133",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Not having access to experts is no longer a bottleneck when it comes to learning new things. You can ask AI to make a 5 minute video for you to learn anything. Here’s one on how a fab makes chips.",
+      "url": "https://x.com/AravSrinivas/status/2113302968309277133",
+      "created_at": "2026-10-22T16:14:25.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 1368,
+        "replies": 84,
+        "retweets": 131,
+        "views": 75742
       }
     },
     {
@@ -378,6 +1853,25 @@
       }
     },
     {
+      "id": "twitter:2113299677785542772",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "我猜测 Tibo 搞这个 28 天不更新就重置活动，就是因为额度变少，需要每 3 天左右重置一次来维持以前一周的用量，否则你就会很快发现 Pro 订阅额度怎么这么少。\n\n可能他们正在加班加点解决模型不耐用问题，靠这 28 天续命呢。\n\nhttps://t.co/ru39tAfGdJ",
+      "url": "https://x.com/dotey/status/2113299677785542772",
+      "created_at": "2026-10-22T16:01:21.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 215,
+        "replies": 84,
+        "retweets": 7,
+        "views": 49224
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2110557935726133248/img/lVj2zwqs1hUFwpFu.jpg"
+      ]
+    },
+    {
       "id": "twitter:2113299503008891071",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -425,6 +1919,104 @@
         "replies": 365,
         "retweets": 150,
         "views": 373216
+      }
+    },
+    {
+      "id": "twitter:2113298222512742611",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "让 opus 当 advisor 这个策略也可以用的",
+      "url": "https://x.com/dotey/status/2113298222512742611",
+      "created_at": "2026-10-22T15:55:34.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
+        "views": 5582
+      }
+    },
+    {
+      "id": "twitter:2113296749737476142",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "我一般是这样的：\n我要外出没空搭理你，有问题你找 advisor 确认。\n\n当然前提是设置了 /advisor fable",
+      "url": "https://x.com/dotey/status/2113296749737476142",
+      "created_at": "2026-10-22T15:49:42.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 124,
+        "replies": 16,
+        "retweets": 6,
+        "views": 36935
+      }
+    },
+    {
+      "id": "twitter:2113294604456051111",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "We’re offering Computer credits to check for PHP vulnerabilities.",
+      "url": "https://x.com/AravSrinivas/status/2113294604456051111",
+      "created_at": "2026-10-22T15:41:11.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 359,
+        "replies": 47,
+        "retweets": 23,
+        "views": 35870
+      }
+    },
+    {
+      "id": "twitter:2113293471943721247",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "RT @fiveoutofnine: So basically, today PHP got two critical bugs that let anyone run code on your server without even logging in, which is…",
+      "url": "https://x.com/simonw/status/2113293471943721247",
+      "created_at": "2026-10-22T15:36:41.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 8933,
+        "views": 2403
+      }
+    },
+    {
+      "id": "twitter:2113292789287112998",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "RT @mitsuhiko: As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.",
+      "url": "https://x.com/simonw/status/2113292789287112998",
+      "created_at": "2026-10-22T15:33:58.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 107,
+        "views": 2129
+      }
+    },
+    {
+      "id": "twitter:2113291134265115101",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "吓我一跳，还以为 1Password 也出问题了，原来是要把密码共享给 Agent。有些网站我可以，但是主要的几个账号我还是不太放心的。",
+      "url": "https://x.com/dotey/status/2113291134265115101",
+      "created_at": "2026-10-22T15:27:24.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "metrics": {
+        "likes": 41,
+        "replies": 32,
+        "retweets": 0,
+        "views": 22059
       }
     },
     {
@@ -491,6 +2083,23 @@
         "replies": 0,
         "retweets": 51,
         "views": 577
+      }
+    },
+    {
+      "id": "twitter:2113276138055233776",
+      "platform": "twitter",
+      "handle": "dotey",
+      "text": "RT @damonchen: running a US company\nbeing a US permanent resident\nusing claude only for personal + business work\ntemporarily staying in Chi…",
+      "url": "https://x.com/dotey/status/2113276138055233776",
+      "created_at": "2026-10-22T14:27:48.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "宝玉",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 88,
+        "views": 907
       }
     },
     {
@@ -616,6 +2225,106 @@
       }
     },
     {
+      "id": "twitter:2113201193162072136",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "顺便前几天看了王自如的 iPhone 18 Pro 的测评，只能说还是牛皮，就坐那里说一点都不无聊",
+      "url": "https://x.com/op7418/status/2113201193162072136",
+      "created_at": "2026-10-22T09:30:00.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 2,
+        "retweets": 0,
+        "views": 5009
+      }
+    },
+    {
+      "id": "twitter:2113195000872010035",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: 24 hours in. The ADE Lab hackers gave us a quick look inside the projects they’re building on Stable Audio 3.0. 24 hours l…",
+      "url": "https://x.com/StabilityAI/status/2113195000872010035",
+      "created_at": "2026-10-22T09:05:24.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1425
+      }
+    },
+    {
+      "id": "twitter:2113193055922921619",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "影视飓风都出海了。不过凭影视飓风这个视频质量，确实是吊打一众海外做数码测评的。\n\n但我觉着他们现在的视频没啥意思，看完以后只记得那些花里胡哨的转场和一些非常漂亮的样片\n\n就是把测评做的不像测评了，反倒是昨天看何同学的感觉不错",
+      "url": "https://x.com/op7418/status/2113193055922921619",
+      "created_at": "2026-10-22T08:57:40.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 52,
+        "replies": 42,
+        "retweets": 0,
+        "views": 32555
+      }
+    },
+    {
+      "id": "twitter:2113186912076980242",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Claude 里面还有一个存着的重置呢，没用的话大家可以用一下",
+      "url": "https://x.com/op7418/status/2113186912076980242",
+      "created_at": "2026-10-22T08:33:15.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 7,
+        "replies": 14,
+        "retweets": 0,
+        "views": 8708
+      }
+    },
+    {
+      "id": "twitter:2113134419062280279",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "这里尝试 ：https://t.co/zqOhcurqLD",
+      "url": "https://x.com/op7418/status/2113134419062280279",
+      "created_at": "2026-10-22T05:04:40.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "retweets": 1,
+        "views": 4754
+      }
+    },
+    {
+      "id": "twitter:2113134055680262324",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "这哥们儿做的宝可梦版本《吸血鬼幸存者》游戏是真的火\n\n 叫 PokeBonk，我去，玩家非常多，各种自传播，国内也特别火。\n\n玩法就是你扮演其中一个宝可梦，在一个类似吸血鬼幸存者的地图里升级、自动打怪，宝可梦本身也能升级，打完 Boss 之后进下一个地图。\n\n整个游戏非常完整，而且特别上瘾，就不知道任天堂怎么看",
+      "url": "https://x.com/op7418/status/2113134055680262324",
+      "created_at": "2026-10-22T05:03:13.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 324,
+        "replies": 44,
+        "retweets": 36,
+        "views": 50274
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113133807117430784/img/CdO8R6pTA-nag97W.jpg"
+      ]
+    },
+    {
       "id": "twitter:2113121657590350076",
       "platform": "twitter",
       "handle": "huggingface",
@@ -631,6 +2340,44 @@
         "retweets": 8,
         "views": 2778
       }
+    },
+    {
+      "id": "twitter:2113114139883446459",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "优化一下样式更具沉浸感 https://t.co/34kQWx2INC",
+      "url": "https://x.com/op7418/status/2113114139883446459",
+      "created_at": "2026-10-22T03:44:05.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3821
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVNKFMfasAAL3of.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113101644334551095",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "笑死！整了个大活儿！\n\n我把 Codex 连接到我电视上了，直接就可以跟它聊天 https://t.co/su52ko0Ihv",
+      "url": "https://x.com/op7418/status/2113101644334551095",
+      "created_at": "2026-10-22T02:54:26.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 128,
+        "replies": 69,
+        "retweets": 9,
+        "views": 27592
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2113101522792009729/img/sOzR4BiKQOf9gN6S.jpg"
+      ]
     },
     {
       "id": "twitter:2113050190265618766",
@@ -663,6 +2410,75 @@
         "replies": 24,
         "retweets": 21,
         "views": 37128
+      }
+    },
+    {
+      "id": "twitter:2113037333079708138",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @apostraphi: i gave pplx computer access to blender and now i feel like i can fly. https://t.co/nBwVczmnvk",
+      "url": "https://x.com/AravSrinivas/status/2113037333079708138",
+      "created_at": "2026-10-21T22:38:53.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 2954
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVGRi0ib0AAOLoD.jpg",
+        "https://pbs.twimg.com/amplify_video_thumb/2112629727634837504/img/8zNbCJ7zkXmJ7VtL.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2113029257886847264",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "/graphify now on Computer. We're giving every user 5,000 credits to try this skill that lets you visualize a codebase.",
+      "url": "https://x.com/AravSrinivas/status/2113029257886847264",
+      "created_at": "2026-10-21T22:06:47.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 263,
+        "replies": 41,
+        "retweets": 17,
+        "views": 38531
+      }
+    },
+    {
+      "id": "twitter:2113015288312770840",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Read more on our blog:\nhttps://t.co/gnfgHykcUX",
+      "url": "https://x.com/AravSrinivas/status/2113015288312770840",
+      "created_at": "2026-10-21T21:11:17.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "retweets": 0,
+        "views": 5107
+      }
+    },
+    {
+      "id": "twitter:2113013527418146913",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Sharing new post-training research on self-distillation + RL (JOLT), done together with @NVIDIAAI. \n\nIn self-distillation, the same model performs the role of both a teacher and a student. The teacher gets extra information that the student doesn't, and the student learns from feedback provided by the teacher. However, the teacher could still use shortcuts in ways the student has no way to follow.\n\nOur proposed approach, JOLT, trains the teacher as well, to learn from rewards on its own attempts, while penalizing any drift that's far off from what the student model would do. JOLT+ further supplements JOLT by providing the student model outcome-based rewards in addition to the teacher supervision signals.\n\nOn the MATH benchmark, we found that JOLT matches GRPO with 6.5x fewer training tokens, while JOLT+ convincingly beats GRPO across math, coding, terminal tasks, and tool use benchmarks.",
+      "url": "https://x.com/AravSrinivas/status/2113013527418146913",
+      "created_at": "2026-10-21T21:04:17.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 484,
+        "replies": 55,
+        "retweets": 31,
+        "views": 38744
       }
     },
     {
@@ -734,6 +2550,23 @@
       }
     },
     {
+      "id": "twitter:2112991658233237885",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @perplexity_ai: New research: We developed JOLT, a post-training method where one model acts as both teacher and student, with the teach…",
+      "url": "https://x.com/AravSrinivas/status/2112991658233237885",
+      "created_at": "2026-10-21T19:37:23.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 56,
+        "views": 2290
+      }
+    },
+    {
       "id": "twitter:2112988118471295323",
       "platform": "twitter",
       "handle": "OpenAI",
@@ -747,6 +2580,22 @@
         "replies": 465,
         "retweets": 413,
         "views": 493443
+      }
+    },
+    {
+      "id": "twitter:2112984447327068246",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "Impressive performance, just a little below @thinkymachines’s Inkling with an over 10x smaller model.\n\nBut I think I’m still going to wait a little before buying my Mac Studio….",
+      "url": "https://x.com/chrmanning/status/2112984447327068246",
+      "created_at": "2026-10-21T19:08:44.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "metrics": {
+        "likes": 140,
+        "replies": 11,
+        "retweets": 7,
+        "views": 16243
       }
     },
     {
@@ -800,6 +2649,39 @@
       }
     },
     {
+      "id": "twitter:2112976782442045937",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @cosign: The Cosign Awards judges:\n\n- Qasar Younis (@qasar)\n- Amjad Masad (@amasad)\n- Anish Acharya (@illscience)\n- Garry Tan (@garrytan…",
+      "url": "https://x.com/amasad/status/2112976782442045937",
+      "created_at": "2026-10-21T18:38:16.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 1739
+      }
+    },
+    {
+      "id": "twitter:2112975002027147545",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "prompt -&gt; corporation",
+      "url": "https://x.com/amasad/status/2112975002027147545",
+      "created_at": "2026-10-21T18:31:12.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "metrics": {
+        "likes": 156,
+        "replies": 41,
+        "retweets": 7,
+        "views": 16856
+      }
+    },
+    {
       "id": "twitter:2112974723659247896",
       "platform": "twitter",
       "handle": "GoogleDeepMind",
@@ -817,6 +2699,55 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2112974557619302400/img/C5NXfnVigLrq4siZ.jpg"
       ]
+    },
+    {
+      "id": "twitter:2112974073697628562",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "I reacted with excitement but also skepticism to @bneyshabur’s plan for making frontier-performance LM pre-training possible by a single researcher.\n\nCould 1 person compete with the huge teams at big co’s?\n\n$10M is generous for an academic budget, but @mirendil has delivered!!!",
+      "url": "https://x.com/chrmanning/status/2112974073697628562",
+      "created_at": "2026-10-21T18:27:30.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "metrics": {
+        "likes": 130,
+        "replies": 5,
+        "retweets": 8,
+        "views": 18792
+      }
+    },
+    {
+      "id": "twitter:2112970928711983174",
+      "platform": "twitter",
+      "handle": "chrmanning",
+      "text": "RT @oneill_c: Best decision models in the world, free, and open-source, with all the details of how we trained it at @baselabs. Enjoy!",
+      "url": "https://x.com/chrmanning/status/2112970928711983174",
+      "created_at": "2026-10-21T18:15:01.000Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
+      "author": "Christopher Manning",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 313
+      }
+    },
+    {
+      "id": "twitter:2112966949273801086",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "Anthropic is a Public Benefit Corporation. Today, we’re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we’re taking to advance them. \n\nRead the full report at this page: https://t.co/MTCgtzCoPH",
+      "url": "https://x.com/AnthropicAI/status/2112966949273801086",
+      "created_at": "2026-10-21T17:59:12.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 2573,
+        "replies": 267,
+        "retweets": 223,
+        "views": 361256
+      }
     },
     {
       "id": "twitter:2112960547998273784",
@@ -869,6 +2800,22 @@
       }
     },
     {
+      "id": "twitter:2112946750264676743",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.\n\nRead more: https://t.co/8RzH8UujRU",
+      "url": "https://x.com/AnthropicAI/status/2112946750264676743",
+      "created_at": "2026-10-21T16:38:56.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 2204,
+        "replies": 147,
+        "retweets": 129,
+        "views": 595682
+      }
+    },
+    {
       "id": "twitter:2112945805686604033",
       "platform": "twitter",
       "handle": "OpenAI",
@@ -883,6 +2830,41 @@
         "retweets": 1222,
         "views": 1455413
       }
+    },
+    {
+      "id": "twitter:2112944299906347425",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "When I slapped an Apache 2.0 License on the code yesterday I did not expect anything this neat to come out of it, and certainly not so fast https://t.co/OUGfRDk7DU",
+      "url": "https://x.com/simonw/status/2112944299906347425",
+      "created_at": "2026-10-21T16:29:12.000Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 34,
+        "replies": 18,
+        "retweets": 1,
+        "views": 8161
+      }
+    },
+    {
+      "id": "twitter:2112944161670488423",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "There's a French fork of Battle Drones with new models and music (and a cinematic intro video) and it is SO cool! https://t.co/7r9KELC7Vs\n\nHere's the old v.s. new Goliath model https://t.co/FS0fNdca9d",
+      "url": "https://x.com/simonw/status/2112944161670488423",
+      "created_at": "2026-10-21T16:28:39.000Z",
+      "fetched_at": "2026-10-24T20:08:54.909Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 94,
+        "replies": 49,
+        "retweets": 8,
+        "views": 17111
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVKvexMa4AM-HuP.jpg"
+      ]
     },
     {
       "id": "twitter:2112940649724920049",
@@ -902,6 +2884,60 @@
       }
     },
     {
+      "id": "twitter:2112937881534902297",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "能绷住的可以说很牛批了 https://t.co/AuiHBeeuUo",
+      "url": "https://x.com/op7418/status/2112937881534902297",
+      "created_at": "2026-10-21T16:03:42.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 46,
+        "replies": 5,
+        "retweets": 0,
+        "views": 21864
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVKpzCQbEAAjd47.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112934386475946308",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "笑死！即刻这哥们说\n\n问题的严重程度分别是轻度、中度、重度和印度 https://t.co/nFmyX3ZPFe",
+      "url": "https://x.com/op7418/status/2112934386475946308",
+      "created_at": "2026-10-21T15:49:48.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 32,
+        "replies": 3,
+        "retweets": 0,
+        "views": 15997
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVKmkQvbEAAttgZ.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112932713900744986",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "全世界 70% 的网站都是 PHP 的，所以这个漏洞的影响真的很大",
+      "url": "https://x.com/op7418/status/2112932713900744986",
+      "created_at": "2026-10-21T15:43:10.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 9,
+        "replies": 3,
+        "retweets": 0,
+        "views": 8794
+      }
+    },
+    {
       "id": "twitter:2112932443942519185",
       "platform": "twitter",
       "handle": "huggingface",
@@ -917,6 +2953,26 @@
         "retweets": 35,
         "views": 2974
       }
+    },
+    {
+      "id": "twitter:2112931729547936037",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "今天安全领域的整个时间线上都是两件大事，对所有的互联网用户和产品应该都有影响。\n\n第一个是有个印度证书颁发机构用了一个非常容易被猜到的数字当做私钥：\n\n强度极弱，基本上任何人都能猜出来。\n\n其中一个私钥就是个位数\"4\"，原本长达七十多位的密钥变成了单个数字 4；剩下的也是 56、66、115、155 这种数字。\n\n这相当于给保险柜设了个密码\"4\"，试不到十下就能试出来。\n\n更离谱的是，多次审计居然都没发现这几个私钥有问题。\n\n目前 Chrome 和 Firefox 已经在几个小时内把这些私钥拉黑了，官方也把这 8 个私钥全部吊销。\n\n真是很难想象这个机构草台班子到了什么程度。\n\n现在浏览器端是安全的，但非浏览器端可能需要排查一下，尤其是你自己的项目如果涉及类似证书，建议让 AI 帮忙查一下。\n\n第二个是严重 PHP 漏洞：\n\n这个漏洞极其严重，官方说唯一真正安全的做法是立刻升级，但很多老旧网页已经多年没有升级过了。\n更关键的是，有研究人员在 PHP 官方还没修复漏洞的情况下就直接公开了细节，导致所有人都能利用它发起攻击。\n\n该漏洞是 OpenAI 资助的 Patch the Plane 项目用 GPT-5.6 Sol 发现的，无需登录即可远程拿下服务器。\n\n漏洞覆盖面极大，比如大量依赖 PHP 的 WordPress 站点都会受到攻击。\n\n目前荷兰议会、荷兰国家安全中心、芬兰中央政府网站，以及日本著名的 Pixiv 应用都因此关闭了一段时间。\n\n感觉 AI 出来以后，攻防对抗变得异常剧烈，漏洞暴露和修复的频率都极快。\n\nOpenAI 还表示，他们已经发现了更多具有这种规模效应的漏洞。",
+      "url": "https://x.com/op7418/status/2112931729547936037",
+      "created_at": "2026-10-21T15:39:15.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 96,
+        "replies": 16,
+        "retweets": 7,
+        "views": 50914
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVKkM-WaQAAKD6S.jpg",
+        "https://pbs.twimg.com/media/HVKkM-VbQAETHgq.jpg"
+      ]
     },
     {
       "id": "twitter:2112927187737219406",
@@ -1066,6 +3122,22 @@
       }
     },
     {
+      "id": "twitter:2112898614741655773",
+      "platform": "twitter",
+      "handle": "Yoshua_Bengio",
+      "text": "Misuse by malicious actors is a risk with any powerful technology; but in the case of AI, the consequences could be catastrophic.\n\nVery interesting analysis by @StephenLCasper on how AI developers' decisions can influence cyber, bio, and chemical terrorism risks.",
+      "url": "https://x.com/Yoshua_Bengio/status/2112898614741655773",
+      "created_at": "2026-10-21T13:27:40.000Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
+      "author": "Yoshua Bengio",
+      "metrics": {
+        "likes": 178,
+        "replies": 15,
+        "retweets": 42,
+        "views": 10830
+      }
+    },
+    {
       "id": "twitter:2112896459507134470",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1117,6 +3189,38 @@
       }
     },
     {
+      "id": "twitter:2112891017519083837",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "IPhone Duo 上的微信适配甚至不如安卓",
+      "url": "https://x.com/op7418/status/2112891017519083837",
+      "created_at": "2026-10-21T12:57:28.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 13,
+        "replies": 2,
+        "retweets": 0,
+        "views": 27720
+      }
+    },
+    {
+      "id": "twitter:2112890839269888361",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "看了一堆解禁的 iPhone Duo 测评\n\n他妈的，还得是龙哥呀，一点儿不适配",
+      "url": "https://x.com/op7418/status/2112890839269888361",
+      "created_at": "2026-10-21T12:56:46.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 121,
+        "replies": 31,
+        "retweets": 0,
+        "views": 173300
+      }
+    },
+    {
       "id": "twitter:2112866271666794593",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1154,6 +3258,58 @@
       }
     },
     {
+      "id": "twitter:2112836363523633416",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "录了个详细的教程：https://t.co/lP0UmpZMjZ",
+      "url": "https://x.com/op7418/status/2112836363523633416",
+      "created_at": "2026-10-21T09:20:18.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3370
+      }
+    },
+    {
+      "id": "twitter:2112835248870592903",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "最近让 AI 给电视去广告很火。\n\n昨天发了项目以后，很多朋友还是有一些问题，所以录了一个详细的教程 https://t.co/EZdW6gI5wD",
+      "url": "https://x.com/op7418/status/2112835248870592903",
+      "created_at": "2026-10-21T09:15:52.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 298,
+        "replies": 47,
+        "retweets": 45,
+        "views": 62716
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2112835050668728320/img/kR6GYB_0caGdSyFk.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112816810982818186",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: 48 hours. One room in Amsterdam. Musicians, developers, and sound obsessives building on, breaking, and remixing Stable Au…",
+      "url": "https://x.com/StabilityAI/status/2112816810982818186",
+      "created_at": "2026-10-21T08:02:36.000Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 1507
+      }
+    },
+    {
       "id": "twitter:2112797730829697108",
       "platform": "twitter",
       "handle": "gdb",
@@ -1186,6 +3342,39 @@
       }
     },
     {
+      "id": "twitter:2112732230124818891",
+      "platform": "twitter",
+      "handle": "DarioAmodei",
+      "text": "Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI companies. I think something would be wrong if companies of the size of Anthropic didn’t get harshly criticized basically every day; strong antibodies against corporate power are a healthy feature of a free society, and especially so when issues of the gravity of the one we’re facing are at play. I also do agree that some of the examples you cite were mistakes by Anthropic.\n\nThat said, I disagree with the thrust of your post. At the core, a good fraction of the things you criticize are consequences of Anthropic’s basic theory of change that we have held for many years. Our strategy has always been what I’ve called the “race to the top” — by showing how it’s possible to build the technology responsibly, we can raise the bar for the entire industry. The forces that drive the race to the top are hugely more effective if the company practicing them is at the frontier; that’s one lesson I’ve learned repeatedly. And looking at that strategy as a whole, I’m proud of our track record and stand by it.\n\nI believe that if we take a list of things that Anthropic did in the past year that were pro-safety and commercially costly to us, they far outweigh the list you’ve made, while at the same time I also disagree with some of the items on your list. Here are some things Anthropic has done, in the same period you’ve cited (the last year), which were very costly to us commercially while having strong safety benefits:\n\n1. We played a key role in SB53 (and other state laws), at a time when doing so was politically perilous to the company and AI regulation was very unpopular. We in fact argued for a stronger version of SB53 than was ultimately passed; there were a lot of stakeholders and we were not the limiting factor in the strength of the bill that was passed.\n\n2. We have very strong biological safeguards on our models, because we’ve seen concerning results in bio uplift trials and even seen and blocked potential attempts to misuse our models for bioweapons (as seen in our threat intelligence report from a few weeks ago). This is a very serious threat that we want to have zero tolerance for. But having very low false negatives means having significant false positives (despite months of effort on our part to improve the classifiers), enough so that biologists joke about how restrictive our classifiers are, and competitors sometimes sell against us by touting their more permissive bio capabilities. This has been very painful to us in an area where we care a lot about supporting an ecosystem of Claude users (biomedical science; and it is particularly frustrating to me as a biologist), but it’s the right thing to do and we intend to keep doing it.\n\n3. Similarly, we first had Mythos-class models in February but didn’t make them generally available until June (when we had stronger cyber safeguards in place). We only offered them to a limited set of partners in order to focus on cyberdefense. It would have been much more economically rational to simply release the model to everyone. We likely sacrificed a significant chunk of a several-month model lead. But because of this, many companies secured their cyber infrastructure before the deluge of widely available cyber-capable models. Of course there are ways it could have gone better or been run better, but this was what we were aiming to do.\n\n4. I advocated forcefully and publicly, in my essay Policy on the AI Exponential in June of this year, for the government to have the power to block model releases. Back then this was still outside or maybe on the edge of the Overton window, though I understand the window has moved since then. We were attacked intensely for this.\n\n5. I don’t want to re-ignite conflict, but the events of February 2026 are a strong example. It is clear that our public stance could have seriously damaged the company’s future.\n\n6. We’ve continued to advocate for export controls on chips and chipmaking equipment to China, because we think it allows democracies to negotiate from a position of strength on AI safety agreements. We’ve done this despite problems it’s created for us with industry partners who hold very different views and on whom we are very dependent.\n\n7. As far as I’m aware we were the first, and still only, frontier company to restrict the sale of AI services to PRC-controlled companies, including those operating through third countries (otherwise a major loophole). We’ve therefore forfeited significant short-term business to prevent fueling AI platforms and applications that would help the CCP’s military and intelligence services. We are also cracking down on distillation; generally, distillation is not a major threat to us commercially, but like chip exports it has concerning national security and safety implications, so we expend significant energy and company resources to address it.\n\n8. As you mentioned, we’ve put out a lot of reports, announcements, long model cards, public advocacy, etc, all trying to inform the public about the risks of AI. These involve a level of detail and effort that would be implausible for a purely profit-maximizing company.\n\n9. Just this week, we announced we were putting 5% (and possibly more over time) of the company into a public benefit fund.\n\nAll of these decisions came with very substantial costs to us. To be fair, those that involved holding back or restricting access to frontier capabilities also had a broader cost — for example, the public might otherwise have benefitted from faster progress in biology, so I am not saying that our decisions were without tradeoffs — but they were not driven by profit-seeking.\n\nFor each decision, you can come up with ulterior motives that could have driven us — I think it is a general truth that any decision, on any topic, can always be portrayed as a nefarious scheme. But most of those end up being pretty farfetched or don’t fully make sense if you actually examine them closely. For example, it is deeply implausible that it would be a shrewd business move to block a large swath of research biology in order to do the work ourselves and compete with our customers; we expect the benefit to the ecosystem to greatly exceed the work Anthropic does itself, and for the two to complement each other. It is not in Anthropic’s interest to be perceived as unfriendly to biologists. Our Life Sciences Verification Program, which gives vetted biology professionals access to our models, also refutes this idea. \n\nOf course, a different set of people will see this and make a different criticism: that Anthropic shouldn't be making decisions about who gets access to what in the first place. I agree, in the sense that ideally the government would be making these decisions, and that’s why we advocate for regulation. But for now we are forced to make them, and enabling bioterrorism isn’t a better option.\n\nI think that even if I conceded every item in your list, I would happily hold up mine next to it; I don’t think it’s a close call. That is of course partly subjective and different things are important to different people. Maybe one way you could object is that several of the items above relate to AI misuse and not loss-of-control; if you think the latter is much more important than the former, that might change your calculus. But this is not Anthropic’s view — we view both as serious issues. You can also disagree with our decisions, as many have, but they are consistent.\n\nBut I also disagree with at least some of your list. Several items don’t represent a deviation from Anthropic’s strategy or values at all, once we postulate the “race to the top” strategy that requires being a frontier AI company. Your items 1-4 are all simply examples of what it means to compete at the frontier, and we stand by them, both in the sense that they are transparently ordinary things to do as part of that strategy, and that we stand by the strategy as a whole. \n\nTo be fair, there are important questions worth confronting (and that we are confronting) about what to do when the AI-driven acceleration gets fast enough that it is hard for safety to keep up. We are nearing that point and that’s what’s driving some of our thinking about “pacing.” But 1-4 are actions taken before that point and should be perfectly expected based on Anthropic’s strategy as a company. Of course it is possible to disagree with that strategy, but that’s a more fundamental disagreement that you could have had any time over the last few years.\n\nI agree we could have handled your items 7, 8, and 9 better. All fall into the category of “rhetoric or policy communication that wasn’t carefully written or resulting from fast-changing circumstances not propagating from one team to another fast enough.” This kind of thing happens a lot in large organizations (Anthropic is over 5,000 people), and doesn’t even necessarily represent a failure or mistake of any single person. I am of course the CEO, and I take responsibility. The volume of communication from Anthropic is enormous and if these are the worst examples, I think we’re frankly doing pretty well, though I will continue to work hard to make sure we do even better.\n\nYour 5th item (the change to our RSP) is the most substantive item, and people can debate this, but I think that the old, more rigid RSP created a lot of situations where we were technically required to do something that required a lot of effort but in retrospect wasn’t very important for safety, as well as not covering some of the most important things. Our current RSP’s focus on transparency brought things like risk reports and roadmaps, and its emphasis on independent external review laid the groundwork for even more intensive embedded evaluation, all of which I think have been valuable in driving a race to the top. In the original announcement in September 2023, we described the RSP as an “early iteration that we [would] build on” and said that “rapid iteration…will almost certainly be necessary.” I understand that changing plans is always a move that creates justifiable scrutiny — I just don’t think we ever represented that we wouldn’t do so.\n\nRelating to your 6th item (having an FCF in addition to our RSP), I know our intent is to meet the letter and spirit of our regulatory obligations (via our FCF) while also remaining able to experiment with more novel approaches to risk management that go beyond what the law currently requires (via our RSP). I promise to look into it further, as it’s a complex issue and it is possible we are not weighing the considerations in the right way.\n\nOverall, although Anthropic has made plenty of mistakes as an organization — including some of the items on your list — I feel that we have repeatedly taken serious and substantive actions counter to our bottom line and that there is a significant negativity bias distorting assessments like the one you are making above. We’ll always try to do better but, again, I am extremely proud of our track record and stand by it. I will have more to say soon about how we are going to further live our values in this moment of rapid change.",
+      "url": "https://x.com/DarioAmodei/status/2112732230124818891",
+      "created_at": "2026-10-21T02:26:30.000Z",
+      "fetched_at": "2026-10-27T16:04:10.981Z",
+      "author": "Dario Amodei",
+      "metrics": {
+        "likes": 4134,
+        "replies": 812,
+        "retweets": 319,
+        "views": 1643677
+      }
+    },
+    {
+      "id": "twitter:2112710264571490407",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @jeffreyhuber: I’m thrilled to release this course on Context Engineering!",
+      "url": "https://x.com/amasad/status/2112710264571490407",
+      "created_at": "2026-10-21T00:59:13.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 5,
+        "views": 1730
+      }
+    },
+    {
       "id": "twitter:2112708676607942887",
       "platform": "twitter",
       "handle": "emollick",
@@ -1200,6 +3389,22 @@
         "replies": 0,
         "retweets": 9,
         "views": 2919
+      }
+    },
+    {
+      "id": "twitter:2112689291570938255",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "OK, that headache bug was really bad!\n\nIt inspired me to add proper online multiplayer to Battle Drones (via a tiny @flydotio hosted WebSockets relay server) - now you can start an online game and send a link to a friend so they can join you https://t.co/iTFxMGZeWA",
+      "url": "https://x.com/simonw/status/2112689291570938255",
+      "created_at": "2026-10-20T23:35:53.000Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 17,
+        "replies": 8,
+        "retweets": 0,
+        "views": 6667
       }
     },
     {
@@ -1222,6 +3427,73 @@
       ]
     },
     {
+      "id": "twitter:2112678334685716660",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @craft_ventures: Un_prompted. October 1. San Francisco. The goal: create the highest signal summit for marketing &amp; growth in the age of…",
+      "url": "https://x.com/amasad/status/2112678334685716660",
+      "created_at": "2026-10-20T22:52:21.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 13,
+        "views": 1682
+      }
+    },
+    {
+      "id": "twitter:2112678281812357533",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @victoriakimse: Actually though, Replit charts are underrated... inline, responsive, resizable, exportable, etc. everything you could ev…",
+      "url": "https://x.com/amasad/status/2112678281812357533",
+      "created_at": "2026-10-20T22:52:08.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 1560
+      }
+    },
+    {
+      "id": "twitter:2112678251441398099",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @Replit: Tokyo, we’re here! 🇯🇵 @Replit is opening its Japan office, bringing enterprise app and agent building closer to the businesses…",
+      "url": "https://x.com/amasad/status/2112678251441398099",
+      "created_at": "2026-10-20T22:52:01.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 18,
+        "views": 1271
+      }
+    },
+    {
+      "id": "twitter:2112657717227843942",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Warning if you're going to try this: the audio multiplayer plays a high pitched noise throughout the game - annoying at best, and at worst might give you an actual headache\n\n(Natalie: \"why do my teeth hurt?\")",
+      "url": "https://x.com/simonw/status/2112657717227843942",
+      "created_at": "2026-10-20T21:30:25.000Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 24,
+        "replies": 6,
+        "retweets": 1,
+        "views": 8562
+      }
+    },
+    {
       "id": "twitter:2112656453685367004",
       "platform": "twitter",
       "handle": "emollick",
@@ -1239,6 +3511,22 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2112655781908885504/img/h9k8sbyhep7dKfVB.jpg"
       ]
+    },
+    {
+      "id": "twitter:2112652656602923366",
+      "platform": "twitter",
+      "handle": "sama",
+      "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+      "url": "https://x.com/sama/status/2112652656602923366",
+      "created_at": "2026-10-20T21:10:19.000Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
+      "author": "Sam Altman",
+      "metrics": {
+        "likes": 7037,
+        "replies": 722,
+        "retweets": 244,
+        "views": 1381543
+      }
     },
     {
       "id": "twitter:2112650555852275951",
@@ -1324,6 +3612,59 @@
       }
     },
     {
+      "id": "twitter:2112630778068881543",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "I built a Command &amp; Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link https://t.co/OUGfRDk7DU https://t.co/q7NKaPJ9Pd",
+      "url": "https://x.com/simonw/status/2112630778068881543",
+      "created_at": "2026-10-20T19:43:22.000Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 776,
+        "replies": 185,
+        "retweets": 42,
+        "views": 52913
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVGR6imaIAA62ik.jpg",
+        "https://pbs.twimg.com/media/HVGSc2-bQAA5kzf.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112624842109518264",
+      "platform": "twitter",
+      "handle": "chipro",
+      "text": "Braden and team are great! Highly recommend this program for independent researchers working on cool stuff!",
+      "url": "https://x.com/chipro/status/2112624842109518264",
+      "created_at": "2026-10-20T19:19:47.000Z",
+      "fetched_at": "2026-10-27T00:13:52.755Z",
+      "author": "Chip Huyen",
+      "metrics": {
+        "likes": 30,
+        "replies": 4,
+        "retweets": 1,
+        "views": 8096
+      }
+    },
+    {
+      "id": "twitter:2112622566246666546",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "RT @9to5mac: Perplexity’s Computer can now run entirely on your Mac, even offline https://t.co/XqgetBy8nG by @apollozac",
+      "url": "https://x.com/AravSrinivas/status/2112622566246666546",
+      "created_at": "2026-10-20T19:10:45.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 9,
+        "views": 3129
+      }
+    },
+    {
       "id": "twitter:2112621016518377491",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -1402,6 +3743,41 @@
         "replies": 42,
         "retweets": 5,
         "views": 7593
+      }
+    },
+    {
+      "id": "twitter:2112602415627399418",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Perplexity Decider pareto-optimal on Financial ClaimBench of Vals AI https://t.co/uBac0vOK15",
+      "url": "https://x.com/AravSrinivas/status/2112602415627399418",
+      "created_at": "2026-10-20T17:50:40.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 120,
+        "replies": 24,
+        "retweets": 5,
+        "views": 21146
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVF4s3mbQAAprsV.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112597855307444411",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "",
+      "url": "https://x.com/AravSrinivas/status/2112597855307444411",
+      "created_at": "2026-10-20T17:32:33.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 1137,
+        "replies": 24,
+        "retweets": 36,
+        "views": 83455
       }
     },
     {
@@ -1490,6 +3866,121 @@
       "media": [
         "https://pbs.twimg.com/media/HVFtc9Gb0AE7H89.jpg"
       ]
+    },
+    {
+      "id": "twitter:2112585629951488232",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "而且我这个是支持直接开机默认进入到这个桌面的，不会被原始的那个桌面抢回去控制权",
+      "url": "https://x.com/op7418/status/2112585629951488232",
+      "created_at": "2026-10-20T16:43:58.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 5,
+        "replies": 2,
+        "retweets": 0,
+        "views": 6914
+      }
+    },
+    {
+      "id": "twitter:2112583333825950207",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
+      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "created_at": "2026-10-20T16:34:51.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 2613,
+        "replies": 170,
+        "retweets": 172,
+        "views": 227786
+      }
+    },
+    {
+      "id": "twitter:2112579261358023071",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "This is exploratory work, and we’re not claiming to have produced an antivenom—for that, we’d have to test the binders within living cells, then in mice, among many other steps. But it’s an example of how Claude can concretely assist research in protein design.",
+      "url": "https://x.com/AnthropicAI/status/2112579261358023071",
+      "created_at": "2026-10-20T16:18:40.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 454,
+        "replies": 9,
+        "retweets": 8,
+        "views": 87433
+      }
+    },
+    {
+      "id": "twitter:2112579263039725659",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "We’re releasing all 211 of the tested designs and the lab data as a resource for scientists: https://t.co/zqke30UV2o\n\nRead the full technical report: https://t.co/ikWVcFxnyP",
+      "url": "https://x.com/AnthropicAI/status/2112579263039725659",
+      "created_at": "2026-10-20T16:18:40.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 376,
+        "replies": 14,
+        "retweets": 11,
+        "views": 80105
+      }
+    },
+    {
+      "id": "twitter:2112579251555721573",
+      "platform": "twitter",
+      "handle": "AnthropicAI",
+      "text": "New on our Science Blog: designing protein binders against scorpion neurotoxins.\n\nScorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.\n\nhttps://t.co/l6LgdEqM7I",
+      "url": "https://x.com/AnthropicAI/status/2112579251555721573",
+      "created_at": "2026-10-20T16:18:38.000Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
+      "author": "Anthropic",
+      "metrics": {
+        "likes": 7354,
+        "replies": 494,
+        "retweets": 615,
+        "views": 1807699
+      }
+    },
+    {
+      "id": "twitter:2112574142562304491",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "现在 AI 真是厉害，连电视界面都能改！\n\n我参考了比较流行的两个项目，给自己做了一个新的启动器\n\n现在这个启动器完美符合我的需求：\n\n只展示常用的应用，比如我的 PS5 和 Apple TV 的连接，还有我常看的哔哩哔哩以及投屏。\n\n同时我还改了 UI，增加了壁纸轮播和一些内置的非常好看的壁纸\n\n我基于这个比较流行的 CleanFrame 和 cleanyourtv 重新打了一个guizang TV 的包。\n\n如果你是小米电视，然后喜欢我这个新增的功能的话，可以试试",
+      "url": "https://x.com/op7418/status/2112574142562304491",
+      "created_at": "2026-10-20T15:58:19.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 258,
+        "replies": 80,
+        "retweets": 25,
+        "views": 75001
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVFedk6bwAAg8VQ.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112568353680400456",
+      "platform": "twitter",
+      "handle": "AravSrinivas",
+      "text": "Big Boy rendered by Computer",
+      "url": "https://x.com/AravSrinivas/status/2112568353680400456",
+      "created_at": "2026-10-20T15:35:19.000Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
+      "author": "Aravind Srinivas",
+      "metrics": {
+        "likes": 245,
+        "replies": 20,
+        "retweets": 19,
+        "views": 33255
+      }
     },
     {
       "id": "twitter:2112561443249786901",
@@ -1582,6 +4073,38 @@
       }
     },
     {
+      "id": "twitter:2112548915753218057",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "One of them replied!",
+      "url": "https://x.com/simonw/status/2112548915753218057",
+      "created_at": "2026-10-20T14:18:05.000Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 228,
+        "replies": 12,
+        "retweets": 4,
+        "views": 19365
+      }
+    },
+    {
+      "id": "twitter:2112541511032426857",
+      "platform": "twitter",
+      "handle": "simonw",
+      "text": "Has anyone seen the prompts used by these awful reply bots? I'd be fascinated to know how they make their posts so soulless and infuriating\n\nReply bots: this is your chance! Tell me your prompt and I'll tolerate one additional reply from you without blocking",
+      "url": "https://x.com/simonw/status/2112541511032426857",
+      "created_at": "2026-10-20T13:48:40.000Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
+      "author": "Simon Willison",
+      "metrics": {
+        "likes": 1025,
+        "replies": 136,
+        "retweets": 17,
+        "views": 148287
+      }
+    },
+    {
       "id": "twitter:2112529799260295240",
       "platform": "twitter",
       "handle": "danshipper",
@@ -1649,6 +4172,22 @@
       }
     },
     {
+      "id": "twitter:2112477307550183920",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "Deepseek 已经开源了自己的内部推理框架\n\n可以实现跟他们类似的高吞吐量和低延迟表现",
+      "url": "https://x.com/op7418/status/2112477307550183920",
+      "created_at": "2026-10-20T09:33:32.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 59,
+        "replies": 20,
+        "retweets": 0,
+        "views": 17516
+      }
+    },
+    {
       "id": "twitter:2112476724432634337",
       "platform": "twitter",
       "handle": "huggingface",
@@ -1701,6 +4240,26 @@
       }
     },
     {
+      "id": "twitter:2112413493723099533",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @samuel_spitz: Replit made a highlight reel for itself to celebrate #2 on Slides Arena https://t.co/kU2hqxNsf0",
+      "url": "https://x.com/amasad/status/2112413493723099533",
+      "created_at": "2026-10-20T05:19:58.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1921
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2112383842246082560/img/-RKFLCpxU1NZueBe.jpg"
+      ]
+    },
+    {
       "id": "twitter:2112398911482778036",
       "platform": "twitter",
       "handle": "emollick",
@@ -1714,6 +4273,42 @@
         "replies": 0,
         "retweets": 0,
         "views": 9731
+      }
+    },
+    {
+      "id": "twitter:2112374841039044992",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "上小宇宙最热榜了 https://t.co/c92X480pFg",
+      "url": "https://x.com/op7418/status/2112374841039044992",
+      "created_at": "2026-10-20T02:46:22.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 24,
+        "replies": 11,
+        "retweets": 1,
+        "views": 8395
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVCpuD_asAAAYt9.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112360221607866706",
+      "platform": "twitter",
+      "handle": "amasad",
+      "text": "RT @alvelda: The AI building boom is moving inside the firewall.\n\nReplit will now deploy into your own cloud, so the data never leaves home…",
+      "url": "https://x.com/amasad/status/2112360221607866706",
+      "created_at": "2026-10-20T01:48:17.000Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
+      "author": "Amjad Masad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1780
       }
     },
     {
@@ -1743,13 +4338,13 @@
       "text": "Thank you!!! But I certainly can’t take credit for the whole group. So much of it due to all the students and the other faculty:\n@jurafsky @percyliang @ChrisGPotts @YejinChoinka @MonicaSLam @Diyi_Yang @tatsu_hashimoto",
       "url": "https://x.com/chrmanning/status/2112314893747855590",
       "created_at": "2026-10-19T22:48:10.000Z",
-      "fetched_at": "2026-10-20T16:04:19.362Z",
+      "fetched_at": "2026-10-27T00:13:52.756Z",
       "author": "Christopher Manning",
       "metrics": {
-        "likes": 129,
-        "replies": 2,
-        "retweets": 12,
-        "views": 27520
+        "likes": 156,
+        "replies": 6,
+        "retweets": 13,
+        "views": 34333
       }
     },
     {
@@ -1934,13 +4529,13 @@
       "text": "Crusoe is extremely well positioned to become a full-stack cloud: power, compute, and services running on top. Perplexity’s open source sandbox platform SPACE will become part of Crusoe’s Managed AI products. Look forward to more collaborations with them!",
       "url": "https://x.com/AravSrinivas/status/2112254336160108664",
       "created_at": "2026-10-19T18:47:32.000Z",
-      "fetched_at": "2026-10-20T01:08:40.029Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
       "author": "Aravind Srinivas",
       "metrics": {
-        "likes": 293,
-        "replies": 39,
-        "retweets": 12,
-        "views": 23711
+        "likes": 508,
+        "replies": 53,
+        "retweets": 32,
+        "views": 44900
       }
     },
     {
@@ -2129,6 +4724,41 @@
       ]
     },
     {
+      "id": "twitter:2112162558685942048",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "神奇 难道关注我了吗？他自己把视频删了",
+      "url": "https://x.com/op7418/status/2112162558685942048",
+      "created_at": "2026-10-19T12:42:50.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 9,
+        "replies": 4,
+        "retweets": 0,
+        "views": 4333
+      }
+    },
+    {
+      "id": "twitter:2112155703309926729",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "抖音对于搬运的内容真是非常的纵容啊！\n\n尤其是搬运外网的，这哥们拿 Higgsfield 做的视频说是自己的，还编了一堆提示词出来 https://t.co/g7Jb1BhvaO",
+      "url": "https://x.com/op7418/status/2112155703309926729",
+      "created_at": "2026-10-19T12:15:36.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 47,
+        "replies": 48,
+        "retweets": 4,
+        "views": 23435
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HU_iaG7bMAAXX1A.jpg"
+      ]
+    },
+    {
       "id": "twitter:2112151233603788923",
       "platform": "twitter",
       "handle": "danshipper",
@@ -2143,6 +4773,41 @@
         "replies": 0,
         "retweets": 4,
         "views": 832
+      }
+    },
+    {
+      "id": "twitter:2112125082562929018",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "思琦他们做的这个关于 Apple 开发者生态里 AI 方向的调研还挺有意思的。\n\n其实 Apple 整个开发生态跟外部还是不太一样，比较独立，所以在 AI 的采用率和想法上，可能未必跟我们有些不做 Apple 生态的人的体感接近。感兴趣可以看看 https://t.co/6gcRcuGjoT",
+      "url": "https://x.com/op7418/status/2112125082562929018",
+      "created_at": "2026-10-19T10:13:55.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 14,
+        "replies": 16,
+        "retweets": 1,
+        "views": 8474
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HU_GZxxbYAA4Tzo.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2112114363624800300",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "笑死 DHH 很懂了，来中国用 Tailscale 访问 Claude Code",
+      "url": "https://x.com/op7418/status/2112114363624800300",
+      "created_at": "2026-10-19T09:31:20.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 328,
+        "replies": 76,
+        "retweets": 14,
+        "views": 84888
       }
     },
     {
@@ -2192,6 +4857,41 @@
         "retweets": 83,
         "views": 68212
       }
+    },
+    {
+      "id": "twitter:2112022770771202436",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "小宇宙：https://t.co/rFql5aBXXQ\n\nB 站视频版：https://t.co/ByTiYdGbWz",
+      "url": "https://x.com/op7418/status/2112022770771202436",
+      "created_at": "2026-10-19T03:27:22.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "retweets": 0,
+        "views": 3909
+      }
+    },
+    {
+      "id": "twitter:2112022611228230108",
+      "platform": "twitter",
+      "handle": "op7418",
+      "text": "我们在这一期《Next Token》播客里的一些核心认知：\n\n橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃\n\n所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式\n\n多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升\n\n我还分享了一下我是如何不开电脑做自媒体的，包括发图文、剪视频等等。\n\n这期昨天已经更新了，欢迎收听！\n\n早上一起床已经有 4000 多个播放，同时收听有几百个人在听。作为一个只更新了 6 期的播客，还是挺吊的",
+      "url": "https://x.com/op7418/status/2112022611228230108",
+      "created_at": "2026-10-19T03:26:44.000Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
+      "author": "歸藏(guizang.ai)",
+      "metrics": {
+        "likes": 55,
+        "replies": 41,
+        "retweets": 4,
+        "views": 18009
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HU9pXH2aYAAaCyY.jpg"
+      ]
     },
     {
       "id": "twitter:2111962665987825809",
@@ -2334,13 +5034,13 @@
       "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can contribute up to an extra 2%, subject to our board’s discretion.\n\nIn total, this means that roughly 20% of Anthropic’s shares are committed to the public good. Our co-founders have already pledged to donate 80% of their equity, and around half our employees are donating a portion of their equity as part of a donation matching program we’ve run since our founding.\n\nIn the post below, we share more details about our new fund.\n\nhttps://t.co/XzDntVH0vH",
       "url": "https://x.com/AnthropicAI/status/2111881963657412903",
       "created_at": "2026-10-18T18:07:51.000Z",
-      "fetched_at": "2026-10-20T01:08:40.029Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
       "author": "Anthropic",
       "metrics": {
-        "likes": 20769,
-        "replies": 2182,
-        "retweets": 1658,
-        "views": 6986579
+        "likes": 21594,
+        "replies": 2316,
+        "retweets": 1755,
+        "views": 7706030
       }
     },
     {
@@ -2436,13 +5136,13 @@
       "text": "OpenAI and Anthropic weekly recap, week 42 of 2026: Sora revival talks, a hidden recorder at OpenAI, Anthropic's own source control Scion, a solved ECDSA mystery and more\n\nThe Information reports OpenAI is in talks to revive Sora through a startup co-founded by Jeffrey Katzenberg and former Sora lead Bill Peebles, with OpenAI taking equity if a deal closes\n\nOpenAI says they found a hidden recording device in an office, used their models to trace it to an employee, and the FBI made an arrest\n\nThe Information also reports early OpenAI talks to buy security firm Trail of Bits\n\nChatGPT now gathers information across open Chrome tabs through OpenAI's extension, and can control them in ChatGPT Work\n\nOpenAI's GPT-6 Pro got faster with better tool use and multiple agents working in parallel\n\nGPT-5.5 is retired from ChatGPT, ChatGPT Work and Codex, API unaffected, and OpenAI's GPT-4o and GPT-4.1 leave the API on January 14, 2027\n\nAnthropic says strengthened defenses against distillation attacks cut what distillers can harvest by 90 to 99 percent\n\nAn internal Claude research model at Anthropic solved a 25-year-old mystery about the NIST ECDSA curve seeds, tracing them to a C library random generator seeded with Unix timestamps\n\nAnthropic built Scion, their own source control, and moved their monorepo off git in five months as daily merges went from roughly 2,500 to over 30,000\n\nClaude Code desktop was reworked for many sessions side by side, Code Review is generally available for Claude Team and Enterprise, and Opus 5.5 fast mode left research preview on the Claude Platform\n\nAnthropic reports agent hours passed human hours internally in March, opened a Singapore office, and says Democracy Works voting information comes to Claude ahead of the US midterms, and more",
       "url": "https://x.com/btibor91/status/2111773672403095676",
       "created_at": "2026-10-18T10:57:33.000Z",
-      "fetched_at": "2026-10-20T05:13:57.522Z",
+      "fetched_at": "2026-10-26T20:09:01.764Z",
       "author": "Tibor Blaho",
       "metrics": {
-        "likes": 26,
+        "likes": 28,
         "replies": 32,
-        "retweets": 4,
-        "views": 4595
+        "retweets": 5,
+        "views": 5341
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2111773590198919168/img/pzUMj0_3XgrGcnFy.jpg"
@@ -2662,14 +5362,14 @@
       "text": "RT @samuel_spitz: For most tasks on Replit, OpenAI models now offer the best cost-per-performance (even vs. open source)\n\nWe’re glad to cal…",
       "url": "https://x.com/amasad/status/2111497545566540171",
       "created_at": "2026-10-17T16:40:19.000Z",
-      "fetched_at": "2026-10-19T16:04:15.976Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
       "author": "Amjad Masad",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 1807
+        "views": 1904
       }
     },
     {
@@ -2679,13 +5379,13 @@
       "text": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models.\n\nWhat I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership.\n\nWe believe in giving our users model choice while optimizing the default experience for the best performance at the best price.",
       "url": "https://x.com/amasad/status/2111494912562888939",
       "created_at": "2026-10-17T16:29:51.000Z",
-      "fetched_at": "2026-10-19T16:04:15.976Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
       "author": "Amjad Masad",
       "metrics": {
-        "likes": 503,
-        "replies": 162,
-        "retweets": 21,
-        "views": 65423
+        "likes": 518,
+        "replies": 169,
+        "retweets": 22,
+        "views": 68189
       }
     },
     {
@@ -2695,14 +5395,14 @@
       "text": "RT @RebeccaBellan: Replit’s CEO says the future of work is the ‘self-driving company’ https://t.co/DnPVCtvfaC via @techcrunch",
       "url": "https://x.com/amasad/status/2111492523931967591",
       "created_at": "2026-10-17T16:20:21.000Z",
-      "fetched_at": "2026-10-19T16:04:15.977Z",
+      "fetched_at": "2026-10-26T00:13:48.741Z",
       "author": "Amjad Masad",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 3,
-        "views": 1812
+        "views": 1911
       }
     },
     {
@@ -2762,13 +5462,13 @@
       "text": "简单试了一下https://t.co/ouUTs65BNm",
       "url": "https://x.com/op7418/status/2111428801255342213",
       "created_at": "2026-10-17T12:07:09.000Z",
-      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
       "author": "歸藏(guizang.ai)",
       "metrics": {
         "likes": 2,
         "replies": 0,
         "retweets": 0,
-        "views": 4056
+        "views": 4397
       }
     },
     {
@@ -2778,13 +5478,13 @@
       "text": "提示词在这里：https://t.co/rI9kXMLdMR",
       "url": "https://x.com/op7418/status/2111427773017530611",
       "created_at": "2026-10-17T12:03:04.000Z",
-      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
       "author": "歸藏(guizang.ai)",
       "metrics": {
-        "likes": 2,
+        "likes": 5,
         "replies": 1,
         "retweets": 0,
-        "views": 3604
+        "views": 4767
       }
     },
     {
@@ -2794,13 +5494,13 @@
       "text": "简单试了一下 Deepseek V4.1 Flash 1017，感觉不错呀！\n\n用的是我之前给 Opus 5.5 写的那个做我的游戏特效的提示词。\n\n虽然细节上和创造性上差 Opus 5.5 还是不少吧，但是是能用的 https://t.co/uXzVfVzLkx",
       "url": "https://x.com/op7418/status/2111427699520749951",
       "created_at": "2026-10-17T12:02:46.000Z",
-      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
       "author": "歸藏(guizang.ai)",
       "metrics": {
-        "likes": 48,
-        "replies": 42,
+        "likes": 51,
+        "replies": 48,
         "retweets": 1,
-        "views": 15835
+        "views": 18318
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2111427462676819968/img/1MIqLLrcAPVOo0D_.jpg"
@@ -3280,13 +5980,13 @@
       "text": "To read my blog post on the subject: https://t.co/HTmPA8gNfg",
       "url": "https://x.com/Yoshua_Bengio/status/2111192092341117352",
       "created_at": "2026-10-16T20:26:33.000Z",
-      "fetched_at": "2026-10-19T00:13:48.257Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
       "author": "Yoshua Bengio",
       "metrics": {
-        "likes": 27,
-        "replies": 2,
+        "likes": 29,
+        "replies": 3,
         "retweets": 0,
-        "views": 2350
+        "views": 2791
       }
     },
     {
@@ -3296,13 +5996,13 @@
       "text": "Until we solve the alignment problem at its source, AI models will continue to optimize for the wrong goals, and increasingly impactful real-world consequences may occur, beyond the ones described here. This is a critical issue I discussed in my blogpost last month, which is cited in the article: https://t.co/G2FNuu5zCJ",
       "url": "https://x.com/Yoshua_Bengio/status/2111192089681961387",
       "created_at": "2026-10-16T20:26:32.000Z",
-      "fetched_at": "2026-10-19T00:13:48.256Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
       "author": "Yoshua Bengio",
       "metrics": {
-        "likes": 446,
-        "replies": 42,
-        "retweets": 101,
-        "views": 20780
+        "likes": 453,
+        "replies": 45,
+        "retweets": 102,
+        "views": 21916
       }
     },
     {
@@ -3558,13 +6258,13 @@
       "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1",
       "url": "https://x.com/sama/status/2111139227761266699",
       "created_at": "2026-10-16T16:56:29.000Z",
-      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
       "author": "Sam Altman",
       "metrics": {
-        "likes": 10849,
-        "replies": 717,
-        "retweets": 474,
-        "views": 904168
+        "likes": 11025,
+        "replies": 841,
+        "retweets": 484,
+        "views": 1029740
       },
       "media": [
         "https://pbs.twimg.com/media/HUxFtExa4AIniRE.jpg"
@@ -3610,13 +6310,13 @@
       "text": "Wow the new roadster looks quite amazing, good job @elonmusk",
       "url": "https://x.com/sama/status/2111131677351432197",
       "created_at": "2026-10-16T16:26:29.000Z",
-      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
       "author": "Sam Altman",
       "metrics": {
-        "likes": 65803,
-        "replies": 2612,
-        "retweets": 1879,
-        "views": 6648143
+        "likes": 65958,
+        "replies": 2664,
+        "retweets": 1882,
+        "views": 6883627
       }
     },
     {
@@ -3626,13 +6326,13 @@
       "text": "Very happy to see this from Nick!",
       "url": "https://x.com/sama/status/2111130577789493706",
       "created_at": "2026-10-16T16:22:07.000Z",
-      "fetched_at": "2026-10-18T20:09:03.418Z",
+      "fetched_at": "2026-10-25T20:08:53.697Z",
       "author": "Sam Altman",
       "metrics": {
-        "likes": 3706,
-        "replies": 210,
-        "retweets": 145,
-        "views": 731722
+        "likes": 3758,
+        "replies": 241,
+        "retweets": 146,
+        "views": 795935
       }
     },
     {
@@ -4440,14 +7140,14 @@
       "text": "RT @thinkymachines: Tinker lets customers turn their expertise into cutting-edge models that they own. One year after launch, we look back…",
       "url": "https://x.com/soumithchintala/status/2110891170788434124",
       "created_at": "2026-10-16T00:30:48.000Z",
-      "fetched_at": "2026-10-18T00:06:20.933Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
       "author": "Soumith Chintala",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 29,
-        "views": 519
+        "views": 546
       }
     },
     {
@@ -4638,14 +7338,14 @@
       "text": "RT @stableaudio: We’re back with @MusicHackspace, and this time we’re in Amsterdam for @ADE_NL.\n\nWe’re handing you Stable Audio 3.0 and see…",
       "url": "https://x.com/StabilityAI/status/2110870371838919084",
       "created_at": "2026-10-15T23:08:09.000Z",
-      "fetched_at": "2026-10-18T00:06:20.933Z",
+      "fetched_at": "2026-10-25T00:13:56.819Z",
       "author": "Stability AI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 2,
-        "views": 1298
+        "retweets": 3,
+        "views": 1357
       }
     },
     {
@@ -5423,13 +8123,13 @@
       "text": "\"Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue\"\n\nIf true, and Q2 revenue was $11.5B, then that's more than half a billion dollars spent by other labs to distill Anthropic's models!\nhttps://t.co/szd2oJxtrv https://t.co/MfcztRwOnV",
       "url": "https://x.com/simonw/status/2110721515130089787",
       "created_at": "2026-10-15T13:16:39.000Z",
-      "fetched_at": "2026-10-17T20:05:25.074Z",
+      "fetched_at": "2026-10-24T20:08:54.910Z",
       "author": "Simon Willison",
       "metrics": {
-        "likes": 780,
-        "replies": 199,
-        "retweets": 58,
-        "views": 106163
+        "likes": 814,
+        "replies": 218,
+        "retweets": 61,
+        "views": 119190
       },
       "media": [
         "https://pbs.twimg.com/media/HUrKCAwboAAuIww.jpg"
@@ -9781,13 +12481,13 @@
       "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
       "url": "https://x.com/karpathy/status/2109361546505966046",
       "created_at": "2026-10-11T19:12:37.000Z",
-      "fetched_at": "2026-10-18T16:03:59.275Z",
+      "fetched_at": "2026-10-25T16:04:09.749Z",
       "author": "Andrej Karpathy",
       "metrics": {
-        "likes": 43335,
-        "replies": 2080,
-        "retweets": 5803,
-        "views": 6596602
+        "likes": 43708,
+        "replies": 2177,
+        "retweets": 5854,
+        "views": 6749045
       }
     },
     {
@@ -23849,13 +26549,13 @@
       "text": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had the insight that rigorous skills measurements would be important. With recent advances in AI, this is now more true than ever. Workera's technologies for rigorously measuring people's skills in different tasks and job roles are helping many businesses understand where their employees are strong and where there are areas for development. \n\nWith Workera and Pearson combining forces, I'm delighted that under @omarabbosh and Kian's leadership. Workera now has the potential to support an even larger number of people and businesses. Thank you, Kian and the Workera team for having me serve as the company's chairman, for launching Workera out of https://t.co/zpIxRSuky4 and AI Fund, for your friendship over the years, and for your important work advancing assessments.",
       "url": "https://x.com/AndrewYNg/status/2104967263757713432",
       "created_at": "2026-09-29T16:11:18.000Z",
-      "fetched_at": "2026-10-19T16:04:15.977Z",
+      "fetched_at": "2026-10-26T16:04:07.818Z",
       "author": "Andrew Ng",
       "metrics": {
-        "likes": 242,
-        "replies": 98,
-        "retweets": 22,
-        "views": 98960
+        "likes": 261,
+        "replies": 110,
+        "retweets": 24,
+        "views": 108254
       }
     },
     {
