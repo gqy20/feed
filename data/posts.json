@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T16:04:24.401Z",
+  "updated_at": "2026-10-27T20:09:12.149Z",
   "posts": [
     {
       "id": "twitter:2115093098816745910",
@@ -149,6 +149,23 @@
         "replies": 0,
         "retweets": 129,
         "views": 247
+      }
+    },
+    {
+      "id": "twitter:2114744027816013954",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…",
+      "url": "https://x.com/demishassabis/status/2114744027816013954",
+      "created_at": "2026-10-26T15:40:40.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 30,
+        "views": 7222
       }
     },
     {
@@ -533,6 +550,23 @@
         "replies": 0,
         "retweets": 4,
         "views": 869
+      }
+    },
+    {
+      "id": "twitter:2114056437244805374",
+      "platform": "twitter",
+      "handle": "drfeifei",
+      "text": "RT @wenlong_huang: AlphaGo and coding agents need reasoning, so does robotics, which is arguably orders of magnitude harder. But what is th…",
+      "url": "https://x.com/drfeifei/status/2114056437244805374",
+      "created_at": "2026-10-24T18:08:26.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Fei-Fei Li",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 14,
+        "views": 2721
       }
     },
     {
@@ -1614,6 +1648,22 @@
       ]
     },
     {
+      "id": "twitter:2113352276026990972",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "Honoured to be featured in the @WSJ Innovators Issue. I’ve always believed in the power of human ingenuity to solve our hardest problems. I’m confident we can collectively navigate the potential challenges of frontier models and usher in a new golden age of scientific discovery!",
+      "url": "https://x.com/demishassabis/status/2113352276026990972",
+      "created_at": "2026-10-22T19:30:21.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Demis Hassabis",
+      "metrics": {
+        "likes": 3083,
+        "replies": 180,
+        "retweets": 219,
+        "views": 143445
+      }
+    },
+    {
       "id": "twitter:2113339406299853076",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -2361,6 +2411,23 @@
       ]
     },
     {
+      "id": "twitter:2113112460458958901",
+      "platform": "twitter",
+      "handle": "drfeifei",
+      "text": "RT @keshigeyan: Excited to share Halcyon, our latest research on multimodal pretraining!\n\nBuilding strong text-to-image generative models i…",
+      "url": "https://x.com/drfeifei/status/2113112460458958901",
+      "created_at": "2026-10-22T03:37:24.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Fei-Fei Li",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 32,
+        "views": 2760
+      }
+    },
+    {
       "id": "twitter:2113101644334551095",
       "platform": "twitter",
       "handle": "op7418",
@@ -2764,6 +2831,23 @@
         "replies": 0,
         "retweets": 37,
         "views": 2852
+      }
+    },
+    {
+      "id": "twitter:2112955463096758377",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @GoogleDeepMind: Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.”\n\nCreated in @Antigravity, it anim…",
+      "url": "https://x.com/demishassabis/status/2112955463096758377",
+      "created_at": "2026-10-21T17:13:33.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 560,
+        "views": 5626
       }
     },
     {
@@ -3310,6 +3394,23 @@
       }
     },
     {
+      "id": "twitter:2112815105750761723",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence…",
+      "url": "https://x.com/demishassabis/status/2112815105750761723",
+      "created_at": "2026-10-21T07:55:50.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 321,
+        "views": 6895
+      }
+    },
+    {
       "id": "twitter:2112797730829697108",
       "platform": "twitter",
       "handle": "gdb",
@@ -3390,6 +3491,26 @@
         "retweets": 9,
         "views": 2919
       }
+    },
+    {
+      "id": "twitter:2112696481279041799",
+      "platform": "twitter",
+      "handle": "demishassabis",
+      "text": "RT @AdamHoltererer: Gemini is the funniest model https://t.co/m4NPJGByN0",
+      "url": "https://x.com/demishassabis/status/2112696481279041799",
+      "created_at": "2026-10-21T00:04:27.000Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
+      "author": "Demis Hassabis",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 60,
+        "views": 7473
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVEqQMFXMAA2AiL.jpg"
+      ]
     },
     {
       "id": "twitter:2112689291570938255",
@@ -5190,14 +5311,14 @@
       "text": "RT @maxencefaldor: Four Gemini 4 Argon agents, one shared Minecraft world, one goal: defeat the Ender Dragon. 27 hours and 2,783 self-writt…",
       "url": "https://x.com/demishassabis/status/2111699132217688417",
       "created_at": "2026-10-18T06:01:21.000Z",
-      "fetched_at": "2026-10-20T20:09:03.923Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
       "author": "Demis Hassabis",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 65,
-        "views": 7882
+        "retweets": 69,
+        "views": 8164
       }
     },
     {
@@ -7576,14 +7697,14 @@
       "text": "RT @theworldlabs: Atlas beta access has started rolling out! \n\nHere’s a look at how you can control camera paths with pixel-perfect precisi…",
       "url": "https://x.com/drfeifei/status/2110796357699277099",
       "created_at": "2026-10-15T18:14:03.000Z",
-      "fetched_at": "2026-10-21T00:14:02.919Z",
+      "fetched_at": "2026-10-27T20:09:06.853Z",
       "author": "Fei-Fei Li",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 59,
-        "views": 2420
+        "views": 2456
       }
     },
     {
