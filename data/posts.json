@@ -1,7 +1,112 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T20:09:12.149Z",
+  "updated_at": "2026-10-28T00:14:03.765Z",
   "posts": [
+    {
+      "id": "twitter:2115209786157412397",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Important, but not unexpected, finding that experts working with AI agents are swayed by the positions of the AI, even if they think they are working independently.\n\nIf your independent judgement matters on a task, you need to be deliberate about when in the process to use AI. https://t.co/djlVFyPcQo",
+      "url": "https://x.com/emollick/status/2115209786157412397",
+      "created_at": "2026-10-27T22:31:26.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 145,
+        "replies": 79,
+        "retweets": 14,
+        "views": 12086
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVq8FGOXwAEm9In.png"
+      ]
+    },
+    {
+      "id": "twitter:2115157101383155760",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "It is part of the odd all-consuming \"AI is all fake\" conspiracy theory that should have ended with a combination of Anthropic's S-1, the math proofs of the last month, the post-Mythos cybersecurity environment, etc. \n\n...but which is likely to continue to misinform people anyway.",
+      "url": "https://x.com/emollick/status/2115157101383155760",
+      "created_at": "2026-10-27T19:02:05.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 35,
+        "replies": 4,
+        "retweets": 1,
+        "views": 5775
+      }
+    },
+    {
+      "id": "twitter:2115150629836632473",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "The repeated argument that AI companies are talking about existential risks as a way of creating hype &amp; inflating their stock prices has always been odd.\n\nTelling people your product may murder everyone does not, in fact, encourage people to adopt it or reduce regulatory risks.",
+      "url": "https://x.com/emollick/status/2115150629836632473",
+      "created_at": "2026-10-27T18:36:22.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 179,
+        "replies": 64,
+        "retweets": 5,
+        "views": 18050
+      }
+    },
+    {
+      "id": "twitter:2115135175730618630",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "This is the state of world models 2 years ago, and it was a specialized model trained on DOOM, not a generalist world model. https://t.co/qPLidtgioA",
+      "url": "https://x.com/emollick/status/2115135175730618630",
+      "created_at": "2026-10-27T17:34:57.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 34,
+        "replies": 1,
+        "retweets": 0,
+        "views": 7013
+      }
+    },
+    {
+      "id": "twitter:2115127527241085010",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Genie 4 runs DOOM: \"Walking through a typical office but every computer is running DOOM and all of the walls are also running DOOM and also everything is DOOM\"\n\n\"My coworker who is a demon appears\"\n\n\"He has a chaingun\"\n\n\"He gives me a bonus\" https://t.co/akilUHGgYn",
+      "url": "https://x.com/emollick/status/2115127527241085010",
+      "created_at": "2026-10-27T17:04:34.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 371,
+        "replies": 58,
+        "retweets": 22,
+        "views": 40723
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115127325356429312/img/Iquwn54fM0UAwmIK.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2115120818116334084",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Genie 4 is quite an insane experience, generating game-like enviornments as you go. It isn't flawless but I can type \"Neogothic brutalist city inhabited by robots and horses\" &amp; it creates one in a minute. Then I asked it to add dragons. Then a friendly otter NPC. All in realtime https://t.co/TgpP0hoODd",
+      "url": "https://x.com/emollick/status/2115120818116334084",
+      "created_at": "2026-10-27T16:37:54.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 1104,
+        "replies": 100,
+        "retweets": 75,
+        "views": 58247
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115120566482931712/img/0eTKXu-tfoIqWMG0.jpg"
+      ]
+    },
     {
       "id": "twitter:2115093098816745910",
       "platform": "twitter",
@@ -52,6 +157,95 @@
       }
     },
     {
+      "id": "twitter:2115066250938192118",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "This never gets old (&amp; also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable &amp; GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space) https://t.co/l615pOos4l",
+      "url": "https://x.com/emollick/status/2115066250938192118",
+      "created_at": "2026-10-27T13:01:04.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 1122,
+        "replies": 216,
+        "retweets": 62,
+        "views": 68392
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVo5iwNXYAEcBMJ.jpg",
+        "https://pbs.twimg.com/media/HVo5iwTX0AA58hR.jpg",
+        "https://pbs.twimg.com/media/HVo5iwRXUAAJSdR.jpg",
+        "https://pbs.twimg.com/media/HVo5iwQXsAEuQRE.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114942688281911345",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I realize this is because thinking traces have gotten too long (and too proprietary) but the solution of hiding them almost entirely so the AI just does \"magic\" feels like a failure of imagination and a move towards a default of disintermediation that is worth effort challenging.",
+      "url": "https://x.com/emollick/status/2114942688281911345",
+      "created_at": "2026-10-27T04:50:05.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 144,
+        "replies": 16,
+        "retweets": 7,
+        "views": 11286
+      }
+    },
+    {
+      "id": "twitter:2114942007533515261",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation &amp; for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+      "url": "https://x.com/emollick/status/2114942007533515261",
+      "created_at": "2026-10-27T04:47:22.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 727,
+        "replies": 356,
+        "retweets": 47,
+        "views": 46944
+      }
+    },
+    {
+      "id": "twitter:2114875372173144338",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Two and a half years from this. https://t.co/Xh9jEncTRa",
+      "url": "https://x.com/emollick/status/2114875372173144338",
+      "created_at": "2026-10-27T00:22:35.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 706,
+        "replies": 49,
+        "retweets": 45,
+        "views": 47020
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVmL8N3XsAAlU55.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2114860935613473022",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Given how out-of-nowhere it seems to many, it is astonishing that there was a small group of people who predicted with remarkable accuracy everything that is happening in AI today a decade ago (@kevinroose shows this in The AGI Chronicles). Many  are now very rich and/or powerful",
+      "url": "https://x.com/emollick/status/2114860935613473022",
+      "created_at": "2026-10-26T23:25:13.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 1200,
+        "replies": 104,
+        "retweets": 58,
+        "views": 88225
+      }
+    },
+    {
       "id": "twitter:2114849110553440469",
       "platform": "twitter",
       "handle": "danshipper",
@@ -83,6 +277,42 @@
         "retweets": 1,
         "views": 842
       }
+    },
+    {
+      "id": "twitter:2114824177878245861",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Thread on earlier work on the topic https://t.co/VkkvD7h7fE",
+      "url": "https://x.com/emollick/status/2114824177878245861",
+      "created_at": "2026-10-26T20:59:10.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 21,
+        "replies": 2,
+        "retweets": 1,
+        "views": 8804
+      }
+    },
+    {
+      "id": "twitter:2114822071016398918",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I had GPT-6 Pro revisit the cool finding that violent video games reduce crime, as people stay home playing them. It downloaded fresh crime data &amp; extended prior work.\n\nYes, GTA V's 2013 launch was linked with a dip in violence internationally. Other games are more ambiguous. https://t.co/OPgInkfpXm",
+      "url": "https://x.com/emollick/status/2114822071016398918",
+      "created_at": "2026-10-26T20:50:47.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 487,
+        "replies": 89,
+        "retweets": 28,
+        "views": 35837
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HVlbGeuW8AAx2_X.jpg",
+        "https://pbs.twimg.com/media/HVlbL-VWUAAJ2Mi.jpg"
+      ]
     },
     {
       "id": "twitter:2114800845829140541",
@@ -272,6 +502,22 @@
       ]
     },
     {
+      "id": "twitter:2114503849826549842",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "My general advice for using AI for any purpose is to ask yourself: \"how do I make what I am doing even more ambitious?\"\n\nYou do this until you either hit a wall and then you know the shape of the frontier (useful!) or you find out that the AI can do more than you think (common!)",
+      "url": "https://x.com/emollick/status/2114503849826549842",
+      "created_at": "2026-10-25T23:46:18.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 2240,
+        "replies": 379,
+        "retweets": 159,
+        "views": 188506
+      }
+    },
+    {
       "id": "twitter:2114483592307044778",
       "platform": "twitter",
       "handle": "chrmanning",
@@ -304,6 +550,25 @@
         "retweets": 4,
         "views": 860
       }
+    },
+    {
+      "id": "twitter:2114404221021778347",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. https://t.co/Ti5jo6ksfI https://t.co/M6cw9OKRg7",
+      "url": "https://x.com/emollick/status/2114404221021778347",
+      "created_at": "2026-10-25T17:10:24.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 538,
+        "replies": 166,
+        "retweets": 36,
+        "views": 33212
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2114403671660183552/img/ls27qX3jWrYqLrFb.jpg"
+      ]
     },
     {
       "id": "twitter:2114397843222139364",
@@ -395,6 +660,54 @@
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2114366172942757888/img/ul7bzl8-Ei2Zj-6U.jpg"
       ]
+    },
+    {
+      "id": "twitter:2114339840049422462",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Thinking in terms of dashboards is not big enough, AIs don’t just passively gather KPIs, they actively can put together research identify loose ends and tell you what’s important to pay attention to, not just at some sort of high level. Increasingly, they can also take action",
+      "url": "https://x.com/emollick/status/2114339840049422462",
+      "created_at": "2026-10-25T12:54:35.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 157,
+        "replies": 22,
+        "retweets": 10,
+        "views": 22133
+      }
+    },
+    {
+      "id": "twitter:2114338128387305581",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "What makes this appealing is that current frontier models are remarkably capable at this sort of work out of the box when connected to a company’s data, without a lot of specialized work.",
+      "url": "https://x.com/emollick/status/2114338128387305581",
+      "created_at": "2026-10-25T12:47:46.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 122,
+        "replies": 12,
+        "retweets": 3,
+        "views": 24789
+      }
+    },
+    {
+      "id": "twitter:2114337256865493250",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "A thing I see happening at large organizations as a result of AI is the expansion of the role and span of control of senior management who can directly monitor the whole firm. It vastly changes company operations. It also is straightforward to implement compared to firm redesign.",
+      "url": "https://x.com/emollick/status/2114337256865493250",
+      "created_at": "2026-10-25T12:44:19.000Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 961,
+        "replies": 400,
+        "retweets": 51,
+        "views": 156101
+      }
     },
     {
       "id": "twitter:2114327908709802236",
@@ -3908,13 +4221,13 @@
       "text": "Flora website: https://t.co/ViuxycNGoX\nOpen model suite: \nhttps://t.co/bAl5I72WRw",
       "url": "https://x.com/DrJimFan/status/2112597589388652719",
       "created_at": "2026-10-20T17:31:30.000Z",
-      "fetched_at": "2026-10-21T00:14:02.920Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
       "author": "Jim Fan",
       "metrics": {
-        "likes": 32,
+        "likes": 64,
         "replies": 7,
-        "retweets": 2,
-        "views": 6795
+        "retweets": 5,
+        "views": 13923
       }
     },
     {
@@ -3924,13 +4237,13 @@
       "text": "Check out Yunze's technical deep dive: \nhttps://t.co/LivBItUnx5",
       "url": "https://x.com/DrJimFan/status/2112597590571450505",
       "created_at": "2026-10-20T17:31:30.000Z",
-      "fetched_at": "2026-10-21T00:14:02.920Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
       "author": "Jim Fan",
       "metrics": {
-        "likes": 15,
-        "replies": 1,
+        "likes": 23,
+        "replies": 0,
         "retweets": 1,
-        "views": 5222
+        "views": 8647
       }
     },
     {
@@ -3940,13 +4253,13 @@
       "text": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open models to parse the physical world and turn raw footage into rich training signals. \n\nFlora already powers our in-house data engine, labeling 200K hours of videos a day on 500 GPUs. We created it to scale the frontier for robot learning. Now you own the weights too. \n\nFlora gives you:\n\n- High-quality, timestamped captions to curate and filter human egocentric and robot data;\n- Dense progress rewards for quality control and RL post-training;\n- Rubrics scoring for real-world benchmarking\n\nTry it today, links in thread:",
       "url": "https://x.com/DrJimFan/status/2112597587987689912",
       "created_at": "2026-10-20T17:31:29.000Z",
-      "fetched_at": "2026-10-21T00:14:02.920Z",
+      "fetched_at": "2026-10-28T00:13:59.858Z",
       "author": "Jim Fan",
       "metrics": {
-        "likes": 862,
-        "replies": 92,
-        "retweets": 91,
-        "views": 47683
+        "likes": 1685,
+        "replies": 183,
+        "retweets": 198,
+        "views": 123112
       },
       "media": [
         "https://pbs.twimg.com/amplify_video_thumb/2112589725337083904/img/4Fy5XFx6jbgKIYgv.jpg"
