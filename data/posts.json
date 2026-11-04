@@ -1,7 +1,170 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T01:16:48.182Z",
+  "updated_at": "2026-11-04T20:03:09.260Z",
   "posts": [
+    {
+      "id": "twitter:2118012530215854477",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "AI semiotics: cool paper suggests that AIs are strongly impacted by visual symbols in ways they do not always recognize in their own chains-of-thought. The way they react to those symbols is very different than how a human might interpret them as well. https://t.co/2tOSw2qUm1 https://t.co/PhwGpWtTI2",
+      "url": "https://x.com/emollick/status/2118012530215854477",
+      "created_at": "2026-11-04T16:08:32.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 184,
+        "replies": 131,
+        "retweets": 26,
+        "views": 13222
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWSxDYWW0AAi8Vk.png",
+        "https://pbs.twimg.com/media/HWSxDYVWkAE6pdQ.png"
+      ]
+    },
+    {
+      "id": "twitter:2117999628939325756",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Thanks to all my Dutch readers and @AlexanderNL, my incredible publisher there, for making the Dutch translation of Co-Existence the #1 non-fiction book in the Netherlands! https://t.co/n2ZTpSK6GN",
+      "url": "https://x.com/emollick/status/2117999628939325756",
+      "created_at": "2026-11-04T15:17:16.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 41,
+        "replies": 20,
+        "retweets": 3,
+        "views": 9402
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWSk-FzX0AAGv0k.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2117736864010645567",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "The AI slopcomments are out-of-control on X but also remarkably easy to stop if the company wanted to?\n\nI did a little experiment and found that combining as few as five comments and running them through Pangram is good enough to weed out the slop and not punish real humans. https://t.co/0FAtFPsJHc",
+      "url": "https://x.com/emollick/status/2117736864010645567",
+      "created_at": "2026-11-03T21:53:08.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 311,
+        "replies": 156,
+        "retweets": 18,
+        "views": 24987
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWO2U6mW8AAxj0Y.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2117659516170916192",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Even a few months ago, you would get tons of nitpicks and useless comments, now you are far more likely to get something that is intellectually interesting, as well as substantive deep critiques, much more like giving your work to a very good (if eccentric) peer.",
+      "url": "https://x.com/emollick/status/2117659516170916192",
+      "created_at": "2026-11-03T16:45:47.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 54,
+        "replies": 6,
+        "retweets": 1,
+        "views": 7932
+      }
+    },
+    {
+      "id": "twitter:2117659011373756509",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "We are in an era of flux &amp; fighting over how AI should be used to review academic work\n\nBut it is worth proving to yourself that yes, AI used properly can be quite insightful at this, by asking GPT-6 Pro/Opus 5.5 High to give helpful, substantive feedback on one of your papers.",
+      "url": "https://x.com/emollick/status/2117659011373756509",
+      "created_at": "2026-11-03T16:43:47.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 292,
+        "replies": 166,
+        "retweets": 15,
+        "views": 27869
+      }
+    },
+    {
+      "id": "twitter:2117510241353093170",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "This would have cost $4.81 in Opus 5.5 API fees (but is a small part of my Claude subscription)",
+      "url": "https://x.com/emollick/status/2117510241353093170",
+      "created_at": "2026-11-03T06:52:37.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 41,
+        "replies": 14,
+        "retweets": 2,
+        "views": 10127
+      }
+    },
+    {
+      "id": "twitter:2117503772398178763",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "\"Opus, great, now turn that into a movie, i know you can make it amazing. figure it out.\"\n\nYes, that was the only prompt https://t.co/ZmlVl4pcse",
+      "url": "https://x.com/emollick/status/2117503772398178763",
+      "created_at": "2026-11-03T06:26:55.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 376,
+        "replies": 164,
+        "retweets": 20,
+        "views": 38381
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2117503635084992512/img/ru3siynLe3wRre04.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2117446014617714909",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Source: https://t.co/72JgTpz8Cy",
+      "url": "https://x.com/emollick/status/2117446014617714909",
+      "created_at": "2026-11-03T02:37:24.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 41,
+        "replies": 0,
+        "retweets": 1,
+        "views": 13280
+      }
+    },
+    {
+      "id": "twitter:2117445039211086096",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "This is a fantastic idea - a mass attempted replication of old findings of LLMs with new models. Much conventional wisdom is outdated.\n\nRecent models no longer invent citations and both hallucination rates &amp; stereotyping has dropped. But they are still sycophantic &amp; lean left. https://t.co/sPZZDFYAf4",
+      "url": "https://x.com/emollick/status/2117445039211086096",
+      "created_at": "2026-11-03T02:33:32.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 1685,
+        "replies": 230,
+        "retweets": 154,
+        "views": 103730
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWKsoQxWAAAScMH.jpg",
+        "https://pbs.twimg.com/media/HWKs-I1WsAAl-_N.jpg",
+        "https://pbs.twimg.com/media/HWKs_brXUAA0sdn.jpg",
+        "https://pbs.twimg.com/media/HWKtBt6WYAEtJh9.jpg"
+      ]
+    },
     {
       "id": "twitter:2117389843592339569",
       "platform": "twitter",
@@ -34,6 +197,25 @@
         "retweets": 2,
         "views": 5229
       }
+    },
+    {
+      "id": "twitter:2117372481191239762",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Opus 5.5: \"Give me 10 brilliant ideas for a science fiction short short story, pick the most brilliant and execute it terribly\" https://t.co/EdBVhzpGqg",
+      "url": "https://x.com/emollick/status/2117372481191239762",
+      "created_at": "2026-11-02T21:45:13.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 499,
+        "replies": 95,
+        "retweets": 23,
+        "views": 77872
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWJqzyBWUAAV8Dy.jpg"
+      ]
     },
     {
       "id": "twitter:2117366271528558762",
@@ -137,6 +319,62 @@
         "retweets": 4,
         "views": 677
       }
+    },
+    {
+      "id": "twitter:2117346417979384162",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "I had Opus 5.5 create a site where you can see the fastest routes into every city in the US, figure out where in America is fairest to meet up, see the \"watersheds\" of the largest cities, and more: https://t.co/xQfESpVijx\n\n(Inspired by the defunct Arterial Mapping site) https://t.co/LISWeO2Ms4",
+      "url": "https://x.com/emollick/status/2117346417979384162",
+      "created_at": "2026-11-02T20:01:39.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 860,
+        "replies": 111,
+        "retweets": 42,
+        "views": 65540
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWJS_tFW4AAgVVL.jpg",
+        "https://pbs.twimg.com/media/HWJTEE4W0AAbOVp.jpg",
+        "https://pbs.twimg.com/media/HWJTFBDXEAAtj3Q.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2117338841749029221",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Waiting for replication but this is a pretty big deal.",
+      "url": "https://x.com/emollick/status/2117338841749029221",
+      "created_at": "2026-11-02T19:31:32.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 1472,
+        "replies": 101,
+        "retweets": 73,
+        "views": 74931
+      }
+    },
+    {
+      "id": "twitter:2117338116185035004",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "AI adoption continues to grow (remember last year during the summer when everyone thought adoption was dropping?)\n\nAlso good discussion of changes in methodology by Simon in the post. https://t.co/1OPPh97WrF",
+      "url": "https://x.com/emollick/status/2117338116185035004",
+      "created_at": "2026-11-02T19:28:39.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 298,
+        "replies": 60,
+        "retweets": 25,
+        "views": 24904
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWJLy2LWsAAcKgN.jpg"
+      ]
     },
     {
       "id": "twitter:2117331453558268081",
@@ -263,6 +501,55 @@
       }
     },
     {
+      "id": "twitter:2117291720723554449",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "RT @deredleritt3r: Anthropic says in its amended S-1 that its internal estimates and expectations about FUTURE models indicate that it may…",
+      "url": "https://x.com/emollick/status/2117291720723554449",
+      "created_at": "2026-11-02T16:24:18.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 39,
+        "views": 3514
+      }
+    },
+    {
+      "id": "twitter:2117282677493580028",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "The thing is that their products are unreasonably effective &amp; getting better all the time because LLMs are unreasonably effective &amp; getting better all the time. So the Labs have been rewarded for treating their products as disposable because conventional software cycles broke.",
+      "url": "https://x.com/emollick/status/2117282677493580028",
+      "created_at": "2026-11-02T15:48:22.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 123,
+        "replies": 6,
+        "retweets": 1,
+        "views": 8635
+      }
+    },
+    {
+      "id": "twitter:2117279363175739630",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "When you think about the Labs' weird approach to software (sudden changes, bad communication), it is worth remembering that a core belief is that these products are a temporary thing they have to do to raise money for a couple years until \"true\" AGI makes all products obsolete.",
+      "url": "https://x.com/emollick/status/2117279363175739630",
+      "created_at": "2026-11-02T15:35:11.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 844,
+        "replies": 232,
+        "retweets": 44,
+        "views": 42591
+      }
+    },
+    {
       "id": "twitter:2117264165769265555",
       "platform": "twitter",
       "handle": "danshipper",
@@ -295,6 +582,42 @@
         "retweets": 4,
         "views": 738
       }
+    },
+    {
+      "id": "twitter:2117143076443746659",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Again, @SemiAnalysis_ is doing something valuable here &amp; you can see why benchmarks of expert-level work are incredibly hard to pull off. I think this is quite useful at a time where so many other major benchmarks (ARC-AGI, GDPval, METR Long Tasks) are completely saturated.",
+      "url": "https://x.com/emollick/status/2117143076443746659",
+      "created_at": "2026-11-02T06:33:38.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 32,
+        "replies": 9,
+        "retweets": 1,
+        "views": 9922
+      }
+    },
+    {
+      "id": "twitter:2117142297934757916",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "Nice to see a successor to GDPval to evaluate AI work but really needs human baselines like GDPval.\n\nFunnily enough, GPT-6 Pro spotted some errors in the grading. I also think the 0% scores hide economically meaningful differences in success rates. But still a valuable benchmark! https://t.co/mfKfsKzcpM",
+      "url": "https://x.com/emollick/status/2117142297934757916",
+      "created_at": "2026-11-02T06:30:33.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 291,
+        "replies": 233,
+        "retweets": 14,
+        "views": 27561
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWGX7v4XIAA4Kb7.jpg",
+        "https://pbs.twimg.com/media/HWGZUiVXMAAQ-R5.jpg"
+      ]
     },
     {
       "id": "twitter:2117058606143287546",
@@ -395,6 +718,38 @@
         "replies": 62,
         "retweets": 8,
         "views": 14197
+      }
+    },
+    {
+      "id": "twitter:2116988605210223088",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "To be clear, there still would’ve been a large impact from GPT4 alone, but it was going to take a time before organizations successfully adopted new methods of work, because getting real gains required much larger changes to processes than it does with current frontier models.",
+      "url": "https://x.com/emollick/status/2116988605210223088",
+      "created_at": "2026-11-01T20:19:49.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 51,
+        "replies": 6,
+        "retweets": 3,
+        "views": 10538
+      }
+    },
+    {
+      "id": "twitter:2116987671939875319",
+      "platform": "twitter",
+      "handle": "emollick",
+      "text": "GPT-4 could do 4 minutes of independent work with a 50% chance of success.\n\nCurrent models can do multiple weeks of work, and January 2026 is a reasonable cut-off for the moment agentic work started.\n\nLarge productivity impacts before that would mostly be confined to coding.",
+      "url": "https://x.com/emollick/status/2116987671939875319",
+      "created_at": "2026-11-01T20:16:07.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Ethan Mollick",
+      "metrics": {
+        "likes": 773,
+        "replies": 261,
+        "retweets": 41,
+        "views": 43593
       }
     },
     {
@@ -567,6 +922,23 @@
       ]
     },
     {
+      "id": "twitter:2116789436042158162",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @SuJinyan6: Poisoning just 0.1% of pretraining data can plant a remote-code-execution backdoor in an AI agent, and it survives a fully c…",
+      "url": "https://x.com/EMostaque/status/2116789436042158162",
+      "created_at": "2026-11-01T07:08:24.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 182,
+        "views": 2362
+      }
+    },
+    {
       "id": "twitter:2116711094622593292",
       "platform": "twitter",
       "handle": "op7418",
@@ -580,6 +952,23 @@
         "replies": 68,
         "retweets": 15,
         "views": 26437
+      }
+    },
+    {
+      "id": "twitter:2116656618783801718",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @alexwg: Moonshots episode #307 is out. https://t.co/lckEiTWkg4",
+      "url": "https://x.com/EMostaque/status/2116656618783801718",
+      "created_at": "2026-10-31T22:20:38.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 17,
+        "views": 1984
       }
     },
     {
@@ -1264,6 +1653,23 @@
         "replies": 0,
         "retweets": 43,
         "views": 2921
+      }
+    },
+    {
+      "id": "twitter:2116243404904640603",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @emmanuel_2m: We just open-sourced an entire 3D studio.\n\nIntroducing 3D OS by Scenario.\n\nIt gives your coding agent 6 departments and 80…",
+      "url": "https://x.com/EMostaque/status/2116243404904640603",
+      "created_at": "2026-10-30T18:58:40.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 290,
+        "views": 2120
       }
     },
     {
@@ -1972,6 +2378,23 @@
       }
     },
     {
+      "id": "twitter:2115916769298891107",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @speridlabs: Meet Idol, an open image-to-3D model. A 3D-DiT that generates complete 3D objects from just an image.\n\nPre-trained from scr…",
+      "url": "https://x.com/EMostaque/status/2115916769298891107",
+      "created_at": "2026-10-29T21:20:44.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 235,
+        "views": 2064
+      }
+    },
+    {
       "id": "twitter:2115907235037766015",
       "platform": "twitter",
       "handle": "btibor91",
@@ -2071,6 +2494,39 @@
         "replies": 0,
         "retweets": 1,
         "views": 277
+      }
+    },
+    {
+      "id": "twitter:2115873717003726851",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "Very nice model from a great team, 1 cent a second!",
+      "url": "https://x.com/EMostaque/status/2115873717003726851",
+      "created_at": "2026-10-29T18:29:39.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Emad",
+      "metrics": {
+        "likes": 165,
+        "replies": 7,
+        "retweets": 3,
+        "views": 16666
+      }
+    },
+    {
+      "id": "twitter:2115873580152221877",
+      "platform": "twitter",
+      "handle": "EMostaque",
+      "text": "RT @pika_labs: Meet Pika H3 Flex, debuting today as the #1 open weight model on DesignArena’s t2v board.\n\nIt’s built for professional itera…",
+      "url": "https://x.com/EMostaque/status/2115873580152221877",
+      "created_at": "2026-10-29T18:29:07.000Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
+      "author": "Emad",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 354,
+        "views": 1957
       }
     },
     {
@@ -2679,13 +3135,13 @@
       "text": "I have built and overseen teams that have trained frontier models of every type.\n\nCan say this confidently: there is no need for AI teams to build good models any more.\n\nCan do it all with latest AI better.\n\nGreat models yes, but only for another year.",
       "url": "https://x.com/EMostaque/status/2115603660852150571",
       "created_at": "2026-10-29T00:36:33.000Z",
-      "fetched_at": "2026-10-29T01:51:03.027Z",
+      "fetched_at": "2026-11-04T20:03:04.205Z",
       "author": "Emad",
       "metrics": {
-        "likes": 39,
-        "replies": 8,
-        "retweets": 4,
-        "views": 3996
+        "likes": 367,
+        "replies": 35,
+        "retweets": 29,
+        "views": 29835
       }
     },
     {
