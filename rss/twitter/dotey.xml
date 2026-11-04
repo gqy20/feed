@@ -5,8 +5,160 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>dotey · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/dotey.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 16:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:34:50 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>宝玉：RT @yetone: Alma 的 Relay Server 开源了 🎉</title>
+      <link>https://x.com/dotey/status/2116629994075983874</link>
+      <guid isPermaLink="false">twitter:2116629994075983874</guid>
+      <pubDate>Sat, 31 Oct 2026 20:34:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @yetone: Alma 的 Relay Server 开源了 🎉<br /><br />用自己的中继服务器远程控制电脑上的 Alma：<br />· Cloudflare Workers 一键部署，免费套餐就够<br />· 或 Docker 一条命令，自动 HTTPS<br />· 端到端加密，中继只看得到密文…</p><p><a href="https://x.com/dotey/status/2116629994075983874">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：baoyu-design 增加了局域网内的团队共享功能，现在你的设计稿做好了，或者slides写好了，可以在局域网内分享，生成一个内部 IP 地址加端口的 URL（注意防火墙…</title>
+      <link>https://x.com/dotey/status/2116623097839149231</link>
+      <guid isPermaLink="false">twitter:2116623097839149231</guid>
+      <pubDate>Sat, 31 Oct 2026 20:07:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>baoyu-design 增加了局域网内的团队共享功能，现在你的设计稿做好了，或者slides写好了，可以在局域网内分享，生成一个内部 IP 地址加端口的 URL（注意防火墙设置），让你的同事、老板也能对你的内容进行编辑、评论，并且实时同步。<br /><br />安全性也不用担心，所有数据都在你本机，你可以控制分享的权限级别：只读、评论、编辑，并且可以随时修改权限设置。<br /><br />deepseek harness 的插件也同步更新了，一样支持这个功能。<br /><br />最新版本：https://t.co/8zkHcKkI7h</p><img src="https://pbs.twimg.com/amplify_video_thumb/2116615708255698944/img/sCJOmvqZASferJTk.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116623097839149231">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：不错，Grok bot 还能共享</title>
+      <link>https://x.com/dotey/status/2116605149904781536</link>
+      <guid isPermaLink="false">twitter:2116605149904781536</guid>
+      <pubDate>Sat, 31 Oct 2026 18:56:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>不错，Grok bot 还能共享</p><p><a href="https://x.com/dotey/status/2116605149904781536">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @yetone: 大家好，Magpie 今天有一个很重要的更新，就是 Magpie 中的 Claude Code Provider 的实现方式，从之前的使用 claud…</title>
+      <link>https://x.com/dotey/status/2116576592843661319</link>
+      <guid isPermaLink="false">twitter:2116576592843661319</guid>
+      <pubDate>Sat, 31 Oct 2026 17:02:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @yetone: 大家好，Magpie 今天有一个很重要的更新，就是 Magpie 中的 Claude Code Provider 的实现方式，从之前的使用 claude -p 改为了直接使用 Claude Code TUI。当然这是可配置的，你可以设置回以前的方案。…</p><p><a href="https://x.com/dotey/status/2116576592843661319">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Tibo 终于熬完他的 28 天了，最后两天送重置卡👍</title>
+      <link>https://x.com/dotey/status/2116409662635692138</link>
+      <guid isPermaLink="false">twitter:2116409662635692138</guid>
+      <pubDate>Sat, 31 Oct 2026 05:59:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Tibo 终于熬完他的 28 天了，最后两天送重置卡👍</p><p><a href="https://x.com/dotey/status/2116409662635692138">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：疑似造假：有人称偷到 Claude Fable 5 权重在兜售，网友比对发现文件来自 DeepSeek 免费开源的模型</title>
+      <link>https://x.com/dotey/status/2116366460939386990</link>
+      <guid isPermaLink="false">twitter:2116366460939386990</guid>
+      <pubDate>Sat, 31 Oct 2026 03:07:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>疑似造假：有人称偷到 Claude Fable 5 权重在兜售，网友比对发现文件来自 DeepSeek 免费开源的模型<br /><br />网上有人在兜售所谓 Anthropic 旗舰模型 Claude Fable 5 的“权重”。这个说法没有证实，已有网友指出是假的：卖家晒出的文件，和 DeepSeek 免费公开下载的模型文件一个字节都不差。截至北京时间 31 日上午，Anthropic 和亚马逊都没有回应，也没有主流媒体报道。<br /><br />【卖家怎么说】<br /><br />消息来自 X 账号 Dark Web Informer，它专门转发黑客论坛上的动态。帖子说，一个叫“localizer”的人声称，亚马逊云（AWS）上有个和 Amazon Bedrock 相关的存储桶权限没设好，他从里面拿到了 Fable 5 权重的一个分片，约 7GB。<br /><br />模型权重是模型训练出来的全部参数，就是一大堆数字组成的文件，拿到它就能在自己的机器上跑这个模型。Anthropic 从不公开权重，外人只能付费调用。Amazon Bedrock 是亚马逊的 AI 模型平台，企业可以在上面调用 Claude。权重文件太大，要切成很多块存放，就像压缩包分卷，每一块叫一个分片。<br /><br />localizer 说完整模型有 640 个分片、约 8TB，他只拿到 1 片，存储桶就被锁了。他晒出了文件名、模型信息和文件内容的截图当证据，现在要卖这一片。Dark Web Informer 在帖子里也写明：说法未经证实，文件真假、和 Anthropic 有没有关系都没确认。<br /><br />【为什么说疑似造假】<br /><br />X 用户 toriset 回帖说这是假的，给了四条理由。<br /><br />第一，截图里每个文件的大小和内容，都和 DeepSeek V4.1-Flash-1017 第 13 到 42 号分片完全一样。这个模型 10 月 17 日刚开源，任何人都能从 Hugging Face 免费下载。我查了 Hugging Face 上的文件列表，这个模型的分片大多是 7,389,761,368 字节，也就是 7.39GB，和卖家说的“约 7GB”对得上。卖家的截图我没能看到，没法自己逐字节比对。<br /><br />第二，toriset 说 eu-north-1（AWS 的斯德哥尔摩区域）不托管 Fable。Dark Web Informer 的帖子没提区域，从回帖推断，卖家材料里写的是这个区域。AWS 文档显示，在斯德哥尔摩调用 Fable 5，请求会被转到别的地区处理，当地本身不运行这个模型。<br /><br />第三，数字对不上。640 片乘以 7.39GB 约等于 4.73TB，离卖家说的 8TB 差了三千多 GB。<br /><br />第四，toriset 说，只有 1/640 的权重，没法拿来蒸馏（用强模型训练自己的模型）。就算文件是真的，这也好比 640 卷的百科全书只拿到一卷，模型跑不起来。<br /><br />另一位 X 用户 Ondrej Simaichl 提到，发帖的论坛账号这个月才注册。<br /><br />【Anthropic 这周还有一起安全事件】<br /><br />这条传言出现时，Anthropic 正在处理另一起已经证实的安全事件。据《华盛顿邮报》10 月 26 日报道，安全创业公司 Cathedral 在参加 Anthropic 的漏洞悬赏时，用 AI agent 通过第三方办公软件进入 Anthropic 内部系统，看到了工资、会议记录和 Slack 消息。Anthropic 说被访问的只是销售、人事和 IT 的一部分系统，用户的 Claude 聊天记录、源代码和模型权重都没有泄露，并指责 Cathedral 违反了悬赏规则。目前看不出这两件事有关联。<br /><br />来源：<br />Dark Web Informer 原帖：X @DarkWebInformer<br />toriset 反驳：X @torisetxd<br />DeepSeek V4.1-Flash-1017 文件列表：https://t.co/vJR4RpU6Jp<br />AWS Bedrock Fable 5 可用区域：https://t.co/zh3ZVVzlJG<br />Cathedral 事件（The Decoder 转述《华盛顿邮报》）：https://t.co/eo3qs71eES</p><img src="https://pbs.twimg.com/media/HV7XwTxXgAALfPp.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116366460939386990">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @hidecloud: A year ago, an engineer would read my request, work out what I meant, th…</title>
+      <link>https://x.com/dotey/status/2116364443021873393</link>
+      <guid isPermaLink="false">twitter:2116364443021873393</guid>
+      <pubDate>Sat, 31 Oct 2026 02:59:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @hidecloud: A year ago, an engineer would read my request, work out what I meant, then write the code.  <br /><br />Now our engineers often has 10…</p><p><a href="https://x.com/dotey/status/2116364443021873393">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：作者的 X 账号，推荐关注</title>
+      <link>https://x.com/dotey/status/2116364406871441755</link>
+      <guid isPermaLink="false">twitter:2116364406871441755</guid>
+      <pubDate>Sat, 31 Oct 2026 02:59:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>作者的 X 账号，推荐关注<br />https://t.co/EeI2bpiEZa</p><p><a href="https://x.com/dotey/status/2116364406871441755">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：RT @sundyme: 以后做这种超酷还能正常交互的网页就简单多了，Chrome新增HTML-in-Canvas能力，可以把真实网页直接画进canvas里做特效，网页还可以…</title>
+      <link>https://x.com/dotey/status/2116360145483792579</link>
+      <guid isPermaLink="false">twitter:2116360145483792579</guid>
+      <pubDate>Sat, 31 Oct 2026 02:42:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sundyme: 以后做这种超酷还能正常交互的网页就简单多了，Chrome新增HTML-in-Canvas能力，可以把真实网页直接画进canvas里做特效，网页还可以正常交互。<br /><br />Chrome 157 起进入稳定版，目前只有 Chromium 内核的浏览器支持。<br /><br />这是…</p><p><a href="https://x.com/dotey/status/2116360145483792579">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：用 DeepSeek 4.1 Flash 模型做出来的效果也不错 https://t.co/0Pbf9X1d1E</title>
+      <link>https://x.com/dotey/status/2116349344714473839</link>
+      <guid isPermaLink="false">twitter:2116349344714473839</guid>
+      <pubDate>Sat, 31 Oct 2026 01:59:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>用 DeepSeek 4.1 Flash 模型做出来的效果也不错 https://t.co/0Pbf9X1d1E</p><img src="https://pbs.twimg.com/media/HV7H5b7XAAA7X5I.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HV7IHo5WUAAEfzb.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HV7ITqsWMAAw5ZU.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HV7Ic9VWUAA7yJ7.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116349344714473839">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：写一个 dsh plugin 比我想的要简单一点，把官方文档给 Opus 5.5，提出我的要求就可以完成了：https://t.co/pMTvvTsTZr</title>
+      <link>https://x.com/dotey/status/2116339235443847533</link>
+      <guid isPermaLink="false">twitter:2116339235443847533</guid>
+      <pubDate>Sat, 31 Oct 2026 01:19:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>写一个 dsh plugin 比我想的要简单一点，把官方文档给 Opus 5.5，提出我的要求就可以完成了：https://t.co/pMTvvTsTZr</p><p><a href="https://x.com/dotey/status/2116339235443847533">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：做了一个 DeepSeek Harness 插件，现在 Claude Design 可以运行在 DeepSeek Harness，并且可以方便的标注、评论修改。</title>
+      <link>https://x.com/dotey/status/2116336030584574076</link>
+      <guid isPermaLink="false">twitter:2116336030584574076</guid>
+      <pubDate>Sat, 31 Oct 2026 01:06:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>做了一个 DeepSeek Harness 插件，现在 Claude Design 可以运行在 DeepSeek Harness，并且可以方便的标注、评论修改。 <br /><br />DeepSee Harness 确实越来越优秀了👍 @tianyi <br /><br />插件地址：https://t.co/5aOb2IXJMa https://t.co/BteewRJLfR</p><img src="https://pbs.twimg.com/amplify_video_thumb/2116335546905624577/img/YZkunnQotYxJ2Ju2.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116336030584574076">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Max 20x 一直是 pro x10 倍用量，所谓的 20x 是每 5 小时限额是 pro 的 x20 倍。</title>
+      <link>https://x.com/dotey/status/2116334522748809566</link>
+      <guid isPermaLink="false">twitter:2116334522748809566</guid>
+      <pubDate>Sat, 31 Oct 2026 01:00:44 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Max 20x 一直是 pro x10 倍用量，所谓的 20x 是每 5 小时限额是 pro 的 x20 倍。</p><p><a href="https://x.com/dotey/status/2116334522748809566">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：一个小技巧，很多公司的网页在线客服，默认都是那种 Q&amp;amp;A 的问答，就是默认一些选项让你选择，实际上得不到有效的回复，因为背后不是真人，这时候你可以试试输入“live …</title>
+      <link>https://x.com/dotey/status/2116258713187312073</link>
+      <guid isPermaLink="false">twitter:2116258713187312073</guid>
+      <pubDate>Fri, 30 Oct 2026 19:59:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>一个小技巧，很多公司的网页在线客服，默认都是那种 Q&amp;amp;A 的问答，就是默认一些选项让你选择，实际上得不到有效的回复，因为背后不是真人，这时候你可以试试输入“live agent”，那么会帮你转接真人客服。 https://t.co/7bEDPz5YPZ</p><img src="https://pbs.twimg.com/media/HV52DqIXMAAWE47.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116258713187312073">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：更多内容</title>
+      <link>https://x.com/dotey/status/2116239092312846483</link>
+      <guid isPermaLink="false">twitter:2116239092312846483</guid>
+      <pubDate>Fri, 30 Oct 2026 18:41:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>更多内容<br /><br />https://t.co/DRTXBLNRyL https://t.co/Pn6Bl0iyMr</p><img src="https://pbs.twimg.com/amplify_video_thumb/2116238859633635328/img/E3SEBMUBcD8PIs5v.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116239092312846483">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Claude 200 美元档改名 Ultra，已验证账号取消 5 小时限额，价格和周额度不变</title>
+      <link>https://x.com/dotey/status/2116233564823974005</link>
+      <guid isPermaLink="false">twitter:2116233564823974005</guid>
+      <pubDate>Fri, 30 Oct 2026 18:19:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Claude 200 美元档改名 Ultra，已验证账号取消 5 小时限额，价格和周额度不变<br /><br />Anthropic 10 月 30 日宣布给 Claude 的两档 Max 套餐改名：每月 100 美元的 Max 5x 改叫 Max，每月 200 美元的 Max 20x 改叫 Ultra。价格不变，现有订阅自动换成新名字，用户什么都不用做。<br /><br />同时，Ultra 的已验证账号不再有 5 小时限额，当天先对大部分现有订阅者生效。较新的账号在通过验证前保留一个临时限额，官方说这是为了防止欺诈和滥用，限额取消时会收到邮件。周限额不变。<br /><br />【取消 5 小时限额，对我有什么用】<br /><br />Claude 付费套餐原本有两道限额：一个每 5 小时重置一次的窗口，一个每周的总上限。重度用户，特别是用 Claude Code 长时间写代码的人，常遇到周额度还剩不少、却被 5 小时窗口卡住的情况，只能停下来等它重置。<br /><br />Ultra 去掉这道限额后，一周能用的总量没变，但可以连着用，不用再每隔几小时停一次。每周本来就把额度用光的人，总量上不会多拿到什么。<br /><br />100 美元的 Max 还是两道限额都有，每 5 小时和每周的用量都是 Pro 的 5 倍。200 美元的 ChatGPT Pro 一直只有周限额，Ultra 现在在这一点上和它一样。<br /><br />【我的账号验证了吗】<br /><br />验证由 Anthropic 自动完成，依据账号和付款记录等因素，用户不需要提交任何东西。订阅时验证手机号是另一回事，不会取消这个限额。帮助页没说验证要多久。<br /><br />自己查的方法：打开 Claude 设置里的“用量”页面，如果看不到“当前会话”（Current session）这条进度条，账号就已经验证，5 小时限额已经取消。<br /><br />【名字里的“20x”去哪了】<br /><br />旧名字里的 20 倍，指的是每 5 小时窗口能用 Pro 的 20 倍。新的 Ultra 帮助页写的是，每周用量是 Pro 的 10 倍，另有一个单独的 Fable 周限额。SemiAnalysis 10 月初的实测也是这个比例：200 美元档每月可用量约是 100 美元档的两倍。<br /><br />Anthropic 没解释为什么改名。5 小时窗口取消后，按窗口算的“20 倍”对 Ultra 不再适用，新名字里也就不带倍数了。<br /><br />来源：Claude 官方 X 帖子（@claudeai，2026-10-30）<br />https://t.co/5hZSlWWi62<br />Anthropic 帮助中心《What is the Ultra plan?》<br />https://t.co/JW8cTsXRlu<br />Anthropic 帮助中心《What is the Max plan?》<br />https://t.co/mfSYTfvBxv</p><img src="https://pbs.twimg.com/media/HV5fNR3X0AAS4tQ.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116233564823974005">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：Google 太空 AI 芯片第一次答题：卫星发射一个月后，在轨道上写了一首俳句</title>
+      <link>https://x.com/dotey/status/2116219659544399897</link>
+      <guid isPermaLink="false">twitter:2116219659544399897</guid>
+      <pubDate>Fri, 30 Oct 2026 17:24:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Google 太空 AI 芯片第一次答题：卫星发射一个月后，在轨道上写了一首俳句<br /><br />Google 放在卫星上的 AI 芯片，第一次在太空里完成了一次完整的提问和回答。Google CEO Sundar Pichai 10 月 30 日发推说，团队从地面把指令发到轨道，启动 TPU，跑完提示词，收回了第一份完整回复：一首俳句。<br /><br />这颗卫星属于 Google 的 Project Suncatcher（“捕光者”计划），研究能不能把 AI 算力搬到太空，用太阳能供电。Google 给的理由是，在合适的轨道上，同一块太阳能板的发电量最多能到地面的 8 倍，而且几乎不间断。地面数据中心现在最缺的就是电。<br /><br />卫星是 Google 和卫星公司 Planet 合作造的，10 月 1 日搭 SpaceX 的拼车发射任务 Transporter-18 升空。据《纽约时报》此前报道，上面装了 4 颗 TPU，设计寿命约一年。<br /><br />升空后几周，团队按清单逐项给主机和 TPU 上电，跑了一些简单的机器学习测试。这周走到了“Hello World”这一步。程序员写第一个程序，惯例是让它输出“Hello World”，意思就是跑通了。<br /><br />过程是这样的：卫星经过地面站上空时，团队把提示词传上去，让星上的 Gemma 4 写一首关于身处太空的俳句。卫星飞过挪威斯瓦尔巴群岛时，把诗传回了地面：<br /><br />Blue marble below<br />Data streams in silent grace<br />Starlight feeds my core.<br /><br />大意是：脚下是蓝色弹珠（指地球），数据在寂静中流淌，星光喂养着我的核心。最后一句说的正是这个计划要验证的事：靠阳光供电跑 AI。之后团队又让它写了几首太空主题的打油诗，还让它汇报设备的运行状态。<br /><br />这首诗说明，芯片扛过了火箭发射的剧烈震动，在轨道上能开机、加载模型、算出结果、再把结果传回地面。Google 称这是“数据中心级 TPU”在轨道上的第一次 AI 回复。在太空跑大模型本身不算首次：英伟达投资的创业公司 Starcloud 去年 12 月就用卫星上的 H100 显卡跑过 Gemma，还训练了一个小模型。这次是 Google 自家芯片第一次过这一关。<br /><br />更难的部分在后面。太空辐射会让芯片算错甚至损坏，散热也比地面麻烦，真空里没有空气帮忙带走热量。Google 接下来要测 TPU 在冷热交替和辐射下能不能稳定干活。下一个节点是 2027 年发射两颗互相连通的卫星。<br /><br />对普通用户来说，这件事短期内不会影响你用的 AI 服务。按 Google 去年发布计划时的测算，要等发射价格降到每公斤 200 美元以下，大概 2030 年代中期，太空数据中心的成本才可能和地面数据中心的电费打平。<br /><br />原文：Sundar Pichai 推文（@sundarpichai，2026 年 10 月 30 日）<br />Google 博客：https://t.co/zskk6ClI4l</p><p><a href="https://x.com/dotey/status/2116219659544399897">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：思科总裁给一名 27 岁员工不限量用 AI，目标两年内重写公司 98% 的老代码</title>
+      <link>https://x.com/dotey/status/2116218545906319826</link>
+      <guid isPermaLink="false">twitter:2116218545906319826</guid>
+      <pubDate>Fri, 30 Oct 2026 17:19:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>思科总裁给一名 27 岁员工不限量用 AI，目标两年内重写公司 98% 的老代码<br /><br />思科（Cisco）总裁兼首席产品官 Jeetu Patel，把公司最大的工程之一交给了一个 27 岁的年轻人。这件事是他在 Fortune 组织的一场小型晚宴上讲的。<br /><br />这个年轻人叫 Padmanabhan Krishnamurthy，Patel 叫他 Paddy。Paddy 2023 年和两个合伙人创办了 EzDubs，做实时翻译 App，打电话时能把你的话翻成 30 多种语言，还保留你原来的声音和语气。2025 年 11 月，思科收购了 EzDubs，团队并入负责 Webex 视频会议的部门。<br /><br />当过 CEO 的 Paddy 进了思科，在组织架构上比 Patel 低五级。用 Patel 的话说，他被“埋在组织里，做着不重要的事”。<br /><br />转机是 Patel 去思科旧金山办公室时和他聊了一次。Paddy 说，给他一个两人小团队，就能把思科的遗留代码重写一遍。遗留代码指公司几十年攒下来、还在运行、但越来越难改的老程序。思科成立于 1984 年，产品线多，这类代码量很大。Patel 说，他团队里用 AI 最积极的人都没往这个方向想过。<br /><br />于是有了现在的计划：先用四周证明这条路走得通，最终目标是 24 个月内重写思科 98% 的遗留代码。<br /><br />Patel 给 Paddy 的条件是 AI Token 不限量。Token 是 AI 模型的计费单位，可以理解成 AI 干活的“工时”，让 AI 读代码、写代码，读得越多写得越多，花的 Token 就越多。Patel 说：“我给了他无限的 Token，因为他要重构代码。我就跟他说，你放开干吧。”<br /><br />【为什么交给年轻人】<br /><br />现在年轻人找工作越来越难，入门岗位在减少，有调查显示约 40% 的老板打算少招应届生，理由是 AI 干同样的活更便宜。Patel 的做法正好反过来。<br /><br />这么大的项目，在多数公司只会交给干了几十年的老员工。Patel 认为这就是问题：“如果你不招刚入行的人，让团队一直照老样子走，新想法从哪儿来？谁来挑战现状？”他说老员工也能想出新点子，但有些问题只有没经验的人才会问。<br /><br />他承认，把一个二十多岁的年轻人放进满是老员工的会议室，会有摩擦。他的看法是：“摩擦是好事。我会刻意在团队里制造摩擦，让想法之间有足够的碰撞，但人和人之间、性格之间不要有摩擦。”<br /><br />Patel 把每个实习生都当作“反向导师”，让年轻人反过来教老员工。他在斯坦福给一群十七八岁的奖学金学生做讲座时，注意到一个叫 Baya 的女生，一直站在旁边听，等所有人问完才上来聊。Patel 让她每个月给自己发邮件，讲讲学到了什么 AI 知识，想看她能不能坚持。她一次没落下，后来拿到思科的实习，重新设计了一样老员工一直没搞定的东西（Patel 没说是什么）。Patel 说：“我招她进来，是要她教我们的人换一种方式思考，用不着她做录数据这种杂活。”现在他想正式招她。<br /><br />他还在找更多 Paddy 这样的人：敢挑战现有做法，像劲量电池广告里那只停不下来的兔子一样，把周围人都带动起来。<br /><br />Fortune 在同一篇报道里还提到几位持类似看法的人：OpenAI 早期投资人、Thrive Capital 创始人 Josh Kushner 偏爱招行业经验不到四年的人；AI 公司 Tastewise 的 CEO Alon Chen 专门招零经验的应届生；黑眼豆豆乐队主唱 https://t.co/tuL0PsIdcJ 把下一笔投资押在 MIT 和斯坦福的年轻人身上。<br /><br />Patel 说，他现在的团队大约三分之一是懂思科怎么运转的资深管理者，三分之一是从外部招来、看问题更全局的人，还有三分之一是从小用 AI、按创业公司方式做事的创始人、CEO 和工程师。在他看来，三类人单独哪一类都不够，放在一起才出效果。<br /><br />来源：<br />TechCrunch，思科收购 EzDubs（2025-11-17）：https://t.co/eYzazlfycn<br /><br />Fortune（2026-10-30）：https://t.co/c5sxX332Q2</p><img src="https://pbs.twimg.com/media/HV5Ri9lWIAA8j9B.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2116218545906319826">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>宝玉：推荐阅读：《用 Manus 改造 Manus，AI Native 组织改造的实践和思考》https://t.co/0MEN86K7ow 来自 Manus 很好的 AI Nat…</title>
+      <link>https://x.com/dotey/status/2114929079975563269</link>
+      <guid isPermaLink="false">twitter:2114929079975563269</guid>
+      <pubDate>Tue, 27 Oct 2026 03:56:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>推荐阅读：《用 Manus 改造 Manus，AI Native 组织改造的实践和思考》https://t.co/0MEN86K7ow 来自 Manus 很好的 AI Native 组织改造一手实践分享。<br /><br />基于我的理解提炼一下要点：<br /><br />【1】团队的工程基建，从对人友好，变成了向 AI 暴露接口<br /><br />过去我们做工程基建，核心是提升开发者体验，怎么让工程师写代码更爽；但 AI 原生的第一性原理，是如何让 Agent 能接触到真实世界，自己能获得充足的上下文。<br /><br />比如 Manus 把分散的仓库串成统一入口、让 AI 能在几秒钟内跑通端到端测试、给 AI 权限去读线上日志、看报警、发邮件、控制 Feature Flag，他们做的这些，都是在把整个软件开发生命周期和业务流彻底暴露给 Agent。<br /><br />人能看到什么、操作什么，Agent 就必须能看到、能操作。当 Agent 能够自己可以验证结果，形成“修改-验证-排查”的闭环时，它才真正从副驾驶变成了司机。<br /><br />【2】人和 AI 的交互，从过程控制微管理，变成了只给目标，要证据<br /><br />在传统的模式里，人跟 AI 是结对的方式，AI 写一段人来修改，人还要操心上下文有没有超、代码写得优不优雅，是不是有垃圾代码。但实际上这种过程工程是低效的，就好比你作为一个管理者去微管理你的员工。<br /><br />- 直接给结果<br />Manus 工程师把 Slack 里的需求原文一字不改丢给 Agent，老板要什么就告诉 Agent 要什么，不需要告诉 Agent 怎么做，Agent 自己会想办法完成任务。<br /><br />- 要证据<br /><br />当人不再一行行看代码时，怎么相信 AI 的结果是否靠谱呢？<br /><br />Manus 用最好的模型做代码审核机器人，让 AI 自己证明自己做对了。Manus 让 Agent 用测试账号走完注册、支付流程并逐步录屏，产品经理看录屏就能指出哪里不对。<br /><br />【3】AI 工作流，从人等 Agent，变成 Agent 等人<br /><br />真正的 AI 原生工作流是高度异步、大规模并发的。如果你只有一个 Agent 在干活，你就得等着它干活，但如果你安排了很多 Agent 同时干活，那么你就不需要等，只需要频繁的在不同的 Agent 之间切换，要么在分配任务，要么验证下结果，效率可以很高。<br /><br />Manus 的工程师一个人同时开着十几二十个 Session 处理需求；领导层把 20 多个待办丢给一个主控 Session，让它自己去拉取 Slack、Gmail 和 Notion 做背景调研并分发任务；市场部的数字 Agent 更是学会了只在一个工作台接收任务，把任务拆给后台的多个子 Session 并行跑，甚至通过定时唤醒在收到系统信号时自动干活，遇到工具不好用还能自己提需求改系统。<br /><br />【4】组织极致扁平与敏捷，从以前明确的工种，到现在每个人都能身兼多职<br /><br />传统软件工程里最大的损耗是在人和人之间。 前后端联调的扯皮、产品设计研发对文档理解的偏差、跨部门的排期与优先级错位，毕竟人类无法低成本地共享上下文，所以才不得不靠精细的分工来凑。<br /><br />而当 AI 抹平了技术栈的鸿沟，分工就不再必要了。在 Manus，一个人可以写完前后端和移动端，7 个人维护 4 个 App；所有产品经理都提交过代码，甚至一半能独立上线功能。<br /><br />当然这样做不是没有代价的，Manus 人均每月 1 万美元的夸张 Token 消耗，当然hidecloud 在文章中解释了：买的是时间和注意力。<br /><br />买的是“消除人际沟通损耗”和“保护人类的注意力”。当很多事情不再需要找人问，不需要临时打断别人时，组织才真正实现了极致的扁平与敏捷。<br /><br />【5】Agent 对话 Session 正在成为公司的新一代资产<br /><br />对话流（Session / Thread）正在取代传统的文档和看板，成为组织的核心工作对象与记忆载体。组织的知识已经不依赖人和文档，还依赖于 Agent 是否能读得到。<br /><br />Manus 的运维同事嫌总被找去帮忙发版，就把发版流程写进 Agents.md，之后谁都能让 AI 来发；同一项目的成员能看到彼此的 Session，不用再追着人问进度。<br /><br />【6】当 AI 做了 90% 的事，人还剩下什么？<br /><br />引用下 hidecloud 的话：<br />&gt; 在 AI Native 组织里，人的角色没有变小，而是更集中了。定义问题，判断质量，决定什么值得做，并为结果负责。还有很重要的一点：与 AI 共同成长。<br /><br />人的位置一直在往上移，从亲手做，到定规则、看证据、做决定。往上移的时候，要小心把判断也一起交出去。<br /><br />执行可以交给 AI，思考要留给自己。<br /><br />---<br /><br />补充一个有意思的点，他们产品经理把需求用 AI 做成视频，然后把视频当需求文档提交，看了下他们的那个视频，确实这个功能要描述清楚不容易，配合视频会简单很多，这确实是一种降低人和人之间沟通损耗的办法。<br /><br />其实可以试试 Claude Design，这种交互都也能描述清楚，绝大部分功能直接做成高精度原型比视频效果直观多了。<br /><br />---<br /><br />虽然现在各个团队都在喊 AI 原生转型，但要做好是真不容易，如果只是在传统流程上加上一点 AI，那很难真正做到 AI 原生。<br /><br />真想要做好，可以学学 Manus 那样，一切围绕 Agent 重新建立分工和流程，还得舍得砸钱用最好的模型，现在这些模型虽然贵，但是一两年后 Fable 这样的模型成本可能也跟 DeepSeek Flash 差不多了。</p><img src="https://pbs.twimg.com/media/HVm8yHjWEAAAn_u.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2114929079975563269">原文</a></p>]]></description>
+    </item>
     <item>
       <title>宝玉：RT @ShoufaChen: [1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和…</title>
       <link>https://x.com/dotey/status/2114027511512457349</link>
@@ -1054,158 +1206,6 @@
       <pubDate>Sun, 27 Sep 2026 07:53:02 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>补充，可以导出 svg https://t.co/0s1ZC8Dp3r</p><img src="https://pbs.twimg.com/media/HTNTVVvXMAAF8eu.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104117093373542788">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：上面的提示词是事后让 AI 总结的，最初提示词很简单：</title>
-      <link>https://x.com/dotey/status/2104112204974813688</link>
-      <guid isPermaLink="false">twitter:2104112204974813688</guid>
-      <pubDate>Sun, 27 Sep 2026 07:33:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>上面的提示词是事后让 AI 总结的，最初提示词很简单：<br /><br />&amp;gt; 基于当前 App 的原型页面功能和 Icon，设计一个有趣的让人印象深刻的产品介绍视频，直接使用 js 渲染画布生成视频<br /><br />后面就是慢慢迭代修改</p><p><a href="https://x.com/dotey/status/2104112204974813688">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：做完 AppIcon 再让 Opus 5.5 为 https://t.co/gMtWwUdAQi 做了一个宣传视频</title>
-      <link>https://x.com/dotey/status/2104111348388941915</link>
-      <guid isPermaLink="false">twitter:2104111348388941915</guid>
-      <pubDate>Sun, 27 Sep 2026 07:30:12 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>做完 AppIcon 再让 Opus 5.5 为 https://t.co/gMtWwUdAQi 做了一个宣传视频<br /><br />--- 参考提示词(在项目内用 Claude Code 执行) ---<br /><br />为 BaoCut 做一支 62.5 秒、1920×1080@30fps、英文的产品介绍视频，风格是手绘卡通加魔法少女式的夸张特效，要可爱、炫酷、适合转发。<br /><br />先读 designs/baocut 原型和 apps/baocut 拿真实的编辑器、Brand kit、Elements、Agent 面板布局；读 scripts/dev/app-icon 拿图标：星芒加播放头、三条彩色轨道。模板数、贴纸数、声波数、本地模型名、支持的 Agent CLI 都以代码为准；翻译不能写成本地功能。<br /><br />要突出这些特色：自动字幕、翻译、AI 配音、剪口癖、品牌套件、模板、动态贴纸与声波、智能裁剪、本地文生图、全部模型在本机跑、内置 Agent 复用本机的 Claude Code / Codex 等 CLI 而不需要 API key。<br /><br />叙事：<br />图标拆开，星芒和播放头变成超级可爱的小机器人 Bao 手里的魔法棒，三条轨道拉长成时间轴，底板变成预览。Bao 给猫咪女主播 Mimi 的视频连施九段咒语（Subtitlio!、Translato!……），她说话时的 meow / purrr / nya~ 口癖变成小老鼠，被 Bao 一棒一个敲掉。<br /><br />接着玻璃罩落下，表示「全部在你的 Mac 上跑」。最后一切倒带，Bao 敲碎 API key 输入框，一句话交给 Agent 全部做完，再把魔法棒插回图标。关键动作配震屏、冲击波和白闪。<br /><br />第 0 帧是「Edit videos like MAGIC」封面，Bao 举着魔法棒指向一张已经变好的猫咖成片卡，四周是九个功能标签。<br /><br />实现：<br />放在 scripts/dev/robot-video/，分成 lib / 角色 / 编辑器 / 故事 / 音频几个文件，用 canvas 确定性逐帧绘制。<br />节拍表 T 和冲击点表 IMPACTS 同时驱动画面与音效，配乐是 120 BPM 的合成木琴律动。<br />render.mjs 导出 mp4，index.html 做预览。<br />每段抽关键帧拼图自查后再整片渲染。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104109483177742336/img/4_-NWmvWjSsRxHl5.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104111348388941915">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Opus 5.5 让你实现 App Icon 设计自由</title>
-      <link>https://x.com/dotey/status/2104107699583463686</link>
-      <guid isPermaLink="false">twitter:2104107699583463686</guid>
-      <pubDate>Sun, 27 Sep 2026 07:15:42 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Opus 5.5 让你实现 App Icon 设计自由<br /><br />当初 Fable 的时候我就尝试过让 Fable 帮我设计 App Icon，但是效果差强人意，最后还是得去用 ChatGPT 画图，但这样画出来的不是矢量的。<br /><br />这几天用 Opus 5.5 做视频给了我灵感，既然 Opus 5.5 能用 JavaScript + Canvas 一帧帧画出视频，那么让它用 JS + Canvas 画 Icon 就也没问题。<br /><br />于是我尝试了一下，第一版效果就超出我预期，简洁美观，效果相当不错，提示词就一句话：<br /><br />&gt; 帮我为 https://t.co/L0sZizDFrd 重新设计一个 App Icon，简单一点，彩色的，体现视频编辑、AI Agent<br />&gt; 可以直接用 js 绘制 canvas<br /><br />注意重点是“用 js 绘制 canvas”而不是 SVG，SVG 画出来是没有 JS draw Canvas 效果好的。<br /><br />后面就跟甲方一样不停的让它修改就好：<br />比如我觉得方案3不错，让它基于方案3去调整，几个版本迭代下来就得到了一个我挺满意的方案。</p><img src="https://pbs.twimg.com/media/HTNJtd_XEAA4NdG.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTNKePlXMAAdP_Q.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTNKePHWMAA6tE6.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTNKePpXQAA2wK2.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104107699583463686">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @hylarucoder: 已开源</title>
-      <link>https://x.com/dotey/status/2104092667961340377</link>
-      <guid isPermaLink="false">twitter:2104092667961340377</guid>
-      <pubDate>Sun, 27 Sep 2026 06:15:58 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @hylarucoder: 已开源<br /><br />这可能是市面上为数不多，写给技术人员的非技术 Skill<br /><br />如有帮助还请点赞转发支持一下！ https://t.co/dpWClzko1r</p><p><a href="https://x.com/dotey/status/2104092667961340377">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：😂 https://t.co/JdD2z6nUZw</title>
-      <link>https://x.com/dotey/status/2104039060666822998</link>
-      <guid isPermaLink="false">twitter:2104039060666822998</guid>
-      <pubDate>Sun, 27 Sep 2026 02:42:57 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>😂 https://t.co/JdD2z6nUZw</p><img src="https://pbs.twimg.com/media/HTMMKWAXcAAD06F.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104039060666822998">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：--- 补充一些 Muse 的背景 ---</title>
-      <link>https://x.com/dotey/status/2104028140062302689</link>
-      <guid isPermaLink="false">twitter:2104028140062302689</guid>
-      <pubDate>Sun, 27 Sep 2026 01:59:34 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>--- 补充一些 Muse 的背景 ---<br /><br />Muse 是什么<br /><br />Muse 是 Meta 推出的个人 AI 智能体，能直接替你动手办事。它面向订行程、管邮件、找优惠、排日程这类日常事务，9 月 8 日上线。它在一台专属的虚拟机里运行，自带浏览器，能填网页表单、下单购物，也能把目标拆成行动计划。<br /><br />底层模型是 Muse Spark。这是 Meta 超级智能实验室的第一个模型，今年 4 月发布。2025 年 6 月，Meta 花 143 亿美元买下 Scale AI 49% 的无投票权股份，把它的联合创始人兼 CEO Wang 请来当首席 AI 官。Muse 是他上任后第一款面向普通消费者的产品。<br /><br />上线两周的表现<br /><br />9 月 18 日，Muse 登上美国 App Store 免费榜第一，排在 ChatGPT、Gemini、Claude 和 Instagram 前面。第三方机构 Apptopia 估算，Muse 上线头 12 天在美国和加拿大的 iOS 下载量约 180 万，ChatGPT 当年同期是 130 万。这些都是外部估算，Meta 没公布官方数字。<br /><br />Wang 推广的方式是每天在 X 上高频发帖。他发起了一个挑战，问 Muse 能不能帮你赚到 1000 美元，玩法是让 Muse 审一遍你的账单，重新谈合同、取消不用的订阅、办退货，或者打电话跟保险公司砍价。不过据 Business Insider 报道，回帖里有不少来自 Meta 员工，所有省钱数字都没有独立核实。<br /><br />本周 Connect 大会的更新<br /><br />Muse 推出了 Mac 版，可以操作桌面应用；还能通过 Meta 新款无摄像头的 Ray-Ban 眼镜和一个叫 Muse Charm 的口袋设备使用，后者 12 月发货。购物方面，Muse 接入了 Walmart、Best Buy、Gap、Sephora、Wayfair 等零售商，支付支持 Shop Pay 和 PayPal；办公方面接入了 Box、GitHub、Granola 和 Notion。Amazon 仍然不让它浏览自家网站。<br /><br />能不能用、要花多少钱<br /><br />目前只在美国和加拿大上线，国内用户暂时用不了。免费版每周大约给 1 亿个 Muse Token，付费档是每月 20 美元和 100 美元。<br /><br />跟 ChatGPT 这类聊天机器人比，Muse 的区别在于它要拿到你的账号权限才能干活。它会连上你的邮箱、日历、支付方式等个人账户，然后以你的名义行动。这也是它最大的门槛：Oppenheimer 对 1500 名美国消费者的调查显示，愿意把密码交给 Meta 的只有 8%，Google 是 30%，Apple 是 23%，ChatGPT 是 16%。</p><img src="https://pbs.twimg.com/media/HTMCb6LXEAAd7VF.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104028140062302689">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：亚历山大·王这篇短文《我为什么要做 Muse》算是把 Muse 的定位解释的比较清楚。</title>
-      <link>https://x.com/dotey/status/2104026234434810001</link>
-      <guid isPermaLink="false">twitter:2104026234434810001</guid>
-      <pubDate>Sun, 27 Sep 2026 01:51:59 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>亚历山大·王这篇短文《我为什么要做 Muse》算是把 Muse 的定位解释的比较清楚。<br /><br />Muse 想解决的问题：大多数人心里有很多想做的事，却从来没说出口，更没做成。<br /><br />每个人都有很多想法，比如说想多陪家人，想克服社交焦虑，想吃得健康，想开一家面包店，想做个 App。<br /><br />但这些愿望大多卡在“不知道从哪开始”和“一直没打的那通电话”上。<br /><br />Muse 想给每个人配一个“管家”，先弄清楚你想要什么，再去做计划、发邮件、打电话、找资金、盯进度，把能解决的麻烦都解决掉，最后留给人自己的只有“想要”这件事。<br /><br />理想是美好的，现实是不是残酷还得看看。</p><p><a href="https://x.com/dotey/status/2104026234434810001">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @lemomo_ai: 我建了一个新项目 OPUSCAR / opus5.5的奥斯卡</title>
-      <link>https://x.com/dotey/status/2104015229193683133</link>
-      <guid isPermaLink="false">twitter:2104015229193683133</guid>
-      <pubDate>Sun, 27 Sep 2026 01:08:16 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @lemomo_ai: 我建了一个新项目 OPUSCAR / opus5.5的奥斯卡<br /><br />这两天一直沉迷用 Claude Opus 5.5 做视频，做了100 多支，挑了 39 个风格，开源成 Lemo-Opuscar，链接放评论区<br /><br />39 种风格，每种都有风格提示词和一支…</p><p><a href="https://x.com/dotey/status/2104015229193683133">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @lemomo_ai: https://t.co/xBAxPQL6ER</title>
-      <link>https://x.com/dotey/status/2104015106912768499</link>
-      <guid isPermaLink="false">twitter:2104015106912768499</guid>
-      <pubDate>Sun, 27 Sep 2026 01:07:46 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @lemomo_ai: https://t.co/xBAxPQL6ER</p><p><a href="https://x.com/dotey/status/2104015106912768499">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：几个月前我悟到的一条经验就是不要给模型模板，而是给它目标、规范，让模型按照自己熟悉的方式去自由发挥，反而比套目标会更好。</title>
-      <link>https://x.com/dotey/status/2104006236454670732</link>
-      <guid isPermaLink="false">twitter:2104006236454670732</guid>
-      <pubDate>Sun, 27 Sep 2026 00:32:31 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>几个月前我悟到的一条经验就是不要给模型模板，而是给它目标、规范，让模型按照自己熟悉的方式去自由发挥，反而比套目标会更好。<br /><br />这几天 Opus 5.5 给我的震撼更大，别说模板，做视频的 Skill 可能都不需要，给它提供文本转语音（TTS）工具、画图工具、ffmpeg 和浏览器就足够了<br /><br />以下内容摘录自原文：<br />&gt; 给设计规范，不给模板。我做 PPT Skill 时放了一堆模板，水墨风、科技风各一套。后来从 Claude Design 学到：不给模板，给一套颜色、样式的规范，模型自己决定做成什么样。今天这个 PPT 就不是模板套的，而是基于 Adobe 的 Design System 生成的。模板是专家捷径，规范加模型能力是笨办法，但“苦涩的教训”说通用方法终将战胜专家捷径。模型每升级一次，产品不改代码自动变强，这就是“搭架子等模型”。</p><p><a href="https://x.com/dotey/status/2104006236454670732">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：《微软五十年》</title>
-      <link>https://x.com/dotey/status/2104002283193176290</link>
-      <guid isPermaLink="false">twitter:2104002283193176290</guid>
-      <pubDate>Sun, 27 Sep 2026 00:16:49 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>《微软五十年》<br /><br />--- Prompt（改编自 Deedy 分享的版本） ---<br /><br />公司：【微软】<br /><br />制作一段视频，节奏和强度不断递增，展现该公司在整个发展史上的深远影响。使用该公司的主题配色，配上你创作的鼓舞人心且契合主题的背景音乐，重点突出该公司为这个世界解锁的所有成就。用电影导演的视角去构思，营造出强烈的超级技术乐观主义氛围。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2104002063927533568/img/rSTz3YzMT9BYUkO5.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2104002283193176290">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @lifesinger: 小扎谈 Muse 的三个差异化</title>
-      <link>https://x.com/dotey/status/2104000545170112751</link>
-      <guid isPermaLink="false">twitter:2104000545170112751</guid>
-      <pubDate>Sun, 27 Sep 2026 00:09:55 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @lifesinger: 小扎谈 Muse 的三个差异化<br /><br />小扎在近期访谈里谈到 Muse 的三个核心差异化，非常有意思。<br /><br />一、从底层为场景设计模型<br /><br />不是拿通用模型套个壳，是从底层就冲着个人 agent 来设计模型。差不多每个月发一次新模型，一次比一次聪明，能做的事也…</p><p><a href="https://x.com/dotey/status/2104000545170112751">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：《什么是 DINOv3》</title>
-      <link>https://x.com/dotey/status/2103965723081187407</link>
-      <guid isPermaLink="false">twitter:2103965723081187407</guid>
-      <pubDate>Sat, 26 Sep 2026 21:51:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>《什么是 DINOv3》<br /><br />--- 提示词 ---<br /><br />帮我用 js 制作一个视频，主题是：什么是dinov3 <br />要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节<br /><br />你可以用任何工具或者安装工具，可以联网检索<br /><br />请给我惊喜 https://t.co/z6AS7iD7gb</p><img src="https://pbs.twimg.com/amplify_video_thumb/2103965279084564480/img/Spz0xNENi3lPOU5I.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2103965723081187407">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：《中华文明史》by Opus 5.5</title>
-      <link>https://x.com/dotey/status/2103964025683927166</link>
-      <guid isPermaLink="false">twitter:2103964025683927166</guid>
-      <pubDate>Sat, 26 Sep 2026 21:44:48 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>《中华文明史》by Opus 5.5<br /><br />--- Prompt ----<br /><br />做一支史诗编年片《中华文明史》，可以写代码逐帧渲染，再用 ffmpeg 合成。<br />配乐当时钟：五声调式，乐器从骨笛、编钟一路演进到管弦，BPM 随年代加快，所有切点踩拍。<br />宣纸白描和玄底泥金两种画风交替；每卷一个主色和一套随时代演变的纹样（彩陶纹 → 饕餮纹 → 云气纹 → 卷草纹 → 缠枝纹 → 回纹）。<br />每镜一个按词组出现的书法大字关键词，配一幅线稿。全片 HUD：左上朱印卷号，右侧竖排朝代名，底部卷轴时间尺和年份计数。<br />卷交界用朱印盖下、鼓钟重击的冲击转场。先定拍点网格和分镜表，再渲染。<br />地图只画示意，不画近现代真实人物，年代核对后再交付。</p><img src="https://pbs.twimg.com/amplify_video_thumb/2103961534720360448/img/YAzcNoKyq4Tk0IsR.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2103964025683927166">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：终于重置了😂</title>
-      <link>https://x.com/dotey/status/2103894141004558731</link>
-      <guid isPermaLink="false">twitter:2103894141004558731</guid>
-      <pubDate>Sat, 26 Sep 2026 17:07:06 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>终于重置了😂</p><p><a href="https://x.com/dotey/status/2103894141004558731">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @LinearUncle: opus 5.5 生成写实油画悼念刘欢老师的视频！</title>
-      <link>https://x.com/dotey/status/2103879556901810587</link>
-      <guid isPermaLink="false">twitter:2103879556901810587</guid>
-      <pubDate>Sat, 26 Sep 2026 16:09:09 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @LinearUncle: opus 5.5 生成写实油画悼念刘欢老师的视频！<br />歌声长存，愿老师一路走好！<br /><br />分享我的提示词，关注我，永远分享：（使用一张参考图）```… https://t.co/Qccekkjh61</p><img src="https://pbs.twimg.com/amplify_video_thumb/2103839447402053632/img/fBAI5y9H_1bmT_rQ.jpg" loading="lazy" /><img src="https://pbs.twimg.com/media/HTJXAIObQAAubxP.jpg" loading="lazy" /><p><a href="https://x.com/dotey/status/2103879556901810587">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：RT @simonxxoo: 发个预告，我之前用 Codex 做的一个风格化的梵高场景生成器，目前已经有阶段性的进展啦~</title>
-      <link>https://x.com/dotey/status/2103872423624110200</link>
-      <guid isPermaLink="false">twitter:2103872423624110200</guid>
-      <pubDate>Sat, 26 Sep 2026 15:40:48 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @simonxxoo: 发个预告，我之前用 Codex 做的一个风格化的梵高场景生成器，目前已经有阶段性的进展啦~<br /><br />这是一个业余时间 vibe 的项目，断断续续改了一个月，起初我只是想把曾经做过的 Blender 几何节点和油画材质搬进浏览器给大家玩。… https:/…</p><p><a href="https://x.com/dotey/status/2103872423624110200">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, p…</title>
-      <link>https://x.com/dotey/status/2103752568849785141</link>
-      <guid isPermaLink="false">twitter:2103752568849785141</guid>
-      <pubDate>Sat, 26 Sep 2026 07:44:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.<br /><br />https://t.co/UBdoqzmVfP</p><p><a href="https://x.com/dotey/status/2103752568849785141">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>宝玉：Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they&apos;re abo…</title>
-      <link>https://x.com/dotey/status/2103752510594797945</link>
-      <guid isPermaLink="false">twitter:2103752510594797945</guid>
-      <pubDate>Sat, 26 Sep 2026 07:44:19 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they&apos;re about, how they look, how the frames were made.<br /><br />https://t.co/lKHGYXYTe9</p><p><a href="https://x.com/dotey/status/2103752510594797945">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>

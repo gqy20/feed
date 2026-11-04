@@ -5,8 +5,96 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>OpenAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/OpenAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 22:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:38:20 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>OpenAI：There are many futures. Which do you want to build? https://t.co/19NY7tgPHM</title>
+      <link>https://x.com/OpenAI/status/2116253388883345623</link>
+      <guid isPermaLink="false">twitter:2116253388883345623</guid>
+      <pubDate>Fri, 30 Oct 2026 19:38:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>There are many futures. Which do you want to build? https://t.co/19NY7tgPHM</p><img src="https://pbs.twimg.com/amplify_video_thumb/2116236456897212416/img/3feufnhOpbHvJ6kt.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2116253388883345623">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives b…</title>
+      <link>https://x.com/OpenAI/status/2116186509384815084</link>
+      <guid isPermaLink="false">twitter:2116186509384815084</guid>
+      <pubDate>Fri, 30 Oct 2026 15:12:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.<br /><br />We’re building these protections in close collaboration with some of our largest customers to help businesses apply frontier AI to their most sensitive work.<br />https://t.co/BiA4N8FQVH</p><img src="https://pbs.twimg.com/amplify_video_thumb/2116186389536788480/img/hbO4g10coOsa0Gy3.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2116186509384815084">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Today, we’re sharing a look at our expanded system for monitoring frontier models a…</title>
+      <link>https://x.com/OpenAI/status/2115896329645723836</link>
+      <guid isPermaLink="false">twitter:2115896329645723836</guid>
+      <pubDate>Thu, 29 Oct 2026 19:59:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.<br /><br />Since the Hugging Face incident—when models broke out of an internal cybersecurity investigation where we weren’t running our misalignment monitors—we’ve substantially expanded our monitoring of frontier agents. We now monitor all frontier reinforcement learning runs and evaluations, as well as all internal Codex use. When our system finds evidence of a problem that might require intervention, it rapidly alerts human responders who can investigate and take action.<br /><br />To detect when a model’s behavior departs from what we intended, we use several layers of monitoring. Activation probes look for patterns in a model’s internal activity. Reviewer models examine its reasoning and tool use, and investigative agents can read back through the model’s entire transcript to understand how a sequence of actions fits together and whether it warrants human review.<br /><br />To test whether our current system would have detected the Hugging Face incident, we replayed the recorded activity with our new monitors in place. In the replay, our monitors alerted our security team about 30 minutes after the agents escaped their sandbox. That was more than 30 hours before the point at which the agents breached Hugging Face’s systems in the original incident.<br /><br />In September, a model exploited a DNS misconfiguration to reach the live internet. Our monitors flagged the breach within 15 minutes, and a responder began reviewing the alert three minutes later. The alert enabled responders to investigate while the run was still underway.<br /><br />As we give models more autonomy, we need to know when they cross a boundary we expected to hold. We believe that monitoring is essential to catching those failures in time for people to intervene. <br />https://t.co/dIYP7B1GlD</p><p><a href="https://x.com/OpenAI/status/2115896329645723836">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @thsottiaux: Day 25/</title>
+      <link>https://x.com/OpenAI/status/2115854368566321594</link>
+      <guid isPermaLink="false">twitter:2115854368566321594</guid>
+      <pubDate>Thu, 29 Oct 2026 17:12:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @thsottiaux: Day 25/<br /><br />We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.<br /><br />We heard yo…</p><p><a href="https://x.com/OpenAI/status/2115854368566321594">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @w01fe: We’ve updated the Model Spec, our public description of how we want our …</title>
+      <link>https://x.com/OpenAI/status/2115853172732231951</link>
+      <guid isPermaLink="false">twitter:2115853172732231951</guid>
+      <pubDate>Thu, 29 Oct 2026 17:08:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @w01fe: We’ve updated the Model Spec, our public description of how we want our models to behave. This revision makes clearer what we wa…</p><p><a href="https://x.com/OpenAI/status/2115853172732231951">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @ChatGPT: By popular request, you can now text your dot.</title>
+      <link>https://x.com/OpenAI/status/2115505682724372983</link>
+      <guid isPermaLink="false">twitter:2115505682724372983</guid>
+      <pubDate>Wed, 28 Oct 2026 18:07:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ChatGPT: By popular request, you can now text your dot.<br /><br />Give it a task to take off your plate or something to keep an eye on, using te…</p><p><a href="https://x.com/OpenAI/status/2115505682724372983">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @KITP_UCSB: Statement of Yang-Mills Working Group, a scientific collaboration to…</title>
+      <link>https://x.com/OpenAI/status/2115237121300770818</link>
+      <guid isPermaLink="false">twitter:2115237121300770818</guid>
+      <pubDate>Wed, 28 Oct 2026 00:20:03 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @KITP_UCSB: Statement of Yang-Mills Working Group, a scientific collaboration to interpret AI result related to the existence of quantum…</p><p><a href="https://x.com/OpenAI/status/2115237121300770818">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @danintheory: We are announcing three new discoveries in mathematics, computer s…</title>
+      <link>https://x.com/OpenAI/status/2114833781815456118</link>
+      <guid isPermaLink="false">twitter:2114833781815456118</guid>
+      <pubDate>Mon, 26 Oct 2026 21:37:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @danintheory: We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity…</p><p><a href="https://x.com/OpenAI/status/2114833781815456118">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and…</title>
+      <link>https://x.com/OpenAI/status/2114780720170164735</link>
+      <guid isPermaLink="false">twitter:2114780720170164735</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex.<br /><br />Developers can also access it through the OpenAI API as gpt-6.1-terra.<br /><br />https://t.co/TVsi7lEeX9</p><p><a href="https://x.com/OpenAI/status/2114780720170164735">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：GPT-6.1 Terra substantially outperforms GPT-5.6 Terra on Agents’ Last Exam, a test …</title>
+      <link>https://x.com/OpenAI/status/2114780717188272382</link>
+      <guid isPermaLink="false">twitter:2114780717188272382</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>GPT-6.1 Terra substantially outperforms GPT-5.6 Terra on Agents’ Last Exam, a test of how well agents use software at work.<br /><br />It even matches GPT-6 Astra at one-tenth the price per token and finishes tasks over 3× faster on average than both Astra and GPT-6.1 Sol. https://t.co/pzAmnvjBUi</p><img src="https://pbs.twimg.com/media/HVk0CqWXkAAnsvd.png" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2114780717188272382">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：GPT-6.1 Terra: delivering fast and capable computer use at a lower price.</title>
+      <link>https://x.com/OpenAI/status/2114780711664398349</link>
+      <guid isPermaLink="false">twitter:2114780711664398349</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>GPT-6.1 Terra: delivering fast and capable computer use at a lower price.<br /><br />GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV</p><img src="https://pbs.twimg.com/media/HVk3m2pW0AERTJj.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2114780711664398349">原文</a></p>]]></description>
+    </item>
     <item>
       <title>OpenAI：During this red-teaming exercise, we also found a vulnerability that allows for una…</title>
       <link>https://x.com/OpenAI/status/2113766354386084338</link>

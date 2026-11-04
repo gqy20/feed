@@ -5,8 +5,48 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>AnthropicAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/AnthropicAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 13:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:59:06 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Anthropic：New Anthropic research: Automating subtle emergent misalignment research.</title>
+      <link>https://x.com/AnthropicAI/status/2116349211549843666</link>
+      <guid isPermaLink="false">twitter:2116349211549843666</guid>
+      <pubDate>Sat, 31 Oct 2026 01:59:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>New Anthropic research: Automating subtle emergent misalignment research.<br /><br />Red-teaming is a vital part of model safety testing, but it’s also limited by researchers’ time. To see if we could automate it, we set thousands of Claude agents the task of evading a training data monitor.<br /><br />These agents developed training data that looked harmless to monitors (like a veteran wrestler mentoring a newcomer, or a Q&amp;A about professional beekeeping), but that in fact taught misaligned behavior.<br /><br />Examples like these can be used to directly improve future training data monitors. This research is only a first step, but it suggests that future red-teaming efforts could improve much further, using better models and more compute.<br /><br />Read the full post on the Alignment Science Blog: https://t.co/24Gs1oSw7Q</p><img src="https://pbs.twimg.com/media/HV7E-P7bwAA7OxM.jpg" loading="lazy" /><p><a href="https://x.com/AnthropicAI/status/2116349211549843666">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’ve trained Claude to flag potential misuse in conversations, a technique we c…</title>
+      <link>https://x.com/AnthropicAI/status/2115871889549865429</link>
+      <guid isPermaLink="false">twitter:2115871889549865429</guid>
+      <pubDate>Thu, 29 Oct 2026 18:22:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. <br /><br />Since we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. <br /><br />Because Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.<br /><br />Read more on our new Safeguards blog:<br />https://t.co/18j6zdHub4</p><p><a href="https://x.com/AnthropicAI/status/2115871889549865429">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’ve expanded our AI for Science program beyond individual teams to support som…</title>
+      <link>https://x.com/AnthropicAI/status/2115825653539025142</link>
+      <guid isPermaLink="false">twitter:2115825653539025142</guid>
+      <pubDate>Thu, 29 Oct 2026 15:18:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’ve expanded our AI for Science program beyond individual teams to support some of the world’s leading scientific foundations, institutions, and research groups. https://t.co/oTu04tU4Pk</p><p><a href="https://x.com/AnthropicAI/status/2115825653539025142">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We&apos;re expanding our partnership with @USGSA. Under a new OneGov agreement, we ar…</title>
+      <link>https://x.com/AnthropicAI/status/2115207004293853358</link>
+      <guid isPermaLink="false">twitter:2115207004293853358</guid>
+      <pubDate>Tue, 27 Oct 2026 22:20:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We&apos;re expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.<br />https://t.co/p0lA6cP2y1</p><p><a href="https://x.com/AnthropicAI/status/2115207004293853358">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：Over the past few months, Anthropic scientists have engaged in deep research par…</title>
+      <link>https://x.com/AnthropicAI/status/2115178675050307942</link>
+      <guid isPermaLink="false">twitter:2115178675050307942</guid>
+      <pubDate>Tue, 27 Oct 2026 20:27:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We&apos;ve also begun drug discovery efforts of our own.<br /><br />In doing so, we’ve learned much more about how Claude can support the many stages of drug development.<br /><br />In this blog post, we share some early results from these efforts, and describe how this work fits in with our wider ambitions in the life sciences.<br /><br />https://t.co/EVbxkdDTgJ</p><p><a href="https://x.com/AnthropicAI/status/2115178675050307942">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Anthropic：Anthropic has filed an S-1 registration statement with the SEC related to its pr…</title>
       <link>https://x.com/AnthropicAI/status/2114705042817110293</link>
