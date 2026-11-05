@@ -1,7 +1,139 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T06:12:31.351Z",
+  "updated_at": "2026-11-05T12:23:03.218Z",
   "posts": [
+    {
+      "id": "twitter:2118228924052496839",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "dots is such a good product, and is getting better fast",
+      "url": "https://x.com/gdb/status/2118228924052496839",
+      "created_at": "2026-11-05T06:28:24.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 459,
+        "replies": 100,
+        "retweets": 15,
+        "views": 44011
+      }
+    },
+    {
+      "id": "twitter:2118204795219489172",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "GPT-Live for outbound telephony:",
+      "url": "https://x.com/gdb/status/2118204795219489172",
+      "created_at": "2026-11-05T04:52:32.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 574,
+        "replies": 107,
+        "retweets": 14,
+        "views": 57290
+      }
+    },
+    {
+      "id": "twitter:2118174986544488876",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "chatgpt images 2.6 is here! https://t.co/haFSH9BD9i",
+      "url": "https://x.com/gdb/status/2118174986544488876",
+      "created_at": "2026-11-05T02:54:05.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 608,
+        "replies": 109,
+        "retweets": 20,
+        "views": 45490
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HWUiUo6aQAABNzM.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2118138320375136695",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "welcome @_catwu to the team!!",
+      "url": "https://x.com/gdb/status/2118138320375136695",
+      "created_at": "2026-11-05T00:28:23.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 1830,
+        "replies": 72,
+        "retweets": 36,
+        "views": 137990
+      }
+    },
+    {
+      "id": "twitter:2118129916923568345",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "additional context on the project: https://t.co/mDqbF3W0s3",
+      "url": "https://x.com/gdb/status/2118129916923568345",
+      "created_at": "2026-11-04T23:54:59.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 84,
+        "replies": 6,
+        "retweets": 3,
+        "views": 16963
+      }
+    },
+    {
+      "id": "twitter:2118129547443056763",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "we've found, validated, and prepared patches for almost 1,000 linux local privilege escalations using our cyber vulnerability pipeline, at the cost about $1,000 per vulnerability.\n\nan emerging scalable approach to significantly hardening both open source and proprietary projects",
+      "url": "https://x.com/gdb/status/2118129547443056763",
+      "created_at": "2026-11-04T23:53:31.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 2380,
+        "replies": 175,
+        "retweets": 142,
+        "views": 134241
+      }
+    },
+    {
+      "id": "twitter:2118042051057250377",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "welcome @pierrecomputer to openai!\n\npierre’s open-source developer tools already power parts of codex today, and excited to build together the future of collaboratively building software with ai.",
+      "url": "https://x.com/gdb/status/2118042051057250377",
+      "created_at": "2026-11-04T18:05:50.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 1005,
+        "replies": 107,
+        "retweets": 30,
+        "views": 73971
+      }
+    },
+    {
+      "id": "twitter:2118028516948336696",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @Google: Voice Remixing for Gemini 3.8 Flash TTS is now live in @GoogleAIStudio and the Gemini API.\n\nStart with a preset from our librar…",
+      "url": "https://x.com/GoogleDeepMind/status/2118028516948336696",
+      "created_at": "2026-11-04T17:12:04.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 102,
+        "views": 7353
+      }
+    },
     {
       "id": "twitter:2118012530215854477",
       "platform": "twitter",
@@ -55,6 +187,38 @@
         "replies": 71,
         "retweets": 68,
         "views": 99396
+      }
+    },
+    {
+      "id": "twitter:2117781797555851515",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "ChatGPT for physical engineering, including enabling amateurs to design prototype devices:",
+      "url": "https://x.com/gdb/status/2117781797555851515",
+      "created_at": "2026-11-04T00:51:41.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 2167,
+        "replies": 157,
+        "retweets": 145,
+        "views": 140195
+      }
+    },
+    {
+      "id": "twitter:2117755028211642849",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "welcome @jillhazelbaker to the team, extremely excited to be working together!",
+      "url": "https://x.com/gdb/status/2117755028211642849",
+      "created_at": "2026-11-03T23:05:19.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 447,
+        "replies": 47,
+        "retweets": 9,
+        "views": 60233
       }
     },
     {
@@ -180,6 +344,22 @@
         "https://pbs.twimg.com/media/HWKs_brXUAA0sdn.jpg",
         "https://pbs.twimg.com/media/HWKtBt6WYAEtJh9.jpg"
       ]
+    },
+    {
+      "id": "twitter:2117435285021810921",
+      "platform": "twitter",
+      "handle": "gdb",
+      "text": "Pando is a Git backend which can scale to very large monorepos. We took the hard road of continuing to use Git, which means we could enable Pando with no change to devex. Considering providing this to others, let me know (gdb@openai.com) if you'd be interested.",
+      "url": "https://x.com/gdb/status/2117435285021810921",
+      "created_at": "2026-11-03T01:54:46.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Greg Brockman",
+      "metrics": {
+        "likes": 1718,
+        "replies": 208,
+        "retweets": 90,
+        "views": 173692
+      }
     },
     {
       "id": "twitter:2117389843592339569",
@@ -1193,6 +1373,23 @@
       }
     },
     {
+      "id": "twitter:2116567624310251711",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "RT @a_ron_saunders: While most jack-o-lanterns just sit on porches, the @GoogleDeepMind team decided to let AI agents design, simulate, and…",
+      "url": "https://x.com/GoogleDeepMind/status/2116567624310251711",
+      "created_at": "2026-10-31T16:27:00.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Google DeepMind",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 27,
+        "views": 10121
+      }
+    },
+    {
       "id": "twitter:2116546563053178884",
       "platform": "twitter",
       "handle": "op7418",
@@ -1207,6 +1404,25 @@
         "retweets": 4,
         "views": 61454
       }
+    },
+    {
+      "id": "twitter:2116524000977285321",
+      "platform": "twitter",
+      "handle": "GoogleDeepMind",
+      "text": "We built PlanAssist to help UK Government planning officers speed up building and renovations across the country.\n\nBuilt with Gemini, it has shown it can cut the time planning officers spend assessing householder applications by up to 58%. It is now being made available to 12 more councils to help them to make faster decisions. 🏡 → https://t.co/L3tGJNtiAC",
+      "url": "https://x.com/GoogleDeepMind/status/2116524000977285321",
+      "created_at": "2026-10-31T13:33:39.000Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
+      "author": "Google DeepMind",
+      "metrics": {
+        "likes": 1311,
+        "replies": 376,
+        "retweets": 144,
+        "views": 174544
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2116523390362095616/img/ZcXjxu4QmvXKIYTj.jpg"
+      ]
     },
     {
       "id": "twitter:2116452833167814692",
@@ -3593,13 +3809,13 @@
       "text": "Gemini 4 Carbon is our next frontier model.\n\nIt’s state-of-the-art across cybersecurity and long-horizon capabilities.",
       "url": "https://x.com/GoogleDeepMind/status/2115489356437651654",
       "created_at": "2026-10-28T17:02:21.000Z",
-      "fetched_at": "2026-10-29T09:59:06.745Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
       "author": "Google DeepMind",
       "metrics": {
-        "likes": 12939,
-        "replies": 603,
-        "retweets": 1245,
-        "views": 1143196
+        "likes": 14500,
+        "replies": 739,
+        "retweets": 1388,
+        "views": 1670024
       },
       "media": [
         "https://pbs.twimg.com/media/HVu5JfhXkAAHYVr.jpg"
@@ -3612,13 +3828,13 @@
       "text": "Carbon can work through complex tasks for days without getting stuck or taking shortcuts – delivering high-quality, reliable code.\n\nFeedback from an initial group of cyber defenders will help us iterate on guardrails before we expand access soon.\n\nFind out more ↓ https://t.co/KYoTsTbHA9",
       "url": "https://x.com/GoogleDeepMind/status/2115489359415890211",
       "created_at": "2026-10-28T17:02:21.000Z",
-      "fetched_at": "2026-10-29T09:59:06.745Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
       "author": "Google DeepMind",
       "metrics": {
-        "likes": 530,
-        "replies": 32,
-        "retweets": 21,
-        "views": 62346
+        "likes": 597,
+        "replies": 60,
+        "retweets": 25,
+        "views": 84128
       }
     },
     {
@@ -4044,13 +4260,13 @@
       "text": "learn about php2shell and the general emerging security landscape:",
       "url": "https://x.com/gdb/status/2115270653452648605",
       "created_at": "2026-10-28T02:33:18.000Z",
-      "fetched_at": "2026-10-29T05:54:04.986Z",
+      "fetched_at": "2026-11-05T12:22:59.665Z",
       "author": "Greg Brockman",
       "metrics": {
-        "likes": 318,
-        "replies": 53,
-        "retweets": 25,
-        "views": 44459
+        "likes": 347,
+        "replies": 78,
+        "retweets": 28,
+        "views": 60389
       }
     },
     {
