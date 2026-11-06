@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 29 Oct 2026 15:47:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:51:00 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Harrison Chase：RT @amal_irgashev: go async or go home</title>
+      <link>https://x.com/hwchase17/status/2118491299087278125</link>
+      <guid isPermaLink="false">twitter:2118491299087278125</guid>
+      <pubDate>Thu, 05 Nov 2026 23:51:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @amal_irgashev: go async or go home<br /><br />in all seriousness  this is a fantastic implementation of async subagents. its being used for all o…</p><p><a href="https://x.com/hwchase17/status/2118491299087278125">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：most of the agents we&apos;re building inside langchain leverage async subagents…</title>
+      <link>https://x.com/hwchase17/status/2118464263497142576</link>
+      <guid isPermaLink="false">twitter:2118464263497142576</guid>
+      <pubDate>Thu, 05 Nov 2026 22:03:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>most of the agents we&apos;re building inside langchain leverage async subagents in a meaningful way<br /><br />now available in deep agents!</p><p><a href="https://x.com/hwchase17/status/2118464263497142576">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: https://t.co/9loyF9vcBa</title>
+      <link>https://x.com/hwchase17/status/2118464162649219460</link>
+      <guid isPermaLink="false">twitter:2118464162649219460</guid>
+      <pubDate>Thu, 05 Nov 2026 22:03:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: https://t.co/9loyF9vcBa</p><p><a href="https://x.com/hwchase17/status/2118464162649219460">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: as we ask agents to do more work for longer, async subage…</title>
+      <link>https://x.com/hwchase17/status/2118464151051993403</link>
+      <guid isPermaLink="false">twitter:2118464151051993403</guid>
+      <pubDate>Thu, 05 Nov 2026 22:03:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: as we ask agents to do more work for longer, async subagents become a very important primitive<br /><br />async subagents enable<br />-…</p><p><a href="https://x.com/hwchase17/status/2118464151051993403">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @onemikejohnson: @hwchase17⁠  - we’re building the infrastructure for wo…</title>
+      <link>https://x.com/hwchase17/status/2118205986666344687</link>
+      <guid isPermaLink="false">twitter:2118205986666344687</guid>
+      <pubDate>Thu, 05 Nov 2026 04:57:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @onemikejohnson: @hwchase17⁠  - we’re building the infrastructure for workflows where AI agents can’t afford to get things wrong, starti…</p><p><a href="https://x.com/hwchase17/status/2118205986666344687">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: this piece is worth the read, but quite dense. here&apos;s my …</title>
+      <link>https://x.com/hwchase17/status/2118077394770923664</link>
+      <guid isPermaLink="false">twitter:2118077394770923664</guid>
+      <pubDate>Wed, 04 Nov 2026 20:26:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: this piece is worth the read, but quite dense. here&apos;s my (relatively) brief breakdown:<br /><br />super agents are defined by 4 cha…</p><p><a href="https://x.com/hwchase17/status/2118077394770923664">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: full transparency, things that went wrong during the film…</title>
+      <link>https://x.com/hwchase17/status/2118059491254255929</link>
+      <guid isPermaLink="false">twitter:2118059491254255929</guid>
+      <pubDate>Wed, 04 Nov 2026 19:15:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: full transparency, things that went wrong during the filming of this demo...<br /><br />- almost booked a reservation that required…</p><p><a href="https://x.com/hwchase17/status/2118059491254255929">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: A year ago I wrote that LangGraph isn&apos;t going anywhere. Toda…</title>
+      <link>https://x.com/hwchase17/status/2118045052580798941</link>
+      <guid isPermaLink="false">twitter:2118045052580798941</guid>
+      <pubDate>Wed, 04 Nov 2026 18:17:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: A year ago I wrote that LangGraph isn&apos;t going anywhere. Today it&apos;s the runtime under everything at LangChain, including MDA…</p><p><a href="https://x.com/hwchase17/status/2118045052580798941">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: if you give your agent a browser, it can do work on the w…</title>
+      <link>https://x.com/hwchase17/status/2118044963686728187</link>
+      <guid isPermaLink="false">twitter:2118044963686728187</guid>
+      <pubDate>Wed, 04 Nov 2026 18:17:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: if you give your agent a browser, it can do work on the web, even on sites w/ no agent native APIs!<br /><br />in this demo my agen…</p><p><a href="https://x.com/hwchase17/status/2118044963686728187">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: we&apos;re hosting an event on thursday at the @LangChain offi…</title>
+      <link>https://x.com/hwchase17/status/2117724605595185571</link>
+      <guid isPermaLink="false">twitter:2117724605595185571</guid>
+      <pubDate>Tue, 03 Nov 2026 21:04:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: we&apos;re hosting an event on thursday at the @LangChain office with @allietheicon from @typesafeai to chat about all things…</p><p><a href="https://x.com/hwchase17/status/2117724605595185571">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：earlier this ~spring, models got good enough to drive browsers</title>
+      <link>https://x.com/hwchase17/status/2117681681658437728</link>
+      <guid isPermaLink="false">twitter:2117681681658437728</guid>
+      <pubDate>Tue, 03 Nov 2026 18:13:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>earlier this ~spring, models got good enough to drive browsers<br /><br />in some ways, browsers are the new terminal! a general purpose tool <br /><br />one difference is there is a few different ways to design tools to drive the browser. @sydneyrunkle deep dives into how we did this for MDA</p><p><a href="https://x.com/hwchase17/status/2117681681658437728">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: browser use is an important primitive for agents, but it&apos;…</title>
+      <link>https://x.com/hwchase17/status/2117681325616574720</link>
+      <guid isPermaLink="false">twitter:2117681325616574720</guid>
+      <pubDate>Tue, 03 Nov 2026 18:12:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: browser use is an important primitive for agents, but it&apos;s hard on the agent&apos;s context window:<br /><br />1. tasks are long running…</p><p><a href="https://x.com/hwchase17/status/2117681325616574720">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @sydneyrunkle: https://t.co/ET7YEMT4Bz</title>
+      <link>https://x.com/hwchase17/status/2117679094926348438</link>
+      <guid isPermaLink="false">twitter:2117679094926348438</guid>
+      <pubDate>Tue, 03 Nov 2026 18:03:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @sydneyrunkle: https://t.co/ET7YEMT4Bz</p><p><a href="https://x.com/hwchase17/status/2117679094926348438">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @_anish_agarwal: We just raised $120M, with a $1B valuation, to build so…</title>
+      <link>https://x.com/hwchase17/status/2117675363967148386</link>
+      <guid isPermaLink="false">twitter:2117675363967148386</guid>
+      <pubDate>Tue, 03 Nov 2026 17:48:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @_anish_agarwal: We just raised $120M, with a $1B valuation, to build software that keeps itself running.<br /><br />AI is writing more code than…</p><p><a href="https://x.com/hwchase17/status/2117675363967148386">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: You should build your company harness on MDA https://t.co/pn…</title>
+      <link>https://x.com/hwchase17/status/2117473935227064738</link>
+      <guid isPermaLink="false">twitter:2117473935227064738</guid>
+      <pubDate>Tue, 03 Nov 2026 04:28:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: You should build your company harness on MDA https://t.co/pnmD06la9i</p><p><a href="https://x.com/hwchase17/status/2117473935227064738">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：is org/agent level memory just &quot;skills&quot;? assuming there is process for upda…</title>
+      <link>https://x.com/hwchase17/status/2117465596342509793</link>
+      <guid isPermaLink="false">twitter:2117465596342509793</guid>
+      <pubDate>Tue, 03 Nov 2026 03:55:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>is org/agent level memory just &quot;skills&quot;? assuming there is process for updating skills from agent traces/history<br /><br />why or why not?</p><p><a href="https://x.com/hwchase17/status/2117465596342509793">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @GitMaxd: If you get to go to one conference in 2027 about Applied AI - …</title>
+      <link>https://x.com/hwchase17/status/2117383883780145207</link>
+      <guid isPermaLink="false">twitter:2117383883780145207</guid>
+      <pubDate>Mon, 02 Nov 2026 22:30:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @GitMaxd: If you get to go to one conference in 2027 about Applied AI - this is the one<br /><br />You’ll learn from and get to talk to @LangChain…</p><p><a href="https://x.com/hwchase17/status/2117383883780145207">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @carodivittorio: This is a huge reason I believe in cloud agents over lo…</title>
+      <link>https://x.com/hwchase17/status/2117350411355209732</link>
+      <guid isPermaLink="false">twitter:2117350411355209732</guid>
+      <pubDate>Mon, 02 Nov 2026 20:17:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @carodivittorio: This is a huge reason I believe in cloud agents over local agents. A local agent only runs when you start and watch it,…</p><p><a href="https://x.com/hwchase17/status/2117350411355209732">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：We&apos;re bringing back Interrupt for the THIRD year</title>
+      <link>https://x.com/hwchase17/status/2117345786715607062</link>
+      <guid isPermaLink="false">twitter:2117345786715607062</guid>
+      <pubDate>Mon, 02 Nov 2026 19:59:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We&apos;re bringing back Interrupt for the THIRD year<br /><br />- This will be the biggest one yet (new venue that can hold ~2k people!)<br />- Most talks &amp;amp; workshops we&apos;ve ever had<br />- New Executive Track<br /><br />Register today for the early bird special: https://t.co/xP2NVTnag0 https://t.co/JBiw9WkKEj</p><img src="https://pbs.twimg.com/media/HWJShgYaIAEfTsO.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2117345786715607062">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @LangChain: 🌉 Interrupt, The Agent Conference by LangChain, returns to …</title>
+      <link>https://x.com/hwchase17/status/2117328065290477993</link>
+      <guid isPermaLink="false">twitter:2117328065290477993</guid>
+      <pubDate>Mon, 02 Nov 2026 18:48:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LangChain: 🌉 Interrupt, The Agent Conference by LangChain, returns to San Francisco March 24 + 25<br /><br />🎟️ Early Bird tickets available unti…</p><p><a href="https://x.com/hwchase17/status/2117328065290477993">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Harrison Chase：RT @amal_irgashev: a lot of you asked how i made our launch video for Conte…</title>
       <link>https://x.com/hwchase17/status/2115832835869438118</link>
