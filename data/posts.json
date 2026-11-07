@@ -1,7 +1,75 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T09:51:28.090Z",
+  "updated_at": "2026-11-07T02:06:06.698Z",
   "posts": [
+    {
+      "id": "twitter:2118758239609512027",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: @imaanxsultan @UseCorgi 🦙☕️",
+      "url": "https://x.com/jerryjliu0/status/2118758239609512027",
+      "created_at": "2026-11-06T17:31:43.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 143
+      }
+    },
+    {
+      "id": "twitter:2118758231296311523",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: the two best times to drink chai ☕️:\n\n1/ diwali weekend\n2/ when the sleeve has $500 in LlamaParse credits on it\n\nthis wee…",
+      "url": "https://x.com/jerryjliu0/status/2118758231296311523",
+      "created_at": "2026-11-06T17:31:41.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 167
+      }
+    },
+    {
+      "id": "twitter:2118590764485898379",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @disiok: Does the model shape the hardware or does the hardware shape the model",
+      "url": "https://x.com/jerryjliu0/status/2118590764485898379",
+      "created_at": "2026-11-06T06:26:14.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 416
+      }
+    },
+    {
+      "id": "twitter:2118590734555394221",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @disiok: We will know Opus 4.5 as the start of a new age",
+      "url": "https://x.com/jerryjliu0/status/2118590734555394221",
+      "created_at": "2026-11-06T06:26:07.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 355
+      }
+    },
     {
       "id": "twitter:2118491299087278125",
       "platform": "twitter",
@@ -70,6 +138,23 @@
       }
     },
     {
+      "id": "twitter:2118434256271946188",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: LiteParse integrates with MiniCPM-OCR from @openBMB 🚀 \n\nMiniCPM-OCR is a new lightweight OCR model that performs OCR after…",
+      "url": "https://x.com/jerryjliu0/status/2118434256271946188",
+      "created_at": "2026-11-05T20:04:19.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 284
+      }
+    },
+    {
       "id": "twitter:2118430862949945612",
       "platform": "twitter",
       "handle": "huggingface",
@@ -83,6 +168,129 @@
         "replies": 37,
         "retweets": 18,
         "views": 15121
+      }
+    },
+    {
+      "id": "twitter:2118427744627478763",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: @disiok @jerryjliu0 https://t.co/rnbU3rehKT",
+      "url": "https://x.com/jerryjliu0/status/2118427744627478763",
+      "created_at": "2026-11-05T19:38:27.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 401
+      },
+      "media": [
+        "https://pbs.twimg.com/tweet_video_thumb/HWYqneuasAAEubM.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2118425235225759776",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @disiok: well guess this is my acting debut",
+      "url": "https://x.com/jerryjliu0/status/2118425235225759776",
+      "created_at": "2026-11-05T19:28:29.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 390
+      }
+    },
+    {
+      "id": "twitter:2118422331391619144",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: y̵o̵u̵ ̵c̵a̵n̵ ̵s̵e̵e̵ ̵e̵v̵e̵r̵y̵t̵h̵i̵n̵g̵\nyou can parse everything ✅",
+      "url": "https://x.com/jerryjliu0/status/2118422331391619144",
+      "created_at": "2026-11-05T19:16:56.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 399
+      }
+    },
+    {
+      "id": "twitter:2118419308472926477",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "YOU CAN PARSE EVERYTHING \n\n11.17.26\n\nocria-1 is already the cheapest, most accurate unified model for doc parsing (not only tables/text, but also charts/diagrams/images/scans) \n\nit's only getting better. stay tuned https://t.co/XrsR4uPvNO",
+      "url": "https://x.com/jerryjliu0/status/2118419308472926477",
+      "created_at": "2026-11-05T19:04:56.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 50,
+        "replies": 22,
+        "retweets": 3,
+        "views": 5464
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2118417234318274560/img/UtKfji8mgtjYzCC1.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2118392963797766335",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: i was fully going to be a lawyer\nthen i tried growth at a startup and never looked back\n\nnow i’m on a16z's @cosign awards…",
+      "url": "https://x.com/jerryjliu0/status/2118392963797766335",
+      "created_at": "2026-11-05T17:20:15.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 403
+      }
+    },
+    {
+      "id": "twitter:2118390838434693281",
+      "platform": "twitter",
+      "handle": "OfficialLoganK",
+      "text": "Today we are rolling out Gemini Omni Flash 1.2, with: \n\n- longer video generation (15 seconds)\n- deeper cinematic controls for camera pov\n- support for multi-turn conversation editing\n- less visual drift \n- 30% lower price than Omni Flash 1.1\n\nRead more: https://t.co/U0VgGTGcmW",
+      "url": "https://x.com/OfficialLoganK/status/2118390838434693281",
+      "created_at": "2026-11-05T17:11:48.000Z",
+      "fetched_at": "2026-11-07T02:06:04.817Z",
+      "author": "Logan Kilpatrick",
+      "metrics": {
+        "likes": 2388,
+        "replies": 231,
+        "retweets": 153,
+        "views": 132885
+      }
+    },
+    {
+      "id": "twitter:2118388368786788593",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: Going to AWS re:Invent and looking for the best afterparty of the week?\n\nWe're partnering with our friends at @Braintrust,…",
+      "url": "https://x.com/jerryjliu0/status/2118388368786788593",
+      "created_at": "2026-11-05T17:01:59.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 293
       }
     },
     {
@@ -187,6 +395,26 @@
       }
     },
     {
+      "id": "twitter:2118197143479664867",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: The FOMO has won (new build slowly coming online) https://t.co/mwW5fQcZbY",
+      "url": "https://x.com/jerryjliu0/status/2118197143479664867",
+      "created_at": "2026-11-05T04:22:07.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 453
+      },
+      "media": [
+        "https://pbs.twimg.com/media/HWVS18hWcAA9c76.jpg"
+      ]
+    },
+    {
       "id": "twitter:2118174986544488876",
       "platform": "twitter",
       "handle": "gdb",
@@ -204,6 +432,39 @@
       "media": [
         "https://pbs.twimg.com/tweet_video_thumb/HWUiUo6aQAABNzM.jpg"
       ]
+    },
+    {
+      "id": "twitter:2118161299549171771",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @LoganMarkewich: Really arguing for the bare minimum here 🫠",
+      "url": "https://x.com/jerryjliu0/status/2118161299549171771",
+      "created_at": "2026-11-05T01:59:42.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 439
+      }
+    },
+    {
+      "id": "twitter:2118146965242601627",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "ayo",
+      "url": "https://x.com/jerryjliu0/status/2118146965242601627",
+      "created_at": "2026-11-05T01:02:44.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 24,
+        "replies": 1,
+        "retweets": 0,
+        "views": 5960
+      }
     },
     {
       "id": "twitter:2118138320375136695",
@@ -254,6 +515,58 @@
       }
     },
     {
+      "id": "twitter:2118094857260658989",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "OCRia-1 is one of the only VLM OCR models that can uniformly parse any element (tables, charts, images, equations, scans, forms) with a consistently high degree of accuracy.\n\nWe’ve released a 37 page technical report on ArXiv. It contains comprehensive information about our data and training pipelines and evaluation results.\n\nThere are a ton of details in the appendix!\n\nIf you’re looking to parse a massive volume of docs in production with consistently high accuracy, come check it out: https://t.co/hbnrFctwx3",
+      "url": "https://x.com/jerryjliu0/status/2118094857260658989",
+      "created_at": "2026-11-04T21:35:40.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 75,
+        "replies": 18,
+        "retweets": 3,
+        "views": 4659
+      },
+      "media": [
+        "https://pbs.twimg.com/amplify_video_thumb/2118094756542922752/img/DdJqGkxeCaGaA0Rd.jpg"
+      ]
+    },
+    {
+      "id": "twitter:2118084760547594468",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "i love two things in life: \n- anime\n- giving users the most accurate and cheap pdf parsing service at scale\n\nwe've massively simplified pricing for anyone looking to run document parsing workloads in production. come check it out! \nhttps://t.co/TI6MMIme4M",
+      "url": "https://x.com/jerryjliu0/status/2118084760547594468",
+      "created_at": "2026-11-04T20:55:33.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 24,
+        "replies": 11,
+        "retweets": 2,
+        "views": 2910
+      }
+    },
+    {
+      "id": "twitter:2118080403026379208",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: we booked out an entire spa in SF for women in growth\n\ntuesday nov 17, @llama_index is co-hosting with girls in growth\n\np…",
+      "url": "https://x.com/jerryjliu0/status/2118080403026379208",
+      "created_at": "2026-11-04T20:38:14.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "views": 411
+      }
+    },
+    {
       "id": "twitter:2118077394770923664",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -288,6 +601,23 @@
       }
     },
     {
+      "id": "twitter:2118047943811064265",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @imaanxsultan: i don’t think people understand what happened last night\n\nthe first muslim US senator in american history\n\n3 years ago i…",
+      "url": "https://x.com/jerryjliu0/status/2118047943811064265",
+      "created_at": "2026-11-04T18:29:15.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 13,
+        "views": 426
+      }
+    },
+    {
       "id": "twitter:2118045052580798941",
       "platform": "twitter",
       "handle": "hwchase17",
@@ -319,6 +649,23 @@
         "replies": 0,
         "retweets": 8,
         "views": 682
+      }
+    },
+    {
+      "id": "twitter:2118043342747603100",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "RT @llama_index: Say goodbye to usage caps.\n\n✅️ No usage caps on Pay-as-you-go or Pro\n✅️ Two new self-serve tiers: Pay-as-you-go at $1.50 p…",
+      "url": "https://x.com/jerryjliu0/status/2118043342747603100",
+      "created_at": "2026-11-04T18:10:58.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 301
       }
     },
     {
@@ -441,6 +788,22 @@
         "replies": 0,
         "retweets": 180,
         "views": 3374
+      }
+    },
+    {
+      "id": "twitter:2117799968815915440",
+      "platform": "twitter",
+      "handle": "jerryjliu0",
+      "text": "i got a mac mini for everything AI related.\n\n1. codex remote > claude remote. claude through ssh doesn't work when you close laptop. claude remote control is too limited. \n\n2. that said, opus 5.5 is a much more token-efficient daily driver. i've resorted to using it through the claude code cli through ssh/tmux",
+      "url": "https://x.com/jerryjliu0/status/2117799968815915440",
+      "created_at": "2026-11-04T02:03:54.000Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
+      "author": "Jerry Liu",
+      "metrics": {
+        "likes": 78,
+        "replies": 76,
+        "retweets": 2,
+        "views": 13790
       }
     },
     {
@@ -3583,14 +3946,14 @@
       "text": "RT @cohere: We're proud to announce the initial close of our Series E, targeting up to CAD $7 billion at a CAD $35.7 billion valuation; mar…",
       "url": "https://x.com/JayAlammar/status/2115852359792517176",
       "created_at": "2026-10-29T17:04:47.000Z",
-      "fetched_at": "2026-10-29T20:09:12.988Z",
+      "fetched_at": "2026-11-06T13:53:57.366Z",
       "author": "Jay Alammar",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 138,
-        "views": 212
+        "retweets": 223,
+        "views": 333
       }
     },
     {
@@ -4456,13 +4819,13 @@
       "text": "Carbon is rolling out first to cyber defenders and we are  working to make it more widely available soon!\n\nhttps://t.co/40tzS4048o",
       "url": "https://x.com/OfficialLoganK/status/2115489576622174620",
       "created_at": "2026-10-28T17:03:13.000Z",
-      "fetched_at": "2026-10-31T00:43:55.708Z",
+      "fetched_at": "2026-11-07T02:06:04.817Z",
       "author": "Logan Kilpatrick",
       "metrics": {
-        "likes": 930,
-        "replies": 61,
-        "retweets": 28,
-        "views": 80441
+        "likes": 938,
+        "replies": 64,
+        "retweets": 29,
+        "views": 87953
       }
     },
     {
@@ -4542,13 +4905,13 @@
       "text": "Introducing Gemini 4 Carbon, it's a big jump over Argon which we released just 2 weeks ago.\n\nGemini 4 Carbon is SOTA on cyber, long horizon tasks, ranks #1 on Artificial Analysis V5, significantly improves on usability in domains like coding, and is more aligned. https://t.co/Ikk9YedjCQ",
       "url": "https://x.com/OfficialLoganK/status/2115489284404940898",
       "created_at": "2026-10-28T17:02:03.000Z",
-      "fetched_at": "2026-10-31T00:43:55.708Z",
+      "fetched_at": "2026-11-07T02:06:04.817Z",
       "author": "Logan Kilpatrick",
       "metrics": {
-        "likes": 15862,
-        "replies": 1223,
-        "retweets": 1156,
-        "views": 1229895
+        "likes": 15885,
+        "replies": 1236,
+        "retweets": 1155,
+        "views": 1278826
       },
       "media": [
         "https://pbs.twimg.com/media/HVu4Jx_bQAA3BbT.jpg"
@@ -25016,13 +25379,13 @@
       "text": "RT @OpenAI: We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with t…",
       "url": "https://x.com/lilianweng/status/2107612747223674921",
       "created_at": "2026-10-06T23:23:31.000Z",
-      "fetched_at": "2026-10-30T16:36:29.532Z",
+      "fetched_at": "2026-11-06T17:58:52.593Z",
       "author": "Lilian Weng",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
-        "retweets": 6299,
+        "retweets": 6293,
         "views": 975
       }
     },
@@ -28738,13 +29101,13 @@
       "text": "🚨 side project alert 🚨\n\nAnnouncing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse.\n\nGrab an API token from https://t.co/Q0dE0cYnCs and point your favorite coding agent at the github repo to build your own peripherals for Muse.",
       "url": "https://x.com/natfriedman/status/2106099383037309211",
       "created_at": "2026-10-02T19:09:57.000Z",
-      "fetched_at": "2026-10-30T20:38:54.357Z",
+      "fetched_at": "2026-11-06T22:04:28.646Z",
       "author": "Nat Friedman",
       "metrics": {
-        "likes": 7200,
-        "replies": 448,
-        "retweets": 553,
-        "views": 1498782
+        "likes": 7208,
+        "replies": 456,
+        "retweets": 556,
+        "views": 1506077
       },
       "media": [
         "https://pbs.twimg.com/media/HTpcRGqbYAAFg3-.jpg"
@@ -28757,13 +29120,13 @@
       "text": "We built a gadget of our own, too: Muse Home Link is a little usb-c powered device that allows Muse to connect to your home network to talk to smart home devices like TVs and speakers and anything else that exposes https.\n\nWe manufactured a batch of 5000 Home Links which should be ready to ship in a few weeks, and they are free for Muse subscribers while supplies last. Claim yours at https://t.co/Q0dE0cYnCs\n\nAll the code for Muse Home Link is open source too!",
       "url": "https://x.com/natfriedman/status/2106099384891158562",
       "created_at": "2026-10-02T19:09:57.000Z",
-      "fetched_at": "2026-10-30T20:38:54.357Z",
+      "fetched_at": "2026-11-06T22:04:28.646Z",
       "author": "Nat Friedman",
       "metrics": {
         "likes": 727,
-        "replies": 61,
+        "replies": 64,
         "retweets": 29,
-        "views": 173397
+        "views": 175686
       },
       "media": [
         "https://pbs.twimg.com/media/HTpdWwAb0AA9ack.png"

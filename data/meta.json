@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T09:51:28.090Z",
+  "updated_at": "2026-11-07T02:06:06.698Z",
   "channels": {
     "twitter": {
-      "lastPublishAt": "2026-11-06T09:51:28.090Z",
-      "postCount": 2713
+      "lastPublishAt": "2026-11-07T02:06:06.698Z",
+      "postCount": 2734
     },
     "xhs": {
-      "lastPublishAt": "2026-11-06T09:51:28.090Z",
+      "lastPublishAt": "2026-11-07T02:06:06.698Z",
       "postCount": 328
     }
   }
