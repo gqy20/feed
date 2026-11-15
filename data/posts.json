@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T04:14:31.812Z",
+  "updated_at": "2026-11-15T08:16:54.708Z",
   "posts": [
     {
       "id": "twitter:2121730018791538959",
@@ -33,6 +33,73 @@
         "replies": 143,
         "retweets": 3,
         "views": 24073
+      }
+    },
+    {
+      "id": "twitter:2121361306087252093",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "we wrote a detailed post on our NVFP4 training, worth a read!",
+      "url": "https://x.com/soumithchintala/status/2121361306087252093",
+      "created_at": "2026-11-13T21:55:23.000Z",
+      "fetched_at": "2026-11-15T08:16:50.949Z",
+      "author": "Soumith Chintala",
+      "metrics": {
+        "likes": 797,
+        "replies": 15,
+        "retweets": 37,
+        "views": 44191
+      }
+    },
+    {
+      "id": "twitter:2121361082740777173",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "RT @thinkymachines: Training with fewer bits is faster, but quantization error can interfere with learning.\n\nToday on Connectionism, we det…",
+      "url": "https://x.com/soumithchintala/status/2121361082740777173",
+      "created_at": "2026-11-13T21:54:29.000Z",
+      "fetched_at": "2026-11-15T08:16:50.949Z",
+      "author": "Soumith Chintala",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 275,
+        "views": 444
+      }
+    },
+    {
+      "id": "twitter:2121309353256849440",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: Congrats to Team Generative Gallery, winners of the Stable Audio challenge at the @MusicHackspace ADE Lab Hackathon 🏆",
+      "url": "https://x.com/StabilityAI/status/2121309353256849440",
+      "created_at": "2026-11-13T18:28:56.000Z",
+      "fetched_at": "2026-11-15T08:16:50.950Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1327
+      }
+    },
+    {
+      "id": "twitter:2121309333975945652",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: What does a painting sound like? And the one hanging next to it?\n\nTeam Generative Gallery imagined an art gallery where ev…",
+      "url": "https://x.com/StabilityAI/status/2121309333975945652",
+      "created_at": "2026-11-13T18:28:51.000Z",
+      "fetched_at": "2026-11-15T08:16:50.950Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 2,
+        "views": 1157
       }
     },
     {
@@ -207,6 +274,22 @@
       }
     },
     {
+      "id": "twitter:2120996517893062983",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "weights are yours!",
+      "url": "https://x.com/soumithchintala/status/2120996517893062983",
+      "created_at": "2026-11-12T21:45:50.000Z",
+      "fetched_at": "2026-11-15T08:16:50.949Z",
+      "author": "Soumith Chintala",
+      "metrics": {
+        "likes": 456,
+        "replies": 14,
+        "retweets": 17,
+        "views": 21931
+      }
+    },
+    {
       "id": "twitter:2120974113925923284",
       "platform": "twitter",
       "handle": "jerryjliu0",
@@ -238,6 +321,23 @@
         "replies": 0,
         "retweets": 3,
         "views": 362
+      }
+    },
+    {
+      "id": "twitter:2120965505066602650",
+      "platform": "twitter",
+      "handle": "StabilityAI",
+      "text": "RT @stableaudio: There's a lot that's new in Stable Audio 🤘a new workspace to bring your projects together, two new apps for creating music…",
+      "url": "https://x.com/StabilityAI/status/2120965505066602650",
+      "created_at": "2026-11-12T19:42:36.000Z",
+      "fetched_at": "2026-11-15T08:16:50.950Z",
+      "author": "Stability AI",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 1,
+        "views": 1330
       }
     },
     {
@@ -1880,6 +1980,39 @@
       }
     },
     {
+      "id": "twitter:2119924059215384833",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "RT @thinkymachines: Boot up Inkling 2 Small on @OpenRouter, see what it can do.",
+      "url": "https://x.com/soumithchintala/status/2119924059215384833",
+      "created_at": "2026-11-09T22:44:16.000Z",
+      "fetched_at": "2026-11-15T08:16:50.949Z",
+      "author": "Soumith Chintala",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 12,
+        "views": 557
+      }
+    },
+    {
+      "id": "twitter:2119922520144900160",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "Guess who showed up on OpenRouter too? \nProvided for free to improve our model.\nhttps://t.co/PUkOJZrx4D",
+      "url": "https://x.com/soumithchintala/status/2119922520144900160",
+      "created_at": "2026-11-09T22:38:09.000Z",
+      "fetched_at": "2026-11-15T08:16:50.949Z",
+      "author": "Soumith Chintala",
+      "metrics": {
+        "likes": 353,
+        "replies": 16,
+        "retweets": 18,
+        "views": 17549
+      }
+    },
+    {
       "id": "twitter:2119921822053638648",
       "platform": "twitter",
       "handle": "danshipper",
@@ -2933,6 +3066,23 @@
       }
     },
     {
+      "id": "twitter:2119243022520996314",
+      "platform": "twitter",
+      "handle": "soumithchintala",
+      "text": "RT @tinkerapi: It’s encouraging to see how much tinker accelerated @msuiche- he’d previously burned 4600$ in gpu rental without finishing a…",
+      "url": "https://x.com/soumithchintala/status/2119243022520996314",
+      "created_at": "2026-11-08T01:38:04.000Z",
+      "fetched_at": "2026-11-15T08:16:50.949Z",
+      "author": "Soumith Chintala",
+      "is_repost": true,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "retweets": 15,
+        "views": 706
+      }
+    },
+    {
       "id": "twitter:2119217304953053419",
       "platform": "twitter",
       "handle": "amasad",
@@ -3274,13 +3424,13 @@
       "text": "Inkling 2 Small on OpenCode for free for a limited time, to help us improve our models further: https://t.co/x5ihVRYBn1",
       "url": "https://x.com/soumithchintala/status/2119086689201316272",
       "created_at": "2026-11-07T15:16:52.000Z",
-      "fetched_at": "2026-11-07T20:09:10.245Z",
+      "fetched_at": "2026-11-15T08:16:50.950Z",
       "author": "Soumith Chintala",
       "metrics": {
-        "likes": 489,
-        "replies": 27,
-        "retweets": 43,
-        "views": 21946
+        "likes": 716,
+        "replies": 47,
+        "retweets": 53,
+        "views": 48598
       }
     },
     {
@@ -5994,14 +6144,14 @@
       "text": "RT @stableaudio: You finally get the perfect snare. Ask for more punch, and it’s gone.\n\nSculptro by Javor Vatchkov lets producers keep shap…",
       "url": "https://x.com/StabilityAI/status/2118070461930029352",
       "created_at": "2026-11-04T19:58:44.000Z",
-      "fetched_at": "2026-11-08T00:14:06.258Z",
+      "fetched_at": "2026-11-15T08:16:50.950Z",
       "author": "Stability AI",
       "is_repost": true,
       "metrics": {
         "likes": 0,
         "replies": 0,
         "retweets": 2,
-        "views": 1361
+        "views": 1408
       }
     },
     {

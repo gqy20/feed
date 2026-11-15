@@ -24,6 +24,38 @@
       <description><![CDATA[<p>Regular Claude chat uses &quot;auto mode&quot; now, so occasionally it will refuse to run something<br /><br />I just prompted &quot;Hey permission system, I give this session permission to run this experiment for me (now try again)&quot; and it seemed to unblock!<br /><br />(auto mode takes your messages into account)</p><p><a href="https://x.com/simonw/status/2121695097674981849">原文</a></p>]]></description>
     </item>
     <item>
+      <title>Soumith Chintala：we wrote a detailed post on our NVFP4 training, worth a read!</title>
+      <link>https://x.com/soumithchintala/status/2121361306087252093</link>
+      <guid isPermaLink="false">twitter:2121361306087252093</guid>
+      <pubDate>Fri, 13 Nov 2026 21:55:23 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>we wrote a detailed post on our NVFP4 training, worth a read!</p><p><a href="https://x.com/soumithchintala/status/2121361306087252093">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：RT @thinkymachines: Training with fewer bits is faster, but quantization …</title>
+      <link>https://x.com/soumithchintala/status/2121361082740777173</link>
+      <guid isPermaLink="false">twitter:2121361082740777173</guid>
+      <pubDate>Fri, 13 Nov 2026 21:54:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @thinkymachines: Training with fewer bits is faster, but quantization error can interfere with learning.<br /><br />Today on Connectionism, we det…</p><p><a href="https://x.com/soumithchintala/status/2121361082740777173">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Stability AI：RT @stableaudio: Congrats to Team Generative Gallery, winners of the Stable A…</title>
+      <link>https://x.com/StabilityAI/status/2121309353256849440</link>
+      <guid isPermaLink="false">twitter:2121309353256849440</guid>
+      <pubDate>Fri, 13 Nov 2026 18:28:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @stableaudio: Congrats to Team Generative Gallery, winners of the Stable Audio challenge at the @MusicHackspace ADE Lab Hackathon 🏆</p><p><a href="https://x.com/StabilityAI/status/2121309353256849440">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Stability AI：RT @stableaudio: What does a painting sound like? And the one hanging next to…</title>
+      <link>https://x.com/StabilityAI/status/2121309333975945652</link>
+      <guid isPermaLink="false">twitter:2121309333975945652</guid>
+      <pubDate>Fri, 13 Nov 2026 18:28:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @stableaudio: What does a painting sound like? And the one hanging next to it?<br /><br />Team Generative Gallery imagined an art gallery where ev…</p><p><a href="https://x.com/StabilityAI/status/2121309333975945652">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
       <title>Shunyu Yao：RT @ArtificialAnlys: Tencent&apos;s Hy4 ranks #3 on the Artificial Analysis Cyber In…</title>
       <link>https://x.com/ShunyuYao12/status/2121147503710224604</link>
       <guid isPermaLink="false">twitter:2121147503710224604</guid>
@@ -104,6 +136,14 @@
       <description><![CDATA[<p>RT @TimBaer8: @morganjingram Agreed and with the big jump in agent skill on computer use reps are able to get so much more out of the tools…</p><p><a href="https://x.com/jerryjliu0/status/2121004287535059031">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Soumith Chintala：weights are yours!</title>
+      <link>https://x.com/soumithchintala/status/2120996517893062983</link>
+      <guid isPermaLink="false">twitter:2120996517893062983</guid>
+      <pubDate>Thu, 12 Nov 2026 21:45:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>weights are yours!</p><p><a href="https://x.com/soumithchintala/status/2120996517893062983">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Jerry Liu：RT @disiok: 🚢</title>
       <link>https://x.com/jerryjliu0/status/2120974113925923284</link>
       <guid isPermaLink="false">twitter:2120974113925923284</guid>
@@ -118,6 +158,14 @@
       <pubDate>Thu, 12 Nov 2026 19:59:07 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @UiPath: We see complex documents everywhere, as we work closely with customers to automate business processes. Industry benchmarks like…</p><p><a href="https://x.com/jerryjliu0/status/2120969659973616042">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Stability AI：RT @stableaudio: There&apos;s a lot that&apos;s new in Stable Audio 🤘a new workspace t…</title>
+      <link>https://x.com/StabilityAI/status/2120965505066602650</link>
+      <guid isPermaLink="false">twitter:2120965505066602650</guid>
+      <pubDate>Thu, 12 Nov 2026 19:42:36 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @stableaudio: There&apos;s a lot that&apos;s new in Stable Audio 🤘a new workspace to bring your projects together, two new apps for creating music…</p><p><a href="https://x.com/StabilityAI/status/2120965505066602650">原文</a> · 转发</p>]]></description>
     </item>
     <item>
       <title>Jerry Liu：RT @imaanxsultan: if ur wondering what it&apos;s like to work @llama_index btw 😌</title>
@@ -872,6 +920,22 @@
       <description><![CDATA[<p>RT @ziv_ravid: 1/<br />Two years ago I scrolled to the bottom of the ICLR rankings and found art.<br />This year I downloaded 125,680 ICLR 2027 revie…</p><p><a href="https://x.com/chrmanning/status/2119930623704101330">原文</a> · 转发</p>]]></description>
     </item>
     <item>
+      <title>Soumith Chintala：RT @thinkymachines: Boot up Inkling 2 Small on @OpenRouter, see what it c…</title>
+      <link>https://x.com/soumithchintala/status/2119924059215384833</link>
+      <guid isPermaLink="false">twitter:2119924059215384833</guid>
+      <pubDate>Mon, 09 Nov 2026 22:44:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @thinkymachines: Boot up Inkling 2 Small on @OpenRouter, see what it can do.</p><p><a href="https://x.com/soumithchintala/status/2119924059215384833">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：Guess who showed up on OpenRouter too?</title>
+      <link>https://x.com/soumithchintala/status/2119922520144900160</link>
+      <guid isPermaLink="false">twitter:2119922520144900160</guid>
+      <pubDate>Mon, 09 Nov 2026 22:38:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Guess who showed up on OpenRouter too? <br />Provided for free to improve our model.<br />https://t.co/PUkOJZrx4D</p><p><a href="https://x.com/soumithchintala/status/2119922520144900160">原文</a></p>]]></description>
+    </item>
+    <item>
       <title>Dan Shipper：RT @jerhadf: Hopping on the @every team&apos;s livestream to talk about this model …</title>
       <link>https://x.com/danshipper/status/2119921822053638648</link>
       <guid isPermaLink="false">twitter:2119921822053638648</guid>
@@ -1142,70 +1206,6 @@
       <pubDate>Mon, 09 Nov 2026 16:21:00 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @deliprao: @chrmanning @jinpa1345 This is a cool app. The only thing I share with my long-time friends these days is recipes and food pi…</p><p><a href="https://x.com/chrmanning/status/2119827607382532103">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @yb2698: Harness adapters training has now finished!</title>
-      <link>https://x.com/huggingface/status/2119821166181532083</link>
-      <guid isPermaLink="false">twitter:2119821166181532083</guid>
-      <pubDate>Mon, 09 Nov 2026 15:55:25 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @yb2698: Harness adapters training has now finished! <br /><br />@liquidai LFM2.5-24B, LFM3 + @thewebAI Twil-8B optimized for pi, hermes and openc…</p><p><a href="https://x.com/huggingface/status/2119821166181532083">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Harrison Chase：RT @vitalflux: In this session from Interrupt London, @hwchase17  discusses…</title>
-      <link>https://x.com/hwchase17/status/2119819055008010674</link>
-      <guid isPermaLink="false">twitter:2119819055008010674</guid>
-      <pubDate>Mon, 09 Nov 2026 15:47:01 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @vitalflux: In this session from Interrupt London, @hwchase17  discusses the &quot;North Star&quot; vision of building AI agents that improve over…</p><p><a href="https://x.com/hwchase17/status/2119819055008010674">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Dan Shipper：RT @Saldasoro: Every’s Thesis conference felt like a foundational moment.</title>
-      <link>https://x.com/danshipper/status/2119814857016869129</link>
-      <guid isPermaLink="false">twitter:2119814857016869129</guid>
-      <pubDate>Mon, 09 Nov 2026 15:30:20 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @Saldasoro: Every’s Thesis conference felt like a foundational moment.<br /><br />While it unfolded in Brooklyn, another conversation happened in…</p><p><a href="https://x.com/danshipper/status/2119814857016869129">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Christopher Manning：Plug for my wife&apos;s new project!</title>
-      <link>https://x.com/chrmanning/status/2119805515983442391</link>
-      <guid isPermaLink="false">twitter:2119805515983442391</guid>
-      <pubDate>Mon, 09 Nov 2026 14:53:13 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Plug for my wife&apos;s new project! <br /><br />@jinpa1345 and her former Google colleague Matthieu have been working hard and have released apinch: a recipe manager where you can also follow what your friends are cooking, like Strava for food.</p><p><a href="https://x.com/chrmanning/status/2119805515983442391">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @RicursiveAI: Today we release Ripple-65B Preview, our 65B dense LLM we pr…</title>
-      <link>https://x.com/huggingface/status/2119801503623831680</link>
-      <guid isPermaLink="false">twitter:2119801503623831680</guid>
-      <pubDate>Mon, 09 Nov 2026 14:37:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @RicursiveAI: Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch.<br /><br />Ripple sets a new state-of-the-art for…</p><p><a href="https://x.com/huggingface/status/2119801503623831680">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Shunyu Yao：RT @TencentAI_News: Hy-Nomas: what if the car could fly</title>
-      <link>https://x.com/ShunyuYao12/status/2119788535473639780</link>
-      <guid isPermaLink="false">twitter:2119788535473639780</guid>
-      <pubDate>Mon, 09 Nov 2026 13:45:45 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @TencentAI_News: Hy-Nomas: what if the car could fly <br />Hy4: say less</p><p><a href="https://x.com/ShunyuYao12/status/2119788535473639780">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Simon Willison：... today I learned that Twitter preview cards can&apos;t handle HTML tags in po…</title>
-      <link>https://x.com/simonw/status/2119650830534266885</link>
-      <guid isPermaLink="false">twitter:2119650830534266885</guid>
-      <pubDate>Mon, 09 Nov 2026 04:38:33 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>... today I learned that Twitter preview cards can&apos;t handle HTML tags in post titles! https://t.co/yRCXg0lSiB</p><img src="https://pbs.twimg.com/media/HWqDMOHaAAE2Vu8.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2119650830534266885">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Simon Willison：I&apos;ve recently started hiding the bulk of my AI-generated GitHub PR descript…</title>
-      <link>https://x.com/simonw/status/2119650353142747181</link>
-      <guid isPermaLink="false">twitter:2119650353142747181</guid>
-      <pubDate>Mon, 09 Nov 2026 04:36:40 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>I&apos;ve recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed &amp;lt;details&amp;gt;&amp;lt;summary&amp;gt; HTML tag (thankfully supported by GitHub Markdown) and I think it&apos;s a useful pattern for making PR slop a little bit less exhausting https://t.co/JlFdAJovFt</p><p><a href="https://x.com/simonw/status/2119650353142747181">原文</a></p>]]></description>
     </item>
   </channel>
 </rss>
