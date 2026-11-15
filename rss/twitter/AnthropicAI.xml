@@ -5,8 +5,56 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>AnthropicAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/AnthropicAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 01:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:16:17 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Anthropic：Memory is what allows Claude to learn from experience. In a new Engineering Blog…</title>
+      <link>https://x.com/AnthropicAI/status/2118814753154064501</link>
+      <guid isPermaLink="false">twitter:2118814753154064501</guid>
+      <pubDate>Fri, 06 Nov 2026 21:16:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. https://t.co/uUEN4bNkr9</p><p><a href="https://x.com/AnthropicAI/status/2118814753154064501">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：New on our Science Blog: How AI is beginning to change scientific modeling.</title>
+      <link>https://x.com/AnthropicAI/status/2118792930211107115</link>
+      <guid isPermaLink="false">twitter:2118792930211107115</guid>
+      <pubDate>Fri, 06 Nov 2026 19:49:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>New on our Science Blog: How AI is beginning to change scientific modeling.<br /><br />Scientific models help researchers explain and predict real-world systems—like how a single nerve cell fires, or what happens when neutron stars collide. Recent advances have transformed how scientists fit complex models to data. But scientists still typically write the models manually, and usually need to weigh up several competing versions, each of which might explain the data in a different way.<br /><br />In a guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl describe how AI is starting to help with these parts of the process. By writing, running, fitting, and revising scientific models as code, AI can explore many possible model structures, and find out which explanations the data support.<br /><br />https://t.co/qsFJG76FDw</p><p><a href="https://x.com/AnthropicAI/status/2118792930211107115">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：We’re sharing how our biology research team worked with Claude to map the first …</title>
+      <link>https://x.com/AnthropicAI/status/2118073665296228863</link>
+      <guid isPermaLink="false">twitter:2118073665296228863</guid>
+      <pubDate>Wed, 04 Nov 2026 20:11:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re sharing how our biology research team worked with Claude to map the first 3D structure of a vault particle from bacterial life.<br /><br />Vault particles are a longstanding mystery. They are barrel-shaped objects, among the largest protein structures found in our cells. They were first discovered by Leonard Rome and Nancy Kedersha in 1986, but their function remains unknown.<br /><br />With Claude, we’ve found results that might bring us closer to solving that mystery.<br /><br />Until now, vaults were only known in the cells of complex things like animals and plants. We have shown that similar proteins from bacteria (and the viruses that infect them) can also assemble into vaults. Finding the structures in these simpler forms of life may make it easier to investigate their function in our own cells.<br /><br />For our life sciences team, the project was also a demonstration of the potential (and the limitations) of using AI to accelerate science.<br /><br />In our full piece, we discuss how Claude was able to dramatically speed up some stages—manually determining the vault particle’s structure would have taken weeks to months of painstaking work, but here it took days. We also discuss how Claude made some simple mistakes along the way, and how we collaborated with our machine learning researchers to address them.<br /><br />Read more: https://t.co/KowVVCSPp8</p><p><a href="https://x.com/AnthropicAI/status/2118073665296228863">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：Read the full preprint here: https://t.co/endRhOCTko https://t.co/C2TO3Z4sAS</title>
+      <link>https://x.com/AnthropicAI/status/2118073667858887068</link>
+      <guid isPermaLink="false">twitter:2118073667858887068</guid>
+      <pubDate>Wed, 04 Nov 2026 20:11:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Read the full preprint here: https://t.co/endRhOCTko https://t.co/C2TO3Z4sAS</p><img src="https://pbs.twimg.com/tweet_video_thumb/HWTlFvWWIAAYOhX.jpg" loading="lazy" /><p><a href="https://x.com/AnthropicAI/status/2118073667858887068">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：New Anthropic research: progress on provable inference for large language models…</title>
+      <link>https://x.com/AnthropicAI/status/2117710942826123294</link>
+      <guid isPermaLink="false">twitter:2117710942826123294</guid>
+      <pubDate>Tue, 03 Nov 2026 20:10:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>New Anthropic research: progress on provable inference for large language models.<br /><br />Here, we introduce FlashProve. Building on established cryptographic techniques, FlashProve allows developers to verify whether a given response came from a given AI model. It’s substantially more efficient than prior open-source methods for doing so. <br /><br />These proofs have a range of applications. They can, for instance, make it harder for attackers to hijack a chat, or enable safety evaluators to verify that the model they’re testing is the same one being served to customers.<br /><br />For our full write-up, see here: https://t.co/OIZWPb6QZa<br /><br />Further progress in provable inference will likely be an important part of improving trust in AI deployment. To that end, we&apos;re open-sourcing FlashProve’s code, here: https://t.co/7ky3Ir8V06<br /><br />We’re grateful to our collaborators: Alessandro Chiesa, @GiacomoFenzi, @gwberg95, @miranda__christ, Rahul Dalal (https://t.co/pjWKLHWXyz) and Ben Mayer (@transmissions11).</p><p><a href="https://x.com/AnthropicAI/status/2117710942826123294">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic：Applications are now open for the Anthropic Residency, a paid, fixed-term resear…</title>
+      <link>https://x.com/AnthropicAI/status/2117343929960112486</link>
+      <guid isPermaLink="false">twitter:2117343929960112486</guid>
+      <pubDate>Mon, 02 Nov 2026 19:51:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required.<br /><br />Apply by November 22: https://t.co/uhcXhKTgnO</p><p><a href="https://x.com/AnthropicAI/status/2117343929960112486">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Anthropic：New Anthropic research: Automating subtle emergent misalignment research.</title>
       <link>https://x.com/AnthropicAI/status/2116349211549843666</link>

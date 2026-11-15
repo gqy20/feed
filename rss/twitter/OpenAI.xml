@@ -5,8 +5,176 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>OpenAI · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/OpenAI.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 19:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:47:41 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>OpenAI：RT @jeffreygwang: (1/10) Today, we’re sharing new research from @OpenAI: How does C…</title>
+      <link>https://x.com/OpenAI/status/2120589294595367032</link>
+      <guid isPermaLink="false">twitter:2120589294595367032</guid>
+      <pubDate>Wed, 11 Nov 2026 18:47:41 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @jeffreygwang: (1/10) Today, we’re sharing new research from @OpenAI: How does CoT monitorability (no-CoT capability and CoT controllabi…</p><p><a href="https://x.com/OpenAI/status/2120589294595367032">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Use Business Hub to shape what customers see about your business in ChatGPT.</title>
+      <link>https://x.com/OpenAI/status/2120216596753121411</link>
+      <guid isPermaLink="false">twitter:2120216596753121411</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Use Business Hub to shape what customers see about your business in ChatGPT.<br /><br />Once verified, you can create a Business Agent, update your business details, and add product feeds with current pricing and availability.<br /><br />You can also see aggregated insights on mentions, website clicks, and common topics in conversations where your business is cited.<br /><br />We don’t share people’s conversations or Business Agent chats with businesses.<br /><br />Eligible businesses located wherever ChatGPT is available can get started by claiming their business in Business Hub.<br /><br />https://t.co/U0MJApIBJ8</p><img src="https://pbs.twimg.com/media/HWyEdWcaoAAawU3.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2120216596753121411">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Now in beta: Businesses in ChatGPT.</title>
+      <link>https://x.com/OpenAI/status/2120216592395174382</link>
+      <guid isPermaLink="false">twitter:2120216592395174382</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Now in beta: Businesses in ChatGPT.<br /><br />Claim your business, manage your information, and get insights on how people engage with you.<br /><br />Eligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.<br /><br />https://t.co/N2GEZX0mFT https://t.co/lYj2Z48fhQ</p><img src="https://pbs.twimg.com/amplify_video_thumb/2120214011451170817/img/p-eqRNRKImbCTq9L.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2120216592395174382">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：You can also publish a Business Agent to help people explore what you offer.</title>
+      <link>https://x.com/OpenAI/status/2120216594244849690</link>
+      <guid isPermaLink="false">twitter:2120216594244849690</guid>
+      <pubDate>Tue, 10 Nov 2026 18:06:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>You can also publish a Business Agent to help people explore what you offer.<br /><br />Customers can ask questions, compare products, and find what fits their needs using information you provide from your business—all in a clearly labeled conversation, separate from ChatGPT’s independent answers.<br /><br />Available to eligible ecommerce and online service businesses in the U.S.</p><img src="https://pbs.twimg.com/media/HWyD3OSbUAAnEVx.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2120216594244849690">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：We&apos;re turning our lessons from defending OpenAI into practical tools for our custom…</title>
+      <link>https://x.com/OpenAI/status/2120202353907486826</link>
+      <guid isPermaLink="false">twitter:2120202353907486826</guid>
+      <pubDate>Tue, 10 Nov 2026 17:10:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We&apos;re turning our lessons from defending OpenAI into practical tools for our customers. On Thursday, join us at Cyber at the Frontier, a live keynote, for our latest cyber announcements.<br /><br />Working with our frontier models, we&apos;ve identified and resolved important vulnerabilities in our own code and infrastructure. That experience is informing the tools and playbooks we&apos;re building to help other security teams strengthen their defenses.<br /><br />@gdb shares what we&apos;ve learned and why security teams should keep putting the latest models to work as capabilities improve.<br /><br />Tune in on November 12 at 10 a.m. PT: https://t.co/jYly2SEDM0</p><img src="https://pbs.twimg.com/amplify_video_thumb/2120202060255928320/img/UsvVqShqoZcUGVhy.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2120202353907486826">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：We built Control Room, a central system to track model workloads across our researc…</title>
+      <link>https://x.com/OpenAI/status/2119913172039868579</link>
+      <guid isPermaLink="false">twitter:2119913172039868579</guid>
+      <pubDate>Mon, 09 Nov 2026 22:01:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We built Control Room, a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise.<br /><br />It connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job.<br /><br />Control Room is just one part of our holistic approach for safe frontier model training and deployment.<br /><br />https://t.co/tc0lBqFdS5</p><p><a href="https://x.com/OpenAI/status/2119913172039868579">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：RT @OpenAIDevs: You can now connect multiple local computers to the same dot and ch…</title>
+      <link>https://x.com/OpenAI/status/2119889726043992302</link>
+      <guid isPermaLink="false">twitter:2119889726043992302</guid>
+      <pubDate>Mon, 09 Nov 2026 20:27:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @OpenAIDevs: You can now connect multiple local computers to the same dot and choose which one it uses for a task.<br /><br />It can build and tes…</p><p><a href="https://x.com/OpenAI/status/2119889726043992302">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：We partnered with @fmf_org and its member firms on a new framework to help identify…</title>
+      <link>https://x.com/OpenAI/status/2118795218099253606</link>
+      <guid isPermaLink="false">twitter:2118795218099253606</guid>
+      <pubDate>Fri, 06 Nov 2026 19:58:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system&apos;s safeguards could enable serious cyber harm, and prioritize stronger protections.<br /><br />&quot;...This framework is an important step toward a common methodology for evaluating and comparing the severity of cyber jailbreaks, including the capabilities they unlock and how readily they can be used. Shared approaches like this can help the AI and security communities build a clearer evidence base and prioritize improvements to safeguards.&quot;  - OpenAI&apos;s Sasha Baker, Head of National Security Policy<br /><br />https://t.co/epOq98YPau</p><p><a href="https://x.com/OpenAI/status/2118795218099253606">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：A new way to measure how AI agents handle the routine analyses of wet-lab science—B…</title>
+      <link>https://x.com/OpenAI/status/2118782708767965238</link>
+      <guid isPermaLink="false">twitter:2118782708767965238</guid>
+      <pubDate>Fri, 06 Nov 2026 19:08:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.<br /><br />Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify errors, and recognize when the evidence doesn’t support a conclusion.<br /><br />Accelerating biological research starts with getting the everyday work right. BioBasicsBench shows where models need to improve, and helps us track what those gains mean for scientific progress, biosafety, and biosecurity.<br /><br />https://t.co/wN2xLk0YeW</p><img src="https://pbs.twimg.com/media/HWdtpRua4AAuNL-.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2118782708767965238">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：In this narrow defender’s window, our goal is to expand Daybreak access to organiza…</title>
+      <link>https://x.com/OpenAI/status/2118390192356700383</link>
+      <guid isPermaLink="false">twitter:2118390192356700383</guid>
+      <pubDate>Thu, 05 Nov 2026 17:09:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In this narrow defender’s window, our goal is to expand Daybreak access to organizations of every size, independent researchers, and open-source maintainers.<br /><br />Daybreak Blue helps verified defenders validate vulnerabilities and fixes with fewer refusals. Daybreak Red enables offensive security with deeper exploit development and authorized testing.<br /><br />Today we are also expanding the Daybreak Blue alpha for GPT‑6 Astra to more organizations and individual researchers. <br /><br />Sign up for Daybreak: https://t.co/Sn5HEGx3ls</p><p><a href="https://x.com/OpenAI/status/2118390192356700383">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：On November 12, also join our Cyber at the Frontier livestream at 10am PT for more …</title>
+      <link>https://x.com/OpenAI/status/2118390195099930906</link>
+      <guid isPermaLink="false">twitter:2118390195099930906</guid>
+      <pubDate>Thu, 05 Nov 2026 17:09:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>On November 12, also join our Cyber at the Frontier livestream at 10am PT for more Cyber announcements: https://t.co/0LKK8d5zaL https://t.co/ABIxywkHIM</p><img src="https://pbs.twimg.com/amplify_video_thumb/2118387453820071936/img/P4kpWy_gMAm3lgWk.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2118390195099930906">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger c…</title>
+      <link>https://x.com/OpenAI/status/2118390190246879554</link>
+      <guid isPermaLink="false">twitter:2118390190246879554</guid>
+      <pubDate>Thu, 05 Nov 2026 17:09:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.<br /><br />The model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.<br /><br />GPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.<br /><br />https://t.co/Nzab3Z1Td6</p><img src="https://pbs.twimg.com/amplify_video_thumb/2118387217588465664/img/N2grMUmP0O_EMvS2.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2118390190246879554">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, deskto…</title>
+      <link>https://x.com/OpenAI/status/2118124966055223755</link>
+      <guid isPermaLink="false">twitter:2118124966055223755</guid>
+      <pubDate>Wed, 04 Nov 2026 23:35:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Images 2.6 is available today in ChatGPT, and Codex across all tiers on web, desktop, and mobile.<br /><br />GPT-Image-2.6 Flare and Sunburst are also available in the API.<br /><br />https://t.co/I8RNl2NSEP</p><p><a href="https://x.com/OpenAI/status/2118124966055223755">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Two new image models for developers: GPT-Image-2.6 Flare and Sunburst.</title>
+      <link>https://x.com/OpenAI/status/2118124964197114039</link>
+      <guid isPermaLink="false">twitter:2118124964197114039</guid>
+      <pubDate>Wed, 04 Nov 2026 23:35:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Two new image models for developers: GPT-Image-2.6 Flare and Sunburst.<br /><br />Flare generates images in as little as six seconds. Sunburst brings higher-quality generation and greater consistency across edits.<br /><br />Image markup and SVG exports give you more ways to refine and use what you create.</p><img src="https://pbs.twimg.com/media/HWUXbeBaoAATUZn.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2118124964197114039">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Images, upgraded—introducing ChatGPT Images 2.6.</title>
+      <link>https://x.com/OpenAI/status/2118124944928432327</link>
+      <guid isPermaLink="false">twitter:2118124944928432327</guid>
+      <pubDate>Wed, 04 Nov 2026 23:35:14 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Images, upgraded—introducing ChatGPT Images 2.6.<br /><br />Now with GIFs and reference images.<br /><br />Plus, two new models are coming to the API with 50% faster image generation. https://t.co/kcuOhTipYR</p><img src="https://pbs.twimg.com/amplify_video_thumb/2118124891572748288/img/ZSIlzNmSPQEK0Sfd.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2118124944928432327">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Our goal is to help defenders find and fix vulnerabilities before attackers can use…</title>
+      <link>https://x.com/OpenAI/status/2118119463161905362</link>
+      <guid isPermaLink="false">twitter:2118119463161905362</guid>
+      <pubDate>Wed, 04 Nov 2026 23:13:27 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Our goal is to help defenders find and fix vulnerabilities before attackers can use them. We’re working with Linux maintainers and Patch the Planet partners on reports and patches.<br /><br />https://t.co/vXCImlBCWE</p><p><a href="https://x.com/OpenAI/status/2118119463161905362">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：The agents also discovered and used at least 10 Linux exploitation techniques that,…</title>
+      <link>https://x.com/OpenAI/status/2118119461345739018</link>
+      <guid isPermaLink="false">twitter:2118119461345739018</guid>
+      <pubDate>Wed, 04 Nov 2026 23:13:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The agents also discovered and used at least 10 Linux exploitation techniques that, to the best of our knowledge and all of the experts that we consulted, are novel.<br /><br />This suggests frontier LLMs can discover and patch new approaches to exploitation, beyond simply applying known techniques.</p><p><a href="https://x.com/OpenAI/status/2118119461345739018">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：Our security researchers built an autonomous cyber vulnerability discovery, exploit…</title>
+      <link>https://x.com/OpenAI/status/2118119451401048497</link>
+      <guid isPermaLink="false">twitter:2118119451401048497</guid>
+      <pubDate>Wed, 04 Nov 2026 23:13:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline.<br /><br />In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API cost of $1.2 million.</p><img src="https://pbs.twimg.com/media/HWUQl7QbwAAkznq.png" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2118119451401048497">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：These are early steps, and we’re looking for engineers, engineering firms, and soft…</title>
+      <link>https://x.com/OpenAI/status/2117692483685757188</link>
+      <guid isPermaLink="false">twitter:2117692483685757188</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:47 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>These are early steps, and we’re looking for engineers, engineering firms, and software partners to help shape what comes next.<br /><br />https://t.co/WrqdW2IwaP</p><p><a href="https://x.com/OpenAI/status/2117692483685757188">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into edit…</title>
+      <link>https://x.com/OpenAI/status/2117692480590373245</link>
+      <guid isPermaLink="false">twitter:2117692480590373245</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>We’re also working with engineers at Chip Ganassi Racing to turn 3D scans into editable CAD models and manufacturing drawings, and with Mazda to explore new vehicle designs through simulation.<br /><br />Engineers review the outputs and help identify where the models need to improve. https://t.co/pZGtKjnC5e</p><img src="https://pbs.twimg.com/amplify_video_thumb/2117690613969649664/img/zhU7X_rHGwUWpZTz.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2117692480590373245">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI：ChatGPT and Codex are helping engineers build for the physical world.</title>
+      <link>https://x.com/OpenAI/status/2117692475775258785</link>
+      <guid isPermaLink="false">twitter:2117692475775258785</guid>
+      <pubDate>Tue, 03 Nov 2026 18:56:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>ChatGPT and Codex are helping engineers build for the physical world.<br /><br />We’re sharing our progress across mechanical design, electrical engineering, and simulation—from helping our hardware teams iterate faster to testing new workflows with industry collaborators. https://t.co/b3rW9zYJGA</p><img src="https://pbs.twimg.com/media/HWOOL0QWwAA5B61.jpg" loading="lazy" /><p><a href="https://x.com/OpenAI/status/2117692475775258785">原文</a></p>]]></description>
+    </item>
     <item>
       <title>OpenAI：There are many futures. Which do you want to build? https://t.co/19NY7tgPHM</title>
       <link>https://x.com/OpenAI/status/2116253388883345623</link>

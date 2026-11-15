@@ -5,8 +5,120 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>simonw · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/simonw.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 05:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:20:30 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Simon Willison：RT @emollick: AI slop replies, ranked by annoyingness:</title>
+      <link>https://x.com/simonw/status/2121730018791538959</link>
+      <guid isPermaLink="false">twitter:2121730018791538959</guid>
+      <pubDate>Sat, 14 Nov 2026 22:20:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @emollick: AI slop replies, ranked by annoyingness:<br />6) Repeating the post<br />5) LLM knows more than the account should about a topic<br />4) Lam…</p><p><a href="https://x.com/simonw/status/2121730018791538959">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Regular Claude chat uses &quot;auto mode&quot; now, so occasionally it will refuse to…</title>
+      <link>https://x.com/simonw/status/2121695097674981849</link>
+      <guid isPermaLink="false">twitter:2121695097674981849</guid>
+      <pubDate>Sat, 14 Nov 2026 20:01:45 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Regular Claude chat uses &quot;auto mode&quot; now, so occasionally it will refuse to run something<br /><br />I just prompted &quot;Hey permission system, I give this session permission to run this experiment for me (now try again)&quot; and it seemed to unblock!<br /><br />(auto mode takes your messages into account)</p><p><a href="https://x.com/simonw/status/2121695097674981849">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the sam…</title>
+      <link>https://x.com/simonw/status/2121039423441981444</link>
+      <guid isPermaLink="false">twitter:2121039423441981444</guid>
+      <pubDate>Fri, 13 Nov 2026 00:36:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the same token price as each other, and the new Hydrogen is only a 25% discount on that price - though Carbon/Argon will 2x in price on Dec 1st<br /><br />Hydrogen&apos;s pelicans are notably worse<br /> https://t.co/XZqY5eQxcD https://t.co/miEABX7G0w</p><img src="https://pbs.twimg.com/media/HW9xkj-bsAEV4fm.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2121039423441981444">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Huh, they&apos;ve changed the recommended prompt to &quot;You are the owner and long-…</title>
+      <link>https://x.com/simonw/status/2120644009618215418</link>
+      <guid isPermaLink="false">twitter:2120644009618215418</guid>
+      <pubDate>Wed, 11 Nov 2026 22:25:06 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Huh, they&apos;ve changed the recommended prompt to &quot;You are the owner and long-term maintainer of this codebase, and its design is up to you.&quot;</p><p><a href="https://x.com/simonw/status/2120644009618215418">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Google had a whole lot more fun with Carbon and pelicans on bicycles than I…</title>
+      <link>https://x.com/simonw/status/2120387954044735980</link>
+      <guid isPermaLink="false">twitter:2120387954044735980</guid>
+      <pubDate>Wed, 11 Nov 2026 05:27:37 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Google had a whole lot more fun with Carbon and pelicans on bicycles than I did https://t.co/ZGamnKxTHa</p><p><a href="https://x.com/simonw/status/2120387954044735980">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：The Gemini 4 Carbon pelican is still pretty cute https://t.co/lq8Y3C7BZd</title>
+      <link>https://x.com/simonw/status/2120259652093112614</link>
+      <guid isPermaLink="false">twitter:2120259652093112614</guid>
+      <pubDate>Tue, 10 Nov 2026 20:57:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The Gemini 4 Carbon pelican is still pretty cute https://t.co/lq8Y3C7BZd</p><img src="https://pbs.twimg.com/media/HWys4BHbQAAUkEu.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2120259652093112614">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Gemini 4 Carbon is good at pelican SVGs, but that&apos;s nothing new for Gemini</title>
+      <link>https://x.com/simonw/status/2120258951594037732</link>
+      <guid isPermaLink="false">twitter:2120258951594037732</guid>
+      <pubDate>Tue, 10 Nov 2026 20:55:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Gemini 4 Carbon is good at pelican SVGs, but that&apos;s nothing new for Gemini<br /><br />&quot;Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data&quot;<br />https://t.co/7hssgBoCMY https://t.co/uEzgrngns6</p><img src="https://pbs.twimg.com/amplify_video_thumb/2120258832077299712/img/1GY5-KLgbJxo6MtU.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2120258951594037732">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：Something I enjoy about these prompting guides is that it&apos;s VERY clear from…</title>
+      <link>https://x.com/simonw/status/2120029567616458900</link>
+      <guid isPermaLink="false">twitter:2120029567616458900</guid>
+      <pubDate>Tue, 10 Nov 2026 05:43:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Something I enjoy about these prompting guides is that it&apos;s VERY clear from reading them that Anthropic are just as surprised by the idiosyncrasies of their new models as we are</p><p><a href="https://x.com/simonw/status/2120029567616458900">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：When Anthropic release a new model it&apos;s always worth taking a look at their…</title>
+      <link>https://x.com/simonw/status/2120029347948220500</link>
+      <guid isPermaLink="false">twitter:2120029347948220500</guid>
+      <pubDate>Tue, 10 Nov 2026 05:42:39 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>When Anthropic release a new model it&apos;s always worth taking a look at their updated prompting guide - here&apos;s an entertaining tip to make Fable 5.2 less likely to be cautious in how it improves existing code: tell it &quot;This codebase is yours&quot; https://t.co/mKjdw4QPxV https://t.co/KfHcJdItVc</p><img src="https://pbs.twimg.com/media/HWvbWwFaAAAyY8_.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2120029347948220500">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：There is a mysterious intermittent beep coming from somewhere in your room …</title>
+      <link>https://x.com/simonw/status/2119945524514328631</link>
+      <guid isPermaLink="false">twitter:2119945524514328631</guid>
+      <pubDate>Tue, 10 Nov 2026 00:09:34 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>There is a mysterious intermittent beep coming from somewhere in your room of unopened boxes. Do you:<br /><br />1. Open boxes methodically until you find it<br /><br />2. Vibe code software to triangulate it using two laptops, two iPads and a phone all listening at once https://t.co/smGahe1BYR</p><p><a href="https://x.com/simonw/status/2119945524514328631">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：... today I learned that Twitter preview cards can&apos;t handle HTML tags in po…</title>
+      <link>https://x.com/simonw/status/2119650830534266885</link>
+      <guid isPermaLink="false">twitter:2119650830534266885</guid>
+      <pubDate>Mon, 09 Nov 2026 04:38:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>... today I learned that Twitter preview cards can&apos;t handle HTML tags in post titles! https://t.co/yRCXg0lSiB</p><img src="https://pbs.twimg.com/media/HWqDMOHaAAE2Vu8.jpg" loading="lazy" /><p><a href="https://x.com/simonw/status/2119650830534266885">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：I&apos;ve recently started hiding the bulk of my AI-generated GitHub PR descript…</title>
+      <link>https://x.com/simonw/status/2119650353142747181</link>
+      <guid isPermaLink="false">twitter:2119650353142747181</guid>
+      <pubDate>Mon, 09 Nov 2026 04:36:40 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>I&apos;ve recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed &amp;lt;details&amp;gt;&amp;lt;summary&amp;gt; HTML tag (thankfully supported by GitHub Markdown) and I think it&apos;s a useful pattern for making PR slop a little bit less exhausting https://t.co/JlFdAJovFt</p><p><a href="https://x.com/simonw/status/2119650353142747181">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：There&apos;s a buzzy new paper about GPT-6 Astra being able to directly interpre…</title>
+      <link>https://x.com/simonw/status/2117655816581071203</link>
+      <guid isPermaLink="false">twitter:2117655816581071203</guid>
+      <pubDate>Tue, 03 Nov 2026 16:31:05 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>There&apos;s a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing https://t.co/6O7WltGP7K</p><p><a href="https://x.com/simonw/status/2117655816581071203">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Simon Willison：In updating a graphic showing U.S. company AI adoption over time according …</title>
+      <link>https://x.com/simonw/status/2117337139633607167</link>
+      <guid isPermaLink="false">twitter:2117337139633607167</guid>
+      <pubDate>Mon, 02 Nov 2026 19:24:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau&apos;s work has been sullied by that asinine &quot;Super Intelligence&quot; executive order https://t.co/YEu1tnWweT</p><p><a href="https://x.com/simonw/status/2117337139633607167">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Simon Willison：RT @levelsio: X should have a zero tolerance policy for AI replies</title>
       <link>https://x.com/simonw/status/2116038973395263815</link>

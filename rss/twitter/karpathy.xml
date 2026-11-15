@@ -5,8 +5,24 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>karpathy · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/karpathy.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 25 Oct 2026 15:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:07:31 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Andrej Karpathy：Earlier this week Tristan published his top YouTube channels:</title>
+      <link>https://x.com/karpathy/status/2119114537442189652</link>
+      <guid isPermaLink="false">twitter:2119114537442189652</guid>
+      <pubDate>Sat, 07 Nov 2026 17:07:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Earlier this week Tristan published his top YouTube channels:<br />https://t.co/NZ3UCNo6cT<br />Which looked excellent so clearly I had to turn it into TristanTube:<br />https://t.co/l0KyW1WdNH<br />47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)</p><p><a href="https://x.com/karpathy/status/2119114537442189652">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Andrej Karpathy：Weekend hack: HackerTube. I was annoyed with YouTube&apos;s recommendations so …</title>
+      <link>https://x.com/karpathy/status/2116957135661945283</link>
+      <guid isPermaLink="false">twitter:2116957135661945283</guid>
+      <pubDate>Sun, 01 Nov 2026 18:14:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Weekend hack: HackerTube. I was annoyed with YouTube&apos;s recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:<br />https://t.co/JIhXN7OSh1<br /><br />- Excellent recs without any logins (state is kept in local browser session)<br />- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads<br />- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version<br />- HackerTube Longs ✊<br /><br />A bit more on the process:<br />I use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only &quot;manual work&quot; I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.<br /><br />Many awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.</p><img src="https://pbs.twimg.com/media/HWDnuuCaIAA__wa.jpg" loading="lazy" /><p><a href="https://x.com/karpathy/status/2116957135661945283">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Andrej Karpathy：RT @Tristan0x: If you&apos;ve ever wondered why smart TVs are so cheap, this is…</title>
       <link>https://x.com/karpathy/status/2114384346815820050</link>

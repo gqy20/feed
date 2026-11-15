@@ -5,8 +5,224 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>huggingface · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/huggingface.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 19:50:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:39:59 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Hugging Face：RT @ClementDelangue: This whole thing sucks, and I wish none of it had happen…</title>
+      <link>https://x.com/huggingface/status/2120889347851342193</link>
+      <guid isPermaLink="false">twitter:2120889347851342193</guid>
+      <pubDate>Thu, 12 Nov 2026 14:39:59 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ClementDelangue: This whole thing sucks, and I wish none of it had happened. It’s a really sad day!<br /><br />But I want to make one thing clear…</p><p><a href="https://x.com/huggingface/status/2120889347851342193">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @NVIDIADRIVE: Meet NVIDIA Alpamayo 2 Edge, a 2B-parameter reasoning VLA mo…</title>
+      <link>https://x.com/huggingface/status/2120878533618917815</link>
+      <guid isPermaLink="false">twitter:2120878533618917815</guid>
+      <pubDate>Thu, 12 Nov 2026 13:57:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @NVIDIADRIVE: Meet NVIDIA Alpamayo 2 Edge, a 2B-parameter reasoning VLA model designed for real-time, in-vehicle deployment on NVIDIA DR…</p><p><a href="https://x.com/huggingface/status/2120878533618917815">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @ting_: we just hit 6M+ downloads on @huggingface for moss image https://t…</title>
+      <link>https://x.com/huggingface/status/2120871140725801451</link>
+      <guid isPermaLink="false">twitter:2120871140725801451</guid>
+      <pubDate>Thu, 12 Nov 2026 13:27:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ting_: we just hit 6M+ downloads on @huggingface for moss image https://t.co/rT69spg0lC</p><img src="https://pbs.twimg.com/amplify_video_thumb/2120806017336504320/img/T6RI-HPrVPRxS-mu.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2120871140725801451">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @vanstriendaniel: OCR models are getting very fast!</title>
+      <link>https://x.com/huggingface/status/2120509303509700812</link>
+      <guid isPermaLink="false">twitter:2120509303509700812</guid>
+      <pubDate>Wed, 11 Nov 2026 13:29:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vanstriendaniel: OCR models are getting very fast!<br /><br />I OCR&apos;d 14,483 pages of fossil fuel industry documents with LightOnOCR-3-0.8B from…</p><p><a href="https://x.com/huggingface/status/2120509303509700812">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @SergioPaniego: new post-training example → SFT on agent traces with TRL</title>
+      <link>https://x.com/huggingface/status/2120436937680953461</link>
+      <guid isPermaLink="false">twitter:2120436937680953461</guid>
+      <pubDate>Wed, 11 Nov 2026 08:42:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @SergioPaniego: new post-training example → SFT on agent traces with TRL<br /><br />&amp;gt; a big model works as a coding agent in @opencode  via OpenEn…</p><p><a href="https://x.com/huggingface/status/2120436937680953461">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @NielsRogge: The top trending model on @huggingface currently is an image-…</title>
+      <link>https://x.com/huggingface/status/2120262896886415617</link>
+      <guid isPermaLink="false">twitter:2120262896886415617</guid>
+      <pubDate>Tue, 10 Nov 2026 21:10:41 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @NielsRogge: The top trending model on @huggingface currently is an image-to-3D model called Idol. 🔥<br /><br />It is built by @speridlabs, a comp…</p><p><a href="https://x.com/huggingface/status/2120262896886415617">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @ariG23498: Everything that you need to know about decision models, in one…</title>
+      <link>https://x.com/huggingface/status/2120261420768202848</link>
+      <guid isPermaLink="false">twitter:2120261420768202848</guid>
+      <pubDate>Tue, 10 Nov 2026 21:04:49 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ariG23498: Everything that you need to know about decision models, in one place.<br /><br />&amp;gt; what are decision models<br />&amp;gt; transformers integration…</p><p><a href="https://x.com/huggingface/status/2120261420768202848">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @julien_c: One of the coolest recent features in Pi is Virtual Models</title>
+      <link>https://x.com/huggingface/status/2120233282063245798</link>
+      <guid isPermaLink="false">twitter:2120233282063245798</guid>
+      <pubDate>Tue, 10 Nov 2026 19:13:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @julien_c: One of the coolest recent features in Pi is Virtual Models<br /><br />I am using it to route to Qwen 3.8 27B (running locally in @Llama…</p><p><a href="https://x.com/huggingface/status/2120233282063245798">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @Nouamanetazi: 📖 The Ultimate MoE Training Handbook 📖</title>
+      <link>https://x.com/huggingface/status/2120211979285762055</link>
+      <guid isPermaLink="false">twitter:2120211979285762055</guid>
+      <pubDate>Tue, 10 Nov 2026 17:48:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Nouamanetazi: 📖 The Ultimate MoE Training Handbook 📖<br /><br />We spent 1/2M GPUh to optimize MoE training and wrote the most comprehensive blog…</p><p><a href="https://x.com/huggingface/status/2120211979285762055">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @calebfahlgren: 1.4M pixel art sprites is too many to scroll, so I made th…</title>
+      <link>https://x.com/huggingface/status/2120211621201289678</link>
+      <guid isPermaLink="false">twitter:2120211621201289678</guid>
+      <pubDate>Tue, 10 Nov 2026 17:46:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @calebfahlgren: 1.4M pixel art sprites is too many to scroll, so I made them searchable in milliseconds 👾🔍<br /><br />you can try it here: https:/…</p><p><a href="https://x.com/huggingface/status/2120211621201289678">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @googlegemma: Put a Gemma-based model in a robot body. First thing it does…</title>
+      <link>https://x.com/huggingface/status/2120211601517060210</link>
+      <guid isPermaLink="false">twitter:2120211601517060210</guid>
+      <pubDate>Tue, 10 Nov 2026 17:46:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @googlegemma: Put a Gemma-based model in a robot body. First thing it does: scan the room, spot the giant TV, and start a movie break.…</p><p><a href="https://x.com/huggingface/status/2120211601517060210">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @ClementDelangue: We just crossed:</title>
+      <link>https://x.com/huggingface/status/2120211564259414055</link>
+      <guid isPermaLink="false">twitter:2120211564259414055</guid>
+      <pubDate>Tue, 10 Nov 2026 17:46:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ClementDelangue: We just crossed:<br />- 20M AI builders on @huggingface <br />- 300PB of models, datasets, agent traces, and RL environments hos…</p><p><a href="https://x.com/huggingface/status/2120211564259414055">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：Local AI 301: Quantization https://t.co/KQdi4h2HNt</title>
+      <link>https://x.com/huggingface/status/2120200194247565645</link>
+      <guid isPermaLink="false">twitter:2120200194247565645</guid>
+      <pubDate>Tue, 10 Nov 2026 17:01:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Local AI 301: Quantization https://t.co/KQdi4h2HNt</p><p><a href="https://x.com/huggingface/status/2120200194247565645">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @MiniMax_AI: 4K image generation in 10 seconds! ⚡</title>
+      <link>https://x.com/huggingface/status/2120180548505137419</link>
+      <guid isPermaLink="false">twitter:2120180548505137419</guid>
+      <pubDate>Tue, 10 Nov 2026 15:43:28 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @MiniMax_AI: 4K image generation in 10 seconds! ⚡<br /><br />Meet MiniMax H3-Image.<br /><br />16 million pixel resolution. Stunning realism. Precise prompt…</p><p><a href="https://x.com/huggingface/status/2120180548505137419">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @NielsRogge: Sharing my slides on &quot;Getting started with Local AI&quot;, present…</title>
+      <link>https://x.com/huggingface/status/2120075791035764799</link>
+      <guid isPermaLink="false">twitter:2120075791035764799</guid>
+      <pubDate>Tue, 10 Nov 2026 08:47:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @NielsRogge: Sharing my slides on &quot;Getting started with Local AI&quot;, presented at a recent hackathon in Qatar!<br /><br />Learn more about:<br /><br />* benef…</p><p><a href="https://x.com/huggingface/status/2120075791035764799">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @calebfahlgren: Hugging Face is now the best place to host and share 3D as…</title>
+      <link>https://x.com/huggingface/status/2119867444412219800</link>
+      <guid isPermaLink="false">twitter:2119867444412219800</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:18 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @calebfahlgren: Hugging Face is now the best place to host and share 3D assets 🧊🤗<br /><br />Drop in .glb, .ply, .stl, or splat files and get a 3D…</p><p><a href="https://x.com/huggingface/status/2119867444412219800">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @calebfahlgren: Someone just dropped 1.4 million pixel art sprites on Hugg…</title>
+      <link>https://x.com/huggingface/status/2119850068459037078</link>
+      <guid isPermaLink="false">twitter:2119850068459037078</guid>
+      <pubDate>Mon, 09 Nov 2026 17:50:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @calebfahlgren: Someone just dropped 1.4 million pixel art sprites on Hugging Face 😱👾<br /><br />free to use, captioned, 16×16<br /><br />https://t.co/ZFY0h…</p><p><a href="https://x.com/huggingface/status/2119850068459037078">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @ariG23498: This week we were blessed by:</title>
+      <link>https://x.com/huggingface/status/2119836111182737598</link>
+      <guid isPermaLink="false">twitter:2119836111182737598</guid>
+      <pubDate>Mon, 09 Nov 2026 16:54:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ariG23498: This week we were blessed by:<br /><br />1. @Nouamanetazi dropped MoE training  handbook: https://t.co/Fi1MsWDVze<br />2. @yb2698 started t…</p><p><a href="https://x.com/huggingface/status/2119836111182737598">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @EmmaScharfmann: I see more and more AI for Science releases on @huggingfa…</title>
+      <link>https://x.com/huggingface/status/2119836058762568110</link>
+      <guid isPermaLink="false">twitter:2119836058762568110</guid>
+      <pubDate>Mon, 09 Nov 2026 16:54:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @EmmaScharfmann: I see more and more AI for Science releases on @huggingface, but I was not sure how much they had really increased (and…</p><p><a href="https://x.com/huggingface/status/2119836058762568110">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @yb2698: Harness adapters training has now finished!</title>
+      <link>https://x.com/huggingface/status/2119821166181532083</link>
+      <guid isPermaLink="false">twitter:2119821166181532083</guid>
+      <pubDate>Mon, 09 Nov 2026 15:55:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @yb2698: Harness adapters training has now finished! <br /><br />@liquidai LFM2.5-24B, LFM3 + @thewebAI Twil-8B optimized for pi, hermes and openc…</p><p><a href="https://x.com/huggingface/status/2119821166181532083">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @RicursiveAI: Today we release Ripple-65B Preview, our 65B dense LLM we pr…</title>
+      <link>https://x.com/huggingface/status/2119801503623831680</link>
+      <guid isPermaLink="false">twitter:2119801503623831680</guid>
+      <pubDate>Mon, 09 Nov 2026 14:37:17 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @RicursiveAI: Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch.<br /><br />Ripple sets a new state-of-the-art for…</p><p><a href="https://x.com/huggingface/status/2119801503623831680">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @RisingSayak: The @huggingface crew is here in Doha till 7th for a grand H…</title>
+      <link>https://x.com/huggingface/status/2118979459063939226</link>
+      <guid isPermaLink="false">twitter:2118979459063939226</guid>
+      <pubDate>Sat, 07 Nov 2026 08:10:46 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @RisingSayak: The @huggingface crew is here in Doha till 7th for a grand Hackathon in collaboration with QAI.<br /><br />We&apos;re excited to be in th…</p><p><a href="https://x.com/huggingface/status/2118979459063939226">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @Thom_Wolf: By the way you should follow Augustin on X - I’m trying to get…</title>
+      <link>https://x.com/huggingface/status/2118776477827183033</link>
+      <guid isPermaLink="false">twitter:2118776477827183033</guid>
+      <pubDate>Fri, 06 Nov 2026 18:44:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Thom_Wolf: By the way you should follow Augustin on X - I’m trying to get him to post more - it’s one of the most cracked roboticist I’…</p><p><a href="https://x.com/huggingface/status/2118776477827183033">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @jeffboudier: We spent $2m so you don&apos;t have to.</title>
+      <link>https://x.com/huggingface/status/2118776411792310601</link>
+      <guid isPermaLink="false">twitter:2118776411792310601</guid>
+      <pubDate>Fri, 06 Nov 2026 18:43:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @jeffboudier: We spent $2m so you don&apos;t have to.  <br />And so you can learn how to train MoEs.<br /><br />Mixture-of-Experts LLMs are what powers the…</p><p><a href="https://x.com/huggingface/status/2118776411792310601">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @ClementDelangue: Open-source is critical for robotics AI. It means a stud…</title>
+      <link>https://x.com/huggingface/status/2118776392418840941</link>
+      <guid isPermaLink="false">twitter:2118776392418840941</guid>
+      <pubDate>Fri, 06 Nov 2026 18:43:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @ClementDelangue: Open-source is critical for robotics AI. It means a student, a researcher or a startup can build on years of progress…</p><p><a href="https://x.com/huggingface/status/2118776392418840941">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：Stream live training runs on Hugging Face!</title>
+      <link>https://x.com/huggingface/status/2118715992343789911</link>
+      <guid isPermaLink="false">twitter:2118715992343789911</guid>
+      <pubDate>Fri, 06 Nov 2026 14:43:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Stream live training runs on Hugging Face!</p><p><a href="https://x.com/huggingface/status/2118715992343789911">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hugging Face：RT @Thom_Wolf: 18 of the 20 best open models today are Mixture-of-Experts. De…</title>
+      <link>https://x.com/huggingface/status/2118648076936020450</link>
+      <guid isPermaLink="false">twitter:2118648076936020450</guid>
+      <pubDate>Fri, 06 Nov 2026 10:13:58 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @Thom_Wolf: 18 of the 20 best open models today are Mixture-of-Experts. Dense is basically over.<br /><br />And yet the know-how to train a good M…</p><p><a href="https://x.com/huggingface/status/2118648076936020450">原文</a> · 转发</p>]]></description>
+    </item>
     <item>
       <title>Hugging Face：Our open-source ML Intern is now available as a Slack bot you can install in …</title>
       <link>https://x.com/huggingface/status/2118430862949945612</link>
@@ -990,222 +1206,6 @@
       <pubDate>Sat, 10 Oct 2026 01:38:35 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @jeffboudier: All of open source AI is coming together 🤗<br /><br />TGIF and Thanks to Sponsors @arcee_ai @reflection_ai <br />and Co-Hosts @allen_ai @…</p><p><a href="https://x.com/huggingface/status/2108733901237813582">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @inteldevs: Bay Area AI builders:</title>
-      <link>https://x.com/huggingface/status/2108631575915299185</link>
-      <guid isPermaLink="false">twitter:2108631575915299185</guid>
-      <pubDate>Fri, 09 Oct 2026 18:51:58 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @inteldevs: Bay Area AI builders:<br /><br />Open source demonstrates what&apos;s possible when builders collaborate to develop, improve, and share new…</p><p><a href="https://x.com/huggingface/status/2108631575915299185">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @QGallouedec: TRL v1.15 is out. Our biggest optimization ever.</title>
-      <link>https://x.com/huggingface/status/2108476632121897360</link>
-      <guid isPermaLink="false">twitter:2108476632121897360</guid>
-      <pubDate>Fri, 09 Oct 2026 08:36:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @QGallouedec: TRL v1.15 is out. Our biggest optimization ever.<br /><br />Fused LM head, on by default:<br /><br />→ up to 82% less peak VRAM<br />→ 7x longer se…</p><p><a href="https://x.com/huggingface/status/2108476632121897360">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: We urgently need more public traces of AI agents attacki…</title>
-      <link>https://x.com/huggingface/status/2108296444662910980</link>
-      <guid isPermaLink="false">twitter:2108296444662910980</guid>
-      <pubDate>Thu, 08 Oct 2026 20:40:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: We urgently need more public traces of AI agents attacking and defending systems. Defenders can’t learn from what they…</p><p><a href="https://x.com/huggingface/status/2108296444662910980">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @DynamicWebPaige: 🤗💎 Such an exciting week for open-source, congrats to …</title>
-      <link>https://x.com/huggingface/status/2108296348206330179</link>
-      <guid isPermaLink="false">twitter:2108296348206330179</guid>
-      <pubDate>Thu, 08 Oct 2026 20:39:54 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @DynamicWebPaige: 🤗💎 Such an exciting week for open-source, congrats to the @GoogleGemma @GoogleDeepMind teams!<br /><br />The @huggingface demos…</p><p><a href="https://x.com/huggingface/status/2108296348206330179">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @matth_lapeyre: We did not know how long Microduck would actually last on …</title>
-      <link>https://x.com/huggingface/status/2108296055884231162</link>
-      <guid isPermaLink="false">twitter:2108296055884231162</guid>
-      <pubDate>Thu, 08 Oct 2026 20:38:44 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @matth_lapeyre: We did not know how long Microduck would actually last on battery <br /><br />We had thermal management issues with our Radxa prot…</p><p><a href="https://x.com/huggingface/status/2108296055884231162">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @osanseviero: Open models for plant DNA analysis! 🍈</title>
-      <link>https://x.com/huggingface/status/2108271757496852611</link>
-      <guid isPermaLink="false">twitter:2108271757496852611</guid>
-      <pubDate>Thu, 08 Oct 2026 19:02:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @osanseviero: Open models for plant DNA analysis! 🍈<br /><br />Combining Gemma 4 E4B + BOTANIC-1, a model trained on plant genomes, allowed the Li…</p><p><a href="https://x.com/huggingface/status/2108271757496852611">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @Weyaxi: Everything is open on @huggingface: the environments, every traje…</title>
-      <link>https://x.com/huggingface/status/2108271555725643798</link>
-      <guid isPermaLink="false">twitter:2108271555725643798</guid>
-      <pubDate>Thu, 08 Oct 2026 19:01:23 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @Weyaxi: Everything is open on @huggingface: the environments, every trajectory (including the 14k failures), the exact training split a…</p><p><a href="https://x.com/huggingface/status/2108271555725643798">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @Weyaxi: We&apos;re releasing TermGrade at @aiand_: high-quality RL environment…</title>
-      <link>https://x.com/huggingface/status/2108271529360228644</link>
-      <guid isPermaLink="false">twitter:2108271529360228644</guid>
-      <pubDate>Thu, 08 Oct 2026 19:01:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @Weyaxi: We&apos;re releasing TermGrade at @aiand_: high-quality RL environments for terminal agents, fully open source, along with the full…</p><p><a href="https://x.com/huggingface/status/2108271529360228644">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：Help keep science open, try this out on Paper Pages: https://t.co/1cApLwjR7A</title>
-      <link>https://x.com/huggingface/status/2108252563015422389</link>
-      <guid isPermaLink="false">twitter:2108252563015422389</guid>
-      <pubDate>Thu, 08 Oct 2026 17:45:55 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Help keep science open, try this out on Paper Pages: https://t.co/1cApLwjR7A</p><p><a href="https://x.com/huggingface/status/2108252563015422389">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ggerganov: llama.cpp can distribute inference on heterogeneous devices th…</title>
-      <link>https://x.com/huggingface/status/2108225596199149849</link>
-      <guid isPermaLink="false">twitter:2108225596199149849</guid>
-      <pubDate>Thu, 08 Oct 2026 15:58:45 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ggerganov: llama.cpp can distribute inference on heterogeneous devices through the ggml RPC backend<br /><br />It&apos;s an advanced setting but I thi…</p><p><a href="https://x.com/huggingface/status/2108225596199149849">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @XciD_: no config. no key. nothing</title>
-      <link>https://x.com/huggingface/status/2108225574858809644</link>
-      <guid isPermaLink="false">twitter:2108225574858809644</guid>
-      <pubDate>Thu, 08 Oct 2026 15:58:40 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @XciD_: no config. no key. nothing<br />chat with open models, zero setup<br />ssh https://t.co/xvINX5qMn9 https://t.co/8PBP6yi1n2</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107894550224162816/img/2N-I84vBKDWAuQgd.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2108225574858809644">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ggerganov: It is very cool to see llama.cpp on the big stage in todays Wi…</title>
-      <link>https://x.com/huggingface/status/2108225563920089395</link>
-      <guid isPermaLink="false">twitter:2108225563920089395</guid>
-      <pubDate>Thu, 08 Oct 2026 15:58:38 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ggerganov: It is very cool to see llama.cpp on the big stage in todays Windows event!<br /><br />The software and hardware stacks are finally com…</p><p><a href="https://x.com/huggingface/status/2108225563920089395">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @victormustar: Decision Models + Hugging Face = ❤️</title>
-      <link>https://x.com/huggingface/status/2108224577809658208</link>
-      <guid isPermaLink="false">twitter:2108224577809658208</guid>
-      <pubDate>Thu, 08 Oct 2026 15:54:42 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @victormustar: Decision Models + Hugging Face = ❤️<br /><br />New tag on HF: &quot;decision-model&quot; so you can filter for them and maybe combine with ML…</p><p><a href="https://x.com/huggingface/status/2108224577809658208">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @cgeorgiaw: Today, we&apos;re releasing the Carbon Annotation Database and the …</title>
-      <link>https://x.com/huggingface/status/2108224512286216381</link>
-      <guid isPermaLink="false">twitter:2108224512286216381</guid>
-      <pubDate>Thu, 08 Oct 2026 15:54:27 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @cgeorgiaw: Today, we&apos;re releasing the Carbon Annotation Database and the model behind it, Carbon-A. <br /><br />We&apos;ve used this model to discover…</p><p><a href="https://x.com/huggingface/status/2108224512286216381">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @osanseviero: Introducing EmbeddingGemma 2, our new open embeddings model …</title>
-      <link>https://x.com/huggingface/status/2108214664844767460</link>
-      <guid isPermaLink="false">twitter:2108214664844767460</guid>
-      <pubDate>Thu, 08 Oct 2026 15:15:19 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @osanseviero: Introducing EmbeddingGemma 2, our new open embeddings model for on-device use cases!<br /><br />👀 Code, image, video, audio, and tex…</p><p><a href="https://x.com/huggingface/status/2108214664844767460">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @lmoroney: Still running OCR over your PDFs before you can search them? Pe…</title>
-      <link>https://x.com/huggingface/status/2108213409430798428</link>
-      <guid isPermaLink="false">twitter:2108213409430798428</guid>
-      <pubDate>Thu, 08 Oct 2026 15:10:20 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @lmoroney: Still running OCR over your PDFs before you can search them? Perplexity&apos;s new open embedding models are built to skip that st…</p><p><a href="https://x.com/huggingface/status/2108213409430798428">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: Is there anything Reachy mini can’t do? https://t.co/eh0…</title>
-      <link>https://x.com/huggingface/status/2108213331106341207</link>
-      <guid isPermaLink="false">twitter:2108213331106341207</guid>
-      <pubDate>Thu, 08 Oct 2026 15:10:01 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: Is there anything Reachy mini can’t do? https://t.co/eh0SdAUmWR</p><img src="https://pbs.twimg.com/amplify_video_thumb/2108212150036541440/img/-U1xnH_NGh04jV8p.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2108213331106341207">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @maximelabonne: Tiny decision models you can run everywhere:</title>
-      <link>https://x.com/huggingface/status/2108202656032497919</link>
-      <guid isPermaLink="false">twitter:2108202656032497919</guid>
-      <pubDate>Thu, 08 Oct 2026 14:27:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @maximelabonne: Tiny decision models you can run everywhere:<br /><br />&amp;gt; d1-3B has impeccable performance in text and vision<br />&amp;gt; d1-omni-600M suppo…</p><p><a href="https://x.com/huggingface/status/2108202656032497919">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @1a1a11a: The largest agentic LLM Inference dataset has arrived!</title>
-      <link>https://x.com/huggingface/status/2108202639658013150</link>
-      <guid isPermaLink="false">twitter:2108202639658013150</guid>
-      <pubDate>Thu, 08 Oct 2026 14:27:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @1a1a11a: The largest agentic LLM Inference dataset has arrived!<br />206B tokens · 12,002 sessions · 1,186,582 LLM requests · 1,213,347 tool…</p><p><a href="https://x.com/huggingface/status/2108202639658013150">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @Alex_tra_memory: d1-omni-600M, now running on Apple silicon with Core ML …</title>
-      <link>https://x.com/huggingface/status/2108202577779466646</link>
-      <guid isPermaLink="false">twitter:2108202577779466646</guid>
-      <pubDate>Thu, 08 Oct 2026 14:27:17 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @Alex_tra_memory: d1-omni-600M, now running on Apple silicon with Core ML ⚡<br /><br />We pointed it at a firehose of 5,000 real comments from Civ…</p><p><a href="https://x.com/huggingface/status/2108202577779466646">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ben_burtenshaw: Today we are launching an agent arena for RL environments…</title>
-      <link>https://x.com/huggingface/status/2108202145141174669</link>
-      <guid isPermaLink="false">twitter:2108202145141174669</guid>
-      <pubDate>Thu, 08 Oct 2026 14:25:34 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ben_burtenshaw: Today we are launching an agent arena for RL environments: The Open Env Arena.<br /><br />Your agents can work to define the best…</p><p><a href="https://x.com/huggingface/status/2108202145141174669">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @nv_pavlichenko: Today we&apos;re releasing Mellum2.1: a major update to the Me…</title>
-      <link>https://x.com/huggingface/status/2108188508632625227</link>
-      <guid isPermaLink="false">twitter:2108188508632625227</guid>
-      <pubDate>Thu, 08 Oct 2026 13:31:23 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @nv_pavlichenko: Today we&apos;re releasing Mellum2.1: a major update to the Mellum2 that we open-sourced in June. This release is the result…</p><p><a href="https://x.com/huggingface/status/2108188508632625227">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @RisingSayak: Was meant to be a Valentine&apos;s gift, but I&apos;m releasing it ear…</title>
-      <link>https://x.com/huggingface/status/2108005474641838500</link>
-      <guid isPermaLink="false">twitter:2108005474641838500</guid>
-      <pubDate>Thu, 08 Oct 2026 01:24:04 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @RisingSayak: Was meant to be a Valentine&apos;s gift, but I&apos;m releasing it early ❤️<br /><br />Wrote a long piece on KV caching in flow models for ima…</p><p><a href="https://x.com/huggingface/status/2108005474641838500">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @ClementDelangue: If you need any more evidence about how exciting local A…</title>
-      <link>https://x.com/huggingface/status/2107929853676990731</link>
-      <guid isPermaLink="false">twitter:2107929853676990731</guid>
-      <pubDate>Wed, 07 Oct 2026 20:23:35 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @ClementDelangue: If you need any more evidence about how exciting local AI (and llamacpp) is! From the @Microsoft windows launch today…</p><p><a href="https://x.com/huggingface/status/2107929853676990731">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @_philschmid: EmbeddingGemma 2 is out! Our first native multimodal embeddi…</title>
-      <link>https://x.com/huggingface/status/2107929676358300047</link>
-      <guid isPermaLink="false">twitter:2107929676358300047</guid>
-      <pubDate>Wed, 07 Oct 2026 20:22:52 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @_philschmid: EmbeddingGemma 2 is out! Our first native multimodal embeddings built on Gemma 4 under Apache 2.0. 🤗 Embeds 100+ languages…</p><p><a href="https://x.com/huggingface/status/2107929676358300047">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @liquidai: Choose d1-3B for high-quality text and vision decisions, or exp…</title>
-      <link>https://x.com/huggingface/status/2107929604149403673</link>
-      <guid isPermaLink="false">twitter:2107929604149403673</guid>
-      <pubDate>Wed, 07 Oct 2026 20:22:35 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @liquidai: Choose d1-3B for high-quality text and vision decisions, or explore our experimental d1-omni-600M when footprint matters.<br /><br />Do…</p><p><a href="https://x.com/huggingface/status/2107929604149403673">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Hugging Face：RT @vivmarquez: decision models, now open and multimodal! https://t.co/wiZxwJ…</title>
-      <link>https://x.com/huggingface/status/2107929574206218545</link>
-      <guid isPermaLink="false">twitter:2107929574206218545</guid>
-      <pubDate>Wed, 07 Oct 2026 20:22:28 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @vivmarquez: decision models, now open and multimodal! https://t.co/wiZxwJKQBu</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107913431617847296/img/UOrSCai2SNmgoumY.jpg" loading="lazy" /><p><a href="https://x.com/huggingface/status/2107929574206218545">原文</a> · 转发</p>]]></description>
     </item>
   </channel>
 </rss>

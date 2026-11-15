@@ -5,8 +5,32 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Nov 2026 01:46:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:36:53 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>François Chollet：RT @arcprize: Gemini 4 Carbon from @Google on ARC-AGI (Verified):</title>
+      <link>https://x.com/fchollet/status/2120269488964981168</link>
+      <guid isPermaLink="false">twitter:2120269488964981168</guid>
+      <pubDate>Tue, 10 Nov 2026 21:36:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: Gemini 4 Carbon from @Google on ARC-AGI (Verified):<br /><br />- ARC-AGI-3: 99.1%, $4.6K (provider adapter), 65.1%, $7.2K (standard har…</p><p><a href="https://x.com/fchollet/status/2120269488964981168">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Sam and his team are working on a super exciting idea: autonomous busines…</title>
+      <link>https://x.com/fchollet/status/2119843249980662241</link>
+      <guid isPermaLink="false">twitter:2119843249980662241</guid>
+      <pubDate>Mon, 09 Nov 2026 17:23:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Sam and his team are working on a super exciting idea: autonomous businesses. <br /><br />Acquiring distressed or stagnant SaaS apps and handing the keys to an agent harness is the ultimate real-world eval. Just P&amp;L as the objective function and the market as the feedback signal.<br /><br />Congrats on the launch!</p><p><a href="https://x.com/fchollet/status/2119843249980662241">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Data scaling and compute scaling are *multipliers* for the generalization…</title>
+      <link>https://x.com/fchollet/status/2119201339020648849</link>
+      <guid isPermaLink="false">twitter:2119201339020648849</guid>
+      <pubDate>Sat, 07 Nov 2026 22:52:26 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Data scaling and compute scaling are *multipliers* for the generalization power of an approach. Trillions of dollars in investment can make very inefficient, low-generalization approaches look adequate, but that doesn&apos;t make them the ultimate end-all-be-all of AI.<br /><br />You should work on methods that *can* scale, because if you don&apos;t benefit from this multiplier you simply can&apos;t compete. But you should keep in mind scaling is only a multiplier: a cleverer approach will scale *better*.</p><p><a href="https://x.com/fchollet/status/2119201339020648849">原文</a></p>]]></description>
+    </item>
     <item>
       <title>François Chollet：Co-sign. The only future that is worth building is one in which AI remain…</title>
       <link>https://x.com/fchollet/status/2117795655297175980</link>

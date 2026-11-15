@@ -5,8 +5,112 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>hwchase17 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/hwchase17.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 23:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:28:35 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Harrison Chase：RT @shcallaway: Today we&apos;re launching Sazabi Security 🔒</title>
+      <link>https://x.com/hwchase17/status/2120961974922354753</link>
+      <guid isPermaLink="false">twitter:2120961974922354753</guid>
+      <pubDate>Thu, 12 Nov 2026 19:28:35 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @shcallaway: Today we&apos;re launching Sazabi Security 🔒<br /><br />Sazabi Security watches your logs for attacks, investigates anything sketchy, and…</p><p><a href="https://x.com/hwchase17/status/2120961974922354753">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @vitalflux: In this keynote from Interrupt London, @hwchase17 discusses …</title>
+      <link>https://x.com/hwchase17/status/2120707170266452475</link>
+      <guid isPermaLink="false">twitter:2120707170266452475</guid>
+      <pubDate>Thu, 12 Nov 2026 02:36:04 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vitalflux: In this keynote from Interrupt London, @hwchase17 discusses the evolution of AI agents and the necessity for companies to ow…</p><p><a href="https://x.com/hwchase17/status/2120707170266452475">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @vitalflux: I will be using @langchain deep agents for one of the procur…</title>
+      <link>https://x.com/hwchase17/status/2120585318420385828</link>
+      <guid isPermaLink="false">twitter:2120585318420385828</guid>
+      <pubDate>Wed, 11 Nov 2026 18:31:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vitalflux: I will be using @langchain deep agents for one of the procure-to-pay POC I am working on. <br /><br />Here is why I would recommend De…</p><p><a href="https://x.com/hwchase17/status/2120585318420385828">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：c̵o̵n̵t̵e̵x̵t̵ ̵e̵n̵g̵i̵n̵e̵e̵r̵i̵n̵g̵</title>
+      <link>https://x.com/hwchase17/status/2120330156325867529</link>
+      <guid isPermaLink="false">twitter:2120330156325867529</guid>
+      <pubDate>Wed, 11 Nov 2026 01:37:57 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>c̵o̵n̵t̵e̵x̵t̵ ̵e̵n̵g̵i̵n̵e̵e̵r̵i̵n̵g̵<br /><br />̵h̵a̵r̵n̵e̵s̵s̵ ̵e̵n̵g̵i̵n̵e̵e̵r̵i̵n̵g̵<br /><br />goal engineering</p><p><a href="https://x.com/hwchase17/status/2120330156325867529">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：we&apos;re running our annual &quot;State of Agent Engineering&quot; survey!</title>
+      <link>https://x.com/hwchase17/status/2120321303572025349</link>
+      <guid isPermaLink="false">twitter:2120321303572025349</guid>
+      <pubDate>Wed, 11 Nov 2026 01:02:47 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>we&apos;re running our annual &quot;State of Agent Engineering&quot; survey!<br /><br />we&apos;re all just trying to figure out how to build agents together - these are a few of the questions/topics that are top of mind of us<br /><br />excited to see what the community thinks!<br /><br />https://t.co/JOrg92LYqY https://t.co/Q4VKzZGTUN</p><img src="https://pbs.twimg.com/media/HWzk-4ObMAAycUz.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2120321303572025349">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: We&apos;re running a MDA workshop in SF next Tuesday! Bring a lap…</title>
+      <link>https://x.com/hwchase17/status/2120248914012197130</link>
+      <guid isPermaLink="false">twitter:2120248914012197130</guid>
+      <pubDate>Tue, 10 Nov 2026 20:15:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: We&apos;re running a MDA workshop in SF next Tuesday! Bring a laptop and leave with a deployed agent https://t.co/9TsvJiyeUJ http…</p><p><a href="https://x.com/hwchase17/status/2120248914012197130">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @vitalflux: Eval-driven development (EDD) is TDD for AI agents. Great ar…</title>
+      <link>https://x.com/hwchase17/status/2120020934723793088</link>
+      <guid isPermaLink="false">twitter:2120020934723793088</guid>
+      <pubDate>Tue, 10 Nov 2026 05:09:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vitalflux: Eval-driven development (EDD) is TDD for AI agents. Great article from @LangChain <br /><br />Stop tweaking prompts and guessing wheth…</p><p><a href="https://x.com/hwchase17/status/2120020934723793088">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @vitalflux: In this session from Interrupt London, @hwchase17  discusses…</title>
+      <link>https://x.com/hwchase17/status/2119819055008010674</link>
+      <guid isPermaLink="false">twitter:2119819055008010674</guid>
+      <pubDate>Mon, 09 Nov 2026 15:47:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @vitalflux: In this session from Interrupt London, @hwchase17  discusses the &quot;North Star&quot; vision of building AI agents that improve over…</p><p><a href="https://x.com/hwchase17/status/2119819055008010674">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @simon_budziak: Everyone is converging on the same agent architecture. A…</title>
+      <link>https://x.com/hwchase17/status/2119453359224811736</link>
+      <guid isPermaLink="false">twitter:2119453359224811736</guid>
+      <pubDate>Sun, 08 Nov 2026 15:33:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @simon_budziak: Everyone is converging on the same agent architecture. An LLM in a loop, calling tools, inside a sandbox.<br /> <br />That does no…</p><p><a href="https://x.com/hwchase17/status/2119453359224811736">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：Long tasks shouldn&apos;t block the chat</title>
+      <link>https://x.com/hwchase17/status/2119190885871312911</link>
+      <guid isPermaLink="false">twitter:2119190885871312911</guid>
+      <pubDate>Sat, 07 Nov 2026 22:10:54 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Long tasks shouldn&apos;t block the chat<br /><br />https://t.co/THwigSXEm6<br /><br />https://t.co/54M4yIs0Oo</p><p><a href="https://x.com/hwchase17/status/2119190885871312911">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：RT @caspar_br: Managed Deep Agents can now be steered mid-turn. If you send…</title>
+      <link>https://x.com/hwchase17/status/2118789584096227808</link>
+      <guid isPermaLink="false">twitter:2118789584096227808</guid>
+      <pubDate>Fri, 06 Nov 2026 19:36:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @caspar_br: Managed Deep Agents can now be steered mid-turn. If you send a message while the agent is working, it reads it at its next m…</p><p><a href="https://x.com/hwchase17/status/2118789584096227808">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：async subagents: https://t.co/THwigSX6wy</title>
+      <link>https://x.com/hwchase17/status/2118739846990610648</link>
+      <guid isPermaLink="false">twitter:2118739846990610648</guid>
+      <pubDate>Fri, 06 Nov 2026 16:18:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>async subagents: https://t.co/THwigSX6wy<br />browser use: https://t.co/7fMpPweA2C<br />BYOC: https://t.co/TX8n4CFBZF<br />Interrupt: https://t.co/HSo53gXxq8</p><p><a href="https://x.com/hwchase17/status/2118739846990610648">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Harrison Chase：this week at langchain:</title>
+      <link>https://x.com/hwchase17/status/2118739844696277338</link>
+      <guid isPermaLink="false">twitter:2118739844696277338</guid>
+      <pubDate>Fri, 06 Nov 2026 16:18:37 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>this week at langchain:<br /><br />- async subagents in deep agents - your agent keeps talking to you while subagents work in the background<br />- how we tuned browser use in MDA (7 toolsets tested, stagehand won)<br />- LangSmith BYOC on AWS, Azure + GCP<br />- Interrupt is back, March 24-25 in SF https://t.co/qn3sYHNjmu</p><img src="https://pbs.twimg.com/media/HWdGqU-W0AA7ddD.jpg" loading="lazy" /><p><a href="https://x.com/hwchase17/status/2118739844696277338">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Harrison Chase：RT @amal_irgashev: go async or go home</title>
       <link>https://x.com/hwchase17/status/2118491299087278125</link>

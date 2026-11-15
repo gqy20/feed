@@ -5,8 +5,112 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>soumithchintala · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/soumithchintala.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 16:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:16:52 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Soumith Chintala：Inkling 2 Small on OpenCode for free for a limited time, to help us impro…</title>
+      <link>https://x.com/soumithchintala/status/2119086689201316272</link>
+      <guid isPermaLink="false">twitter:2119086689201316272</guid>
+      <pubDate>Sat, 07 Nov 2026 15:16:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Inkling 2 Small on OpenCode for free for a limited time, to help us improve our models further: https://t.co/x5ihVRYBn1</p><p><a href="https://x.com/soumithchintala/status/2119086689201316272">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：RT @arcprize: Inkling 2 Small from @thinkymachines on ARC-AGI (Verified):</title>
+      <link>https://x.com/soumithchintala/status/2118804902294270104</link>
+      <guid isPermaLink="false">twitter:2118804902294270104</guid>
+      <pubDate>Fri, 06 Nov 2026 20:37:08 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @arcprize: Inkling 2 Small from @thinkymachines on ARC-AGI (Verified):<br /><br />- ARC-AGI-2: 81.7%, $0.27/task<br />- ARC-AGI-1: 96.5%, $0.08/task<br /><br />I…</p><p><a href="https://x.com/soumithchintala/status/2118804902294270104">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：this is worth reading. we&apos;re taking safety very seriously -- both proacti…</title>
+      <link>https://x.com/soumithchintala/status/2118531321001591073</link>
+      <guid isPermaLink="false">twitter:2118531321001591073</guid>
+      <pubDate>Fri, 06 Nov 2026 02:30:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>this is worth reading. we&apos;re taking safety very seriously -- both proactive safety monitoring during training, and safety testing (internal and external). And we&apos;ve learnt a lot in training the small model, its ability to try to circumvent and building guardrails for it.<br /><br />In addition to John&apos;s post (and our model launch post), its worth reading our post on OpenWeights + Safety from July: https://t.co/6hWLnICbG5</p><p><a href="https://x.com/soumithchintala/status/2118531321001591073">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：RT @karinanguyen: One of my favorite traces: when the filing tool returne…</title>
+      <link>https://x.com/soumithchintala/status/2118500147151729070</link>
+      <guid isPermaLink="false">twitter:2118500147151729070</guid>
+      <pubDate>Fri, 06 Nov 2026 00:26:09 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @karinanguyen: One of my favorite traces: when the filing tool returned only PSEG’s table of contents, Inkling 2 Small agent independent…</p><p><a href="https://x.com/soumithchintala/status/2118500147151729070">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：we spent a ton of time understanding what makes models customizable, and …</title>
+      <link>https://x.com/soumithchintala/status/2118499742246465563</link>
+      <guid isPermaLink="false">twitter:2118499742246465563</guid>
+      <pubDate>Fri, 06 Nov 2026 00:24:33 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>we spent a ton of time understanding what makes models customizable, and built Inkling 2 Small to have the right properties.<br /><br />For a fixed data and $ budget, this model will get you very good results (relatively) versus other options.<br /><br />Probably one of the only model programs in the industry with a launch blocking eval around customizability.<br /><br />Go @tinkerapi !</p><p><a href="https://x.com/soumithchintala/status/2118499742246465563">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：RT @cHHillee: Our infra has really improved quite a bit since the last ti…</title>
+      <link>https://x.com/soumithchintala/status/2118498314371112986</link>
+      <guid isPermaLink="false">twitter:2118498314371112986</guid>
+      <pubDate>Fri, 06 Nov 2026 00:18:52 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @cHHillee: Our infra has really improved quite a bit since the last time we released a model - this one took just under 3 days to pretra…</p><p><a href="https://x.com/soumithchintala/status/2118498314371112986">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：RT @DesignArena: BREAKING: Inkling 2 Small by @thinkymachines takes 4th p…</title>
+      <link>https://x.com/soumithchintala/status/2118496399369318486</link>
+      <guid isPermaLink="false">twitter:2118496399369318486</guid>
+      <pubDate>Fri, 06 Nov 2026 00:11:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @DesignArena: BREAKING: Inkling 2 Small by @thinkymachines takes 4th place overall on DesignArena and is 1st place among open weights mo…</p><p><a href="https://x.com/soumithchintala/status/2118496399369318486">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：making a 3D city sim game.... https://t.co/BFTzhaKoFh</title>
+      <link>https://x.com/soumithchintala/status/2118495935202545897</link>
+      <guid isPermaLink="false">twitter:2118495935202545897</guid>
+      <pubDate>Fri, 06 Nov 2026 00:09:25 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>making a 3D city sim game.... https://t.co/BFTzhaKoFh</p><img src="https://pbs.twimg.com/amplify_video_thumb/2118495804008660993/img/BfyWlC8j2DuqxFiK.jpg" loading="lazy" /><p><a href="https://x.com/soumithchintala/status/2118495935202545897">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：the vision capabilities of Inkling 2 Small are a very nice upgrade from I…</title>
+      <link>https://x.com/soumithchintala/status/2118495413623767467</link>
+      <guid isPermaLink="false">twitter:2118495413623767467</guid>
+      <pubDate>Fri, 06 Nov 2026 00:07:21 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>the vision capabilities of Inkling 2 Small are a very nice upgrade from Inkling 1....just sayin https://t.co/09S3knnAVj</p><img src="https://pbs.twimg.com/media/HWZoIDoWIAEFGrD.jpg" loading="lazy" /><p><a href="https://x.com/soumithchintala/status/2118495413623767467">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：does well on closed SWE benchmarks like Frontier Code 2.0 from @cognition…</title>
+      <link>https://x.com/soumithchintala/status/2118492109170958421</link>
+      <guid isPermaLink="false">twitter:2118492109170958421</guid>
+      <pubDate>Thu, 05 Nov 2026 23:54:13 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>does well on closed SWE benchmarks like Frontier Code 2.0 from @cognition https://t.co/tun0MVEBwU</p><img src="https://pbs.twimg.com/media/HWZlV_vW0AATqMO.jpg" loading="lazy" /><p><a href="https://x.com/soumithchintala/status/2118492109170958421">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：works for multiple hours on GPU kernel optimization https://t.co/GuuQcZII…</title>
+      <link>https://x.com/soumithchintala/status/2118491856484859968</link>
+      <guid isPermaLink="false">twitter:2118491856484859968</guid>
+      <pubDate>Thu, 05 Nov 2026 23:53:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>works for multiple hours on GPU kernel optimization https://t.co/GuuQcZIIaP</p><img src="https://pbs.twimg.com/media/HWZlFw8WwAABkGo.jpg" loading="lazy" /><p><a href="https://x.com/soumithchintala/status/2118491856484859968">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：Our v2 small model is here.</title>
+      <link>https://x.com/soumithchintala/status/2118490925634556026</link>
+      <guid isPermaLink="false">twitter:2118490925634556026</guid>
+      <pubDate>Thu, 05 Nov 2026 23:49:30 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Our v2 small model is here.<br />I&apos;ve been using it daily for a variety of things.<br /><br />The pre-training ran for 68 hours on GB300s. Post-training was 17 million rollouts over 9 days.<br />Entirely pre-mid-post trained in NVFP4.<br /><br />Available to train and fine-tune on Tinker right now.<br />Open weights next week after external safety testing is fully complete (cant skimp on that).<br /><br />Continuing to decentralize and democratize intelligence...</p><p><a href="https://x.com/soumithchintala/status/2118490925634556026">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Soumith Chintala：Cognition&apos;s new flash model is post-trained on top of Inkling-small!</title>
+      <link>https://x.com/soumithchintala/status/2118071460631834931</link>
+      <guid isPermaLink="false">twitter:2118071460631834931</guid>
+      <pubDate>Wed, 04 Nov 2026 20:02:42 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Cognition&apos;s new flash model is post-trained on top of Inkling-small!</p><p><a href="https://x.com/soumithchintala/status/2118071460631834931">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Soumith Chintala：&quot;the research team caught an Alibaba Qwen3.8 model doing something that s…</title>
       <link>https://x.com/soumithchintala/status/2114762893409354180</link>
