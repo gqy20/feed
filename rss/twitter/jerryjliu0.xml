@@ -5,8 +5,168 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>jerryjliu0 · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/jerryjliu0.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 03:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:21:20 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: @jerryjliu0 @xujustinj https://t.co/dyn9wJG4gu</title>
+      <link>https://x.com/jerryjliu0/status/2123511968229425230</link>
+      <guid isPermaLink="false">twitter:2123511968229425230</guid>
+      <pubDate>Thu, 19 Nov 2026 20:21:20 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: @jerryjliu0 @xujustinj https://t.co/dyn9wJG4gu</p><img src="https://pbs.twimg.com/tweet_video_thumb/HXg6FL3awAAMqLq.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2123511968229425230">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @TimBaer8: 🚨🚨🚨</title>
+      <link>https://x.com/jerryjliu0/status/2123511961250140245</link>
+      <guid isPermaLink="false">twitter:2123511961250140245</guid>
+      <pubDate>Thu, 19 Nov 2026 20:21:19 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @TimBaer8: 🚨🚨🚨</p><p><a href="https://x.com/jerryjliu0/status/2123511961250140245">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：we&apos;re changing our logo 🌴 https://t.co/CyxNb1CTi6</title>
+      <link>https://x.com/jerryjliu0/status/2123509578021404885</link>
+      <guid isPermaLink="false">twitter:2123509578021404885</guid>
+      <pubDate>Thu, 19 Nov 2026 20:11:50 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>we&apos;re changing our logo 🌴 https://t.co/CyxNb1CTi6</p><img src="https://pbs.twimg.com/media/HXg4qvAbAAAHZNn.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2123509578021404885">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: the world loves forgetting saudi aramco exists https://t.co/my…</title>
+      <link>https://x.com/jerryjliu0/status/2123509366251020646</link>
+      <guid isPermaLink="false">twitter:2123509366251020646</guid>
+      <pubDate>Thu, 19 Nov 2026 20:11:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: the world loves forgetting saudi aramco exists https://t.co/myr25AlTRy</p><img src="https://pbs.twimg.com/media/HXg2MkcakAA-4DB.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2123509366251020646">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Building a great benchmark is challenging, building a perfect benchmark is near …</title>
+      <link>https://x.com/jerryjliu0/status/2123469922034667791</link>
+      <guid isPermaLink="false">twitter:2123469922034667791</guid>
+      <pubDate>Thu, 19 Nov 2026 17:34:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Building a great benchmark is challenging, building a perfect benchmark is near impossible. This especially holds true in the world of document parsing.<br /><br />I wrote a blog post that details the core design criteria needed for a document parsing benchmark, and the historical attempts to get there - from those based on static deterministic metrics to LLM as a judge approaches.<br /><br />Building a “great” benchmark requires at least the following:<br />1. Representative data<br />2. Granularity<br />3. Quantifiable<br />4. Repeatable<br />5. Controllable<br />6. Aligned with human judgment<br /><br />Existing benchmarks based on deterministic metrics are oftentimes granular/repeatable, but not controllable or aligned with human judgment. Those based on LLM as a judge are not granular, quantifiable, repeatable, and can obscure how human judgment is encoded.<br /><br />Last week we launched ParseBench-2 in an attempt to tackle all of these dimensions. It contains a taxonomy of metrics across 6 dimensions (tables, charts, layout, formatting, text, and forms) that precisely measure document parsing failures and quantifies their impact. It’s certainly not perfect, but does make an honest attempt towards advancing every design criteria. It’s also designed to be customizable by the user (see our metric lab!)<br /><br />We’re rapidly shipping new iterations of this benchmark to improve annotations, metric quality, and customizability. If you do check it out, would love to hear your thoughts.<br /><br />Blog: https://t.co/NAchVsDfVC<br /><br />ParseBench-2: https://t.co/PWczfhp0OX</p><img src="https://pbs.twimg.com/media/HXgUgoMa8AAdSDV.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2123469922034667791">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @llama_index: ParseBench has been cited by NVIDIA, Cohere and Perplexity. It …</title>
+      <link>https://x.com/jerryjliu0/status/2123465173801529359</link>
+      <guid isPermaLink="false">twitter:2123465173801529359</guid>
+      <pubDate>Thu, 19 Nov 2026 17:15:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @llama_index: ParseBench has been cited by NVIDIA, Cohere and Perplexity. It still isn’t a perfect benchmark.<br /><br />Part of getting closer me…</p><p><a href="https://x.com/jerryjliu0/status/2123465173801529359">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: sf we need to be more like pakistan and bring out the canoes o…</title>
+      <link>https://x.com/jerryjliu0/status/2123197543379357707</link>
+      <guid isPermaLink="false">twitter:2123197543379357707</guid>
+      <pubDate>Wed, 18 Nov 2026 23:31:56 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: sf we need to be more like pakistan and bring out the canoes onto the flooded streets<br /><br />its time to canoe</p><p><a href="https://x.com/jerryjliu0/status/2123197543379357707">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @disiok: I think one of the most impactful things a researcher can do is buil…</title>
+      <link>https://x.com/jerryjliu0/status/2123197534218920152</link>
+      <guid isPermaLink="false">twitter:2123197534218920152</guid>
+      <pubDate>Wed, 18 Nov 2026 23:31:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @disiok: I think one of the most impactful things a researcher can do is building super ambitious and high quality benchmarks. <br /><br />very ex…</p><p><a href="https://x.com/jerryjliu0/status/2123197534218920152">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: a16z put me up for a marketing award which means #swag is offi…</title>
+      <link>https://x.com/jerryjliu0/status/2123161731988132144</link>
+      <guid isPermaLink="false">twitter:2123161731988132144</guid>
+      <pubDate>Wed, 18 Nov 2026 21:09:38 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: a16z put me up for a marketing award which means #swag is officially now a moat<br /><br />ur welcome + see yall on dec 9 <br /><br />(alhumd…</p><p><a href="https://x.com/jerryjliu0/status/2123161731988132144">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @disiok: The America I know and love is about free market, competing fiercely…</title>
+      <link>https://x.com/jerryjliu0/status/2123136754660364494</link>
+      <guid isPermaLink="false">twitter:2123136754660364494</guid>
+      <pubDate>Wed, 18 Nov 2026 19:30:22 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @disiok: The America I know and love is about free market, competing fiercely and out-executing to win.<br /><br />Not hiding behind regulations a…</p><p><a href="https://x.com/jerryjliu0/status/2123136754660364494">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: i got 30 heads of growth / marketing massages</title>
+      <link>https://x.com/jerryjliu0/status/2123125722390909204</link>
+      <guid isPermaLink="false">twitter:2123125722390909204</guid>
+      <pubDate>Wed, 18 Nov 2026 18:46:32 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: i got 30 heads of growth / marketing massages<br /><br />girls in growth + @llama_index took over a spa for the night<br /><br />massages<br />gua…</p><p><a href="https://x.com/jerryjliu0/status/2123125722390909204">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @disiok: https://t.co/Xp4cfQtRY8</title>
+      <link>https://x.com/jerryjliu0/status/2123125710940418171</link>
+      <guid isPermaLink="false">twitter:2123125710940418171</guid>
+      <pubDate>Wed, 18 Nov 2026 18:46:29 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @disiok: https://t.co/Xp4cfQtRY8</p><img src="https://pbs.twimg.com/media/HXbWXrhaEAAXGht.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2123125710940418171">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @disiok: Should I wear a badge at all times to disclose I was born in China t…</title>
+      <link>https://x.com/jerryjliu0/status/2123111535405052138</link>
+      <guid isPermaLink="false">twitter:2123111535405052138</guid>
+      <pubDate>Wed, 18 Nov 2026 17:50:10 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @disiok: Should I wear a badge at all times to disclose I was born in China too</p><p><a href="https://x.com/jerryjliu0/status/2123111535405052138">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @LoganMarkewich: Monthly parsing upgrades incoming? 👀</title>
+      <link>https://x.com/jerryjliu0/status/2123111522683793466</link>
+      <guid isPermaLink="false">twitter:2123111522683793466</guid>
+      <pubDate>Wed, 18 Nov 2026 17:50:07 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: Monthly parsing upgrades incoming? 👀</p><p><a href="https://x.com/jerryjliu0/status/2123111522683793466">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @GPolasani1: Can’t stop. Won’t stop</title>
+      <link>https://x.com/jerryjliu0/status/2123107933793964080</link>
+      <guid isPermaLink="false">twitter:2123107933793964080</guid>
+      <pubDate>Wed, 18 Nov 2026 17:35:51 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @GPolasani1: Can’t stop. Won’t stop</p><p><a href="https://x.com/jerryjliu0/status/2123107933793964080">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @eakkawi7: This team SHIPS</title>
+      <link>https://x.com/jerryjliu0/status/2123107921437606303</link>
+      <guid isPermaLink="false">twitter:2123107921437606303</guid>
+      <pubDate>Wed, 18 Nov 2026 17:35:48 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @eakkawi7: This team SHIPS</p><p><a href="https://x.com/jerryjliu0/status/2123107921437606303">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @imaanxsultan: @jerryjliu0 ocria models like the avengers of doc processing</title>
+      <link>https://x.com/jerryjliu0/status/2123106088736432231</link>
+      <guid isPermaLink="false">twitter:2123106088736432231</guid>
+      <pubDate>Wed, 18 Nov 2026 17:28:31 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @imaanxsultan: @jerryjliu0 ocria models like the avengers of doc processing</p><p><a href="https://x.com/jerryjliu0/status/2123106088736432231">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @LoganMarkewich: @jerryjliu0 Owning your own parsing model is the single bigg…</title>
+      <link>https://x.com/jerryjliu0/status/2123104427561423019</link>
+      <guid isPermaLink="false">twitter:2123104427561423019</guid>
+      <pubDate>Wed, 18 Nov 2026 17:21:55 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @LoganMarkewich: @jerryjliu0 Owning your own parsing model is the single biggest upgrade LlamaParse has done. Expect endless improvement…</p><p><a href="https://x.com/jerryjliu0/status/2123104427561423019">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：RT @murtazakhomusi: @jerryjliu0 🔥🔥</title>
+      <link>https://x.com/jerryjliu0/status/2123104419621605691</link>
+      <guid isPermaLink="false">twitter:2123104419621605691</guid>
+      <pubDate>Wed, 18 Nov 2026 17:21:53 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @murtazakhomusi: @jerryjliu0 🔥🔥</p><p><a href="https://x.com/jerryjliu0/status/2123104419621605691">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>Jerry Liu：Today we’re introducing OCRia-1.5</title>
+      <link>https://x.com/jerryjliu0/status/2123103740710498448</link>
+      <guid isPermaLink="false">twitter:2123103740710498448</guid>
+      <pubDate>Wed, 18 Nov 2026 17:19:11 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Today we’re introducing OCRia-1.5<br /><br />It’s a new family of document parsing models that push the boundaries of accuracy and cost across multiple document parsing dimensions.<br /><br />We had just released OCRia-1 a month ago, which set a new SOTA in unified document parsing, but we&apos;ve only released even more improvements since then.<br />✅ Tables: Table scores rose from 86.5 -&gt; 90.1 on agentic, 83.2 -&gt; 87.5 on cost-effective<br />✅ Charts: 74.9-&gt;76.8 on agentic, 67.3 -&gt; 73.0 on cost-effective<br />✅ Forms: +2.6 on agentic, +4.2 on cost-effective<br />✅ Visual Grounding: +4.1 on agentic, and +11 (!!) points on cost-effective<br /><br />Together, these models set a new Pareto frontier for document parsing. Our cost-effective OCRia-1.5 is the cheapest and most accurate model for parsing all of tables, charts, forms, handwriting, with high-quality layout.<br /><br />Blog: https://t.co/9NlhPd6E1s<br /><br />These scores for all our modes (cost-effective, agentic, agentic plus) reflected within ParseBench-2: https://t.co/PWczfhp0OX</p><img src="https://pbs.twimg.com/media/HXbHgr1aIAAfsRP.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2123103740710498448">原文</a></p>]]></description>
+    </item>
     <item>
       <title>Jerry Liu：RT @murtazakhomusi: let&apos;s be real. it might be cool to shitpost  perceived compe…</title>
       <link>https://x.com/jerryjliu0/status/2121084058755305571</link>
@@ -1046,166 +1206,6 @@
       <pubDate>Wed, 07 Oct 2026 16:58:35 GMT</pubDate>
       <category>twitter</category>
       <description><![CDATA[<p>RT @LoganMarkewich: OpenDocRouter is here!<br />https://t.co/WnutrTv2yN<br /><br />Some time ago, I realized LlamaIndex was really good at benchmarking an…</p><p><a href="https://x.com/jerryjliu0/status/2107878264459153777">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：Today I’m excited to introduce OpenDocRouter - a unified API for document parsin…</title>
-      <link>https://x.com/jerryjliu0/status/2107864677611139096</link>
-      <guid isPermaLink="false">twitter:2107864677611139096</guid>
-      <pubDate>Wed, 07 Oct 2026 16:04:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Today I’m excited to introduce OpenDocRouter - a unified API for document parsing with the latest frontier and open-weight models.<br /><br />There are a lot of VLMs and OCR models that can be used for document parsing: we have over 130+ models on ParseBench, and a HuggingFace search for “ocr” turns up thousands of results.<br /><br />It’s extremely time consuming to choose between OCR vendors. You need to figure out the right prompts, handle rate limits, manage deployments, integrations with all models you’re using, and benchmark new models as they come out.<br /><br />OpenDocRouter provides a comprehensive, transparent set of models along the price-performance frontier. It manages a unified API to transcribe documents to markdown. It serves all frontier and open-weight models “at-cost”, with a small transaction cut. It handles rate limits with all models to ensure you can put massive volume through. It even offers bounding boxes and layout as a service, so that you can add grounding to any model that you’re using.<br /><br />When new OCR candidate models ship, we will benchmark them on ParseBench and immediately add them to OpenDocRouter. <br /><br />We’re adding a lot more models very quickly, and also adding some extremely exciting feature improvements (e.g. automated routing) as we speak.<br /><br />We welcome your feedback!<br /><br />Check it out: https://t.co/v8PieWWUNV<br /><br />Blog: https://t.co/ilVqqJRacP</p><img src="https://pbs.twimg.com/amplify_video_thumb/2107864151112724480/img/jlS_0_8IzrmjLsMl.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107864677611139096">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：You may ask why we’re doing this given that our main focus within LlamaParse (ht…</title>
-      <link>https://x.com/jerryjliu0/status/2107864679787991243</link>
-      <guid isPermaLink="false">twitter:2107864679787991243</guid>
-      <pubDate>Wed, 07 Oct 2026 16:04:36 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>You may ask why we’re doing this given that our main focus within LlamaParse (https://t.co/XYZmx5TFz8) is building the best frontier models for document parsing and extraction.<br /><br />While we believe our models are best in class in accuracy at their price points, we acknowledge that they don’t cover every possible price point; at the low end there are extremely cheap models (mineru, luna, paddleocr), at the high end there may be an edge case or two you want to run the latest frontier model over.</p><p><a href="https://x.com/jerryjliu0/status/2107864679787991243">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @llama_index: Today we&apos;re announcing OpenDocRouter: every model for document …</title>
-      <link>https://x.com/jerryjliu0/status/2107864060272537617</link>
-      <guid isPermaLink="false">twitter:2107864060272537617</guid>
-      <pubDate>Wed, 07 Oct 2026 16:02:08 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @llama_index: Today we&apos;re announcing OpenDocRouter: every model for document parsing under one API.<br /><br />There are ~4,000 OCR models on Hugg…</p><p><a href="https://x.com/jerryjliu0/status/2107864060272537617">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @murtazakhomusi: It&apos;s SF tech week and here&apos;s how we celebrated at  @llama_in…</title>
-      <link>https://x.com/jerryjliu0/status/2107847669515423776</link>
-      <guid isPermaLink="false">twitter:2107847669515423776</guid>
-      <pubDate>Wed, 07 Oct 2026 14:57:00 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @murtazakhomusi: It&apos;s SF tech week and here&apos;s how we celebrated at  @llama_index  🦙:  <br /><br />1. @imaanxsultan  pitched our product in a room…</p><p><a href="https://x.com/jerryjliu0/status/2107847669515423776">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @snpal2000: Check out this talk from our CEO (@jerryjliu0) at the SF AI Engin…</title>
-      <link>https://x.com/jerryjliu0/status/2107701357054763399</link>
-      <guid isPermaLink="false">twitter:2107701357054763399</guid>
-      <pubDate>Wed, 07 Oct 2026 05:15:37 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @snpal2000: Check out this talk from our CEO (@jerryjliu0) at the SF AI Engineer Conference!<br /><br />We&apos;ll be back for the NYC show next week..…</p><p><a href="https://x.com/jerryjliu0/status/2107701357054763399">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @beffjezos: Any investor that understands this should be going all in on deep…</title>
-      <link>https://x.com/jerryjliu0/status/2107689326847123520</link>
-      <guid isPermaLink="false">twitter:2107689326847123520</guid>
-      <pubDate>Wed, 07 Oct 2026 04:27:49 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @beffjezos: Any investor that understands this should be going all in on deep tech right now<br /><br />Technologies that required too much intell…</p><p><a href="https://x.com/jerryjliu0/status/2107689326847123520">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：You can literally do anything these days if you just ask for it</title>
-      <link>https://x.com/jerryjliu0/status/2107679159099216060</link>
-      <guid isPermaLink="false">twitter:2107679159099216060</guid>
-      <pubDate>Wed, 07 Oct 2026 03:47:24 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>You can literally do anything these days if you just ask for it</p><p><a href="https://x.com/jerryjliu0/status/2107679159099216060">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: gave a really fun talk today about @llama_index to a full room…</title>
-      <link>https://x.com/jerryjliu0/status/2107677645609775495</link>
-      <guid isPermaLink="false">twitter:2107677645609775495</guid>
-      <pubDate>Wed, 07 Oct 2026 03:41:24 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: gave a really fun talk today about @llama_index to a full room at ai demo night with @ClickHouseDB 💌 <br /><br />also won an award…</p><p><a href="https://x.com/jerryjliu0/status/2107677645609775495">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：OCR is the perfect example of a use case that has been dominated by legacy/britt…</title>
-      <link>https://x.com/jerryjliu0/status/2107641238799479075</link>
-      <guid isPermaLink="false">twitter:2107641238799479075</guid>
-      <pubDate>Wed, 07 Oct 2026 01:16:44 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>OCR is the perfect example of a use case that has been dominated by legacy/brittle systems, and can be solved both accurately and cheaply by applying the right amount of agentic intelligence.<br /><br />A properly tuned agentic OCR needs to dynamically apply extra compute to complex elements, review and correct failures, and create the right semantic meaning throughout the page. It&apos;s a task that frontier models are both overengineered for in terms of cost and latency, and struggle at over a long tail of complex edge cases. <br /><br />Check out this blog post by @LoganMarkewich below: https://t.co/41iPHRleIW</p><img src="https://pbs.twimg.com/media/HT_YcQBaEAA7TtH.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107641238799479075">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: There&apos;s a party on Friday night that most of SF Tech Week will…</title>
-      <link>https://x.com/jerryjliu0/status/2107527855865479290</link>
-      <guid isPermaLink="false">twitter:2107527855865479290</guid>
-      <pubDate>Tue, 06 Oct 2026 17:46:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: There&apos;s a party on Friday night that most of SF Tech Week will only hear about on Saturday.<br /><br />So, we made a vintage film t…</p><p><a href="https://x.com/jerryjliu0/status/2107527855865479290">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @llama_index: The biggest night of SF Tech Week is black tie.</title>
-      <link>https://x.com/jerryjliu0/status/2107527796398674304</link>
-      <guid isPermaLink="false">twitter:2107527796398674304</guid>
-      <pubDate>Tue, 06 Oct 2026 17:45:57 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @llama_index: The biggest night of SF Tech Week is black tie.<br /><br />120+ agent founders, 50 investors, and live jazz at the Redwood Room on F…</p><p><a href="https://x.com/jerryjliu0/status/2107527796398674304">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: the love for @llama_index is real https://t.co/Z5d9Fr258O</title>
-      <link>https://x.com/jerryjliu0/status/2107252489393434965</link>
-      <guid isPermaLink="false">twitter:2107252489393434965</guid>
-      <pubDate>Mon, 05 Oct 2026 23:31:58 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: the love for @llama_index is real https://t.co/Z5d9Fr258O</p><img src="https://pbs.twimg.com/media/HT5o3fnaAAAhiQM.png" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2107252489393434965">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @llama_index: OCR is dead 🪦 Long live agentic OCR!</title>
-      <link>https://x.com/jerryjliu0/status/2107197320354058327</link>
-      <guid isPermaLink="false">twitter:2107197320354058327</guid>
-      <pubDate>Mon, 05 Oct 2026 19:52:45 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @llama_index: OCR is dead 🪦 Long live agentic OCR!<br /><br />Traditional OCR makes one pass and hands back whatever text it got. Tables get flatt…</p><p><a href="https://x.com/jerryjliu0/status/2107197320354058327">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: it&apos;s sf tech week and this year is the first time i&apos;m hosting,…</title>
-      <link>https://x.com/jerryjliu0/status/2107145927127609752</link>
-      <guid isPermaLink="false">twitter:2107145927127609752</guid>
-      <pubDate>Mon, 05 Oct 2026 16:28:32 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: it&apos;s sf tech week and this year is the first time i&apos;m hosting, which means i get to see the chaos from the other side 🌟…</p><p><a href="https://x.com/jerryjliu0/status/2107145927127609752">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: the child won’t sleep but I still love her https://t.co/ihJk3R…</title>
-      <link>https://x.com/jerryjliu0/status/2106888959955767536</link>
-      <guid isPermaLink="false">twitter:2106888959955767536</guid>
-      <pubDate>Sun, 04 Oct 2026 23:27:26 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: the child won’t sleep but I still love her https://t.co/ihJk3RRqP4</p><img src="https://pbs.twimg.com/media/HT0lyF6aYAAJT0B.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2106888959955767536">原文</a> · 转发</p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：I agree that chatgpt/codex has the current best agent interface for deep work.</title>
-      <link>https://x.com/jerryjliu0/status/2106844101635379533</link>
-      <guid isPermaLink="false">twitter:2106844101635379533</guid>
-      <pubDate>Sun, 04 Oct 2026 20:29:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>I agree that chatgpt/codex has the current best agent interface for deep work. <br />- It unifies all my work (coding/knowledge work) in one interface. Toggling between chatgpt/codex doesn&apos;t have explicitly separate flows<br />- It has forking (why doesn&apos;t the claude app have forking?) <br /><br />Claude Code CLI is probably the best that a CLI app can get. I still love Opus 5.5, especially for product demos, but mostly use it through the CLI. But sometimes having a GUI is nicer.</p><p><a href="https://x.com/jerryjliu0/status/2106844101635379533">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：We got extremely good at extracting a scanned from layer by layer 📋 - from prin…</title>
-      <link>https://x.com/jerryjliu0/status/2106835158867534282</link>
-      <guid isPermaLink="false">twitter:2106835158867534282</guid>
-      <pubDate>Sun, 04 Oct 2026 19:53:39 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>We got extremely good at extracting a scanned from layer by layer 📋 - from printed fields, overlaid text, handwriting, and reviewer annotations.<br /><br />For instance, on an annotated permit, our Extract agents can extract out both the original permit number but also any drawn/handwritten annotations on top. they&apos;re also grounded exactly in the source text. <br /><br />our agents reduce error rates by 2x+, at a small fraction of the price compared to using a frontier model.<br /><br />Our Extract v2.5 agents are SOTA in price/performance, and scanned forms are just one example. Come check it out! <br /><br />Extract v2.5: https://t.co/TTlTdECU03<br /><br />Available in LlamaParse: https://t.co/XYZmx5TFz8</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106833842963447808/img/zDuQo-6wITTGv0F4.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2106835158867534282">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：sfo is the best airport in the US</title>
-      <link>https://x.com/jerryjliu0/status/2106582677738656039</link>
-      <guid isPermaLink="false">twitter:2106582677738656039</guid>
-      <pubDate>Sun, 04 Oct 2026 03:10:23 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>sfo is the best airport in the US</p><p><a href="https://x.com/jerryjliu0/status/2106582677738656039">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：Our new extraction agents are extremely good at reasoning over tables that span …</title>
-      <link>https://x.com/jerryjliu0/status/2106187777058693216</link>
-      <guid isPermaLink="false">twitter:2106187777058693216</guid>
-      <pubDate>Sat, 03 Oct 2026 01:01:11 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>Our new extraction agents are extremely good at reasoning over tables that span multiple pages<br /><br />sometimes a record starts on one page and finishes on the next. extremely common for real world docs (insurance claims, regulatory filings, legal schedules) - for instance you print Word / Google Doc to PDF <br /><br />our agents can piece these cells along with hundreds/thousands of other cells into clean, structured tabular output.<br /><br />come check it out: https://t.co/TTlTdECU03<br /><br />come sign up to llamaparse: https://t.co/XYZmx5TFz8</p><img src="https://pbs.twimg.com/amplify_video_thumb/2106187503166480384/img/VNweXCxS058k8hSM.jpg" loading="lazy" /><p><a href="https://x.com/jerryjliu0/status/2106187777058693216">原文</a></p>]]></description>
-    </item>
-    <item>
-      <title>Jerry Liu：RT @imaanxsultan: its a beautiful day to be team @llama_index ! 🦙</title>
-      <link>https://x.com/jerryjliu0/status/2106184896934998287</link>
-      <guid isPermaLink="false">twitter:2106184896934998287</guid>
-      <pubDate>Sat, 03 Oct 2026 00:49:45 GMT</pubDate>
-      <category>twitter</category>
-      <description><![CDATA[<p>RT @imaanxsultan: its a beautiful day to be team @llama_index ! 🦙<br />hyped to see all the folks coming in already a few hours into our extract…</p><p><a href="https://x.com/jerryjliu0/status/2106184896934998287">原文</a> · 转发</p>]]></description>
     </item>
   </channel>
 </rss>

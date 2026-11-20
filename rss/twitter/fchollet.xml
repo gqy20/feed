@@ -5,8 +5,72 @@
     <link>https://home.gqy20.top/feed/</link>
     <description>fchollet · X / Twitter 采集订阅源</description>
     <atom:link href="https://home.gqy20.top/feed/rss/twitter/fchollet.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 21:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:42:12 GMT</lastBuildDate>
     <generator>Trail Feed Publisher</generator>
+    <item>
+      <title>François Chollet：RT @fchollet: Sufficiently advanced agentic coding is essentially machine…</title>
+      <link>https://x.com/fchollet/status/2122369658292686917</link>
+      <guid isPermaLink="false">twitter:2122369658292686917</guid>
+      <pubDate>Mon, 16 Nov 2026 16:42:12 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>RT @fchollet: Sufficiently advanced agentic coding is essentially machine learning: the engineer sets up the optimization goal as well as s…</p><p><a href="https://x.com/fchollet/status/2122369658292686917">原文</a> · 转发</p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Julia is certifiably not a CCP spy btw</title>
+      <link>https://x.com/fchollet/status/2122047042205958429</link>
+      <guid isPermaLink="false">twitter:2122047042205958429</guid>
+      <pubDate>Sun, 15 Nov 2026 19:20:15 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Julia is certifiably not a CCP spy btw</p><p><a href="https://x.com/fchollet/status/2122047042205958429">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：It was pretty obvious at the time -- the early 2026 market panic about Sa…</title>
+      <link>https://x.com/fchollet/status/2122016531878215790</link>
+      <guid isPermaLink="false">twitter:2122016531878215790</guid>
+      <pubDate>Sun, 15 Nov 2026 17:19:01 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>It was pretty obvious at the time -- the early 2026 market panic about SaaS was BS</p><p><a href="https://x.com/fchollet/status/2122016531878215790">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Marked safe from AI slop https://t.co/2HGPDo6F2L</title>
+      <link>https://x.com/fchollet/status/2121752792402632989</link>
+      <guid isPermaLink="false">twitter:2121752792402632989</guid>
+      <pubDate>Sat, 14 Nov 2026 23:51:00 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Marked safe from AI slop https://t.co/2HGPDo6F2L</p><img src="https://pbs.twimg.com/media/HXH65fUbMAA2Ofe.jpg" loading="lazy" /><p><a href="https://x.com/fchollet/status/2121752792402632989">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：The instrumental version is also on SoundCloud: https://t.co/WE0ojaaLXy</title>
+      <link>https://x.com/fchollet/status/2121751705671119276</link>
+      <guid isPermaLink="false">twitter:2121751705671119276</guid>
+      <pubDate>Sat, 14 Nov 2026 23:46:41 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>The instrumental version is also on SoundCloud: https://t.co/WE0ojaaLXy</p><p><a href="https://x.com/fchollet/status/2121751705671119276">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Some time ago I made a new track that was intended to have vocals, and no…</title>
+      <link>https://x.com/fchollet/status/2121751601342009666</link>
+      <guid isPermaLink="false">twitter:2121751601342009666</guid>
+      <pubDate>Sat, 14 Nov 2026 23:46:16 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Some time ago I made a new track that was intended to have vocals, and now I finally got Julia to record it. I think it turned out great. Check it out: <br /><br />https://t.co/FgKdY411LL</p><p><a href="https://x.com/fchollet/status/2121751601342009666">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Some people make a big show of being humble, wielding conspicuous humilit…</title>
+      <link>https://x.com/fchollet/status/2121324900166361143</link>
+      <guid isPermaLink="false">twitter:2121324900166361143</guid>
+      <pubDate>Fri, 13 Nov 2026 19:30:43 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Some people make a big show of being humble, wielding conspicuous humility as a status symbol. I&apos;m pretty sure that&apos;s not how humility works.</p><p><a href="https://x.com/fchollet/status/2121324900166361143">原文</a></p>]]></description>
+    </item>
+    <item>
+      <title>François Chollet：Conversational AI is going to transform education and deliver personalize…</title>
+      <link>https://x.com/fchollet/status/2120673529951813985</link>
+      <guid isPermaLink="false">twitter:2120673529951813985</guid>
+      <pubDate>Thu, 12 Nov 2026 00:22:24 GMT</pubDate>
+      <category>twitter</category>
+      <description><![CDATA[<p>Conversational AI is going to transform education and deliver personalized tutoring at scale. But we have to build it right.<br /><br />Most current AI tools in education optimize for the wrong thing: getting the answer. But the point of homework is not the output, it&apos;s learning to think by going through the process. We should be building AI that helps students develop their own thinking rather than outsourcing it to AI. Gakku is actually doing that.<br /><br />Huge congrats to Annie on the raise!</p><p><a href="https://x.com/fchollet/status/2120673529951813985">原文</a></p>]]></description>
+    </item>
     <item>
       <title>François Chollet：RT @arcprize: Gemini 4 Carbon from @Google on ARC-AGI (Verified):</title>
       <link>https://x.com/fchollet/status/2120269488964981168</link>
